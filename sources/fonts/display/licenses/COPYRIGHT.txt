@@ -1,0 +1,36 @@
+DISPLAY AND CALLIGRAPHIC COLLECTION
+
+Custom outlines, character skeletons, spacing, modifications, and build software:
+Copyright 2026 Custom Font Collection contributors.
+Licensed under the SIL Open Font License, Version 1.1.
+The full text is in OFL-1.1.txt.
+
+Wain Script, Waxwing Italic, Westlake Flourish, Whitethorn Nib, and Windharp
+Calligraphic incorporate the Noto Serif Display Italic font. Waverly Quill,
+Wayfarer Book, Wildmere Grace, and Willowmark Letter incorporate Noto Serif Italic.
+The exact source fonts are supplied in sources/.
+Source font name-table notice, preserved verbatim:
+Copyright 2016 Google Inc. All Rights Reserved.
+
+Source font license notice, preserved verbatim:
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES
+OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font
+License for the specific language, permissions and limitations governing
+your use of this Font Software.
+
+The complete Debian distribution copyright and license notice is supplied as
+Noto-Debian-copyright.txt. Its package-level copyright entries include:
+  2010,2012-2020, Google Inc.
+  2015-2020, Google LLC.
+The Debian packaging section is separate from the OFL font software.
+
+Woad Engraved, Wycliff Stone, Wyrtle Slab, Xanthic Facet, Xebec Stencil,
+Xenia Round, Xeric Grotesk, Xylo Play, Yarrow Poster, Yestrel Ribbon,
+Yonder Deco, Zephyr Tilt, Zinnia Soft, and Zorin Inlay are custom outline
+fonts built from original ASCII skeleton drawings. No source font outline
+is incorporated. The original skeleton source is provided in
+sources/original_skeletons.py, with its OFL notice in this file.
+
+All derivative font families use new names. No proprietary OpenAI font was
+read, embedded, modified, or used as an outline source in this collection.

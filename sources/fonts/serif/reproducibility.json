@@ -1,0 +1,117 @@
+{
+  "all_pass": true,
+  "font_count": 22,
+  "method": "Second complete build with the same pinned dependencies; compare TTF and WOFF2 SHA-256 to first build.",
+  "results": [
+    {
+      "family": "Alderwick Book",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Ambermere Text",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Ashcombe Editorial",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Asterhall Roman",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Bellwether Press",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Brackenridge Serif",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Briarhaven Book",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Caldera Display",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Cedarhurst Text",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Cinderwell Headline",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Cloisterbay Roman",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Dalesford Slab",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Dunhaven Text",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Eastmere Editorial",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Elmbridge Book",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Emberwick Display",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Fenwick Press",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Fieldstone Slab",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Foxglade Roman",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Gablehurst Display",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Greystone Slab",
+      "ttf_identical": true,
+      "woff2_identical": true
+    },
+    {
+      "family": "Hartwell Editorial",
+      "ttf_identical": true,
+      "woff2_identical": true
+    }
+  ]
+}

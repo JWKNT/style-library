@@ -1,0 +1,462 @@
+[
+  {
+    "family": "Ilex Signal",
+    "ttf_sha256": "9286ca8a1c07ff8b6cdf753a7f7954951e98b3182f88af94680039b1ca4b7b7b",
+    "proof_sha256": "8521773b0c14be8e6505038926f96efe40a5b9eab1cd376395fc943e8d975def",
+    "proof": "proofs/IlexSignal.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Indigo Relay",
+    "ttf_sha256": "2329dc3baddb1dcd6d0f52a690a551e8e1ee86e1f2d3f2d3205c66514a490148",
+    "proof_sha256": "4e37d3d47330def94fd9bb0679ca074a97f350c64b96115749ae3523a1d98226",
+    "proof": "proofs/IndigoRelay.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Ion Current",
+    "ttf_sha256": "655d2ad9a81a7b200c34ac290fe5d1ea1605d3079efed7859e1359e72d4e6e7e",
+    "proof_sha256": "034663c849b0c96ee0ae34d18c0bec1c30433d82f57078428d6fe8cb0af406c3",
+    "proof": "proofs/IonCurrent.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Iris Clear",
+    "ttf_sha256": "7e0e92be7ba1eb350fb2afbf6f7b6a3e69a4cca1abb6ee6d6e7726bebcfb4636",
+    "proof_sha256": "9462182c1ada2af71d207b944267c18bf47a7189b1e8cdbca0b13af05a3065d8",
+    "proof": "proofs/IrisClear.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Jasper Way",
+    "ttf_sha256": "38df2960e59185d0b1044ee17f058e5fb44d0203a23881fb2f3022750a507aeb",
+    "proof_sha256": "02cf657ae24bf1b3a61d34996630db1bf049c26a5b82e79128d1ed6017994653",
+    "proof": "proofs/JasperWay.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Juniper Line",
+    "ttf_sha256": "de3b64afdc8ade64aa9653bfb942d497e0efef61d64b3457d6c9ebac3d3aab30",
+    "proof_sha256": "733d62f7d749cdadd07200e579a361c4519baccf1fb925ad31bad66c5b8eee1c",
+    "proof": "proofs/JuniperLine.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Juno Panel",
+    "ttf_sha256": "2f1dcf594b8e69b4d000d139c5c2c69077bfa426e55aa4edc028a367b79a9b31",
+    "proof_sha256": "771c3866b66621941f8e2b5da05689fc270911b9ed49058df35b2377cc57b401",
+    "proof": "proofs/JunoPanel.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Kestrel Air",
+    "ttf_sha256": "48f7b88b098f4972033b0ebfdb6f1fdc9750447f4bd1141ce2ebc075daf5aa87",
+    "proof_sha256": "00cecca6c52d8a7b3a32fb41fb73c50fc07a6f7666ab244198b15fc879a81b59",
+    "proof": "proofs/KestrelAir.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Kiln Form",
+    "ttf_sha256": "d30dc985a7172fb19a53d422fcba9f93902c57b268563a3c5812634e553ef674",
+    "proof_sha256": "dd9c618a38b8daa589e6a44771668ac6546c70f5e8c21e76fa47d7e9d05e1015",
+    "proof": "proofs/KilnForm.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Kinetic Park",
+    "ttf_sha256": "0c1617178836d9cfe1865274e87d5c60cd2730e5d706096c67d998eac60aa361",
+    "proof_sha256": "8efa5e33f23de70c8cc9e567ee46f9a258533887803283f221a52ed3f2eba45e",
+    "proof": "proofs/KineticPark.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Linden Field",
+    "ttf_sha256": "95e8c789d5d09f7515564100a6fc2e4e4f317535e701a1c8e1db4957812bba5c",
+    "proof_sha256": "0651067870ef226087af2d6c1bebe5abc1681124b82a47399550c9c4529efc6c",
+    "proof": "proofs/LindenField.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Lumen Circle",
+    "ttf_sha256": "d68f732328699c59d9932749768ee0808243063348ad47daa8a06de6d05a78ee",
+    "proof_sha256": "7baf65c8e9e66c1c45807022314b5054aa8c5063fef377aa415ddbc9c39d0f40",
+    "proof": "proofs/LumenCircle.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Lyra Voice",
+    "ttf_sha256": "509cf2f17292dbf806666604976d6fbccc81ceeb39c445f9b1c780fd31abd8d8",
+    "proof_sha256": "19069b5c7164a1744517688a514d238f0312513eef38643da16eafb4f24e5d6d",
+    "proof": "proofs/LyraVoice.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Mica Grid",
+    "ttf_sha256": "7de0f884be382b8aeff16a3f64be83c68330e0047e443d1497886104aa4e6c43",
+    "proof_sha256": "6608c198bb2a094815f4daf1deebb384420236a2cb1f2c5fc9654917e3a97c35",
+    "proof": "proofs/MicaGrid.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Mosaic Arc",
+    "ttf_sha256": "65cd26d65cafe2d963fc85747b72db32f849446131f80c33558355e8b7d02695",
+    "proof_sha256": "f37b02549c8bfc9fb3711fcd4d261fe9dcc1206c8beeb5229b50469bb5bf43cb",
+    "proof": "proofs/MosaicArc.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Myrtle Read",
+    "ttf_sha256": "4aff756e022aad9d4a482e0d0e8b8047c1c8d68e46ca82b6cbd1d4ae7095b515",
+    "proof_sha256": "5642d0374dc48a11b69c873630cf477f47ec5cf47e80a0b515c7463e8bf97b9c",
+    "proof": "proofs/MyrtleRead.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Nimbus Way",
+    "ttf_sha256": "2e6f411f3b7c1830c99fd9a0cd379d773b26a91dc7ae5aebe6e7ce6045823dff",
+    "proof_sha256": "c8b21ad6a1fe4868290601abf6d3dcbcc6ad58fc14a2c07df5825ceb7e66da3c",
+    "proof": "proofs/NimbusWay.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Nori Square",
+    "ttf_sha256": "64d3ac75529e501aaefc4d2667370a7cc7131409aacb6eb8a91769bed6881f58",
+    "proof_sha256": "2a69d3e7d6b0542713c462d10adbc01ce2f4b27490311d1174bd18fe63604163",
+    "proof": "proofs/NoriSquare.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Nova Trace",
+    "ttf_sha256": "832ea53c15e7ef16f5d05c293fd633dd183c25fde93edbe2bc7099c9b13c48b2",
+    "proof_sha256": "8dcb8edea3f6a3dd24ad86d809be77767e229f4cdf032ee19fea1fd6d3b4d290",
+    "proof": "proofs/NovaTrace.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Olive Passage",
+    "ttf_sha256": "28f0d0e5888f2ca9fb66b1f1de310d502ec7fbc20daabc68433f151a27d1466d",
+    "proof_sha256": "52689c15097f95c28458cc11bc545f6816c4f21e7bd3a1d14ce86d661916061b",
+    "proof": "proofs/OlivePassage.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Opal Outline",
+    "ttf_sha256": "0fe1bdacdb7a6ba93a6983cbf8d3fa70825e5cb0f8f6be404969455918cb55b6",
+    "proof_sha256": "95503ede0ad76d26110a83fa2fcd0f04bf4061954d7851868639941798728269",
+    "proof": "proofs/OpalOutline.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Orbit Span",
+    "ttf_sha256": "e3b4dd80ea8b37fe4ca4cca70a0007db266630d1b1b81ec7a5f4aff97e96d151",
+    "proof_sha256": "15375fa0ee18d6f557a2482a67c5f6d56e5fb72840650915b3ee9ac66f712f06",
+    "proof": "proofs/OrbitSpan.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  },
+  {
+    "family": "Pollen Path",
+    "ttf_sha256": "42cb41aeea4c0b3307dc81629c24050c7b12b4c03a85238a7e22c1023f3768ea",
+    "proof_sha256": "acec46795bfa7bf4f9c4e3bd8894a97efc0162f2fee42619448c764b8d04973f",
+    "proof": "proofs/PollenPath.png",
+    "reviewed": "2026-10-09",
+    "sizes_px": [
+      14,
+      18,
+      24,
+      25,
+      35,
+      37,
+      41,
+      44,
+      68,
+      75
+    ],
+    "result": "Pass: readable paragraph spacing, clear counters, intact glyphs and accents, no clipping or lost strokes. Structural forms and typeface character match the stated reading/display design."
+  }
+]

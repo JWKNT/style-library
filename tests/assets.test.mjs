@@ -5,9 +5,9 @@ import {createHash} from 'node:crypto';
 const root=new URL('../',import.meta.url);
 const read=p=>readFile(new URL(p,root),'utf8');
 
-test('ten font families retain both formats',async()=>{
+test('one hundred font families retain both formats',async()=>{
   const fonts=JSON.parse(await read('data/fonts.json'));
-  assert.equal(fonts.length,10);assert.equal(new Set(fonts.map(f=>f.family)).size,10);
+  assert.equal(fonts.length,100);assert.equal(new Set(fonts.map(f=>f.family)).size,100);
   for(const f of fonts)for(const key of ['ttf','woff2']){
     const bytes=await readFile(new URL(f[key],root));assert.ok(bytes.length>1000);
     assert.equal(bytes.subarray(0,4).toString('hex'),key==='woff2'?'774f4632':'00010000');
@@ -36,7 +36,7 @@ test('1148 stable unique IDs point to 1148 safe SVG downloads',async()=>{
 
 test('one continuous icon wall contains only preview and ID labels',async()=>{
   const page=await read('index.html');const icons=JSON.parse(await read('data/icons.json'));
-  assert.equal((page.match(/class="font-item"/g)||[]).length,10);
+  assert.equal((page.match(/class="font-item"/g)||[]).length,100);
   assert.equal((page.match(/class="icon-item"/g)||[]).length,1148);
   assert.equal((page.match(/class="icon-grid"/g)||[]).length,1);
   assert.doesNotMatch(page,/icon-collection/);
@@ -52,4 +52,15 @@ test('one continuous icon wall contains only preview and ID labels',async()=>{
   assert.match(page,/<button disabled type="button">Dropcaps<\/button>/);
   assert.match(page,/href="licenses.html"/);
   for(const match of page.matchAll(/(?:href|src)="((?:assets|data)\/[^"?#]+)"/g))await access(new URL(match[1],root));
+});
+
+test('font license links and design records point to bundled files',async()=>{
+ const page=await read('licenses.html');
+ for(const match of page.matchAll(/href="((?:licenses|sources|data)\/[^"?#]+)"/g))await access(new URL(match[1],root));
+ const fonts=JSON.parse(await read('data/fonts.json'));
+ for(const font of fonts.slice(10)){
+  assert.ok(font.basis_and_license);assert.ok(font.design_changes.length);
+  await access(new URL(font.design_metadata,root));
+  assert.equal(font.ascii_complete,true);assert.ok(font.glyph_count>=95);
+ }
 });

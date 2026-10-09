@@ -1,0 +1,140 @@
+{
+  "status": "passed",
+  "review_method": "Visual inspection of all 22 complete rendered proof pages in paired contact sheets, all four alphabet/code contact sheets, the 22-family combining-mark sheet, and selected full-resolution standalone proofs.",
+  "scope": "Uppercase and lowercase Latin, figures, 0/O/1/l/I, ASCII punctuation/operators, sampled accented Latin, reading paragraphs, code and small-size samples. This is sampled visual proofing, not a claim of manually reviewing every mapped Unicode character.",
+  "findings": "No missing Latin sample glyphs, broken visible contours, collisions, clipped lines or code-column misalignment found in final proofs. Soft and angular forms, zero markers, terminal variants and a/g constructions are visibly differentiated.",
+  "families": [
+    {
+      "family": "Quasar Mono",
+      "proof": "proofs/QuasarMono-Regular.png",
+      "proof_sha256": "0e538c1dd40f4bbb7450a42c323bbe437bb023e86a3131dbdebbe5d832e11980",
+      "result": "passed"
+    },
+    {
+      "family": "Quay Mono",
+      "proof": "proofs/QuayMono-Regular.png",
+      "proof_sha256": "23a6e241213282bfe8207e5d9946fdf89be394f24eddddd82c9ea0d09f26675a",
+      "result": "passed"
+    },
+    {
+      "family": "Quill Mono",
+      "proof": "proofs/QuillMono-Regular.png",
+      "proof_sha256": "b6fbaa45d8d11c082741f544b1deb0fb6d5ac785684305b499feb053f0ede8e6",
+      "result": "passed"
+    },
+    {
+      "family": "Quartz Mono",
+      "proof": "proofs/QuartzMono-Regular.png",
+      "proof_sha256": "426ec92c6b5048ae6772e802ba633b6ff72ac870b7426e1d417ad277563107a0",
+      "result": "passed"
+    },
+    {
+      "family": "Rafter Mono",
+      "proof": "proofs/RafterMono-Regular.png",
+      "proof_sha256": "9c10b48093eb5751ebc4a65308564faa567eb6bf222679b246b7e642b2b803e9",
+      "result": "passed"
+    },
+    {
+      "family": "Relay Mono",
+      "proof": "proofs/RelayMono-Regular.png",
+      "proof_sha256": "0a0b4671d5eb070de11e9553dec85ae6850ca5efe5d6bb17ed643f2e59552c01",
+      "result": "passed"
+    },
+    {
+      "family": "Rivet Mono",
+      "proof": "proofs/RivetMono-Regular.png",
+      "proof_sha256": "4151a4de61afd4010940a543524f2ac6d05e2bc7826d320f7f6b8726495c3e5e",
+      "result": "passed"
+    },
+    {
+      "family": "Runnel Mono",
+      "proof": "proofs/RunnelMono-Regular.png",
+      "proof_sha256": "fbc13bafaf716fcd80d2f1b3f5136068fb0d8617804cda482c13538c1eadf072",
+      "result": "passed"
+    },
+    {
+      "family": "Sable Mono",
+      "proof": "proofs/SableMono-Regular.png",
+      "proof_sha256": "6eb843fcc740b6a3c05bd5571790672df5c0fe11e792a6e949566499e5c39d8d",
+      "result": "passed"
+    },
+    {
+      "family": "Scriptor Mono",
+      "proof": "proofs/ScriptorMono-Regular.png",
+      "proof_sha256": "874b4569941f56476a3f70cf610cd78212b86888bd09de4e2b153be473d457e3",
+      "result": "passed"
+    },
+    {
+      "family": "Signal Mono",
+      "proof": "proofs/SignalMono-Regular.png",
+      "proof_sha256": "f9fdf1274b603dcb9a30abcf177bb6656162fccda3470aa5ac2519b149cf24b7",
+      "result": "passed"
+    },
+    {
+      "family": "Switch Mono",
+      "proof": "proofs/SwitchMono-Regular.png",
+      "proof_sha256": "63745f820964af379cf6ebfe5acbf3565dd524cd5394268fd494c840fbfd47e2",
+      "result": "passed"
+    },
+    {
+      "family": "Tally Mono",
+      "proof": "proofs/TallyMono-Regular.png",
+      "proof_sha256": "54a1cf006aa0b4db159328a6d9dbb067eda963217275e23ceceab3f9852dcc00",
+      "result": "passed"
+    },
+    {
+      "family": "Tern Mono",
+      "proof": "proofs/TernMono-Regular.png",
+      "proof_sha256": "b6ea22e0fb7d44afd0b4b430ff4258f8d1c71d5fa35383b995304c8ea4c45ed9",
+      "result": "passed"
+    },
+    {
+      "family": "Thicket Mono",
+      "proof": "proofs/ThicketMono-Regular.png",
+      "proof_sha256": "82ed6bacd6e7c833a33d02ddad7721166e438baa9e6324192e16eff5d8cc4cba",
+      "result": "passed"
+    },
+    {
+      "family": "Truss Mono",
+      "proof": "proofs/TrussMono-Regular.png",
+      "proof_sha256": "d28104bd3794d1d9626c54de15670dab191789f8721ad2bca8e34d312d1351d3",
+      "result": "passed"
+    },
+    {
+      "family": "Umber Mono",
+      "proof": "proofs/UmberMono-Regular.png",
+      "proof_sha256": "0d157074e4410a1399a20872a842df1ac59c599923983792e36395b8b07cafd4",
+      "result": "passed"
+    },
+    {
+      "family": "Union Mono",
+      "proof": "proofs/UnionMono-Regular.png",
+      "proof_sha256": "afccc6a4253b3e2381f4dc6cac22c9978a14c4222f021c4cd291f480af7920ea",
+      "result": "passed"
+    },
+    {
+      "family": "Uplink Mono",
+      "proof": "proofs/UplinkMono-Regular.png",
+      "proof_sha256": "b4f89f2c9486bc06c25842150967fd9ee286eaf7ca5a55d7cd07176cdb12868f",
+      "result": "passed"
+    },
+    {
+      "family": "Vale Mono",
+      "proof": "proofs/ValeMono-Regular.png",
+      "proof_sha256": "564fd7de632beb8d472ffde7c56efde60f5f6ccb0124ff4449e5d93af9b88336",
+      "result": "passed"
+    },
+    {
+      "family": "Vertex Mono",
+      "proof": "proofs/VertexMono-Regular.png",
+      "proof_sha256": "da6575ffa74712994d388c8ed9733dbfc5fd89d3482ace48366dd40c66520085",
+      "result": "passed"
+    },
+    {
+      "family": "Volt Mono",
+      "proof": "proofs/VoltMono-Regular.png",
+      "proof_sha256": "5e938509fc109433f320eae9c0c3df6ffc70ff0cfc6248553b77b7156da7a47c",
+      "result": "passed"
+    }
+  ]
+}

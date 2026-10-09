@@ -1,0 +1,18 @@
+NAME ID 0
+Digitized data copyright (c) 2010 Google Corporation. 
+Copyright (c) 2012 Red Hat, Inc.
+
+NAME ID 7
+Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.
+
+NAME ID 8
+Ascender Corporation
+
+NAME ID 9
+Steve Matteson
+
+NAME ID 13
+Licensed under the SIL Open Font License, Version 1.1
+
+NAME ID 14
+http://scripts.sil.org/OFL

@@ -36,5 +36,50 @@
   document.querySelector('#sample').addEventListener('input', event => {
     document.querySelectorAll('.font-preview').forEach(preview => { preview.textContent = event.target.value; });
   });
+  const fontItems = [...document.querySelectorAll('.font-item')];
+  const loadFont = async item => {
+    if (item.dataset.fontStatus === 'loading' || item.dataset.fontStatus === 'loaded') return;
+    item.dataset.fontStatus = 'loading';
+    try {
+      const font = new FontFace(item.dataset.fontFamily, `url("${item.dataset.fontUrl}")`, {display: 'swap'});
+      await font.load();
+      document.fonts.add(font);
+      item.querySelector('.font-preview').style.fontFamily = `"${item.dataset.fontFamily}",${item.dataset.fontFallback}`;
+      item.dataset.fontStatus = 'loaded';
+    } catch {
+      item.dataset.fontStatus = 'error';
+      item.querySelector('.font-preview').title = 'Font could not load. Use the download link to get the font file.';
+    }
+  };
+  if ('IntersectionObserver' in window) {
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          loadFont(entry.target);
+          observer.unobserve(entry.target);
+        }
+      });
+    }, {rootMargin: '350px 0px'});
+    fontItems.forEach(item => observer.observe(item));
+  } else {
+    const loadVisible = () => {
+      if (document.querySelector('#fonts').hidden) return;
+      fontItems.forEach(item => {
+        const bounds = item.getBoundingClientRect();
+        if (bounds.bottom >= -350 && bounds.top <= window.innerHeight + 350) loadFont(item);
+      });
+    };
+    window.addEventListener('scroll', loadVisible, {passive: true});
+    window.addEventListener('resize', loadVisible);
+    window.addEventListener('hashchange', loadVisible);
+    window.addEventListener('popstate', loadVisible);
+    tabs.forEach(tab => tab.addEventListener('click', loadVisible));
+    bar.addEventListener('keydown', loadVisible);
+    requestAnimationFrame(loadVisible);
+  }
+  document.querySelector('#fonts').addEventListener('focusin', event => {
+    const item = event.target.closest('.font-item');
+    if (item) loadFont(item);
+  });
   activate();
 })();

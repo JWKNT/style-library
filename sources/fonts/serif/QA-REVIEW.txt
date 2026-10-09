@@ -1,0 +1,19 @@
+VISUAL AND STRUCTURAL QA REVIEW
+
+All 22 final faces were inspected on contact-1.png through contact-4.png.
+Full-page paragraph proofs were also inspected for Alderwick, Ambermere,
+Ashcombe, Asterhall, Caldera and Dalesford. Every face has a full proof with
+capitals, lowercase, figures, punctuation, accents and two paragraph sizes.
+
+Corrections made during review:
+- Connected the double-storey g bowl, link and ear.
+- Removed an isolated spur when opening the lower g loop.
+- Connected the beaked J terminal and the R waist.
+- Separated tangent loops in the closed single-storey g.
+- Resolved tiny self-intersections caused by integer outline quantization.
+
+All 352 complete glyph redraws now have valid integer polygon contours.
+The full automated font check and ASCII TTF/WOFF2 outline check pass.
+See independent-validation.json and rounded-contour-validation.json.
+
+This is a development review, not exhaustive language or foundry QA.

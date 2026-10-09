@@ -1,0 +1,17 @@
+NAME ID 0
+Digitized data copyright © 2010-2011, Google Corporation.
+
+NAME ID 7
+Open Sans is a trademark of Google and may be registered in certain jurisdictions.
+
+NAME ID 8
+Ascender Corporation
+
+NAME ID 9
+None
+
+NAME ID 13
+Licensed under the Apache License, Version 2.0
+
+NAME ID 14
+http://www.apache.org/licenses/LICENSE-2.0

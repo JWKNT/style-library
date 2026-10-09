@@ -1,0 +1,20 @@
+[
+  {
+    "file": "sources/NotoSerif-Italic.ttf",
+    "sha256": "bc25600aa27cd409e1e5b3d86340df3a329bb860fcfbe57a03a95070b229e1b0",
+    "license": "SIL Open Font License 1.1",
+    "notice": "licenses/COPYRIGHT.txt; licenses/Noto-Debian-copyright.txt for Noto fonts"
+  },
+  {
+    "file": "sources/NotoSerifDisplay-Italic.ttf",
+    "sha256": "96ad3a5588b1d6e564589d236b8fa1839e8169a6b87a055340c36b87904e93e0",
+    "license": "SIL Open Font License 1.1",
+    "notice": "licenses/COPYRIGHT.txt; licenses/Noto-Debian-copyright.txt for Noto fonts"
+  },
+  {
+    "file": "sources/original_skeletons.py",
+    "sha256": "b9a0c1b81dfc00a5a12b1b0f944789c21a5a2ae5499b1ae4c449354d56f99bb8",
+    "license": "SIL Open Font License 1.1",
+    "notice": "licenses/COPYRIGHT.txt; licenses/Noto-Debian-copyright.txt for Noto fonts"
+  }
+]

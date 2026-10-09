@@ -1,0 +1,213 @@
+{
+  "all_passed": true,
+  "unique_ascii_designs": 23,
+  "families": [
+    {
+      "family": "Wain Script",
+      "ascii_visible": 94,
+      "outline_rings_checked": 106,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 137012,
+      "woff2_bytes": 54852
+    },
+    {
+      "family": "Waverly Quill",
+      "ascii_visible": 94,
+      "outline_rings_checked": 105,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 133776,
+      "woff2_bytes": 51892
+    },
+    {
+      "family": "Waxwing Italic",
+      "ascii_visible": 94,
+      "outline_rings_checked": 105,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 135512,
+      "woff2_bytes": 53916
+    },
+    {
+      "family": "Wayfarer Book",
+      "ascii_visible": 94,
+      "outline_rings_checked": 110,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 133156,
+      "woff2_bytes": 51784
+    },
+    {
+      "family": "Westlake Flourish",
+      "ascii_visible": 94,
+      "outline_rings_checked": 105,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 137048,
+      "woff2_bytes": 54784
+    },
+    {
+      "family": "Whitethorn Nib",
+      "ascii_visible": 94,
+      "outline_rings_checked": 106,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 136096,
+      "woff2_bytes": 54440
+    },
+    {
+      "family": "Wildmere Grace",
+      "ascii_visible": 94,
+      "outline_rings_checked": 105,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 134044,
+      "woff2_bytes": 52160
+    },
+    {
+      "family": "Willowmark Letter",
+      "ascii_visible": 94,
+      "outline_rings_checked": 106,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 141956,
+      "woff2_bytes": 54548
+    },
+    {
+      "family": "Windharp Calligraphic",
+      "ascii_visible": 94,
+      "outline_rings_checked": 104,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 136648,
+      "woff2_bytes": 54388
+    },
+    {
+      "family": "Woad Engraved",
+      "ascii_visible": 94,
+      "outline_rings_checked": 137,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 17080,
+      "woff2_bytes": 8456
+    },
+    {
+      "family": "Wycliff Stone",
+      "ascii_visible": 94,
+      "outline_rings_checked": 137,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 17012,
+      "woff2_bytes": 8368
+    },
+    {
+      "family": "Wyrtle Slab",
+      "ascii_visible": 94,
+      "outline_rings_checked": 135,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 19420,
+      "woff2_bytes": 9348
+    },
+    {
+      "family": "Xanthic Facet",
+      "ascii_visible": 94,
+      "outline_rings_checked": 134,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 15956,
+      "woff2_bytes": 7668
+    },
+    {
+      "family": "Xebec Stencil",
+      "ascii_visible": 94,
+      "outline_rings_checked": 264,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 21384,
+      "woff2_bytes": 10572
+    },
+    {
+      "family": "Xenia Round",
+      "ascii_visible": 94,
+      "outline_rings_checked": 138,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 33328,
+      "woff2_bytes": 12864
+    },
+    {
+      "family": "Xeric Grotesk",
+      "ascii_visible": 94,
+      "outline_rings_checked": 135,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 16272,
+      "woff2_bytes": 7956
+    },
+    {
+      "family": "Xylo Play",
+      "ascii_visible": 94,
+      "outline_rings_checked": 134,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 32300,
+      "woff2_bytes": 12828
+    },
+    {
+      "family": "Yarrow Poster",
+      "ascii_visible": 94,
+      "outline_rings_checked": 135,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 18852,
+      "woff2_bytes": 8644
+    },
+    {
+      "family": "Yestrel Ribbon",
+      "ascii_visible": 94,
+      "outline_rings_checked": 152,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 19384,
+      "woff2_bytes": 9596
+    },
+    {
+      "family": "Yonder Deco",
+      "ascii_visible": 94,
+      "outline_rings_checked": 137,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 19152,
+      "woff2_bytes": 9232
+    },
+    {
+      "family": "Zephyr Tilt",
+      "ascii_visible": 94,
+      "outline_rings_checked": 136,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 31000,
+      "woff2_bytes": 12776
+    },
+    {
+      "family": "Zinnia Soft",
+      "ascii_visible": 94,
+      "outline_rings_checked": 135,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 31016,
+      "woff2_bytes": 12248
+    },
+    {
+      "family": "Zorin Inlay",
+      "ascii_visible": 94,
+      "outline_rings_checked": 213,
+      "stale_hint_programs": 0,
+      "errors": [],
+      "ttf_bytes": 25524,
+      "woff2_bytes": 12824
+    }
+  ]
+}

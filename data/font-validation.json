@@ -1,0 +1,1702 @@
+[
+  {
+    "family": "Wrenfold Text",
+    "ascii_complete": true,
+    "unicode_codepoints": 2840,
+    "glyph_count": 3256,
+    "bounds_y": [
+      -381,
+      1067
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "442a88039dc68ec9ef55d86f03cbfbb34277f6dd5eb507e3c478932dc98e9649",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "d2bcb0a7f5e8efac967888d4490753b7963bbdf2502ce083cbc1f0a1a8a3dec3"
+  },
+  {
+    "family": "Wrenfold Display",
+    "ascii_complete": true,
+    "unicode_codepoints": 2840,
+    "glyph_count": 3256,
+    "bounds_y": [
+      -390,
+      1061
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "a9bbf7f599bd0ed17c90382a5454794947e965ee8b85e78f22e46ed074c93f05",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "7feb80477a35214ce796ca746800157aa83c42ba736eeb58b3852e59b3f87b59"
+  },
+  {
+    "family": "Rowan Quill",
+    "ascii_complete": true,
+    "unicode_codepoints": 2321,
+    "glyph_count": 2602,
+    "bounds_y": [
+      -621,
+      2016
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "c86b8ddb2d5cd475f8e15ff9bfef0bb099d019939e2f8adce42b8c5ac691c494",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "9b8acb19d2f0a7b0cdf64f11089edebc9160374c70056ed2a9bf3e5139e12905"
+  },
+  {
+    "family": "Vellum Crest",
+    "ascii_complete": true,
+    "unicode_codepoints": 2321,
+    "glyph_count": 2602,
+    "bounds_y": [
+      -621,
+      2013
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "ab691e5518c8aeb2e27c45a2d8a3d7169b51dc30057af7ecd54067301eb0fcac",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "f9584d1c97d5ecfc26f5ba6a654a9a7f108f17d34fda660c7552097aa2e5d644"
+  },
+  {
+    "family": "Harbor Plain",
+    "ascii_complete": true,
+    "unicode_codepoints": 2327,
+    "glyph_count": 2620,
+    "bounds_y": [
+      -621,
+      2007
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "9b0c5c65308d5d91cda821e4db50fae0d9626008a886e752ca62e4d896c47e13",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "232528ff61b3e239d05c857101dc1763d16b662365628a8b6124501fa8df1b1c"
+  },
+  {
+    "family": "Vector Vale",
+    "ascii_complete": true,
+    "unicode_codepoints": 2327,
+    "glyph_count": 2620,
+    "bounds_y": [
+      -621,
+      2007
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "6cce37af29d99bc3ea7024bc72e6fc90bc21d75c5868453b8db130b4c14f78ba",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "2e32d2a367fdc5a67bb5a74d3b716a4e4f50804afa4ae6ef9d0cb650ceef0f7c"
+  },
+  {
+    "family": "Circuit Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 3322,
+    "glyph_count": 3377,
+    "bounds_y": [
+      -721,
+      2105
+    ],
+    "fixed_advance": 1233,
+    "ascii_outline_sha256": "032e5d50ea75dcc21cacbbc0483cc31f5a0f7f20394f68906857c20594e052f7",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "468c2118a448f1ddc332c0eeca208e634ed2940ba86682d0be66a2726ce7eb40"
+  },
+  {
+    "family": "Hearth Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 3322,
+    "glyph_count": 3377,
+    "bounds_y": [
+      -786,
+      2106
+    ],
+    "fixed_advance": 1233,
+    "ascii_outline_sha256": "77e3c2b537d91fb102a5ab8fa2ffb9a055d3900958b09d18bd4b18f10d9c586f",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "bd2c9a44e08152271fa7d7b2c0949fe0cfe3e4ceeca526a249b3fc0d7d240987"
+  },
+  {
+    "family": "Aster Loop",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -242,
+      803
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "6257d74ae279107a49463689eee7a9dfd831fad332e9a8d0de8ddd52885bfb41",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "983b87bca8c5a260d20e54a730f4b0a36adb6029de11edda19a4efb0d9f8521f"
+  },
+  {
+    "family": "Quoin Ink",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -235,
+      780
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "f2e520974b75e1fc4a8159009f4bfc839a145d1555f78ebd776c9298956a5548",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "a206c4a1ea0fe10389549d96573e0c54fcd80e92f38e59092042c438c3d2f7e7"
+  },
+  {
+    "family": "Alderwick Book",
+    "ascii_complete": true,
+    "unicode_codepoints": 1119,
+    "glyph_count": 1387,
+    "bounds_y": [
+      -385,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "65246aca942e8d0fbdab4e8321995c368b64713bd99e6570ad9857b59268b30b",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "7bb63c10ff983fe705e695381da2cf2770f1b0e2b8763e21dd0151c07285f64d"
+  },
+  {
+    "family": "Ambermere Text",
+    "ascii_complete": true,
+    "unicode_codepoints": 1119,
+    "glyph_count": 1387,
+    "bounds_y": [
+      -373,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "db94a8f8512609906f0240185df57cc20369f229bf0dd752795d3f04965d93f4",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "b5b85e24e6dd9dc05538541728b21dcb6fb6218340d97be02be7887b36dae8c7"
+  },
+  {
+    "family": "Ashcombe Editorial",
+    "ascii_complete": true,
+    "unicode_codepoints": 2321,
+    "glyph_count": 2602,
+    "bounds_y": [
+      -311,
+      981
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "4d75706266d769205b85820eeb55ba2c84cfe0c9e472eef7915151726d13e3ef",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": true,
+    "sha256": "56e53e3f7920be1cfea8e79b891e659c4009277f405f47f24c9be816c2baef3a"
+  },
+  {
+    "family": "Asterhall Roman",
+    "ascii_complete": true,
+    "unicode_codepoints": 1119,
+    "glyph_count": 1387,
+    "bounds_y": [
+      -412,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "ebdf3bcacc323dd32bc3735c19eea40b21b3020a006eeeca9befa9139d3b5a68",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "e6bb0ffffc1037e9bfb03dcb2d5d1fad3dc9dfa7490ddbf1cbb16b78bceaa855"
+  },
+  {
+    "family": "Bellwether Press",
+    "ascii_complete": true,
+    "unicode_codepoints": 1119,
+    "glyph_count": 1387,
+    "bounds_y": [
+      -366,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "e5188ff41b0421b812fcf8aebf39afc035af85f0307ffce45063e879cd9b7fb7",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "efdf44c4c393b255f4b3b9987015d5a3ae861c640a3d800fba88e239ec8fe2d9"
+  },
+  {
+    "family": "Brackenridge Serif",
+    "ascii_complete": true,
+    "unicode_codepoints": 1324,
+    "glyph_count": 1361,
+    "bounds_y": [
+      -361,
+      1110
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "9792beaa2e6daa6599a04c51c9481d7afb490386e106ecb6f0b1703eb00463bf",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "b62d7cfc80eeac832175d9c7d00bbd8a443a72f292038e6ba29a4d05d905e636"
+  },
+  {
+    "family": "Briarhaven Book",
+    "ascii_complete": true,
+    "unicode_codepoints": 2321,
+    "glyph_count": 2602,
+    "bounds_y": [
+      -312,
+      981
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "82ccea776b9d6929b9f4e1849018af2327eefc48c7015c34f92383e8853792a4",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": true,
+    "sha256": "7beb166fba63939dcb4b29890b85605c413dc2a6258a2982710757fa2ac70fc1"
+  },
+  {
+    "family": "Caldera Display",
+    "ascii_complete": true,
+    "unicode_codepoints": 1119,
+    "glyph_count": 1387,
+    "bounds_y": [
+      -420,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "5c44d8e46d67b806554cccc9572d1a18fd64ec3539a91c4a3f9c30bc536fccf8",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "f4c8c3342f01d4ca26d77c8e342015c0c8a94491426c13f79ee57b1526485afc"
+  },
+  {
+    "family": "Cedarhurst Text",
+    "ascii_complete": true,
+    "unicode_codepoints": 1119,
+    "glyph_count": 1387,
+    "bounds_y": [
+      -383,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "e1151b2966122696d6bebd2690952e14b10483208a5166abc7c6b4c597af5797",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "8bbf9d77934fddbe9195155c02e788354c5e5ca724ef399eb662e80734d917ac"
+  },
+  {
+    "family": "Cinderwell Headline",
+    "ascii_complete": true,
+    "unicode_codepoints": 1119,
+    "glyph_count": 1387,
+    "bounds_y": [
+      -405,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "4d3d77f8c9a27be341d942686db2f7694721f60320b6331f374a3d9eefe0836e",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "4ff812d8045fdb7d8e19e81cd629a0e1ea522ccd8ad5e2d70121a83a2d3a48ca"
+  },
+  {
+    "family": "Cloisterbay Roman",
+    "ascii_complete": true,
+    "unicode_codepoints": 1119,
+    "glyph_count": 1387,
+    "bounds_y": [
+      -416,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "fca3c4146a97d45c5d434fbeb9431f47698bc1e01c9a0d2cbc823794e7d5fcb0",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "cbab56f2d1b6de64fa74286ad3e239253e34d292ff34ba3fb7db454581471afc"
+  },
+  {
+    "family": "Dalesford Slab",
+    "ascii_complete": true,
+    "unicode_codepoints": 1324,
+    "glyph_count": 1361,
+    "bounds_y": [
+      -326,
+      1110
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "85a959695505961c49853da4467b980923a845d10299cb9880e0e9953b7e0936",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "c7b3b8cc1d7d1525e2a24a41170d9db7c18a95b77903d15f03bb690a67fe4ee6"
+  },
+  {
+    "family": "Dunhaven Text",
+    "ascii_complete": true,
+    "unicode_codepoints": 2321,
+    "glyph_count": 2602,
+    "bounds_y": [
+      -291,
+      981
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "783a341ea4378650c2e443cfd1d9682d11bb6f4b7d8fdbfcb4cb6cf5a8aef747",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": true,
+    "sha256": "f02e27e0f3c175728157c54da68559f2c35085f0c0c26c77e4048c29cf58dc7c"
+  },
+  {
+    "family": "Eastmere Editorial",
+    "ascii_complete": true,
+    "unicode_codepoints": 1119,
+    "glyph_count": 1387,
+    "bounds_y": [
+      -395,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "d7c0bdd457bd9c120287a9883651d127e8138f04e8f44e418a242f3678f5aa90",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "7032f72b4c6f8068b38997c253a93be6d4ef1e16f8d3fe614331f5b28fe89d5f"
+  },
+  {
+    "family": "Elmbridge Book",
+    "ascii_complete": true,
+    "unicode_codepoints": 2321,
+    "glyph_count": 2602,
+    "bounds_y": [
+      -327,
+      981
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "bc66d598d5cd3e192c8483ceb43a3770d5faf1c216340877de0824ec1b572d0d",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": true,
+    "sha256": "15bcd137a43ea3ad8c3618e8f40c43bcafba118a99e068ee579693f08da594ec"
+  },
+  {
+    "family": "Emberwick Display",
+    "ascii_complete": true,
+    "unicode_codepoints": 1119,
+    "glyph_count": 1387,
+    "bounds_y": [
+      -432,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "c35da7603ba3c7081209e0dfefc309a8f5f4baca585db9955f3df58828236057",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "aed16be25358323209edf82d8bf54afd22229c99d1264cfbcb74a7b33e2e2de2"
+  },
+  {
+    "family": "Fenwick Press",
+    "ascii_complete": true,
+    "unicode_codepoints": 1119,
+    "glyph_count": 1387,
+    "bounds_y": [
+      -370,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "35bc72de973534a81a030aaee7e5dea244ce64d63a4e0aef9a9292836bc011c6",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "cb587cf566f34120135b3cd4399215f80c8ed43c252185791f4f2c1e0e859390"
+  },
+  {
+    "family": "Fieldstone Slab",
+    "ascii_complete": true,
+    "unicode_codepoints": 1324,
+    "glyph_count": 1361,
+    "bounds_y": [
+      -347,
+      1110
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "81efc6aeca81ea0b5a6206662c57869d9fddb5e9d5c7478d2221cb5785c45448",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "97ca58132eebdd45937a633adfb89cd2408e945bf0c4be941406583185d2191c"
+  },
+  {
+    "family": "Foxglade Roman",
+    "ascii_complete": true,
+    "unicode_codepoints": 1119,
+    "glyph_count": 1387,
+    "bounds_y": [
+      -408,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "ccc9870d19bed650e5ec4c7320eb4184ad6bc78c3f9899589868a47b15865c40",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "daa40b132e574d8bb053fc89f2d3f0a397e698787a551f557406a114ef7417de"
+  },
+  {
+    "family": "Gablehurst Display",
+    "ascii_complete": true,
+    "unicode_codepoints": 1119,
+    "glyph_count": 1387,
+    "bounds_y": [
+      -397,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "b34a2927736d6231800f575dc9e005f9c12a95c01e4d2ab613d3da57221d1a78",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "bc70fa7c43f57fb5fdd0ccf04235f091be9f23ecb2b03be1f2fc87f91461541d"
+  },
+  {
+    "family": "Greystone Slab",
+    "ascii_complete": true,
+    "unicode_codepoints": 1324,
+    "glyph_count": 1361,
+    "bounds_y": [
+      -337,
+      1110
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "4d10a2edae98b0df4c5951682e4bba93bcfcb87c81b94ba4e65998582a58058a",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "21dbf23f07e51133bda778128f0a636c7effb97f9b0e185f6a6be94ca40a5e8a"
+  },
+  {
+    "family": "Hartwell Editorial",
+    "ascii_complete": true,
+    "unicode_codepoints": 2321,
+    "glyph_count": 2602,
+    "bounds_y": [
+      -303,
+      981
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "e212acbaf12097072a8d24ebfba5fdb8624917496a9a7efb9acce4d3cf2f919b",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": true,
+    "sha256": "520ba9feae2b05c180ec7b65b50a9e2c1baca8cffad3d4aac0fa0b1d3e68a90a"
+  },
+  {
+    "family": "Ilex Signal",
+    "ascii_complete": true,
+    "unicode_codepoints": 2840,
+    "glyph_count": 3317,
+    "bounds_y": [
+      -389,
+      1067
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "a5ff1a41cf7819d4b551ca34d456418fad9180765a421c156fbe422188d993fb",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "9286ca8a1c07ff8b6cdf753a7f7954951e98b3182f88af94680039b1ca4b7b7b"
+  },
+  {
+    "family": "Indigo Relay",
+    "ascii_complete": true,
+    "unicode_codepoints": 2327,
+    "glyph_count": 2620,
+    "bounds_y": [
+      -621,
+      2007
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "ceb27444668ad42529fa576eb2fff03fee1a2167383a8d31539b5e4ec5e8d7cf",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "2329dc3baddb1dcd6d0f52a690a551e8e1ee86e1f2d3f2d3205c66514a490148"
+  },
+  {
+    "family": "Ion Current",
+    "ascii_complete": true,
+    "unicode_codepoints": 2840,
+    "glyph_count": 3316,
+    "bounds_y": [
+      -389,
+      1072
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "2d55a1a6881c06c2c875cba7b1d5eee793ddbe595a5a76429a7e4569c2e089b2",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "655d2ad9a81a7b200c34ac290fe5d1ea1605d3079efed7859e1359e72d4e6e7e"
+  },
+  {
+    "family": "Iris Clear",
+    "ascii_complete": true,
+    "unicode_codepoints": 883,
+    "glyph_count": 938,
+    "bounds_y": [
+      -555,
+      2146
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "85df3f474aaed43964e3cae248cd9c6624ee2884236be0314ea2374fdb7bb63c",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "7e0e92be7ba1eb350fb2afbf6f7b6a3e69a4cca1abb6ee6d6e7726bebcfb4636"
+  },
+  {
+    "family": "Jasper Way",
+    "ascii_complete": true,
+    "unicode_codepoints": 1666,
+    "glyph_count": 1806,
+    "bounds_y": [
+      -615,
+      2192
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "d7fc33b7a78e92bfdb5a7c9f455846b05907b0722c3abc60627848bc5414c019",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "38df2960e59185d0b1044ee17f058e5fb44d0203a23881fb2f3022750a507aeb"
+  },
+  {
+    "family": "Juniper Line",
+    "ascii_complete": true,
+    "unicode_codepoints": 2840,
+    "glyph_count": 3317,
+    "bounds_y": [
+      -389,
+      1067
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "04b4944dfdc74f9712c74162da6af6f159edf31cbf72de0a43b437c45bfc55a2",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "de3b64afdc8ade64aa9653bfb942d497e0efef61d64b3457d6c9ebac3d3aab30"
+  },
+  {
+    "family": "Juno Panel",
+    "ascii_complete": true,
+    "unicode_codepoints": 2840,
+    "glyph_count": 3316,
+    "bounds_y": [
+      -389,
+      1072
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "f6c86d27802c836fb7b5c4051fc5c30aec02ac40d7b46756f273aecf988ad508",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "2f1dcf594b8e69b4d000d139c5c2c69077bfa426e55aa4edc028a367b79a9b31"
+  },
+  {
+    "family": "Kestrel Air",
+    "ascii_complete": true,
+    "unicode_codepoints": 883,
+    "glyph_count": 938,
+    "bounds_y": [
+      -555,
+      2146
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "b3b49c066768338819199394e10ac57f370a78fffe7444a4a863fb7792d2a499",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "48f7b88b098f4972033b0ebfdb6f1fdc9750447f4bd1141ce2ebc075daf5aa87"
+  },
+  {
+    "family": "Kiln Form",
+    "ascii_complete": true,
+    "unicode_codepoints": 2327,
+    "glyph_count": 2620,
+    "bounds_y": [
+      -621,
+      2007
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "663ead90f132509c498bd46c7a40a3e5c8b3276c77b52baeb8e1c77606531178",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "d30dc985a7172fb19a53d422fcba9f93902c57b268563a3c5812634e553ef674"
+  },
+  {
+    "family": "Kinetic Park",
+    "ascii_complete": true,
+    "unicode_codepoints": 2840,
+    "glyph_count": 3316,
+    "bounds_y": [
+      -389,
+      1072
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "6245f51470a73fed28d4a182970100409230ad1fb02add9a5a8827c74035cd15",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "0c1617178836d9cfe1865274e87d5c60cd2730e5d706096c67d998eac60aa361"
+  },
+  {
+    "family": "Linden Field",
+    "ascii_complete": true,
+    "unicode_codepoints": 2840,
+    "glyph_count": 3317,
+    "bounds_y": [
+      -389,
+      1067
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "485e8d9efd16e00732a80481ea04892900c199abe10b60cd5876330a56fcb346",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "95e8c789d5d09f7515564100a6fc2e4e4f317535e701a1c8e1db4957812bba5c"
+  },
+  {
+    "family": "Lumen Circle",
+    "ascii_complete": true,
+    "unicode_codepoints": 2327,
+    "glyph_count": 2620,
+    "bounds_y": [
+      -621,
+      2007
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "be1631652ffad008ba8484148c70859d3f81103aaf4234318009932780df6657",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "d68f732328699c59d9932749768ee0808243063348ad47daa8a06de6d05a78ee"
+  },
+  {
+    "family": "Lyra Voice",
+    "ascii_complete": true,
+    "unicode_codepoints": 883,
+    "glyph_count": 938,
+    "bounds_y": [
+      -555,
+      2146
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "53574f8ad29601406efec24efae3a51f5fe6bfb663a00d47bbd7a493a442e323",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "509cf2f17292dbf806666604976d6fbccc81ceeb39c445f9b1c780fd31abd8d8"
+  },
+  {
+    "family": "Mica Grid",
+    "ascii_complete": true,
+    "unicode_codepoints": 1666,
+    "glyph_count": 1806,
+    "bounds_y": [
+      -615,
+      2192
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "516c9abcebccf375823f1b3eba06cd53491828e647bc7770cbca2cb4bcd68839",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "7de0f884be382b8aeff16a3f64be83c68330e0047e443d1497886104aa4e6c43"
+  },
+  {
+    "family": "Mosaic Arc",
+    "ascii_complete": true,
+    "unicode_codepoints": 2840,
+    "glyph_count": 3316,
+    "bounds_y": [
+      -389,
+      1072
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "70a27df4184af9c7438b51facd59535a20ab7e37a2f09875354b3c0cffdbfc80",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "65cd26d65cafe2d963fc85747b72db32f849446131f80c33558355e8b7d02695"
+  },
+  {
+    "family": "Myrtle Read",
+    "ascii_complete": true,
+    "unicode_codepoints": 883,
+    "glyph_count": 938,
+    "bounds_y": [
+      -555,
+      2146
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "1fb4cc61b960d6f16874ae42af29d14f1d45f7aff1dd76a78231890651d42453",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "4aff756e022aad9d4a482e0d0e8b8047c1c8d68e46ca82b6cbd1d4ae7095b515"
+  },
+  {
+    "family": "Nimbus Way",
+    "ascii_complete": true,
+    "unicode_codepoints": 2840,
+    "glyph_count": 3317,
+    "bounds_y": [
+      -389,
+      1067
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "1b800ba4795a8e29c53851a03c996459a644fa68239a96a105f65cb8b73611a0",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "2e6f411f3b7c1830c99fd9a0cd379d773b26a91dc7ae5aebe6e7ce6045823dff"
+  },
+  {
+    "family": "Nori Square",
+    "ascii_complete": true,
+    "unicode_codepoints": 2327,
+    "glyph_count": 2620,
+    "bounds_y": [
+      -621,
+      2007
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "bb36e2f0d3ba2840e70f49cf45883de316455cc191508a4fc14159b6265f3133",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "64d3ac75529e501aaefc4d2667370a7cc7131409aacb6eb8a91769bed6881f58"
+  },
+  {
+    "family": "Nova Trace",
+    "ascii_complete": true,
+    "unicode_codepoints": 1666,
+    "glyph_count": 1806,
+    "bounds_y": [
+      -615,
+      2192
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "2334575728217d08e313047ac0bd1c8f9cb1dd42313c634c06a6b810cb66400a",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "832ea53c15e7ef16f5d05c293fd633dd183c25fde93edbe2bc7099c9b13c48b2"
+  },
+  {
+    "family": "Olive Passage",
+    "ascii_complete": true,
+    "unicode_codepoints": 2840,
+    "glyph_count": 3317,
+    "bounds_y": [
+      -389,
+      1067
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "f0d5e15b923c94b7c6cfae1b261049464bfb0dd855f1246a55ffbabddccac255",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "28f0d0e5888f2ca9fb66b1f1de310d502ec7fbc20daabc68433f151a27d1466d"
+  },
+  {
+    "family": "Opal Outline",
+    "ascii_complete": true,
+    "unicode_codepoints": 2840,
+    "glyph_count": 3316,
+    "bounds_y": [
+      -389,
+      1072
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "981b7bc8c046f8f64439c4f3c940ab05388b7f6cd30df694fee4d5537989897c",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "0fe1bdacdb7a6ba93a6983cbf8d3fa70825e5cb0f8f6be404969455918cb55b6"
+  },
+  {
+    "family": "Orbit Span",
+    "ascii_complete": true,
+    "unicode_codepoints": 1666,
+    "glyph_count": 1806,
+    "bounds_y": [
+      -615,
+      2192
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "ba28f7ad579ed4087a55f42f8cae0f27b55a66bab9ce8e1472bbe3ecd7237141",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "e3b4dd80ea8b37fe4ca4cca70a0007db266630d1b1b81ec7a5f4aff97e96d151"
+  },
+  {
+    "family": "Pollen Path",
+    "ascii_complete": true,
+    "unicode_codepoints": 883,
+    "glyph_count": 938,
+    "bounds_y": [
+      -555,
+      2146
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "1e4f2661915ee675e52fffb90774b2596668e456f8bf449e6d0d375a385df3cc",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "42cb41aeea4c0b3307dc81629c24050c7b12b4c03a85238a7e22c1023f3768ea"
+  },
+  {
+    "family": "Quasar Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 2275,
+    "glyph_count": 2408,
+    "bounds_y": [
+      -380,
+      1263
+    ],
+    "fixed_advance": 610,
+    "ascii_outline_sha256": "d1121bdce8acd0c4ecc01861b405657e2cf0bdc6e3db9bca31c79176dc8a05be",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "e02c596d11e5be27fa2da746cd071fd176bb8a2d84fdc7ae380f2e4c1de489ec"
+  },
+  {
+    "family": "Quay Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 2275,
+    "glyph_count": 2408,
+    "bounds_y": [
+      -402,
+      1222
+    ],
+    "fixed_advance": 670,
+    "ascii_outline_sha256": "715412b782fd6985f6676e433f7f5b96afe64ace1e6698c4acddb6cffa07c948",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "100b995487e8e397493c7d07bb30c192adfeb917efbe4fc520eaf4c00eaefa3a"
+  },
+  {
+    "family": "Quill Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 1669,
+    "glyph_count": 1740,
+    "bounds_y": [
+      -327,
+      998
+    ],
+    "fixed_advance": 596,
+    "ascii_outline_sha256": "f46b07589f987b611ac5b5d25da7a268ecd562bec0e3bb172a34158dc945ab5d",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "8e03579f660efd0b48eaecd00f1333c670779218fd35d8dcd2e8dcff9d55b644"
+  },
+  {
+    "family": "Quartz Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 2045,
+    "glyph_count": 2091,
+    "bounds_y": [
+      -430,
+      1006
+    ],
+    "fixed_advance": 624,
+    "ascii_outline_sha256": "328cab1efddbcfb81081efb85d7865ba9881438e755964d9df913bc96ddeffef",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "e007047d12fea8cc95c406d00caa2df6a67663ace962d1ed6332a19b13de7e41"
+  },
+  {
+    "family": "Rafter Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 1669,
+    "glyph_count": 1740,
+    "bounds_y": [
+      -293,
+      1031
+    ],
+    "fixed_advance": 646,
+    "ascii_outline_sha256": "c49505a3b916366c9783efd93251ab354300d7bc50774a8706be1f91ee3a631f",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "64b14c43cff63a0c6edad815f1e1a0b2555ea77aa8babd648796e8190ff335e3"
+  },
+  {
+    "family": "Relay Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 2275,
+    "glyph_count": 2408,
+    "bounds_y": [
+      -402,
+      1260
+    ],
+    "fixed_advance": 591,
+    "ascii_outline_sha256": "255ba14f2cfec3106e3a33ca3eccdd71ac83bcfe5662b9df2506043d86e9b29f",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "e3b0ccb819941076b4a98a4c97b628155a2006a4018da3d695f024f18decdb8c"
+  },
+  {
+    "family": "Rivet Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 2045,
+    "glyph_count": 2091,
+    "bounds_y": [
+      -409,
+      995
+    ],
+    "fixed_advance": 641,
+    "ascii_outline_sha256": "56b760ebe668a66f44decb5376f743a56afd5b02d8f30b2f0efdf76273c431c6",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "6a085ab09d518d59b6371177d88c26a5c1f42cfc5208d9d6c199dfa28511b452"
+  },
+  {
+    "family": "Runnel Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 2275,
+    "glyph_count": 2408,
+    "bounds_y": [
+      -446,
+      1233
+    ],
+    "fixed_advance": 565,
+    "ascii_outline_sha256": "67bdd252ac158d98584fb08e82239b4f4ab76fd6c641147e394632cb27e797a6",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "f92411449f30a9b9b8a6a96d40d63db31cef2ca83645ab91ab6938214745878c"
+  },
+  {
+    "family": "Sable Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 1669,
+    "glyph_count": 1740,
+    "bounds_y": [
+      -293,
+      1011
+    ],
+    "fixed_advance": 617,
+    "ascii_outline_sha256": "c139013292a79229afe213429d0520628235442f5751181e1eb00e44baad236c",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "1641a1bafb113521d570ab53c47923c90f81e17c2d14100a2de756dcca0ee749"
+  },
+  {
+    "family": "Scriptor Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 1669,
+    "glyph_count": 1740,
+    "bounds_y": [
+      -310,
+      1018
+    ],
+    "fixed_advance": 660,
+    "ascii_outline_sha256": "e7e1fa3f6e2992aa3c0725abedf96163ddf21d535f6e05677477f28c59d4ee1c",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "16d57cf36cd5ffcc8beb2ddc26da23801b987a9d9318d672aa729a775aac7a50"
+  },
+  {
+    "family": "Signal Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 2045,
+    "glyph_count": 2091,
+    "bounds_y": [
+      -409,
+      1001
+    ],
+    "fixed_advance": 586,
+    "ascii_outline_sha256": "c748e2e2c3ff0455510b908fd879ad639d76d8029b74b225076398683daa3a45",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "911733061051fc9607990de7e333eb1e2f632cb633889838928293b40b7af953"
+  },
+  {
+    "family": "Switch Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 2275,
+    "glyph_count": 2408,
+    "bounds_y": [
+      -446,
+      1234
+    ],
+    "fixed_advance": 629,
+    "ascii_outline_sha256": "ed184f2c332a2f8690713c9595b30b26c1554d90fa4b470fbd7f8eafab2cc805",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "0505b75e5923a2567c38fd8f15ebd0e7c3cdc82d4054d0399a034454318fcff6"
+  },
+  {
+    "family": "Tally Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 2275,
+    "glyph_count": 2408,
+    "bounds_y": [
+      -380,
+      1221
+    ],
+    "fixed_advance": 608,
+    "ascii_outline_sha256": "4526f242d1ff7cc0d55384ffb737c622b10d17a42faf791b7e37d7b9331e556e",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "7b6a30116be56075fd46f230bcfdd68f6e20322e38d9df723bc8a505208d4cda"
+  },
+  {
+    "family": "Tern Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 1669,
+    "glyph_count": 1740,
+    "bounds_y": [
+      -310,
+      1020
+    ],
+    "fixed_advance": 573,
+    "ascii_outline_sha256": "443ee0940ae6f87a39d2ff9a77d065aa78a5b5e8f9ebb35ffc59165f9035d848",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "bf607d5ed1001178225289bec99b12429bda1ac4a7ffdf2f09692e2a3aa2058b"
+  },
+  {
+    "family": "Thicket Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 2045,
+    "glyph_count": 2091,
+    "bounds_y": [
+      -409,
+      977
+    ],
+    "fixed_advance": 653,
+    "ascii_outline_sha256": "ff5398dcdd64a84030aa667a32ef9ea8a4534967aba2fe7519e8ba30fb82c403",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "07960a4411a72ebfa41edfdd97543f2d0ca410dcb04f58d5d07592a08365dfb8"
+  },
+  {
+    "family": "Truss Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 2045,
+    "glyph_count": 2091,
+    "bounds_y": [
+      -430,
+      1012
+    ],
+    "fixed_advance": 627,
+    "ascii_outline_sha256": "819d390356a3bfdf21621d2f31a5eebbcf1f156b6d2a10247835821e35e9f0b6",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "c160fdf7c82dc524662af67c2755928753f8e0b62302b0545add8b11cf17eeb0"
+  },
+  {
+    "family": "Umber Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 1669,
+    "glyph_count": 1740,
+    "bounds_y": [
+      -293,
+      1003
+    ],
+    "fixed_advance": 634,
+    "ascii_outline_sha256": "25df3b52db0067ee378be4c1bdd0c9a5bb05c7031316a0ff7eac6906d21d9fd0",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "75769730ca8df24b44063b484d72771f97b2910129a23004f677d57137ef0631"
+  },
+  {
+    "family": "Union Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 2275,
+    "glyph_count": 2408,
+    "bounds_y": [
+      -402,
+      1264
+    ],
+    "fixed_advance": 654,
+    "ascii_outline_sha256": "e00d22eaeb2610f875f9a01602ca73cc9b752437f3a337602788ade766e6817f",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "0a415a5d5883d2d6515cfded47f887c5f20aa95b58010a7004c0fb0b34ac0fc0"
+  },
+  {
+    "family": "Uplink Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 2275,
+    "glyph_count": 2408,
+    "bounds_y": [
+      -424,
+      1267
+    ],
+    "fixed_advance": 583,
+    "ascii_outline_sha256": "8f2cb60dda5aa251c4639f8a4b54fa48ad0eb0c5e7aaced7178ecce06f5d1895",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "4e3061ae7b338e761ee951f424ab143e6f04624d5508c80b42eafb87ae79c10a"
+  },
+  {
+    "family": "Vale Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 1669,
+    "glyph_count": 1740,
+    "bounds_y": [
+      -344,
+      1008
+    ],
+    "fixed_advance": 610,
+    "ascii_outline_sha256": "24bbe6f82f89ad4792af5ac47d2c79e7bf619ce9e7352182f818dd36e0aa9419",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "d5212974d9f560d413dc598f9f3a1d7f40c23e29bfef210a8d6ea21f27e58894"
+  },
+  {
+    "family": "Vertex Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 2045,
+    "glyph_count": 2091,
+    "bounds_y": [
+      -366,
+      1001
+    ],
+    "fixed_advance": 600,
+    "ascii_outline_sha256": "04440fb6d4c156e8711a3f3ea5c26dde5fc831ed1ca382474f7a29de8440e292",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "ed98b998c4cfc4370e9514d4965bc14b7e8923b372b384d833b5421ffa72bb6d"
+  },
+  {
+    "family": "Volt Mono",
+    "ascii_complete": true,
+    "unicode_codepoints": 2275,
+    "glyph_count": 2408,
+    "bounds_y": [
+      -402,
+      1282
+    ],
+    "fixed_advance": 635,
+    "ascii_outline_sha256": "0f86282fcc82ac8f1a5064add082ca0584a728e703a51050f5f8ac2606040ff6",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "c8a8c21455037e2fa2f2debd37a383b0e1eaca4e9e728fae173abeec40adc25f"
+  },
+  {
+    "family": "Wain Script",
+    "ascii_complete": true,
+    "unicode_codepoints": 1006,
+    "glyph_count": 1315,
+    "bounds_y": [
+      -389,
+      1064
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "c1d40c9548b8a0e266d48dd77ac9414241956c399032e7c5c1c30df533529e50",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "afa26605dcb82212d766de82aedf83dea9cc127c7dfec01b3f6a33234dff25e2"
+  },
+  {
+    "family": "Waverly Quill",
+    "ascii_complete": true,
+    "unicode_codepoints": 1006,
+    "glyph_count": 1302,
+    "bounds_y": [
+      -389,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "2b5ed67e87a6a4cf3831d59945eb8a6276da9051b8f1d6c29599f462030f14d2",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "01ef17fcbe368a14ab8318a83e8ef9341368a70a07fb11564ab6a01c11663777"
+  },
+  {
+    "family": "Waxwing Italic",
+    "ascii_complete": true,
+    "unicode_codepoints": 1006,
+    "glyph_count": 1315,
+    "bounds_y": [
+      -389,
+      1064
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "be46972c4c076983eecf7171e24d9db6b858498e7a76620bcf40ead5dcdeb4ed",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "360a783ab04c1f36ec57cb4272526413d05d0f6278f6793d7df76ce6f7ac67b4"
+  },
+  {
+    "family": "Wayfarer Book",
+    "ascii_complete": true,
+    "unicode_codepoints": 1006,
+    "glyph_count": 1302,
+    "bounds_y": [
+      -389,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "86910e46a5d4234b4b562dce85305126f1e8417fba8cbab79d2a18e15983879c",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "eba9ee2773f1c7eec4230b99ea446be3160641bcdc46f80be43d583284db31e1"
+  },
+  {
+    "family": "Westlake Flourish",
+    "ascii_complete": true,
+    "unicode_codepoints": 1006,
+    "glyph_count": 1315,
+    "bounds_y": [
+      -389,
+      1064
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "22eb08a3ffb8cc65d1257e8c604e9121d367cd77bbe235effc9627ea877328a9",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "05df1cac06374481fcad9cb637c1fbe969e32b2cc8c59503383ba22b61f26080"
+  },
+  {
+    "family": "Whitethorn Nib",
+    "ascii_complete": true,
+    "unicode_codepoints": 1006,
+    "glyph_count": 1315,
+    "bounds_y": [
+      -389,
+      1064
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "8a43ea5056e6fd4efd198c28d5a4163ba80b7f246ac9a0337a45d4038f46026f",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "38f13c8c0516b7393690f15ffbd854986be712a5fd989ada4621096893f34ec3"
+  },
+  {
+    "family": "Wildmere Grace",
+    "ascii_complete": true,
+    "unicode_codepoints": 1006,
+    "glyph_count": 1302,
+    "bounds_y": [
+      -389,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "9d18f815018550cba4b6da5cdff1f1acb756be637e4232a2e58ca04b53ad1a19",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "77a92f1fe05a28c44a6f14ff66431077f0dda09f8bec54a83499613250c2d884"
+  },
+  {
+    "family": "Willowmark Letter",
+    "ascii_complete": true,
+    "unicode_codepoints": 1006,
+    "glyph_count": 1302,
+    "bounds_y": [
+      -389,
+      1048
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "5caa583b6130a18fca29356c9a2e3a2bd5970132d2e7151482366088dc7877ad",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "8bb0e07a2bd1bad8f6bbc82b36a40837a3b93e26f39ac65104bf767a0a0da868"
+  },
+  {
+    "family": "Windharp Calligraphic",
+    "ascii_complete": true,
+    "unicode_codepoints": 1006,
+    "glyph_count": 1315,
+    "bounds_y": [
+      -389,
+      1064
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "81e2722c261300f3ac204d80105d25ebb1fc7de95a296e94c34ec8d8b40baa32",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "803cf1ed30f8984427bf30b42bd098ad7664b545dcbfe13b3c9ae982fa757b8f"
+  },
+  {
+    "family": "Woad Engraved",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -236,
+      780
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "78f7f1b58bd4e2dc79e6a1bef869879b05278a1e6c19d5779054838097c3b55a",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "6a7b67c97ce73006f494d783586aeb525627b7ac1a846cba56d39263860225ad"
+  },
+  {
+    "family": "Wycliff Stone",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -243,
+      780
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "6f2e8f56d7499fed6dacff33c343a90cea1e2bd143da2bc33af5c04c35c9ee64",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "a3fa1613a9af201354b5664b76b1f222cde0250bc1520d8efbc41e73510f429f"
+  },
+  {
+    "family": "Wyrtle Slab",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -258,
+      794
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "27ca690c7e72ae91a73476c3a81d1b6694f711821438e9448902a260d33da4f9",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "a3d03109697a4197dcf23f0479ea757d624e6a3c875668eb5ae5dce24035de78"
+  },
+  {
+    "family": "Xanthic Facet",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -250,
+      809
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "8eee3827207b3b84c14ec03a1cb2abc5d484818c24a513dac8185e88154c8396",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "a561c1c0e5153f4f73afea76eb3961681ca7a4e3ae8f6b15cf6c6942dc5d621b"
+  },
+  {
+    "family": "Xebec Stencil",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -258,
+      814
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "3d833aba5b6c7e3b16e95841b6099eae52f89b170cf922a26ba9eec03b73cdee",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "ff2d1281151f6fc56a22ab4647bc6e0603f1b6b09c5ccffbe31ec85d6a343ae8"
+  },
+  {
+    "family": "Xenia Round",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -255,
+      811
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "49241e8000c01d9098c0b002563131f48fd20aa286355314c1cf73c6d50ad731",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "3ac02405ea128a6d7393f72b3538bdb54cdd5b74bc5d366b31d3ec0dca4173fb"
+  },
+  {
+    "family": "Xeric Grotesk",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -254,
+      827
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "fda6c1f6f615d95ad6c3e803e377c76383cd9445a4b2582df94ace025235523c",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "8c9f670449040b4d5d5a8f26a65bf51acc49d9b46edf9b12de5dd8c94c31a106"
+  },
+  {
+    "family": "Xylo Play",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -255,
+      811
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "daf74c0be3a3ea56d668dc535b1cc1c95c0f9d34dbcae068390baa023419a2fb",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "05760959ec67179d1a776b93aa54571f05c3c6212d308f5ea15bd38bbf728d1c"
+  },
+  {
+    "family": "Yarrow Poster",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -268,
+      897
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "b1501b83857c699ff62611cdc0100e8aea428b519ca48b84eb13758971399867",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "452e0ac254803c9691d8140ec00daa4da420f5ef8367d9d4c1b04fb06cecc542"
+  },
+  {
+    "family": "Yestrel Ribbon",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -256,
+      813
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "f59cce817f662d66d243bc3b052dcc11b423d389c872334558863e633d8d525e",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "2247c839fb18bcb9533556bd713695c888b54cfafe7e2a3b2d518f33b62ae027"
+  },
+  {
+    "family": "Yonder Deco",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -238,
+      780
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "7e1cb52f3bddf42c0b55cc1918eee40020adb313c3470432732141bda46e9f74",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "63ec045a44d686fe9f314b1562b561d994fd01af182b6184ea56aa0f14582042"
+  },
+  {
+    "family": "Zephyr Tilt",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -248,
+      804
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "d31d5b5f02a256e4c163369a32c34d1be985c34fe121dbf35d8a6d3ec7173778",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "8d069e84fd04ae492c0beb77b4e16c7b157dd07fdd4e6e662c9cd1d851c7ea2b"
+  },
+  {
+    "family": "Zinnia Soft",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -256,
+      812
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "67fc87a285ad7a13dee413ba568b4785ce98940620f29c4c01563a0cfe9192a7",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "c6460439788b41fe50cebbaa0b47506d884498e39649deaec1fe22a732931e7e"
+  },
+  {
+    "family": "Zorin Inlay",
+    "ascii_complete": true,
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "bounds_y": [
+      -260,
+      857
+    ],
+    "fixed_advance": null,
+    "ascii_outline_sha256": "9092a0821ed5ee29e50cbecc1bf581a699d51d57bac72fac2acf39fe9e7e93e8",
+    "roundtrip": true,
+    "rasterized": true,
+    "has_gpos": true,
+    "has_kern": false,
+    "sha256": "f3979fb1b8deed32c15e5df402d98856c02f7733e3565afe38591eed023a6608"
+  }
+]

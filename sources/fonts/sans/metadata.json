@@ -1,0 +1,1916 @@
+[
+  {
+    "family": "Ilex Signal",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Humanist",
+    "intended_use": "reading",
+    "description": "Humanist sans for reading. 2-storey a, single-storey g, sweep Q tail, wedge r terminal, curve t foot and round dots.",
+    "basis_and_license": "Noto Sans Regular; SIL Open Font License 1.1",
+    "source": "Noto Sans Regular",
+    "source_file": "sources/NotoSans-Regular.ttf",
+    "source_sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d",
+    "license": "SIL Open Font License 1.1",
+    "notices": [
+      "licenses/Noto-notices.txt",
+      "licenses/NotoSans-Regular-embedded-notices.txt"
+    ],
+    "ttf": "fonts/IlexSignal-Regular.ttf",
+    "woff2": "fonts/IlexSignal-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 2840,
+      "glyphs": 3317,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -389,
+      "y_max": 1067,
+      "hhea_ascent": 1087,
+      "hhea_descent": -409,
+      "win_ascent": 1087,
+      "win_descent": 409
+    },
+    "sha256": {
+      "ttf": "9286ca8a1c07ff8b6cdf753a7f7954951e98b3182f88af94680039b1ca4b7b7b",
+      "woff2": "09d031d5f0f62bf1e654ddb0c40bbd5f4df74a1e2eb6e836b70b266b98b5c0f0"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Humanist sans for reading. 2-storey a, single-storey g, sweep Q tail, wedge r terminal, curve t foot and round dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.54; A bar at 31% cap height; M join at 15% cap height.",
+      "Advance spacing +6 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Ilex Signal",
+      "source": "noto",
+      "anatomy": "Humanist",
+      "k": 0.54,
+      "a": 2,
+      "g": 1,
+      "q": "sweep",
+      "m": 0.15,
+      "bar": 0.31,
+      "r": "wedge",
+      "t": "curve",
+      "dot": "round",
+      "tracking": 6,
+      "use": "reading",
+      "index": 0
+    },
+    "dimensions": {
+      "cap_height": 714,
+      "x_height": 536,
+      "stem": 86,
+      "bowl_tension": 0.54
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/IlexSignal.png",
+    "ascii_outline_fingerprint": "1d61ef3bfaa6e6dce51a3bd9c01c4d0f1cc1dc1e97f3f695666a0eb8ff0c7bfc",
+    "source_ascii_outline_fingerprint": "0cd27acfffe334d721afee5a2c1e291e5c5a4981e9a843f2c12f374cd1c3c817",
+    "file_sizes": {
+      "ttf": 351612,
+      "woff2": 125024
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Indigo Relay",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Grotesque",
+    "intended_use": "reading",
+    "description": "Grotesque sans for reading. 2-storey a, two-loop g, diagonal Q tail, flat r terminal, flat t foot and square dots.",
+    "basis_and_license": "Liberation Sans Regular; SIL Open Font License 1.1",
+    "source": "Liberation Sans Regular",
+    "source_file": "sources/LiberationSans-Regular.ttf",
+    "source_sha256": "bade59d822652f76e6941aa87b40a87c13d1cc70db98ededb5011127efafd1d3",
+    "license": "SIL Open Font License 1.1",
+    "notices": [
+      "licenses/Liberation-notices.txt",
+      "licenses/LiberationSans-Regular-embedded-notices.txt"
+    ],
+    "ttf": "fonts/IndigoRelay-Regular.ttf",
+    "woff2": "fonts/IndigoRelay-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 2327,
+      "glyphs": 2620,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -621,
+      "y_max": 2007,
+      "hhea_ascent": 2027,
+      "hhea_descent": -641,
+      "win_ascent": 2027,
+      "win_descent": 641
+    },
+    "sha256": {
+      "ttf": "2329dc3baddb1dcd6d0f52a690a551e8e1ee86e1f2d3f2d3205c66514a490148",
+      "woff2": "6f6048b4677361fbac9355f10665e344119174791751cb4dce96bab3f1806fa9"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Grotesque sans for reading. 2-storey a, two-loop g, diagonal Q tail, flat r terminal, flat t foot and square dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.59; A bar at 40% cap height; M join at 7% cap height.",
+      "Advance spacing +3 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Indigo Relay",
+      "source": "liberation",
+      "anatomy": "Grotesque",
+      "k": 0.59,
+      "a": 2,
+      "g": 2,
+      "q": "diagonal",
+      "m": 0.07,
+      "bar": 0.4,
+      "r": "flat",
+      "t": "flat",
+      "dot": "square",
+      "tracking": 3,
+      "use": "reading",
+      "index": 1
+    },
+    "dimensions": {
+      "cap_height": 1409,
+      "x_height": 1082,
+      "stem": 180,
+      "bowl_tension": 0.59
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/IndigoRelay.png",
+    "ascii_outline_fingerprint": "e46243f91d51f4a52af76229d0c8fc3f4bf9030d00cd4b4fe53b00dc83db3467",
+    "source_ascii_outline_fingerprint": "464b031c537b302c3d6b484e2ca8459084714c7f0fbc8e39e48342eebfa4e77c",
+    "file_sizes": {
+      "ttf": 235940,
+      "woff2": 86556
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Ion Current",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Geometric",
+    "intended_use": "display",
+    "description": "Geometric sans for display. 1-storey a, single-storey g, elbow Q tail, cut r terminal, angle t foot and square dots.",
+    "basis_and_license": "Noto Sans Display Regular; SIL Open Font License 1.1",
+    "source": "Noto Sans Display Regular",
+    "source_file": "sources/NotoSansDisplay-Regular.ttf",
+    "source_sha256": "3dd456595e9226472ab8adaf9408400c671b97dbba241d883d05e2ab70ceadac",
+    "license": "SIL Open Font License 1.1",
+    "notices": [
+      "licenses/Noto-notices.txt",
+      "licenses/NotoSansDisplay-Regular-embedded-notices.txt"
+    ],
+    "ttf": "fonts/IonCurrent-Regular.ttf",
+    "woff2": "fonts/IonCurrent-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 2840,
+      "glyphs": 3316,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -389,
+      "y_max": 1072,
+      "hhea_ascent": 1092,
+      "hhea_descent": -409,
+      "win_ascent": 1092,
+      "win_descent": 409
+    },
+    "sha256": {
+      "ttf": "655d2ad9a81a7b200c34ac290fe5d1ea1605d3079efed7859e1359e72d4e6e7e",
+      "woff2": "f13bf7c1cd477df1247a609005729448e7924b2fcf732cf4cb991b1cce436b25"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Geometric sans for display. 1-storey a, single-storey g, elbow Q tail, cut r terminal, angle t foot and square dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.66; A bar at 43% cap height; M join at 2% cap height.",
+      "Advance spacing +8 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Ion Current",
+      "source": "display",
+      "anatomy": "Geometric",
+      "k": 0.66,
+      "a": 1,
+      "g": 1,
+      "q": "elbow",
+      "m": 0.02,
+      "bar": 0.43,
+      "r": "cut",
+      "t": "angle",
+      "dot": "square",
+      "tracking": 8,
+      "use": "display",
+      "index": 2
+    },
+    "dimensions": {
+      "cap_height": 714,
+      "x_height": 536,
+      "stem": 89,
+      "bowl_tension": 0.66
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/IonCurrent.png",
+    "ascii_outline_fingerprint": "8e1e9549b303ecb705b8e01a0cad879eee570d4640d0335f9c4ba5081ed3c8c5",
+    "source_ascii_outline_fingerprint": "8cfa83309e88caf79d984e947cf9abb974754f34986c5a5ae9f1ee3259da49e5",
+    "file_sizes": {
+      "ttf": 349632,
+      "woff2": 127016
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Iris Clear",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Humanist",
+    "intended_use": "reading",
+    "description": "Humanist sans for reading. 2-storey a, single-storey g, sweep Q tail, wedge r terminal, curve t foot and round dots.",
+    "basis_and_license": "Open Sans Regular; Apache License 2.0",
+    "source": "Open Sans Regular",
+    "source_file": "sources/OpenSans-Regular.ttf",
+    "source_sha256": "e64e508b2aa2880f907e470c4550980ec4c0694d103a43f36150ac3f93189bee",
+    "license": "Apache License 2.0",
+    "notices": [
+      "licenses/OpenSans-notices.txt",
+      "licenses/OpenSans-Regular-embedded-notices.txt",
+      "licenses/Apache-2.0.txt"
+    ],
+    "ttf": "fonts/IrisClear-Regular.ttf",
+    "woff2": "fonts/IrisClear-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 883,
+      "glyphs": 938,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -555,
+      "y_max": 2146,
+      "hhea_ascent": 2189,
+      "hhea_descent": -600,
+      "win_ascent": 2189,
+      "win_descent": 600
+    },
+    "sha256": {
+      "ttf": "7e0e92be7ba1eb350fb2afbf6f7b6a3e69a4cca1abb6ee6d6e7726bebcfb4636",
+      "woff2": "5da00d4c37b4d2a5d95c9c245a454cbf289edc972539ec7feccd8099d8504cf3"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Humanist sans for reading. 2-storey a, single-storey g, sweep Q tail, wedge r terminal, curve t foot and round dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.5; A bar at 35% cap height; M join at 23% cap height.",
+      "Advance spacing +9 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Iris Clear",
+      "source": "open",
+      "anatomy": "Humanist",
+      "k": 0.5,
+      "a": 2,
+      "g": 1,
+      "q": "sweep",
+      "m": 0.23,
+      "bar": 0.35,
+      "r": "wedge",
+      "t": "curve",
+      "dot": "round",
+      "tracking": 9,
+      "use": "reading",
+      "index": 3
+    },
+    "dimensions": {
+      "cap_height": 1462,
+      "x_height": 1096,
+      "stem": 172,
+      "bowl_tension": 0.5
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/IrisClear.png",
+    "ascii_outline_fingerprint": "ee8122d28a9159b4adc59ced2e90e0d1f503989ea2612db586fed3f810fabd9b",
+    "source_ascii_outline_fingerprint": "2894771b425ff6a9a25e904050b3434fc5fa86e4b83c1977bf0436f3c2712c58",
+    "file_sizes": {
+      "ttf": 87324,
+      "woff2": 37216
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Jasper Way",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Grotesque",
+    "intended_use": "reading",
+    "description": "Grotesque sans for reading. 2-storey a, two-loop g, hook Q tail, flat r terminal, curve t foot and diamond dots.",
+    "basis_and_license": "DejaVu Sans; Bitstream Vera / Arev licenses; DejaVu additions public domain",
+    "source": "DejaVu Sans",
+    "source_file": "sources/DejaVuSans.ttf",
+    "source_sha256": "57f73e11f51999432bf7ab22ce55b6f945d5eca1bf824404cfa9ec2e3718c84e",
+    "license": "Bitstream Vera / Arev licenses; DejaVu additions public domain",
+    "notices": [
+      "licenses/DejaVu-notices.txt",
+      "licenses/DejaVuSans-embedded-notices.txt"
+    ],
+    "ttf": "fonts/JasperWay-Regular.ttf",
+    "woff2": "fonts/JasperWay-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 1666,
+      "glyphs": 1806,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -615,
+      "y_max": 2192,
+      "hhea_ascent": 2212,
+      "hhea_descent": -635,
+      "win_ascent": 2212,
+      "win_descent": 635
+    },
+    "sha256": {
+      "ttf": "38df2960e59185d0b1044ee17f058e5fb44d0203a23881fb2f3022750a507aeb",
+      "woff2": "ea88fd862fd198a61a7a41c72a6a59552b25408fc24b2f6789d75c31aa9318d3"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Grotesque sans for reading. 2-storey a, two-loop g, hook Q tail, flat r terminal, curve t foot and diamond dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.61; A bar at 37% cap height; M join at 12% cap height.",
+      "Advance spacing +1 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Jasper Way",
+      "source": "dejavu",
+      "anatomy": "Grotesque",
+      "k": 0.61,
+      "a": 2,
+      "g": 2,
+      "q": "hook",
+      "m": 0.12,
+      "bar": 0.37,
+      "r": "flat",
+      "t": "curve",
+      "dot": "diamond",
+      "tracking": 1,
+      "use": "reading",
+      "index": 4
+    },
+    "dimensions": {
+      "cap_height": 1493,
+      "x_height": 1120,
+      "stem": 181,
+      "bowl_tension": 0.61
+    },
+    "source_subset_applied": true,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/JasperWay.png",
+    "ascii_outline_fingerprint": "16ec5194207b13cce395a2d12463037e0352209d6595c27d5b0da6085d6fe2e8",
+    "source_ascii_outline_fingerprint": "b6c782bf770132b55b294b0279c9f8deb04cc7327299568a698ffc5d2ac6a83e",
+    "file_sizes": {
+      "ttf": 164888,
+      "woff2": 59164
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Juniper Line",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Humanist",
+    "intended_use": "reading",
+    "description": "Humanist sans for reading. 1-storey a, single-storey g, diagonal Q tail, wedge r terminal, angle t foot and round dots.",
+    "basis_and_license": "Noto Sans Regular; SIL Open Font License 1.1",
+    "source": "Noto Sans Regular",
+    "source_file": "sources/NotoSans-Regular.ttf",
+    "source_sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d",
+    "license": "SIL Open Font License 1.1",
+    "notices": [
+      "licenses/Noto-notices.txt",
+      "licenses/NotoSans-Regular-embedded-notices.txt"
+    ],
+    "ttf": "fonts/JuniperLine-Regular.ttf",
+    "woff2": "fonts/JuniperLine-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 2840,
+      "glyphs": 3317,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -389,
+      "y_max": 1067,
+      "hhea_ascent": 1087,
+      "hhea_descent": -409,
+      "win_ascent": 1087,
+      "win_descent": 409
+    },
+    "sha256": {
+      "ttf": "de3b64afdc8ade64aa9653bfb942d497e0efef61d64b3457d6c9ebac3d3aab30",
+      "woff2": "aa13604417d29d52ce789bd7addfa9f71deaba02c5708021cd3775d6923e2ec7"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Humanist sans for reading. 1-storey a, single-storey g, diagonal Q tail, wedge r terminal, angle t foot and round dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.57; A bar at 29% cap height; M join at 27% cap height.",
+      "Advance spacing +10 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Juniper Line",
+      "source": "noto",
+      "anatomy": "Humanist",
+      "k": 0.57,
+      "a": 1,
+      "g": 1,
+      "q": "diagonal",
+      "m": 0.27,
+      "bar": 0.29,
+      "r": "wedge",
+      "t": "angle",
+      "dot": "round",
+      "tracking": 10,
+      "use": "reading",
+      "index": 5
+    },
+    "dimensions": {
+      "cap_height": 714,
+      "x_height": 536,
+      "stem": 86,
+      "bowl_tension": 0.57
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/JuniperLine.png",
+    "ascii_outline_fingerprint": "8f1c16b7d53be4515b50fc8fb75687920b433dc321afb22c06817bb28a983304",
+    "source_ascii_outline_fingerprint": "0cd27acfffe334d721afee5a2c1e291e5c5a4981e9a843f2c12f374cd1c3c817",
+    "file_sizes": {
+      "ttf": 351520,
+      "woff2": 125208
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Juno Panel",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Geometric",
+    "intended_use": "display",
+    "description": "Geometric sans for display. 1-storey a, two-loop g, elbow Q tail, flat r terminal, flat t foot and square dots.",
+    "basis_and_license": "Noto Sans Display Regular; SIL Open Font License 1.1",
+    "source": "Noto Sans Display Regular",
+    "source_file": "sources/NotoSansDisplay-Regular.ttf",
+    "source_sha256": "3dd456595e9226472ab8adaf9408400c671b97dbba241d883d05e2ab70ceadac",
+    "license": "SIL Open Font License 1.1",
+    "notices": [
+      "licenses/Noto-notices.txt",
+      "licenses/NotoSansDisplay-Regular-embedded-notices.txt"
+    ],
+    "ttf": "fonts/JunoPanel-Regular.ttf",
+    "woff2": "fonts/JunoPanel-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 2840,
+      "glyphs": 3316,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -389,
+      "y_max": 1072,
+      "hhea_ascent": 1092,
+      "hhea_descent": -409,
+      "win_ascent": 1092,
+      "win_descent": 409
+    },
+    "sha256": {
+      "ttf": "2f1dcf594b8e69b4d000d139c5c2c69077bfa426e55aa4edc028a367b79a9b31",
+      "woff2": "6184ff65d48ac93f5c9148632fab23c14c7f2351638e3e5898bf4aced83a21c7"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Geometric sans for display. 1-storey a, two-loop g, elbow Q tail, flat r terminal, flat t foot and square dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.72; A bar at 47% cap height; M join at 4% cap height.",
+      "Advance spacing +0 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Juno Panel",
+      "source": "display",
+      "anatomy": "Geometric",
+      "k": 0.72,
+      "a": 1,
+      "g": 2,
+      "q": "elbow",
+      "m": 0.04,
+      "bar": 0.47,
+      "r": "flat",
+      "t": "flat",
+      "dot": "square",
+      "tracking": 0,
+      "use": "display",
+      "index": 6
+    },
+    "dimensions": {
+      "cap_height": 714,
+      "x_height": 536,
+      "stem": 87,
+      "bowl_tension": 0.72
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/JunoPanel.png",
+    "ascii_outline_fingerprint": "8c8756cf2494b48dde1b56118a6acd735d98524e6620cd5052b3cb1f732e7dfb",
+    "source_ascii_outline_fingerprint": "8cfa83309e88caf79d984e947cf9abb974754f34986c5a5ae9f1ee3259da49e5",
+    "file_sizes": {
+      "ttf": 349788,
+      "woff2": 127268
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Kestrel Air",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Humanist",
+    "intended_use": "reading",
+    "description": "Humanist sans for reading. 2-storey a, single-storey g, hook Q tail, cut r terminal, curve t foot and diamond dots.",
+    "basis_and_license": "Open Sans Regular; Apache License 2.0",
+    "source": "Open Sans Regular",
+    "source_file": "sources/OpenSans-Regular.ttf",
+    "source_sha256": "e64e508b2aa2880f907e470c4550980ec4c0694d103a43f36150ac3f93189bee",
+    "license": "Apache License 2.0",
+    "notices": [
+      "licenses/OpenSans-notices.txt",
+      "licenses/OpenSans-Regular-embedded-notices.txt",
+      "licenses/Apache-2.0.txt"
+    ],
+    "ttf": "fonts/KestrelAir-Regular.ttf",
+    "woff2": "fonts/KestrelAir-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 883,
+      "glyphs": 938,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -555,
+      "y_max": 2146,
+      "hhea_ascent": 2189,
+      "hhea_descent": -600,
+      "win_ascent": 2189,
+      "win_descent": 600
+    },
+    "sha256": {
+      "ttf": "48f7b88b098f4972033b0ebfdb6f1fdc9750447f4bd1141ce2ebc075daf5aa87",
+      "woff2": "7c4401a018b783c5d6e77211a14ab7a10a96e1f589b02c4f03c288a8b82273a3"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Humanist sans for reading. 2-storey a, single-storey g, hook Q tail, cut r terminal, curve t foot and diamond dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.52; A bar at 32% cap height; M join at 18% cap height.",
+      "Advance spacing +5 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Kestrel Air",
+      "source": "open",
+      "anatomy": "Humanist",
+      "k": 0.52,
+      "a": 2,
+      "g": 1,
+      "q": "hook",
+      "m": 0.18,
+      "bar": 0.32,
+      "r": "cut",
+      "t": "curve",
+      "dot": "diamond",
+      "tracking": 5,
+      "use": "reading",
+      "index": 7
+    },
+    "dimensions": {
+      "cap_height": 1462,
+      "x_height": 1096,
+      "stem": 169,
+      "bowl_tension": 0.52
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/KestrelAir.png",
+    "ascii_outline_fingerprint": "696e8e37869c4c76fb2cffe71a7dfdea498d8a0707cdf53d61d377c637babcb6",
+    "source_ascii_outline_fingerprint": "2894771b425ff6a9a25e904050b3434fc5fa86e4b83c1977bf0436f3c2712c58",
+    "file_sizes": {
+      "ttf": 87316,
+      "woff2": 37164
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Kiln Form",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Geometric",
+    "intended_use": "display",
+    "description": "Geometric sans for display. 1-storey a, single-storey g, diagonal Q tail, flat r terminal, angle t foot and square dots.",
+    "basis_and_license": "Liberation Sans Regular; SIL Open Font License 1.1",
+    "source": "Liberation Sans Regular",
+    "source_file": "sources/LiberationSans-Regular.ttf",
+    "source_sha256": "bade59d822652f76e6941aa87b40a87c13d1cc70db98ededb5011127efafd1d3",
+    "license": "SIL Open Font License 1.1",
+    "notices": [
+      "licenses/Liberation-notices.txt",
+      "licenses/LiberationSans-Regular-embedded-notices.txt"
+    ],
+    "ttf": "fonts/KilnForm-Regular.ttf",
+    "woff2": "fonts/KilnForm-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 2327,
+      "glyphs": 2620,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -621,
+      "y_max": 2007,
+      "hhea_ascent": 2027,
+      "hhea_descent": -641,
+      "win_ascent": 2027,
+      "win_descent": 641
+    },
+    "sha256": {
+      "ttf": "d30dc985a7172fb19a53d422fcba9f93902c57b268563a3c5812634e553ef674",
+      "woff2": "694b9bf1ffcceef5a2faf008973c3b97907937c6a3474a09de788a9bb08f39db"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Geometric sans for display. 1-storey a, single-storey g, diagonal Q tail, flat r terminal, angle t foot and square dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.7; A bar at 46% cap height; M join at 0% cap height.",
+      "Advance spacing +7 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Kiln Form",
+      "source": "liberation",
+      "anatomy": "Geometric",
+      "k": 0.7,
+      "a": 1,
+      "g": 1,
+      "q": "diagonal",
+      "m": 0.0,
+      "bar": 0.46,
+      "r": "flat",
+      "t": "angle",
+      "dot": "square",
+      "tracking": 7,
+      "use": "display",
+      "index": 8
+    },
+    "dimensions": {
+      "cap_height": 1409,
+      "x_height": 1082,
+      "stem": 186,
+      "bowl_tension": 0.7
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/KilnForm.png",
+    "ascii_outline_fingerprint": "f7c1c28a0860644b7f3f890b8231892d18727b98f2e65b54e7c86a81322fcbe3",
+    "source_ascii_outline_fingerprint": "464b031c537b302c3d6b484e2ca8459084714c7f0fbc8e39e48342eebfa4e77c",
+    "file_sizes": {
+      "ttf": 235716,
+      "woff2": 86680
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Kinetic Park",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Humanist",
+    "intended_use": "display",
+    "description": "Humanist sans for display. 2-storey a, single-storey g, sweep Q tail, wedge r terminal, curve t foot and diamond dots.",
+    "basis_and_license": "Noto Sans Display Regular; SIL Open Font License 1.1",
+    "source": "Noto Sans Display Regular",
+    "source_file": "sources/NotoSansDisplay-Regular.ttf",
+    "source_sha256": "3dd456595e9226472ab8adaf9408400c671b97dbba241d883d05e2ab70ceadac",
+    "license": "SIL Open Font License 1.1",
+    "notices": [
+      "licenses/Noto-notices.txt",
+      "licenses/NotoSansDisplay-Regular-embedded-notices.txt"
+    ],
+    "ttf": "fonts/KineticPark-Regular.ttf",
+    "woff2": "fonts/KineticPark-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 2840,
+      "glyphs": 3316,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -389,
+      "y_max": 1072,
+      "hhea_ascent": 1092,
+      "hhea_descent": -409,
+      "win_ascent": 1092,
+      "win_descent": 409
+    },
+    "sha256": {
+      "ttf": "0c1617178836d9cfe1865274e87d5c60cd2730e5d706096c67d998eac60aa361",
+      "woff2": "b99a76acc4f01036e20404726562e364b88254d02f1671b16105fb2942563473"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Humanist sans for display. 2-storey a, single-storey g, sweep Q tail, wedge r terminal, curve t foot and diamond dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.56; A bar at 39% cap height; M join at 29% cap height.",
+      "Advance spacing +4 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Kinetic Park",
+      "source": "display",
+      "anatomy": "Humanist",
+      "k": 0.56,
+      "a": 2,
+      "g": 1,
+      "q": "sweep",
+      "m": 0.29,
+      "bar": 0.39,
+      "r": "wedge",
+      "t": "curve",
+      "dot": "diamond",
+      "tracking": 4,
+      "use": "display",
+      "index": 9
+    },
+    "dimensions": {
+      "cap_height": 714,
+      "x_height": 536,
+      "stem": 86,
+      "bowl_tension": 0.56
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/KineticPark.png",
+    "ascii_outline_fingerprint": "386bb72f431196fac924deaf9b941f1042c612175270fea2423b23ff83e48200",
+    "source_ascii_outline_fingerprint": "8cfa83309e88caf79d984e947cf9abb974754f34986c5a5ae9f1ee3259da49e5",
+    "file_sizes": {
+      "ttf": 350016,
+      "woff2": 127280
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Linden Field",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Humanist",
+    "intended_use": "reading",
+    "description": "Humanist sans for reading. 2-storey a, two-loop g, hook Q tail, flat r terminal, curve t foot and round dots.",
+    "basis_and_license": "Noto Sans Regular; SIL Open Font License 1.1",
+    "source": "Noto Sans Regular",
+    "source_file": "sources/NotoSans-Regular.ttf",
+    "source_sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d",
+    "license": "SIL Open Font License 1.1",
+    "notices": [
+      "licenses/Noto-notices.txt",
+      "licenses/NotoSans-Regular-embedded-notices.txt"
+    ],
+    "ttf": "fonts/LindenField-Regular.ttf",
+    "woff2": "fonts/LindenField-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 2840,
+      "glyphs": 3317,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -389,
+      "y_max": 1067,
+      "hhea_ascent": 1087,
+      "hhea_descent": -409,
+      "win_ascent": 1087,
+      "win_descent": 409
+    },
+    "sha256": {
+      "ttf": "95e8c789d5d09f7515564100a6fc2e4e4f317535e701a1c8e1db4957812bba5c",
+      "woff2": "e4ef709c9585776635f52ced520646876b7ab7a78f6cc64a71d86e5c61866ae0"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Humanist sans for reading. 2-storey a, two-loop g, hook Q tail, flat r terminal, curve t foot and round dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.53; A bar at 34% cap height; M join at 21% cap height.",
+      "Advance spacing +8 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Linden Field",
+      "source": "noto",
+      "anatomy": "Humanist",
+      "k": 0.53,
+      "a": 2,
+      "g": 2,
+      "q": "hook",
+      "m": 0.21,
+      "bar": 0.34,
+      "r": "flat",
+      "t": "curve",
+      "dot": "round",
+      "tracking": 8,
+      "use": "reading",
+      "index": 10
+    },
+    "dimensions": {
+      "cap_height": 714,
+      "x_height": 536,
+      "stem": 86,
+      "bowl_tension": 0.53
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/LindenField.png",
+    "ascii_outline_fingerprint": "6cb1e14710c5cade3079020d04518287155beb485987efb2079bed3ef2bd0707",
+    "source_ascii_outline_fingerprint": "0cd27acfffe334d721afee5a2c1e291e5c5a4981e9a843f2c12f374cd1c3c817",
+    "file_sizes": {
+      "ttf": 351688,
+      "woff2": 125128
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Lumen Circle",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Geometric",
+    "intended_use": "display",
+    "description": "Geometric sans for display. 1-storey a, single-storey g, elbow Q tail, cut r terminal, flat t foot and round dots.",
+    "basis_and_license": "Liberation Sans Regular; SIL Open Font License 1.1",
+    "source": "Liberation Sans Regular",
+    "source_file": "sources/LiberationSans-Regular.ttf",
+    "source_sha256": "bade59d822652f76e6941aa87b40a87c13d1cc70db98ededb5011127efafd1d3",
+    "license": "SIL Open Font License 1.1",
+    "notices": [
+      "licenses/Liberation-notices.txt",
+      "licenses/LiberationSans-Regular-embedded-notices.txt"
+    ],
+    "ttf": "fonts/LumenCircle-Regular.ttf",
+    "woff2": "fonts/LumenCircle-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 2327,
+      "glyphs": 2620,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -621,
+      "y_max": 2007,
+      "hhea_ascent": 2027,
+      "hhea_descent": -641,
+      "win_ascent": 2027,
+      "win_descent": 641
+    },
+    "sha256": {
+      "ttf": "d68f732328699c59d9932749768ee0808243063348ad47daa8a06de6d05a78ee",
+      "woff2": "4302510152386d9cd707ca4b00ef8db7249a431fd3fb88da8a28b5dd860f91f2"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Geometric sans for display. 1-storey a, single-storey g, elbow Q tail, cut r terminal, flat t foot and round dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.551; A bar at 45% cap height; M join at 6% cap height.",
+      "Advance spacing +12 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Lumen Circle",
+      "source": "liberation",
+      "anatomy": "Geometric",
+      "k": 0.551,
+      "a": 1,
+      "g": 1,
+      "q": "elbow",
+      "m": 0.06,
+      "bar": 0.45,
+      "r": "cut",
+      "t": "flat",
+      "dot": "round",
+      "tracking": 12,
+      "use": "display",
+      "index": 11
+    },
+    "dimensions": {
+      "cap_height": 1409,
+      "x_height": 1082,
+      "stem": 180,
+      "bowl_tension": 0.551
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/LumenCircle.png",
+    "ascii_outline_fingerprint": "06d56c38bf75722e02954739af84c14dac33db641dde6433ae86f412fd78c8ab",
+    "source_ascii_outline_fingerprint": "464b031c537b302c3d6b484e2ca8459084714c7f0fbc8e39e48342eebfa4e77c",
+    "file_sizes": {
+      "ttf": 235904,
+      "woff2": 86472
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Lyra Voice",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Humanist",
+    "intended_use": "reading",
+    "description": "Humanist sans for reading. 1-storey a, two-loop g, sweep Q tail, wedge r terminal, angle t foot and diamond dots.",
+    "basis_and_license": "Open Sans Regular; Apache License 2.0",
+    "source": "Open Sans Regular",
+    "source_file": "sources/OpenSans-Regular.ttf",
+    "source_sha256": "e64e508b2aa2880f907e470c4550980ec4c0694d103a43f36150ac3f93189bee",
+    "license": "Apache License 2.0",
+    "notices": [
+      "licenses/OpenSans-notices.txt",
+      "licenses/OpenSans-Regular-embedded-notices.txt",
+      "licenses/Apache-2.0.txt"
+    ],
+    "ttf": "fonts/LyraVoice-Regular.ttf",
+    "woff2": "fonts/LyraVoice-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 883,
+      "glyphs": 938,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -555,
+      "y_max": 2146,
+      "hhea_ascent": 2189,
+      "hhea_descent": -600,
+      "win_ascent": 2189,
+      "win_descent": 600
+    },
+    "sha256": {
+      "ttf": "509cf2f17292dbf806666604976d6fbccc81ceeb39c445f9b1c780fd31abd8d8",
+      "woff2": "aab562f044a75273d42c664a074ec6ddf97035cb6346cb612a7962dadd719a06"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Humanist sans for reading. 1-storey a, two-loop g, sweep Q tail, wedge r terminal, angle t foot and diamond dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.58; A bar at 30% cap height; M join at 25% cap height.",
+      "Advance spacing +3 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Lyra Voice",
+      "source": "open",
+      "anatomy": "Humanist",
+      "k": 0.58,
+      "a": 1,
+      "g": 2,
+      "q": "sweep",
+      "m": 0.25,
+      "bar": 0.3,
+      "r": "wedge",
+      "t": "angle",
+      "dot": "diamond",
+      "tracking": 3,
+      "use": "reading",
+      "index": 12
+    },
+    "dimensions": {
+      "cap_height": 1462,
+      "x_height": 1096,
+      "stem": 169,
+      "bowl_tension": 0.58
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/LyraVoice.png",
+    "ascii_outline_fingerprint": "b742eda1449f87caa6d8378a9736d135e6616114769e89abbde66d03c52491e5",
+    "source_ascii_outline_fingerprint": "2894771b425ff6a9a25e904050b3434fc5fa86e4b83c1977bf0436f3c2712c58",
+    "file_sizes": {
+      "ttf": 87244,
+      "woff2": 37064
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Mica Grid",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Geometric",
+    "intended_use": "display",
+    "description": "Geometric sans for display. 1-storey a, single-storey g, elbow Q tail, flat r terminal, flat t foot and square dots.",
+    "basis_and_license": "DejaVu Sans; Bitstream Vera / Arev licenses; DejaVu additions public domain",
+    "source": "DejaVu Sans",
+    "source_file": "sources/DejaVuSans.ttf",
+    "source_sha256": "57f73e11f51999432bf7ab22ce55b6f945d5eca1bf824404cfa9ec2e3718c84e",
+    "license": "Bitstream Vera / Arev licenses; DejaVu additions public domain",
+    "notices": [
+      "licenses/DejaVu-notices.txt",
+      "licenses/DejaVuSans-embedded-notices.txt"
+    ],
+    "ttf": "fonts/MicaGrid-Regular.ttf",
+    "woff2": "fonts/MicaGrid-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 1666,
+      "glyphs": 1806,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -615,
+      "y_max": 2192,
+      "hhea_ascent": 2212,
+      "hhea_descent": -635,
+      "win_ascent": 2212,
+      "win_descent": 635
+    },
+    "sha256": {
+      "ttf": "7de0f884be382b8aeff16a3f64be83c68330e0047e443d1497886104aa4e6c43",
+      "woff2": "089a837bff9c8ff7bf639b1ee2f3876b1c84461e963b8294fe75afae8a66d09c"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Geometric sans for display. 1-storey a, single-storey g, elbow Q tail, flat r terminal, flat t foot and square dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.73; A bar at 48% cap height; M join at 3% cap height.",
+      "Advance spacing +5 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Mica Grid",
+      "source": "dejavu",
+      "anatomy": "Geometric",
+      "k": 0.73,
+      "a": 1,
+      "g": 1,
+      "q": "elbow",
+      "m": 0.03,
+      "bar": 0.48,
+      "r": "flat",
+      "t": "flat",
+      "dot": "square",
+      "tracking": 5,
+      "use": "display",
+      "index": 13
+    },
+    "dimensions": {
+      "cap_height": 1493,
+      "x_height": 1120,
+      "stem": 190,
+      "bowl_tension": 0.73
+    },
+    "source_subset_applied": true,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/MicaGrid.png",
+    "ascii_outline_fingerprint": "a864ae9b76492cedc8a9bf60027e34c46a372240c223e6603a9da013d6a3f4bf",
+    "source_ascii_outline_fingerprint": "b6c782bf770132b55b294b0279c9f8deb04cc7327299568a698ffc5d2ac6a83e",
+    "file_sizes": {
+      "ttf": 164708,
+      "woff2": 58960
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Mosaic Arc",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Geometric",
+    "intended_use": "display",
+    "description": "Geometric sans for display. 2-storey a, two-loop g, diagonal Q tail, cut r terminal, angle t foot and round dots.",
+    "basis_and_license": "Noto Sans Display Regular; SIL Open Font License 1.1",
+    "source": "Noto Sans Display Regular",
+    "source_file": "sources/NotoSansDisplay-Regular.ttf",
+    "source_sha256": "3dd456595e9226472ab8adaf9408400c671b97dbba241d883d05e2ab70ceadac",
+    "license": "SIL Open Font License 1.1",
+    "notices": [
+      "licenses/Noto-notices.txt",
+      "licenses/NotoSansDisplay-Regular-embedded-notices.txt"
+    ],
+    "ttf": "fonts/MosaicArc-Regular.ttf",
+    "woff2": "fonts/MosaicArc-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 2840,
+      "glyphs": 3316,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -389,
+      "y_max": 1072,
+      "hhea_ascent": 1092,
+      "hhea_descent": -409,
+      "win_ascent": 1092,
+      "win_descent": 409
+    },
+    "sha256": {
+      "ttf": "65cd26d65cafe2d963fc85747b72db32f849446131f80c33558355e8b7d02695",
+      "woff2": "26d746b15225cbab0afde0fc66629e636d7cd73b6dd0cd333c15f9d9200a1d45"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Geometric sans for display. 2-storey a, two-loop g, diagonal Q tail, cut r terminal, angle t foot and round dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.63; A bar at 42% cap height; M join at 10% cap height.",
+      "Advance spacing +9 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Mosaic Arc",
+      "source": "display",
+      "anatomy": "Geometric",
+      "k": 0.63,
+      "a": 2,
+      "g": 2,
+      "q": "diagonal",
+      "m": 0.1,
+      "bar": 0.42,
+      "r": "cut",
+      "t": "angle",
+      "dot": "round",
+      "tracking": 9,
+      "use": "display",
+      "index": 14
+    },
+    "dimensions": {
+      "cap_height": 714,
+      "x_height": 536,
+      "stem": 86,
+      "bowl_tension": 0.63
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/MosaicArc.png",
+    "ascii_outline_fingerprint": "0eb44cd98524a00c5e9c06b8eec45ab6e37a1dea99d8360a9b0ac54c9ed47d93",
+    "source_ascii_outline_fingerprint": "8cfa83309e88caf79d984e947cf9abb974754f34986c5a5ae9f1ee3259da49e5",
+    "file_sizes": {
+      "ttf": 349836,
+      "woff2": 127304
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Myrtle Read",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Humanist",
+    "intended_use": "reading",
+    "description": "Humanist sans for reading. 2-storey a, two-loop g, hook Q tail, wedge r terminal, curve t foot and round dots.",
+    "basis_and_license": "Open Sans Regular; Apache License 2.0",
+    "source": "Open Sans Regular",
+    "source_file": "sources/OpenSans-Regular.ttf",
+    "source_sha256": "e64e508b2aa2880f907e470c4550980ec4c0694d103a43f36150ac3f93189bee",
+    "license": "Apache License 2.0",
+    "notices": [
+      "licenses/OpenSans-notices.txt",
+      "licenses/OpenSans-Regular-embedded-notices.txt",
+      "licenses/Apache-2.0.txt"
+    ],
+    "ttf": "fonts/MyrtleRead-Regular.ttf",
+    "woff2": "fonts/MyrtleRead-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 883,
+      "glyphs": 938,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -555,
+      "y_max": 2146,
+      "hhea_ascent": 2189,
+      "hhea_descent": -600,
+      "win_ascent": 2189,
+      "win_descent": 600
+    },
+    "sha256": {
+      "ttf": "4aff756e022aad9d4a482e0d0e8b8047c1c8d68e46ca82b6cbd1d4ae7095b515",
+      "woff2": "65c8593fa13bde7ffcfac5876cc0943e80d0c31ab2eeeaebf37886a711b80e89"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Humanist sans for reading. 2-storey a, two-loop g, hook Q tail, wedge r terminal, curve t foot and round dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.545; A bar at 36% cap height; M join at 16% cap height.",
+      "Advance spacing +11 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Myrtle Read",
+      "source": "open",
+      "anatomy": "Humanist",
+      "k": 0.545,
+      "a": 2,
+      "g": 2,
+      "q": "hook",
+      "m": 0.16,
+      "bar": 0.36,
+      "r": "wedge",
+      "t": "curve",
+      "dot": "round",
+      "tracking": 11,
+      "use": "reading",
+      "index": 15
+    },
+    "dimensions": {
+      "cap_height": 1462,
+      "x_height": 1096,
+      "stem": 162,
+      "bowl_tension": 0.545
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/MyrtleRead.png",
+    "ascii_outline_fingerprint": "30746feed6b35a11454d155e6955c89b6483f325f0f5964f4f33976151679b21",
+    "source_ascii_outline_fingerprint": "2894771b425ff6a9a25e904050b3434fc5fa86e4b83c1977bf0436f3c2712c58",
+    "file_sizes": {
+      "ttf": 87364,
+      "woff2": 37336
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Nimbus Way",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Grotesque",
+    "intended_use": "reading",
+    "description": "Grotesque sans for reading. 2-storey a, single-storey g, diagonal Q tail, flat r terminal, flat t foot and square dots.",
+    "basis_and_license": "Noto Sans Regular; SIL Open Font License 1.1",
+    "source": "Noto Sans Regular",
+    "source_file": "sources/NotoSans-Regular.ttf",
+    "source_sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d",
+    "license": "SIL Open Font License 1.1",
+    "notices": [
+      "licenses/Noto-notices.txt",
+      "licenses/NotoSans-Regular-embedded-notices.txt"
+    ],
+    "ttf": "fonts/NimbusWay-Regular.ttf",
+    "woff2": "fonts/NimbusWay-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 2840,
+      "glyphs": 3317,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -389,
+      "y_max": 1067,
+      "hhea_ascent": 1087,
+      "hhea_descent": -409,
+      "win_ascent": 1087,
+      "win_descent": 409
+    },
+    "sha256": {
+      "ttf": "2e6f411f3b7c1830c99fd9a0cd379d773b26a91dc7ae5aebe6e7ce6045823dff",
+      "woff2": "5b87fe9ba25dd7ec29aa5d390032eac3bc3b70a458869321cf3ab937c58adddd"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Grotesque sans for reading. 2-storey a, single-storey g, diagonal Q tail, flat r terminal, flat t foot and square dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.62; A bar at 41% cap height; M join at 9% cap height.",
+      "Advance spacing +2 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Nimbus Way",
+      "source": "noto",
+      "anatomy": "Grotesque",
+      "k": 0.62,
+      "a": 2,
+      "g": 1,
+      "q": "diagonal",
+      "m": 0.09,
+      "bar": 0.41,
+      "r": "flat",
+      "t": "flat",
+      "dot": "square",
+      "tracking": 2,
+      "use": "reading",
+      "index": 16
+    },
+    "dimensions": {
+      "cap_height": 714,
+      "x_height": 536,
+      "stem": 88,
+      "bowl_tension": 0.62
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/NimbusWay.png",
+    "ascii_outline_fingerprint": "196761db740e14493b64aafb5854e6f43b65d6d0929b45e8a8c0927777ff76cc",
+    "source_ascii_outline_fingerprint": "0cd27acfffe334d721afee5a2c1e291e5c5a4981e9a843f2c12f374cd1c3c817",
+    "file_sizes": {
+      "ttf": 351392,
+      "woff2": 124724
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Nori Square",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Geometric",
+    "intended_use": "display",
+    "description": "Geometric sans for display. 1-storey a, two-loop g, elbow Q tail, cut r terminal, angle t foot and diamond dots.",
+    "basis_and_license": "Liberation Sans Regular; SIL Open Font License 1.1",
+    "source": "Liberation Sans Regular",
+    "source_file": "sources/LiberationSans-Regular.ttf",
+    "source_sha256": "bade59d822652f76e6941aa87b40a87c13d1cc70db98ededb5011127efafd1d3",
+    "license": "SIL Open Font License 1.1",
+    "notices": [
+      "licenses/Liberation-notices.txt",
+      "licenses/LiberationSans-Regular-embedded-notices.txt"
+    ],
+    "ttf": "fonts/NoriSquare-Regular.ttf",
+    "woff2": "fonts/NoriSquare-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 2327,
+      "glyphs": 2620,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -621,
+      "y_max": 2007,
+      "hhea_ascent": 2027,
+      "hhea_descent": -641,
+      "win_ascent": 2027,
+      "win_descent": 641
+    },
+    "sha256": {
+      "ttf": "64d3ac75529e501aaefc4d2667370a7cc7131409aacb6eb8a91769bed6881f58",
+      "woff2": "e26a9f6bf079fc23c3c8949295d95cd8f5aed770ec36c5bc91be2c2fb1718732"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Geometric sans for display. 1-storey a, two-loop g, elbow Q tail, cut r terminal, angle t foot and diamond dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.75; A bar at 44% cap height; M join at 1% cap height.",
+      "Advance spacing +6 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Nori Square",
+      "source": "liberation",
+      "anatomy": "Geometric",
+      "k": 0.75,
+      "a": 1,
+      "g": 2,
+      "q": "elbow",
+      "m": 0.01,
+      "bar": 0.44,
+      "r": "cut",
+      "t": "angle",
+      "dot": "diamond",
+      "tracking": 6,
+      "use": "display",
+      "index": 17
+    },
+    "dimensions": {
+      "cap_height": 1409,
+      "x_height": 1082,
+      "stem": 183,
+      "bowl_tension": 0.75
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/NoriSquare.png",
+    "ascii_outline_fingerprint": "0694838beb3928585bc65563c2afdbc68b58f4052da825583a9a90cbc5626577",
+    "source_ascii_outline_fingerprint": "464b031c537b302c3d6b484e2ca8459084714c7f0fbc8e39e48342eebfa4e77c",
+    "file_sizes": {
+      "ttf": 235916,
+      "woff2": 86700
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Nova Trace",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Humanist",
+    "intended_use": "display",
+    "description": "Humanist sans for display. 1-storey a, single-storey g, sweep Q tail, wedge r terminal, curve t foot and round dots.",
+    "basis_and_license": "DejaVu Sans; Bitstream Vera / Arev licenses; DejaVu additions public domain",
+    "source": "DejaVu Sans",
+    "source_file": "sources/DejaVuSans.ttf",
+    "source_sha256": "57f73e11f51999432bf7ab22ce55b6f945d5eca1bf824404cfa9ec2e3718c84e",
+    "license": "Bitstream Vera / Arev licenses; DejaVu additions public domain",
+    "notices": [
+      "licenses/DejaVu-notices.txt",
+      "licenses/DejaVuSans-embedded-notices.txt"
+    ],
+    "ttf": "fonts/NovaTrace-Regular.ttf",
+    "woff2": "fonts/NovaTrace-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 1666,
+      "glyphs": 1806,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -615,
+      "y_max": 2192,
+      "hhea_ascent": 2212,
+      "hhea_descent": -635,
+      "win_ascent": 2212,
+      "win_descent": 635
+    },
+    "sha256": {
+      "ttf": "832ea53c15e7ef16f5d05c293fd633dd183c25fde93edbe2bc7099c9b13c48b2",
+      "woff2": "c2c2db446deeb1e8081a8e274eb05ff1ac3a6fbdde7258a5abfcdff8530071ac"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Humanist sans for display. 1-storey a, single-storey g, sweep Q tail, wedge r terminal, curve t foot and round dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.51; A bar at 33% cap height; M join at 31% cap height.",
+      "Advance spacing +8 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Nova Trace",
+      "source": "dejavu",
+      "anatomy": "Humanist",
+      "k": 0.51,
+      "a": 1,
+      "g": 1,
+      "q": "sweep",
+      "m": 0.31,
+      "bar": 0.33,
+      "r": "wedge",
+      "t": "curve",
+      "dot": "round",
+      "tracking": 8,
+      "use": "display",
+      "index": 18
+    },
+    "dimensions": {
+      "cap_height": 1493,
+      "x_height": 1120,
+      "stem": 190,
+      "bowl_tension": 0.51
+    },
+    "source_subset_applied": true,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/NovaTrace.png",
+    "ascii_outline_fingerprint": "239ca7884b5607778b92ee6c19d2a8bb3dd3970d75e984216e340ce9d54be77b",
+    "source_ascii_outline_fingerprint": "b6c782bf770132b55b294b0279c9f8deb04cc7327299568a698ffc5d2ac6a83e",
+    "file_sizes": {
+      "ttf": 164904,
+      "woff2": 59228
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Olive Passage",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Humanist",
+    "intended_use": "reading",
+    "description": "Humanist sans for reading. 2-storey a, single-storey g, hook Q tail, cut r terminal, curve t foot and diamond dots.",
+    "basis_and_license": "Noto Sans Regular; SIL Open Font License 1.1",
+    "source": "Noto Sans Regular",
+    "source_file": "sources/NotoSans-Regular.ttf",
+    "source_sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d",
+    "license": "SIL Open Font License 1.1",
+    "notices": [
+      "licenses/Noto-notices.txt",
+      "licenses/NotoSans-Regular-embedded-notices.txt"
+    ],
+    "ttf": "fonts/OlivePassage-Regular.ttf",
+    "woff2": "fonts/OlivePassage-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 2840,
+      "glyphs": 3317,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -389,
+      "y_max": 1067,
+      "hhea_ascent": 1087,
+      "hhea_descent": -409,
+      "win_ascent": 1087,
+      "win_descent": 409
+    },
+    "sha256": {
+      "ttf": "28f0d0e5888f2ca9fb66b1f1de310d502ec7fbc20daabc68433f151a27d1466d",
+      "woff2": "b1824e76412fde26b8fcfb8ae50a54b0878d3d91b0595ac5be918231db910af5"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Humanist sans for reading. 2-storey a, single-storey g, hook Q tail, cut r terminal, curve t foot and diamond dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.565; A bar at 38% cap height; M join at 19% cap height.",
+      "Advance spacing +12 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Olive Passage",
+      "source": "noto",
+      "anatomy": "Humanist",
+      "k": 0.565,
+      "a": 2,
+      "g": 1,
+      "q": "hook",
+      "m": 0.19,
+      "bar": 0.38,
+      "r": "cut",
+      "t": "curve",
+      "dot": "diamond",
+      "tracking": 12,
+      "use": "reading",
+      "index": 19
+    },
+    "dimensions": {
+      "cap_height": 714,
+      "x_height": 536,
+      "stem": 87,
+      "bowl_tension": 0.565
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/OlivePassage.png",
+    "ascii_outline_fingerprint": "2a61e55d45d6b5497effbe432370da9f24a96a0b4a87dfa230150c307f57edfc",
+    "source_ascii_outline_fingerprint": "0cd27acfffe334d721afee5a2c1e291e5c5a4981e9a843f2c12f374cd1c3c817",
+    "file_sizes": {
+      "ttf": 351588,
+      "woff2": 125248
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Opal Outline",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Geometric",
+    "intended_use": "display",
+    "description": "Geometric sans for display. 1-storey a, two-loop g, diagonal Q tail, flat r terminal, flat t foot and round dots.",
+    "basis_and_license": "Noto Sans Display Regular; SIL Open Font License 1.1",
+    "source": "Noto Sans Display Regular",
+    "source_file": "sources/NotoSansDisplay-Regular.ttf",
+    "source_sha256": "3dd456595e9226472ab8adaf9408400c671b97dbba241d883d05e2ab70ceadac",
+    "license": "SIL Open Font License 1.1",
+    "notices": [
+      "licenses/Noto-notices.txt",
+      "licenses/NotoSansDisplay-Regular-embedded-notices.txt"
+    ],
+    "ttf": "fonts/OpalOutline-Regular.ttf",
+    "woff2": "fonts/OpalOutline-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 2840,
+      "glyphs": 3316,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -389,
+      "y_max": 1072,
+      "hhea_ascent": 1092,
+      "hhea_descent": -409,
+      "win_ascent": 1092,
+      "win_descent": 409
+    },
+    "sha256": {
+      "ttf": "0fe1bdacdb7a6ba93a6983cbf8d3fa70825e5cb0f8f6be404969455918cb55b6",
+      "woff2": "e6d79d6a79973b5b4232815c741338329a884fa8dde6cea51fe4617888b3761b"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Geometric sans for display. 1-storey a, two-loop g, diagonal Q tail, flat r terminal, flat t foot and round dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.69; A bar at 49% cap height; M join at 5% cap height.",
+      "Advance spacing +4 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Opal Outline",
+      "source": "display",
+      "anatomy": "Geometric",
+      "k": 0.69,
+      "a": 1,
+      "g": 2,
+      "q": "diagonal",
+      "m": 0.05,
+      "bar": 0.49,
+      "r": "flat",
+      "t": "flat",
+      "dot": "round",
+      "tracking": 4,
+      "use": "display",
+      "index": 20
+    },
+    "dimensions": {
+      "cap_height": 714,
+      "x_height": 536,
+      "stem": 85,
+      "bowl_tension": 0.69
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/OpalOutline.png",
+    "ascii_outline_fingerprint": "a7a605145d970cdb005c5211380602dc0004225e420a5294379a25eb9d83cfbf",
+    "source_ascii_outline_fingerprint": "8cfa83309e88caf79d984e947cf9abb974754f34986c5a5ae9f1ee3259da49e5",
+    "file_sizes": {
+      "ttf": 349728,
+      "woff2": 127396
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Orbit Span",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Grotesque",
+    "intended_use": "reading",
+    "description": "Grotesque sans for reading. 2-storey a, two-loop g, elbow Q tail, wedge r terminal, angle t foot and square dots.",
+    "basis_and_license": "DejaVu Sans; Bitstream Vera / Arev licenses; DejaVu additions public domain",
+    "source": "DejaVu Sans",
+    "source_file": "sources/DejaVuSans.ttf",
+    "source_sha256": "57f73e11f51999432bf7ab22ce55b6f945d5eca1bf824404cfa9ec2e3718c84e",
+    "license": "Bitstream Vera / Arev licenses; DejaVu additions public domain",
+    "notices": [
+      "licenses/DejaVu-notices.txt",
+      "licenses/DejaVuSans-embedded-notices.txt"
+    ],
+    "ttf": "fonts/OrbitSpan-Regular.ttf",
+    "woff2": "fonts/OrbitSpan-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 1666,
+      "glyphs": 1806,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -615,
+      "y_max": 2192,
+      "hhea_ascent": 2212,
+      "hhea_descent": -635,
+      "win_ascent": 2212,
+      "win_descent": 635
+    },
+    "sha256": {
+      "ttf": "e3b4dd80ea8b37fe4ca4cca70a0007db266630d1b1b81ec7a5f4aff97e96d151",
+      "woff2": "0e1517099889e2f3174d29652ced9f0cfc6681b7b7529d3879a1768c264c5b75"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Grotesque sans for reading. 2-storey a, two-loop g, elbow Q tail, wedge r terminal, angle t foot and square dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.6; A bar at 39% cap height; M join at 14% cap height.",
+      "Advance spacing +10 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Orbit Span",
+      "source": "dejavu",
+      "anatomy": "Grotesque",
+      "k": 0.6,
+      "a": 2,
+      "g": 2,
+      "q": "elbow",
+      "m": 0.14,
+      "bar": 0.39,
+      "r": "wedge",
+      "t": "angle",
+      "dot": "square",
+      "tracking": 10,
+      "use": "reading",
+      "index": 21
+    },
+    "dimensions": {
+      "cap_height": 1493,
+      "x_height": 1120,
+      "stem": 184,
+      "bowl_tension": 0.6
+    },
+    "source_subset_applied": true,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/OrbitSpan.png",
+    "ascii_outline_fingerprint": "4aba40f31797c8542431f15bb946b3911edc70d2a0f24446a94b34e3c7279e05",
+    "source_ascii_outline_fingerprint": "b6c782bf770132b55b294b0279c9f8deb04cc7327299568a698ffc5d2ac6a83e",
+    "file_sizes": {
+      "ttf": 164780,
+      "woff2": 59036
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  },
+  {
+    "family": "Pollen Path",
+    "style": "Regular",
+    "category": "Sans Serif",
+    "subcategory": "Humanist",
+    "intended_use": "reading",
+    "description": "Humanist sans for reading. 1-storey a, single-storey g, sweep Q tail, cut r terminal, curve t foot and square dots.",
+    "basis_and_license": "Open Sans Regular; Apache License 2.0",
+    "source": "Open Sans Regular",
+    "source_file": "sources/OpenSans-Regular.ttf",
+    "source_sha256": "e64e508b2aa2880f907e470c4550980ec4c0694d103a43f36150ac3f93189bee",
+    "license": "Apache License 2.0",
+    "notices": [
+      "licenses/OpenSans-notices.txt",
+      "licenses/OpenSans-Regular-embedded-notices.txt",
+      "licenses/Apache-2.0.txt"
+    ],
+    "ttf": "fonts/PollenPath-Regular.ttf",
+    "woff2": "fonts/PollenPath-Regular.woff2",
+    "coverage": {
+      "unicode_mappings": 883,
+      "glyphs": 938,
+      "ascii_95": true,
+      "latin1_complete": true,
+      "latin_extended_a_complete": true
+    },
+    "bounds": {
+      "y_min": -555,
+      "y_max": 2146,
+      "hhea_ascent": 2189,
+      "hhea_descent": -600,
+      "win_ascent": 2189,
+      "win_descent": 600
+    },
+    "sha256": {
+      "ttf": "42cb41aeea4c0b3307dc81629c24050c7b12b4c03a85238a7e22c1023f3768ea",
+      "woff2": "ac1fb3cfa1ffb00d4997b79ad093e6eb54d82120536b2f8f82dd31766b0cbd18"
+    },
+    "fully_redrawn_characters": "AMOo0CcQGRaegrtijlfI147",
+    "fully_redrawn_count": 23,
+    "change_descriptions": [
+      "Humanist sans for reading. 1-storey a, single-storey g, sweep Q tail, cut r terminal, curve t foot and square dots.",
+      "Fresh outlines for A, M, O, o, 0, C, c, Q, G, R, a, e, g, r, t, i, j, l, f, I, 1, 4, 7.",
+      "Bowl tension 0.525; A bar at 28% cap height; M join at 26% cap height.",
+      "Advance spacing +7 per 1000 em; 12 optical kerning corrections layered onto retained source positioning.",
+      "Inherited extended Latin outlines, source substitutions and source mark anchors retain their original coordinate system; DejaVu bases are conservatively subset to Latin and common symbols."
+    ],
+    "design_parameters": {
+      "family": "Pollen Path",
+      "source": "open",
+      "anatomy": "Humanist",
+      "k": 0.525,
+      "a": 1,
+      "g": 1,
+      "q": "sweep",
+      "m": 0.26,
+      "bar": 0.28,
+      "r": "cut",
+      "t": "curve",
+      "dot": "square",
+      "tracking": 7,
+      "use": "reading",
+      "index": 22
+    },
+    "dimensions": {
+      "cap_height": 1462,
+      "x_height": 1096,
+      "stem": 169,
+      "bowl_tension": 0.525
+    },
+    "source_subset_applied": false,
+    "source_shaping_preserved": true,
+    "global_outline_transform": "identity",
+    "custom_kerning_corrections": 12,
+    "limitations": "Regular upright only. Most non-ASCII outlines are inherited open-license forms. Latin accent composites inherit their redesigned bases. This is a custom derivative, not a wholly original full-character-set design.",
+    "proof": "proofs/PollenPath.png",
+    "ascii_outline_fingerprint": "b35a87bb378a538772d4bcf6b743d77342e7f23e52ac84d958915cdff35a628a",
+    "source_ascii_outline_fingerprint": "2894771b425ff6a9a25e904050b3434fc5fa86e4b83c1977bf0436f3c2712c58",
+    "file_sizes": {
+      "ttf": 87280,
+      "woff2": 37152
+    },
+    "source_shaping_check": "Canonical GSUB/GDEF equality after source subset closure; fontTools may repack binary offsets."
+  }
+]

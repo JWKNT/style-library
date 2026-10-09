@@ -1,0 +1,315 @@
+{
+  "all_pass": true,
+  "count": 22,
+  "unique_ascii_fingerprints": 22,
+  "results": [
+    {
+      "family": "Alderwick Book",
+      "failures": [],
+      "sha256": "7bb63c10ff983fe705e695381da2cf2770f1b0e2b8763e21dd0151c07285f64d",
+      "ascii_fingerprint": "65246aca942e8d0fbdab4e8321995c368b64713bd99e6570ad9857b59268b30b",
+      "all_bounds": {
+        "min": -385,
+        "max": 1048,
+        "hhea_ascent": 1068,
+        "hhea_descent": -405
+      },
+      "ttf_bytes": 287300,
+      "woff2_bytes": 72316
+    },
+    {
+      "family": "Ambermere Text",
+      "failures": [],
+      "sha256": "b5b85e24e6dd9dc05538541728b21dcb6fb6218340d97be02be7887b36dae8c7",
+      "ascii_fingerprint": "db94a8f8512609906f0240185df57cc20369f229bf0dd752795d3f04965d93f4",
+      "all_bounds": {
+        "min": -373,
+        "max": 1048,
+        "hhea_ascent": 1068,
+        "hhea_descent": -393
+      },
+      "ttf_bytes": 281360,
+      "woff2_bytes": 75948
+    },
+    {
+      "family": "Ashcombe Editorial",
+      "failures": [],
+      "sha256": "56e53e3f7920be1cfea8e79b891e659c4009277f405f47f24c9be816c2baef3a",
+      "ascii_fingerprint": "4d75706266d769205b85820eeb55ba2c84cfe0c9e472eef7915151726d13e3ef",
+      "all_bounds": {
+        "min": -311,
+        "max": 981,
+        "hhea_ascent": 1001,
+        "hhea_descent": -331
+      },
+      "ttf_bytes": 391912,
+      "woff2_bytes": 103368
+    },
+    {
+      "family": "Asterhall Roman",
+      "failures": [],
+      "sha256": "e6bb0ffffc1037e9bfb03dcb2d5d1fad3dc9dfa7490ddbf1cbb16b78bceaa855",
+      "ascii_fingerprint": "ebdf3bcacc323dd32bc3735c19eea40b21b3020a006eeeca9befa9139d3b5a68",
+      "all_bounds": {
+        "min": -412,
+        "max": 1048,
+        "hhea_ascent": 1068,
+        "hhea_descent": -432
+      },
+      "ttf_bytes": 277808,
+      "woff2_bytes": 77160
+    },
+    {
+      "family": "Bellwether Press",
+      "failures": [],
+      "sha256": "efdf44c4c393b255f4b3b9987015d5a3ae861c640a3d800fba88e239ec8fe2d9",
+      "ascii_fingerprint": "e5188ff41b0421b812fcf8aebf39afc035af85f0307ffce45063e879cd9b7fb7",
+      "all_bounds": {
+        "min": -366,
+        "max": 1048,
+        "hhea_ascent": 1068,
+        "hhea_descent": -386
+      },
+      "ttf_bytes": 278656,
+      "woff2_bytes": 73884
+    },
+    {
+      "family": "Brackenridge Serif",
+      "failures": [],
+      "sha256": "b62d7cfc80eeac832175d9c7d00bbd8a443a72f292038e6ba29a4d05d905e636",
+      "ascii_fingerprint": "9792beaa2e6daa6599a04c51c9481d7afb490386e106ecb6f0b1703eb00463bf",
+      "all_bounds": {
+        "min": -361,
+        "max": 1110,
+        "hhea_ascent": 1130,
+        "hhea_descent": -381
+      },
+      "ttf_bytes": 218904,
+      "woff2_bytes": 57224
+    },
+    {
+      "family": "Briarhaven Book",
+      "failures": [],
+      "sha256": "7beb166fba63939dcb4b29890b85605c413dc2a6258a2982710757fa2ac70fc1",
+      "ascii_fingerprint": "82ccea776b9d6929b9f4e1849018af2327eefc48c7015c34f92383e8853792a4",
+      "all_bounds": {
+        "min": -312,
+        "max": 981,
+        "hhea_ascent": 1001,
+        "hhea_descent": -332
+      },
+      "ttf_bytes": 403912,
+      "woff2_bytes": 103800
+    },
+    {
+      "family": "Caldera Display",
+      "failures": [],
+      "sha256": "f4c8c3342f01d4ca26d77c8e342015c0c8a94491426c13f79ee57b1526485afc",
+      "ascii_fingerprint": "5c44d8e46d67b806554cccc9572d1a18fd64ec3539a91c4a3f9c30bc536fccf8",
+      "all_bounds": {
+        "min": -420,
+        "max": 1048,
+        "hhea_ascent": 1068,
+        "hhea_descent": -440
+      },
+      "ttf_bytes": 282512,
+      "woff2_bytes": 77164
+    },
+    {
+      "family": "Cedarhurst Text",
+      "failures": [],
+      "sha256": "8bbf9d77934fddbe9195155c02e788354c5e5ca724ef399eb662e80734d917ac",
+      "ascii_fingerprint": "e1151b2966122696d6bebd2690952e14b10483208a5166abc7c6b4c597af5797",
+      "all_bounds": {
+        "min": -383,
+        "max": 1048,
+        "hhea_ascent": 1068,
+        "hhea_descent": -403
+      },
+      "ttf_bytes": 276008,
+      "woff2_bytes": 74120
+    },
+    {
+      "family": "Cinderwell Headline",
+      "failures": [],
+      "sha256": "4ff812d8045fdb7d8e19e81cd629a0e1ea522ccd8ad5e2d70121a83a2d3a48ca",
+      "ascii_fingerprint": "4d3d77f8c9a27be341d942686db2f7694721f60320b6331f374a3d9eefe0836e",
+      "all_bounds": {
+        "min": -405,
+        "max": 1048,
+        "hhea_ascent": 1068,
+        "hhea_descent": -425
+      },
+      "ttf_bytes": 278596,
+      "woff2_bytes": 75132
+    },
+    {
+      "family": "Cloisterbay Roman",
+      "failures": [],
+      "sha256": "cbab56f2d1b6de64fa74286ad3e239253e34d292ff34ba3fb7db454581471afc",
+      "ascii_fingerprint": "fca3c4146a97d45c5d434fbeb9431f47698bc1e01c9a0d2cbc823794e7d5fcb0",
+      "all_bounds": {
+        "min": -416,
+        "max": 1048,
+        "hhea_ascent": 1068,
+        "hhea_descent": -436
+      },
+      "ttf_bytes": 287696,
+      "woff2_bytes": 77524
+    },
+    {
+      "family": "Dalesford Slab",
+      "failures": [],
+      "sha256": "c7b3b8cc1d7d1525e2a24a41170d9db7c18a95b77903d15f03bb690a67fe4ee6",
+      "ascii_fingerprint": "85a959695505961c49853da4467b980923a845d10299cb9880e0e9953b7e0936",
+      "all_bounds": {
+        "min": -326,
+        "max": 1110,
+        "hhea_ascent": 1130,
+        "hhea_descent": -346
+      },
+      "ttf_bytes": 229296,
+      "woff2_bytes": 56116
+    },
+    {
+      "family": "Dunhaven Text",
+      "failures": [],
+      "sha256": "f02e27e0f3c175728157c54da68559f2c35085f0c0c26c77e4048c29cf58dc7c",
+      "ascii_fingerprint": "783a341ea4378650c2e443cfd1d9682d11bb6f4b7d8fdbfcb4cb6cf5a8aef747",
+      "all_bounds": {
+        "min": -291,
+        "max": 981,
+        "hhea_ascent": 1001,
+        "hhea_descent": -311
+      },
+      "ttf_bytes": 401904,
+      "woff2_bytes": 104240
+    },
+    {
+      "family": "Eastmere Editorial",
+      "failures": [],
+      "sha256": "7032f72b4c6f8068b38997c253a93be6d4ef1e16f8d3fe614331f5b28fe89d5f",
+      "ascii_fingerprint": "d7c0bdd457bd9c120287a9883651d127e8138f04e8f44e418a242f3678f5aa90",
+      "all_bounds": {
+        "min": -395,
+        "max": 1048,
+        "hhea_ascent": 1068,
+        "hhea_descent": -415
+      },
+      "ttf_bytes": 280088,
+      "woff2_bytes": 75952
+    },
+    {
+      "family": "Elmbridge Book",
+      "failures": [],
+      "sha256": "15bcd137a43ea3ad8c3618e8f40c43bcafba118a99e068ee579693f08da594ec",
+      "ascii_fingerprint": "bc66d598d5cd3e192c8483ceb43a3770d5faf1c216340877de0824ec1b572d0d",
+      "all_bounds": {
+        "min": -327,
+        "max": 981,
+        "hhea_ascent": 1001,
+        "hhea_descent": -347
+      },
+      "ttf_bytes": 394284,
+      "woff2_bytes": 103404
+    },
+    {
+      "family": "Emberwick Display",
+      "failures": [],
+      "sha256": "aed16be25358323209edf82d8bf54afd22229c99d1264cfbcb74a7b33e2e2de2",
+      "ascii_fingerprint": "c35da7603ba3c7081209e0dfefc309a8f5f4baca585db9955f3df58828236057",
+      "all_bounds": {
+        "min": -432,
+        "max": 1048,
+        "hhea_ascent": 1068,
+        "hhea_descent": -452
+      },
+      "ttf_bytes": 280512,
+      "woff2_bytes": 77184
+    },
+    {
+      "family": "Fenwick Press",
+      "failures": [],
+      "sha256": "cb587cf566f34120135b3cd4399215f80c8ed43c252185791f4f2c1e0e859390",
+      "ascii_fingerprint": "35bc72de973534a81a030aaee7e5dea244ce64d63a4e0aef9a9292836bc011c6",
+      "all_bounds": {
+        "min": -370,
+        "max": 1048,
+        "hhea_ascent": 1068,
+        "hhea_descent": -390
+      },
+      "ttf_bytes": 275648,
+      "woff2_bytes": 73704
+    },
+    {
+      "family": "Fieldstone Slab",
+      "failures": [],
+      "sha256": "97ca58132eebdd45937a633adfb89cd2408e945bf0c4be941406583185d2191c",
+      "ascii_fingerprint": "81efc6aeca81ea0b5a6206662c57869d9fddb5e9d5c7478d2221cb5785c45448",
+      "all_bounds": {
+        "min": -347,
+        "max": 1110,
+        "hhea_ascent": 1130,
+        "hhea_descent": -367
+      },
+      "ttf_bytes": 221648,
+      "woff2_bytes": 57532
+    },
+    {
+      "family": "Foxglade Roman",
+      "failures": [],
+      "sha256": "daa40b132e574d8bb053fc89f2d3f0a397e698787a551f557406a114ef7417de",
+      "ascii_fingerprint": "ccc9870d19bed650e5ec4c7320eb4184ad6bc78c3f9899589868a47b15865c40",
+      "all_bounds": {
+        "min": -408,
+        "max": 1048,
+        "hhea_ascent": 1068,
+        "hhea_descent": -428
+      },
+      "ttf_bytes": 280892,
+      "woff2_bytes": 76508
+    },
+    {
+      "family": "Gablehurst Display",
+      "failures": [],
+      "sha256": "bc70fa7c43f57fb5fdd0ccf04235f091be9f23ecb2b03be1f2fc87f91461541d",
+      "ascii_fingerprint": "b34a2927736d6231800f575dc9e005f9c12a95c01e4d2ab613d3da57221d1a78",
+      "all_bounds": {
+        "min": -397,
+        "max": 1048,
+        "hhea_ascent": 1068,
+        "hhea_descent": -417
+      },
+      "ttf_bytes": 274932,
+      "woff2_bytes": 76404
+    },
+    {
+      "family": "Greystone Slab",
+      "failures": [],
+      "sha256": "21dbf23f07e51133bda778128f0a636c7effb97f9b0e185f6a6be94ca40a5e8a",
+      "ascii_fingerprint": "4d10a2edae98b0df4c5951682e4bba93bcfcb87c81b94ba4e65998582a58058a",
+      "all_bounds": {
+        "min": -337,
+        "max": 1110,
+        "hhea_ascent": 1130,
+        "hhea_descent": -357
+      },
+      "ttf_bytes": 225904,
+      "woff2_bytes": 56760
+    },
+    {
+      "family": "Hartwell Editorial",
+      "failures": [],
+      "sha256": "520ba9feae2b05c180ec7b65b50a9e2c1baca8cffad3d4aac0fa0b1d3e68a90a",
+      "ascii_fingerprint": "e212acbaf12097072a8d24ebfba5fdb8624917496a9a7efb9acce4d3cf2f919b",
+      "all_bounds": {
+        "min": -303,
+        "max": 981,
+        "hhea_ascent": 1001,
+        "hhea_descent": -323
+      },
+      "ttf_bytes": 401440,
+      "woff2_bytes": 104616
+    }
+  ]
+}
