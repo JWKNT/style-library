@@ -1,890 +1,5890 @@
 [
   {
-    "collection": "Home",
-    "id": "01",
+    "id": "i0001",
     "name": "Gable",
-    "svg": "assets/icons/home-svg-options/01-gable.svg"
+    "svg": "assets/icons/home-svg-options/01-gable.svg",
+    "legacyId": "Home:01"
   },
   {
-    "collection": "Home",
-    "id": "02",
+    "id": "i0002",
     "name": "Shelter",
-    "svg": "assets/icons/home-svg-options/02-shelter.svg"
+    "svg": "assets/icons/home-svg-options/02-shelter.svg",
+    "legacyId": "Home:02"
   },
   {
-    "collection": "Home",
-    "id": "03",
+    "id": "i0003",
     "name": "Archway",
-    "svg": "assets/icons/home-svg-options/03-archway.svg"
+    "svg": "assets/icons/home-svg-options/03-archway.svg",
+    "legacyId": "Home:03"
   },
   {
-    "collection": "Home",
-    "id": "04",
+    "id": "i0004",
     "name": "Open door",
-    "svg": "assets/icons/home-svg-options/04-open-door.svg"
+    "svg": "assets/icons/home-svg-options/04-open-door.svg",
+    "legacyId": "Home:04"
   },
   {
-    "collection": "Home",
-    "id": "05",
+    "id": "i0005",
     "name": "Crossroads",
-    "svg": "assets/icons/home-svg-options/05-crossroads.svg"
+    "svg": "assets/icons/home-svg-options/05-crossroads.svg",
+    "legacyId": "Home:05"
   },
   {
-    "collection": "Home",
-    "id": "06",
+    "id": "i0006",
     "name": "Constellation",
-    "svg": "assets/icons/home-svg-options/06-constellation.svg"
+    "svg": "assets/icons/home-svg-options/06-constellation.svg",
+    "legacyId": "Home:06"
   },
   {
-    "collection": "Home",
-    "id": "07",
+    "id": "i0007",
     "name": "Index",
-    "svg": "assets/icons/home-svg-options/07-index.svg"
+    "svg": "assets/icons/home-svg-options/07-index.svg",
+    "legacyId": "Home:07"
   },
   {
-    "collection": "Home",
-    "id": "08",
+    "id": "i0008",
     "name": "Open book",
-    "svg": "assets/icons/home-svg-options/08-open-book.svg"
+    "svg": "assets/icons/home-svg-options/08-open-book.svg",
+    "legacyId": "Home:08"
   },
   {
-    "collection": "Home",
-    "id": "09",
+    "id": "i0009",
     "name": "Origin",
-    "svg": "assets/icons/home-svg-options/09-origin.svg"
+    "svg": "assets/icons/home-svg-options/09-origin.svg",
+    "legacyId": "Home:09"
   },
   {
-    "collection": "Home",
-    "id": "10",
+    "id": "i0010",
     "name": "Orbit",
-    "svg": "assets/icons/home-svg-options/10-orbit.svg"
+    "svg": "assets/icons/home-svg-options/10-orbit.svg",
+    "legacyId": "Home:10"
   },
   {
-    "collection": "Home",
-    "id": "11",
+    "id": "i0011",
     "name": "Passage",
-    "svg": "assets/icons/home-svg-options/11-passage.svg"
+    "svg": "assets/icons/home-svg-options/11-passage.svg",
+    "legacyId": "Home:11"
   },
   {
-    "collection": "Home",
-    "id": "12",
+    "id": "i0012",
     "name": "Clover",
-    "svg": "assets/icons/home-svg-options/12-clover.svg"
+    "svg": "assets/icons/home-svg-options/12-clover.svg",
+    "legacyId": "Home:12"
   },
   {
-    "collection": "Home",
-    "id": "13",
+    "id": "i0013",
     "name": "Beacon",
-    "svg": "assets/icons/home-svg-options/13-beacon.svg"
+    "svg": "assets/icons/home-svg-options/13-beacon.svg",
+    "legacyId": "Home:13"
   },
   {
-    "collection": "Home",
-    "id": "14",
+    "id": "i0014",
     "name": "Courtyard",
-    "svg": "assets/icons/home-svg-options/14-courtyard.svg"
+    "svg": "assets/icons/home-svg-options/14-courtyard.svg",
+    "legacyId": "Home:14"
   },
   {
-    "collection": "Home",
-    "id": "15",
+    "id": "i0015",
     "name": "Atlas",
-    "svg": "assets/icons/home-svg-options/15-atlas.svg"
+    "svg": "assets/icons/home-svg-options/15-atlas.svg",
+    "legacyId": "Home:15"
   },
   {
-    "collection": "Home",
-    "id": "16",
+    "id": "i0016",
     "name": "Confluence",
-    "svg": "assets/icons/home-svg-options/16-confluence.svg"
+    "svg": "assets/icons/home-svg-options/16-confluence.svg",
+    "legacyId": "Home:16"
   },
   {
-    "collection": "Abstract",
-    "id": "01",
+    "id": "i0017",
     "name": "Return point",
-    "svg": "assets/icons/home-abstract-options/01-return-point.svg"
+    "svg": "assets/icons/home-abstract-options/01-return-point.svg",
+    "legacyId": "Abstract:01"
   },
   {
-    "collection": "Abstract",
-    "id": "02",
+    "id": "i0018",
     "name": "Main tile",
-    "svg": "assets/icons/home-abstract-options/02-main-tile.svg"
+    "svg": "assets/icons/home-abstract-options/02-main-tile.svg",
+    "legacyId": "Abstract:02"
   },
   {
-    "collection": "Abstract",
-    "id": "03",
+    "id": "i0019",
     "name": "Root",
-    "svg": "assets/icons/home-abstract-options/03-root.svg"
+    "svg": "assets/icons/home-abstract-options/03-root.svg",
+    "legacyId": "Abstract:03"
   },
   {
-    "collection": "Abstract",
-    "id": "04",
+    "id": "i0020",
     "name": "First page",
-    "svg": "assets/icons/home-abstract-options/04-first-page.svg"
+    "svg": "assets/icons/home-abstract-options/04-first-page.svg",
+    "legacyId": "Abstract:04"
   },
   {
-    "collection": "Abstract",
-    "id": "05",
+    "id": "i0021",
     "name": "Centreward",
-    "svg": "assets/icons/home-abstract-options/05-centreward.svg"
+    "svg": "assets/icons/home-abstract-options/05-centreward.svg",
+    "legacyId": "Abstract:05"
   },
   {
-    "collection": "Abstract",
-    "id": "06",
+    "id": "i0022",
     "name": "Common ground",
-    "svg": "assets/icons/home-abstract-options/06-common-ground.svg"
+    "svg": "assets/icons/home-abstract-options/06-common-ground.svg",
+    "legacyId": "Abstract:06"
   },
   {
-    "collection": "Abstract",
-    "id": "07",
+    "id": "i0023",
     "name": "Source",
-    "svg": "assets/icons/home-abstract-options/07-source.svg"
+    "svg": "assets/icons/home-abstract-options/07-source.svg",
+    "legacyId": "Abstract:07"
   },
   {
-    "collection": "Abstract",
-    "id": "08",
+    "id": "i0024",
     "name": "Beginning",
-    "svg": "assets/icons/home-abstract-options/08-beginning.svg"
+    "svg": "assets/icons/home-abstract-options/08-beginning.svg",
+    "legacyId": "Abstract:08"
   },
   {
-    "collection": "Abstract",
-    "id": "09",
+    "id": "i0025",
     "name": "Foldback",
-    "svg": "assets/icons/home-abstract-options/09-foldback.svg"
+    "svg": "assets/icons/home-abstract-options/09-foldback.svg",
+    "legacyId": "Abstract:09"
   },
   {
-    "collection": "Abstract",
-    "id": "10",
+    "id": "i0026",
     "name": "Shared centre",
-    "svg": "assets/icons/home-abstract-options/10-shared-centre.svg"
+    "svg": "assets/icons/home-abstract-options/10-shared-centre.svg",
+    "legacyId": "Abstract:10"
   },
   {
-    "collection": "Abstract",
-    "id": "11",
+    "id": "i0027",
     "name": "First tile",
-    "svg": "assets/icons/home-abstract-options/11-first-tile.svg"
+    "svg": "assets/icons/home-abstract-options/11-first-tile.svg",
+    "legacyId": "Abstract:11"
   },
   {
-    "collection": "Abstract",
-    "id": "12",
+    "id": "i0028",
     "name": "Index root",
-    "svg": "assets/icons/home-abstract-options/12-index-root.svg"
+    "svg": "assets/icons/home-abstract-options/12-index-root.svg",
+    "legacyId": "Abstract:12"
   },
   {
-    "collection": "Abstract",
-    "id": "13",
+    "id": "i0029",
     "name": "Landing",
-    "svg": "assets/icons/home-abstract-options/13-landing.svg"
+    "svg": "assets/icons/home-abstract-options/13-landing.svg",
+    "legacyId": "Abstract:13"
   },
   {
-    "collection": "Abstract",
-    "id": "14",
+    "id": "i0030",
     "name": "Home field",
-    "svg": "assets/icons/home-abstract-options/14-home-field.svg"
+    "svg": "assets/icons/home-abstract-options/14-home-field.svg",
+    "legacyId": "Abstract:14"
   },
   {
-    "collection": "Abstract",
-    "id": "15",
+    "id": "i0031",
     "name": "Converge",
-    "svg": "assets/icons/home-abstract-options/15-converge.svg"
+    "svg": "assets/icons/home-abstract-options/15-converge.svg",
+    "legacyId": "Abstract:15"
   },
   {
-    "collection": "Abstract",
-    "id": "16",
+    "id": "i0032",
     "name": "Return index",
-    "svg": "assets/icons/home-abstract-options/16-return-index.svg"
+    "svg": "assets/icons/home-abstract-options/16-return-index.svg",
+    "legacyId": "Abstract:16"
   },
   {
-    "collection": "Regal",
-    "id": "01",
+    "id": "i0033",
     "name": "Vesica",
-    "svg": "assets/icons/home-regal-options/01-vesica.svg"
+    "svg": "assets/icons/home-regal-options/01-vesica.svg",
+    "legacyId": "Regal:01"
   },
   {
-    "collection": "Regal",
-    "id": "02",
+    "id": "i0034",
     "name": "Parenthesis seal",
-    "svg": "assets/icons/home-regal-options/02-parenthesis-seal.svg"
+    "svg": "assets/icons/home-regal-options/02-parenthesis-seal.svg",
+    "legacyId": "Regal:02"
   },
   {
-    "collection": "Regal",
-    "id": "03",
+    "id": "i0035",
     "name": "Quatrefoil",
-    "svg": "assets/icons/home-regal-options/03-quatrefoil.svg"
+    "svg": "assets/icons/home-regal-options/03-quatrefoil.svg",
+    "legacyId": "Regal:03"
   },
   {
-    "collection": "Regal",
-    "id": "04",
+    "id": "i0036",
     "name": "Petal sigil",
-    "svg": "assets/icons/home-regal-options/04-petal-sigil.svg"
+    "svg": "assets/icons/home-regal-options/04-petal-sigil.svg",
+    "legacyId": "Regal:04"
   },
   {
-    "collection": "Regal",
-    "id": "05",
+    "id": "i0037",
     "name": "Infinity seal",
-    "svg": "assets/icons/home-regal-options/05-infinity-seal.svg"
+    "svg": "assets/icons/home-regal-options/05-infinity-seal.svg",
+    "legacyId": "Regal:05"
   },
   {
-    "collection": "Regal",
-    "id": "06",
+    "id": "i0038",
     "name": "Eternal knot",
-    "svg": "assets/icons/home-regal-options/06-eternal-knot.svg"
+    "svg": "assets/icons/home-regal-options/06-eternal-knot.svg",
+    "legacyId": "Regal:06"
   },
   {
-    "collection": "Regal",
-    "id": "07",
+    "id": "i0039",
     "name": "Twin orbit",
-    "svg": "assets/icons/home-regal-options/07-twin-orbit.svg"
+    "svg": "assets/icons/home-regal-options/07-twin-orbit.svg",
+    "legacyId": "Regal:07"
   },
   {
-    "collection": "Regal",
-    "id": "08",
+    "id": "i0040",
     "name": "Spindle",
-    "svg": "assets/icons/home-regal-options/08-spindle.svg"
+    "svg": "assets/icons/home-regal-options/08-spindle.svg",
+    "legacyId": "Regal:08"
   },
   {
-    "collection": "Regal",
-    "id": "09",
+    "id": "i0041",
     "name": "Aster seal",
-    "svg": "assets/icons/home-regal-options/09-aster-seal.svg"
+    "svg": "assets/icons/home-regal-options/09-aster-seal.svg",
+    "legacyId": "Regal:09"
   },
   {
-    "collection": "Regal",
-    "id": "10",
+    "id": "i0042",
     "name": "Braced jewel",
-    "svg": "assets/icons/home-regal-options/10-braced-jewel.svg"
+    "svg": "assets/icons/home-regal-options/10-braced-jewel.svg",
+    "legacyId": "Regal:10"
   },
   {
-    "collection": "Regal",
-    "id": "11",
+    "id": "i0043",
     "name": "Fleuron",
-    "svg": "assets/icons/home-regal-options/11-fleuron.svg"
+    "svg": "assets/icons/home-regal-options/11-fleuron.svg",
+    "legacyId": "Regal:11"
   },
   {
-    "collection": "Regal",
-    "id": "12",
+    "id": "i0044",
     "name": "Rosette",
-    "svg": "assets/icons/home-regal-options/12-rosette.svg"
+    "svg": "assets/icons/home-regal-options/12-rosette.svg",
+    "legacyId": "Regal:12"
   },
   {
-    "collection": "Regal",
-    "id": "13",
+    "id": "i0045",
     "name": "Concord",
-    "svg": "assets/icons/home-regal-options/13-concord.svg"
+    "svg": "assets/icons/home-regal-options/13-concord.svg",
+    "legacyId": "Regal:13"
   },
   {
-    "collection": "Regal",
-    "id": "14",
+    "id": "i0046",
     "name": "Constellation",
-    "svg": "assets/icons/home-regal-options/14-constellation.svg"
+    "svg": "assets/icons/home-regal-options/14-constellation.svg",
+    "legacyId": "Regal:14"
   },
   {
-    "collection": "Regal",
-    "id": "15",
+    "id": "i0047",
     "name": "Quartered jewel",
-    "svg": "assets/icons/home-regal-options/15-quartered-jewel.svg"
+    "svg": "assets/icons/home-regal-options/15-quartered-jewel.svg",
+    "legacyId": "Regal:15"
   },
   {
-    "collection": "Regal",
-    "id": "16",
+    "id": "i0048",
     "name": "Sovereign",
-    "svg": "assets/icons/home-regal-options/16-sovereign.svg"
+    "svg": "assets/icons/home-regal-options/16-sovereign.svg",
+    "legacyId": "Regal:16"
   },
   {
-    "collection": "Regal 100",
-    "id": "101",
+    "id": "i0049",
     "name": "Court volute",
-    "svg": "assets/icons/home-regal-100/101-court-volute.svg"
+    "svg": "assets/icons/home-regal-100/101-court-volute.svg",
+    "legacyId": "Regal 100:101"
   },
   {
-    "collection": "Regal 100",
-    "id": "102",
+    "id": "i0050",
     "name": "Crescent tablet",
-    "svg": "assets/icons/home-regal-100/102-crescent-tablet.svg"
+    "svg": "assets/icons/home-regal-100/102-crescent-tablet.svg",
+    "legacyId": "Regal 100:102"
   },
   {
-    "collection": "Regal 100",
-    "id": "103",
+    "id": "i0051",
     "name": "Quiet aureole",
-    "svg": "assets/icons/home-regal-100/103-quiet-aureole.svg"
+    "svg": "assets/icons/home-regal-100/103-quiet-aureole.svg",
+    "legacyId": "Regal 100:103"
   },
   {
-    "collection": "Regal 100",
-    "id": "104",
+    "id": "i0052",
     "name": "Indented silk",
-    "svg": "assets/icons/home-regal-100/104-indented-silk.svg"
+    "svg": "assets/icons/home-regal-100/104-indented-silk.svg",
+    "legacyId": "Regal 100:104"
   },
   {
-    "collection": "Regal 100",
-    "id": "105",
+    "id": "i0053",
     "name": "Silk interval",
-    "svg": "assets/icons/home-regal-100/105-silk-interval.svg"
+    "svg": "assets/icons/home-regal-100/105-silk-interval.svg",
+    "legacyId": "Regal 100:105"
   },
   {
-    "collection": "Regal 100",
-    "id": "106",
+    "id": "i0054",
     "name": "Scribe clasp",
-    "svg": "assets/icons/home-regal-100/106-scribe-clasp.svg"
+    "svg": "assets/icons/home-regal-100/106-scribe-clasp.svg",
+    "legacyId": "Regal 100:106"
   },
   {
-    "collection": "Regal 100",
-    "id": "107",
+    "id": "i0055",
     "name": "Inward scroll",
-    "svg": "assets/icons/home-regal-100/107-inward-scroll.svg"
+    "svg": "assets/icons/home-regal-100/107-inward-scroll.svg",
+    "legacyId": "Regal 100:107"
   },
   {
-    "collection": "Regal 100",
-    "id": "108",
+    "id": "i0056",
     "name": "Silken brooch",
-    "svg": "assets/icons/home-regal-100/108-silken-brooch.svg"
+    "svg": "assets/icons/home-regal-100/108-silken-brooch.svg",
+    "legacyId": "Regal 100:108"
   },
   {
-    "collection": "Regal 100",
-    "id": "109",
+    "id": "i0057",
     "name": "Ogee medallion",
-    "svg": "assets/icons/home-regal-100/109-ogee-medallion.svg"
+    "svg": "assets/icons/home-regal-100/109-ogee-medallion.svg",
+    "legacyId": "Regal 100:109"
   },
   {
-    "collection": "Regal 100",
-    "id": "110",
+    "id": "i0058",
     "name": "Arched counterweight",
-    "svg": "assets/icons/home-regal-100/110-arched-counterweight.svg"
+    "svg": "assets/icons/home-regal-100/110-arched-counterweight.svg",
+    "legacyId": "Regal 100:110"
   },
   {
-    "collection": "Regal 100",
-    "id": "111",
+    "id": "i0059",
     "name": "Four courtesies",
-    "svg": "assets/icons/home-regal-100/111-four-courtesies.svg"
+    "svg": "assets/icons/home-regal-100/111-four-courtesies.svg",
+    "legacyId": "Regal 100:111"
   },
   {
-    "collection": "Regal 100",
-    "id": "112",
+    "id": "i0060",
     "name": "Tasseled interval",
-    "svg": "assets/icons/home-regal-100/112-tasseled-interval.svg"
+    "svg": "assets/icons/home-regal-100/112-tasseled-interval.svg",
+    "legacyId": "Regal 100:112"
   },
   {
-    "collection": "Regal 100",
-    "id": "113",
+    "id": "i0061",
     "name": "Tension clasp",
-    "svg": "assets/icons/home-regal-100/113-tension-clasp.svg"
+    "svg": "assets/icons/home-regal-100/113-tension-clasp.svg",
+    "legacyId": "Regal 100:113"
   },
   {
-    "collection": "Regal 100",
-    "id": "114",
+    "id": "i0062",
     "name": "Chambered tablet",
-    "svg": "assets/icons/home-regal-100/114-chambered-tablet.svg"
+    "svg": "assets/icons/home-regal-100/114-chambered-tablet.svg",
+    "legacyId": "Regal 100:114"
   },
   {
-    "collection": "Regal 100",
-    "id": "115",
+    "id": "i0063",
     "name": "Ruffle seal",
-    "svg": "assets/icons/home-regal-100/115-ruffle-seal.svg"
+    "svg": "assets/icons/home-regal-100/115-ruffle-seal.svg",
+    "legacyId": "Regal 100:115"
   },
   {
-    "collection": "Regal 100",
-    "id": "116",
+    "id": "i0064",
     "name": "Suspended jewel",
-    "svg": "assets/icons/home-regal-100/116-suspended-jewel.svg"
+    "svg": "assets/icons/home-regal-100/116-suspended-jewel.svg",
+    "legacyId": "Regal 100:116"
   },
   {
-    "collection": "Regal 100",
-    "id": "117",
+    "id": "i0065",
     "name": "Oblique flourishes",
-    "svg": "assets/icons/home-regal-100/117-oblique-flourishes.svg"
+    "svg": "assets/icons/home-regal-100/117-oblique-flourishes.svg",
+    "legacyId": "Regal 100:117"
   },
   {
-    "collection": "Regal 100",
-    "id": "118",
+    "id": "i0066",
     "name": "Twin lunules",
-    "svg": "assets/icons/home-regal-100/118-twin-lunules.svg"
+    "svg": "assets/icons/home-regal-100/118-twin-lunules.svg",
+    "legacyId": "Regal 100:118"
   },
   {
-    "collection": "Regal 100",
-    "id": "119",
+    "id": "i0067",
     "name": "Cushion seal",
-    "svg": "assets/icons/home-regal-100/119-cushion-seal.svg"
+    "svg": "assets/icons/home-regal-100/119-cushion-seal.svg",
+    "legacyId": "Regal 100:119"
   },
   {
-    "collection": "Regal 100",
-    "id": "120",
+    "id": "i0068",
     "name": "Open corolla",
-    "svg": "assets/icons/home-regal-100/120-open-corolla.svg"
+    "svg": "assets/icons/home-regal-100/120-open-corolla.svg",
+    "legacyId": "Regal 100:120"
   },
   {
-    "collection": "Regal 100",
-    "id": "121",
+    "id": "i0069",
     "name": "Velvet buckle",
-    "svg": "assets/icons/home-regal-100/121-velvet-buckle.svg"
+    "svg": "assets/icons/home-regal-100/121-velvet-buckle.svg",
+    "legacyId": "Regal 100:121"
   },
   {
-    "collection": "Regal 100",
-    "id": "122",
+    "id": "i0070",
     "name": "Recessed cameo",
-    "svg": "assets/icons/home-regal-100/122-recessed-cameo.svg"
+    "svg": "assets/icons/home-regal-100/122-recessed-cameo.svg",
+    "legacyId": "Regal 100:122"
   },
   {
-    "collection": "Regal 100",
-    "id": "123",
+    "id": "i0071",
     "name": "Braided acclamation",
-    "svg": "assets/icons/home-regal-100/123-braided-acclamation.svg"
+    "svg": "assets/icons/home-regal-100/123-braided-acclamation.svg",
+    "legacyId": "Regal 100:123"
   },
   {
-    "collection": "Regal 100",
-    "id": "124",
+    "id": "i0072",
     "name": "Folio scroll",
-    "svg": "assets/icons/home-regal-100/124-folio-scroll.svg"
+    "svg": "assets/icons/home-regal-100/124-folio-scroll.svg",
+    "legacyId": "Regal 100:124"
   },
   {
-    "collection": "Regal 100",
-    "id": "125",
+    "id": "i0073",
     "name": "Royal pause",
-    "svg": "assets/icons/home-regal-100/125-royal-pause.svg"
+    "svg": "assets/icons/home-regal-100/125-royal-pause.svg",
+    "legacyId": "Regal 100:125"
   },
   {
-    "collection": "Regal 100",
-    "id": "126",
+    "id": "i0074",
     "name": "Silken diadem",
-    "svg": "assets/icons/home-regal-100/126-silken-diadem.svg"
+    "svg": "assets/icons/home-regal-100/126-silken-diadem.svg",
+    "legacyId": "Regal 100:126"
   },
   {
-    "collection": "Regal 100",
-    "id": "127",
+    "id": "i0075",
     "name": "Horizon sash",
-    "svg": "assets/icons/home-regal-100/127-horizon-sash.svg"
+    "svg": "assets/icons/home-regal-100/127-horizon-sash.svg",
+    "legacyId": "Regal 100:127"
   },
   {
-    "collection": "Regal 100",
-    "id": "128",
+    "id": "i0076",
     "name": "Girdled bond",
-    "svg": "assets/icons/home-regal-100/128-girdled-bond.svg"
+    "svg": "assets/icons/home-regal-100/128-girdled-bond.svg",
+    "legacyId": "Regal 100:128"
   },
   {
-    "collection": "Regal 100",
-    "id": "129",
+    "id": "i0077",
     "name": "Sovereign weft",
-    "svg": "assets/icons/home-regal-100/129-sovereign-weft.svg"
+    "svg": "assets/icons/home-regal-100/129-sovereign-weft.svg",
+    "legacyId": "Regal 100:129"
   },
   {
-    "collection": "Regal 100",
-    "id": "130",
+    "id": "i0078",
     "name": "Triple accord",
-    "svg": "assets/icons/home-regal-100/130-triple-accord.svg"
+    "svg": "assets/icons/home-regal-100/130-triple-accord.svg",
+    "legacyId": "Regal 100:130"
   },
   {
-    "collection": "Regal 100",
-    "id": "131",
+    "id": "i0079",
     "name": "Enduring spire",
-    "svg": "assets/icons/home-regal-100/131-enduring-spire.svg"
+    "svg": "assets/icons/home-regal-100/131-enduring-spire.svg",
+    "legacyId": "Regal 100:131"
   },
   {
-    "collection": "Regal 100",
-    "id": "132",
+    "id": "i0080",
     "name": "Paired vows",
-    "svg": "assets/icons/home-regal-100/132-paired-vows.svg"
+    "svg": "assets/icons/home-regal-100/132-paired-vows.svg",
+    "legacyId": "Regal 100:132"
   },
   {
-    "collection": "Regal 100",
-    "id": "133",
+    "id": "i0081",
     "name": "Royal shuttle",
-    "svg": "assets/icons/home-regal-100/133-royal-shuttle.svg"
+    "svg": "assets/icons/home-regal-100/133-royal-shuttle.svg",
+    "legacyId": "Regal 100:133"
   },
   {
-    "collection": "Regal 100",
-    "id": "134",
+    "id": "i0082",
     "name": "Covenant column",
-    "svg": "assets/icons/home-regal-100/134-covenant-column.svg"
+    "svg": "assets/icons/home-regal-100/134-covenant-column.svg",
+    "legacyId": "Regal 100:134"
   },
   {
-    "collection": "Regal 100",
-    "id": "135",
+    "id": "i0083",
     "name": "Silk reliquary",
-    "svg": "assets/icons/home-regal-100/135-silk-reliquary.svg"
+    "svg": "assets/icons/home-regal-100/135-silk-reliquary.svg",
+    "legacyId": "Regal 100:135"
   },
   {
-    "collection": "Regal 100",
-    "id": "136",
+    "id": "i0084",
     "name": "Solomon accord",
-    "svg": "assets/icons/home-regal-100/136-solomon-accord.svg"
+    "svg": "assets/icons/home-regal-100/136-solomon-accord.svg",
+    "legacyId": "Regal 100:136"
   },
   {
-    "collection": "Regal 100",
-    "id": "137",
+    "id": "i0085",
     "name": "Trefoil covenant",
-    "svg": "assets/icons/home-regal-100/137-trefoil-covenant.svg"
+    "svg": "assets/icons/home-regal-100/137-trefoil-covenant.svg",
+    "legacyId": "Regal 100:137"
   },
   {
-    "collection": "Regal 100",
-    "id": "138",
+    "id": "i0086",
     "name": "Quadrant weave",
-    "svg": "assets/icons/home-regal-100/138-quadrant-weave.svg"
+    "svg": "assets/icons/home-regal-100/138-quadrant-weave.svg",
+    "legacyId": "Regal 100:138"
   },
   {
-    "collection": "Regal 100",
-    "id": "139",
+    "id": "i0087",
     "name": "Knot of hours",
-    "svg": "assets/icons/home-regal-100/139-knot-of-hours.svg"
+    "svg": "assets/icons/home-regal-100/139-knot-of-hours.svg",
+    "legacyId": "Regal 100:139"
   },
   {
-    "collection": "Regal 100",
-    "id": "140",
+    "id": "i0088",
     "name": "Woven sun",
-    "svg": "assets/icons/home-regal-100/140-woven-sun.svg"
+    "svg": "assets/icons/home-regal-100/140-woven-sun.svg",
+    "legacyId": "Regal 100:140"
   },
   {
-    "collection": "Regal 100",
-    "id": "141",
+    "id": "i0089",
     "name": "Endless cartouche",
-    "svg": "assets/icons/home-regal-100/141-endless-cartouche.svg"
+    "svg": "assets/icons/home-regal-100/141-endless-cartouche.svg",
+    "legacyId": "Regal 100:141"
   },
   {
-    "collection": "Regal 100",
-    "id": "142",
+    "id": "i0090",
     "name": "Bound aureole",
-    "svg": "assets/icons/home-regal-100/142-bound-aureole.svg"
+    "svg": "assets/icons/home-regal-100/142-bound-aureole.svg",
+    "legacyId": "Regal 100:142"
   },
   {
-    "collection": "Regal 100",
-    "id": "143",
+    "id": "i0091",
     "name": "Cloistered silk",
-    "svg": "assets/icons/home-regal-100/143-cloistered-silk.svg"
+    "svg": "assets/icons/home-regal-100/143-cloistered-silk.svg",
+    "legacyId": "Regal 100:143"
   },
   {
-    "collection": "Regal 100",
-    "id": "144",
+    "id": "i0092",
     "name": "Vow medallion",
-    "svg": "assets/icons/home-regal-100/144-vow-medallion.svg"
+    "svg": "assets/icons/home-regal-100/144-vow-medallion.svg",
+    "legacyId": "Regal 100:144"
   },
   {
-    "collection": "Regal 100",
-    "id": "145",
+    "id": "i0093",
     "name": "Open circuit seal",
-    "svg": "assets/icons/home-regal-100/145-open-circuit-seal.svg"
+    "svg": "assets/icons/home-regal-100/145-open-circuit-seal.svg",
+    "legacyId": "Regal 100:145"
   },
   {
-    "collection": "Regal 100",
-    "id": "146",
+    "id": "i0094",
     "name": "Brocade crest",
-    "svg": "assets/icons/home-regal-100/146-brocade-crest.svg"
+    "svg": "assets/icons/home-regal-100/146-brocade-crest.svg",
+    "legacyId": "Regal 100:146"
   },
   {
-    "collection": "Regal 100",
-    "id": "147",
+    "id": "i0095",
     "name": "Courted loops",
-    "svg": "assets/icons/home-regal-100/147-courted-loops.svg"
+    "svg": "assets/icons/home-regal-100/147-courted-loops.svg",
+    "legacyId": "Regal 100:147"
   },
   {
-    "collection": "Regal 100",
-    "id": "148",
+    "id": "i0096",
     "name": "Lacuna knot",
-    "svg": "assets/icons/home-regal-100/148-lacuna-knot.svg"
+    "svg": "assets/icons/home-regal-100/148-lacuna-knot.svg",
+    "legacyId": "Regal 100:148"
   },
   {
-    "collection": "Regal 100",
-    "id": "149",
+    "id": "i0097",
     "name": "Ribbon bastion",
-    "svg": "assets/icons/home-regal-100/149-ribbon-bastion.svg"
+    "svg": "assets/icons/home-regal-100/149-ribbon-bastion.svg",
+    "legacyId": "Regal 100:149"
   },
   {
-    "collection": "Regal 100",
-    "id": "150",
+    "id": "i0098",
     "name": "Imperial continuum",
-    "svg": "assets/icons/home-regal-100/150-imperial-continuum.svg"
+    "svg": "assets/icons/home-regal-100/150-imperial-continuum.svg",
+    "legacyId": "Regal 100:150"
   },
   {
-    "collection": "Regal 100",
-    "id": "151",
+    "id": "i0099",
     "name": "Trillium seal",
-    "svg": "assets/icons/home-regal-100/151-trillium-seal.svg"
+    "svg": "assets/icons/home-regal-100/151-trillium-seal.svg",
+    "legacyId": "Regal 100:151"
   },
   {
-    "collection": "Regal 100",
-    "id": "152",
+    "id": "i0100",
     "name": "Cinquefoil aperture",
-    "svg": "assets/icons/home-regal-100/152-cinquefoil-aperture.svg"
+    "svg": "assets/icons/home-regal-100/152-cinquefoil-aperture.svg",
+    "legacyId": "Regal 100:152"
   },
   {
-    "collection": "Regal 100",
-    "id": "153",
+    "id": "i0101",
     "name": "Acanthus cross",
-    "svg": "assets/icons/home-regal-100/153-acanthus-cross.svg"
+    "svg": "assets/icons/home-regal-100/153-acanthus-cross.svg",
+    "legacyId": "Regal 100:153"
   },
   {
-    "collection": "Regal 100",
-    "id": "154",
+    "id": "i0102",
     "name": "Fluted diadem",
-    "svg": "assets/icons/home-regal-100/154-fluted-diadem.svg"
+    "svg": "assets/icons/home-regal-100/154-fluted-diadem.svg",
+    "legacyId": "Regal 100:154"
   },
   {
-    "collection": "Regal 100",
-    "id": "155",
+    "id": "i0103",
     "name": "Trefoil window",
-    "svg": "assets/icons/home-regal-100/155-trefoil-window.svg"
+    "svg": "assets/icons/home-regal-100/155-trefoil-window.svg",
+    "legacyId": "Regal 100:155"
   },
   {
-    "collection": "Regal 100",
-    "id": "156",
+    "id": "i0104",
     "name": "Wreath aster",
-    "svg": "assets/icons/home-regal-100/156-wreath-aster.svg"
+    "svg": "assets/icons/home-regal-100/156-wreath-aster.svg",
+    "legacyId": "Regal 100:156"
   },
   {
-    "collection": "Regal 100",
-    "id": "157",
+    "id": "i0105",
     "name": "Palmette script",
-    "svg": "assets/icons/home-regal-100/157-palmette-script.svg"
+    "svg": "assets/icons/home-regal-100/157-palmette-script.svg",
+    "legacyId": "Regal 100:157"
   },
   {
-    "collection": "Regal 100",
-    "id": "158",
+    "id": "i0106",
     "name": "Triskel volute",
-    "svg": "assets/icons/home-regal-100/158-triskel-volute.svg"
+    "svg": "assets/icons/home-regal-100/158-triskel-volute.svg",
+    "legacyId": "Regal 100:158"
   },
   {
-    "collection": "Regal 100",
-    "id": "159",
+    "id": "i0107",
     "name": "Hexalobe seal",
-    "svg": "assets/icons/home-regal-100/159-hexalobe-seal.svg"
+    "svg": "assets/icons/home-regal-100/159-hexalobe-seal.svg",
+    "legacyId": "Regal 100:159"
   },
   {
-    "collection": "Regal 100",
-    "id": "160",
+    "id": "i0108",
     "name": "Ogee blossom",
-    "svg": "assets/icons/home-regal-100/160-ogee-blossom.svg"
+    "svg": "assets/icons/home-regal-100/160-ogee-blossom.svg",
+    "legacyId": "Regal 100:160"
   },
   {
-    "collection": "Regal 100",
-    "id": "161",
+    "id": "i0109",
     "name": "Velvet coronet",
-    "svg": "assets/icons/home-regal-100/161-velvet-coronet.svg"
+    "svg": "assets/icons/home-regal-100/161-velvet-coronet.svg",
+    "legacyId": "Regal 100:161"
   },
   {
-    "collection": "Regal 100",
-    "id": "162",
+    "id": "i0110",
     "name": "Scribe foliation",
-    "svg": "assets/icons/home-regal-100/162-scribe-foliation.svg"
+    "svg": "assets/icons/home-regal-100/162-scribe-foliation.svg",
+    "legacyId": "Regal 100:162"
   },
   {
-    "collection": "Regal 100",
-    "id": "163",
+    "id": "i0111",
     "name": "Pendant calyx",
-    "svg": "assets/icons/home-regal-100/163-pendant-calyx.svg"
+    "svg": "assets/icons/home-regal-100/163-pendant-calyx.svg",
+    "legacyId": "Regal 100:163"
   },
   {
-    "collection": "Regal 100",
-    "id": "164",
+    "id": "i0112",
     "name": "Trine anthemion",
-    "svg": "assets/icons/home-regal-100/164-trine-anthemion.svg"
+    "svg": "assets/icons/home-regal-100/164-trine-anthemion.svg",
+    "legacyId": "Regal 100:164"
   },
   {
-    "collection": "Regal 100",
-    "id": "165",
+    "id": "i0113",
     "name": "Fanborne pearl",
-    "svg": "assets/icons/home-regal-100/165-fanborne-pearl.svg"
+    "svg": "assets/icons/home-regal-100/165-fanborne-pearl.svg",
+    "legacyId": "Regal 100:165"
   },
   {
-    "collection": "Regal 100",
-    "id": "166",
+    "id": "i0114",
     "name": "Quadrant scroll",
-    "svg": "assets/icons/home-regal-100/166-quadrant-scroll.svg"
+    "svg": "assets/icons/home-regal-100/166-quadrant-scroll.svg",
+    "legacyId": "Regal 100:166"
   },
   {
-    "collection": "Regal 100",
-    "id": "167",
+    "id": "i0115",
     "name": "Thistled medallion",
-    "svg": "assets/icons/home-regal-100/167-thistled-medallion.svg"
+    "svg": "assets/icons/home-regal-100/167-thistled-medallion.svg",
+    "legacyId": "Regal 100:167"
   },
   {
-    "collection": "Regal 100",
-    "id": "168",
+    "id": "i0116",
     "name": "Lotus cipher",
-    "svg": "assets/icons/home-regal-100/168-lotus-cipher.svg"
+    "svg": "assets/icons/home-regal-100/168-lotus-cipher.svg",
+    "legacyId": "Regal 100:168"
   },
   {
-    "collection": "Regal 100",
-    "id": "169",
+    "id": "i0117",
     "name": "Arcadian fleuron",
-    "svg": "assets/icons/home-regal-100/169-arcadian-fleuron.svg"
+    "svg": "assets/icons/home-regal-100/169-arcadian-fleuron.svg",
+    "legacyId": "Regal 100:169"
   },
   {
-    "collection": "Regal 100",
-    "id": "170",
+    "id": "i0118",
     "name": "Flame rosette",
-    "svg": "assets/icons/home-regal-100/170-flame-rosette.svg"
+    "svg": "assets/icons/home-regal-100/170-flame-rosette.svg",
+    "legacyId": "Regal 100:170"
   },
   {
-    "collection": "Regal 100",
-    "id": "171",
+    "id": "i0119",
     "name": "Winged acanthus",
-    "svg": "assets/icons/home-regal-100/171-winged-acanthus.svg"
+    "svg": "assets/icons/home-regal-100/171-winged-acanthus.svg",
+    "legacyId": "Regal 100:171"
   },
   {
-    "collection": "Regal 100",
-    "id": "172",
+    "id": "i0120",
     "name": "Clover sceptre",
-    "svg": "assets/icons/home-regal-100/172-clover-sceptre.svg"
+    "svg": "assets/icons/home-regal-100/172-clover-sceptre.svg",
+    "legacyId": "Regal 100:172"
   },
   {
-    "collection": "Regal 100",
-    "id": "173",
+    "id": "i0121",
     "name": "Pollen cartouche",
-    "svg": "assets/icons/home-regal-100/173-pollen-cartouche.svg"
+    "svg": "assets/icons/home-regal-100/173-pollen-cartouche.svg",
+    "legacyId": "Regal 100:173"
   },
   {
-    "collection": "Regal 100",
-    "id": "174",
+    "id": "i0122",
     "name": "Crested fleurette",
-    "svg": "assets/icons/home-regal-100/174-crested-fleurette.svg"
+    "svg": "assets/icons/home-regal-100/174-crested-fleurette.svg",
+    "legacyId": "Regal 100:174"
   },
   {
-    "collection": "Regal 100",
-    "id": "175",
+    "id": "i0123",
     "name": "Rose cipher",
-    "svg": "assets/icons/home-regal-100/175-rose-cipher.svg"
+    "svg": "assets/icons/home-regal-100/175-rose-cipher.svg",
+    "legacyId": "Regal 100:175"
   },
   {
-    "collection": "Regal 100",
-    "id": "176",
+    "id": "i0124",
     "name": "Clasped facet",
-    "svg": "assets/icons/home-regal-100/176-clasped-facet.svg"
+    "svg": "assets/icons/home-regal-100/176-clasped-facet.svg",
+    "legacyId": "Regal 100:176"
   },
   {
-    "collection": "Regal 100",
-    "id": "177",
+    "id": "i0125",
     "name": "Counterfold",
-    "svg": "assets/icons/home-regal-100/177-counterfold.svg"
+    "svg": "assets/icons/home-regal-100/177-counterfold.svg",
+    "legacyId": "Regal 100:177"
   },
   {
-    "collection": "Regal 100",
-    "id": "178",
+    "id": "i0126",
     "name": "Gallery jewel",
-    "svg": "assets/icons/home-regal-100/178-gallery-jewel.svg"
+    "svg": "assets/icons/home-regal-100/178-gallery-jewel.svg",
+    "legacyId": "Regal 100:178"
   },
   {
-    "collection": "Regal 100",
-    "id": "179",
+    "id": "i0127",
     "name": "Indented tessera",
-    "svg": "assets/icons/home-regal-100/179-indented-tessera.svg"
+    "svg": "assets/icons/home-regal-100/179-indented-tessera.svg",
+    "legacyId": "Regal 100:179"
   },
   {
-    "collection": "Regal 100",
-    "id": "180",
+    "id": "i0128",
     "name": "Triptych seal",
-    "svg": "assets/icons/home-regal-100/180-triptych-seal.svg"
+    "svg": "assets/icons/home-regal-100/180-triptych-seal.svg",
+    "legacyId": "Regal 100:180"
   },
   {
-    "collection": "Regal 100",
-    "id": "181",
+    "id": "i0129",
     "name": "Waisted coronal",
-    "svg": "assets/icons/home-regal-100/181-waisted-coronal.svg"
+    "svg": "assets/icons/home-regal-100/181-waisted-coronal.svg",
+    "legacyId": "Regal 100:181"
   },
   {
-    "collection": "Regal 100",
-    "id": "182",
+    "id": "i0130",
     "name": "Garnet braid",
-    "svg": "assets/icons/home-regal-100/182-garnet-braid.svg"
+    "svg": "assets/icons/home-regal-100/182-garnet-braid.svg",
+    "legacyId": "Regal 100:182"
   },
   {
-    "collection": "Regal 100",
-    "id": "183",
+    "id": "i0131",
     "name": "Oblique jewels",
-    "svg": "assets/icons/home-regal-100/183-oblique-jewels.svg"
+    "svg": "assets/icons/home-regal-100/183-oblique-jewels.svg",
+    "legacyId": "Regal 100:183"
   },
   {
-    "collection": "Regal 100",
-    "id": "184",
+    "id": "i0132",
     "name": "Pavilion lattice",
-    "svg": "assets/icons/home-regal-100/184-pavilion-lattice.svg"
+    "svg": "assets/icons/home-regal-100/184-pavilion-lattice.svg",
+    "legacyId": "Regal 100:184"
   },
   {
-    "collection": "Regal 100",
-    "id": "185",
+    "id": "i0133",
     "name": "Stepped reliquary",
-    "svg": "assets/icons/home-regal-100/185-stepped-reliquary.svg"
+    "svg": "assets/icons/home-regal-100/185-stepped-reliquary.svg",
+    "legacyId": "Regal 100:185"
   },
   {
-    "collection": "Regal 100",
-    "id": "186",
+    "id": "i0134",
     "name": "Trihedral clasp",
-    "svg": "assets/icons/home-regal-100/186-trihedral-clasp.svg"
+    "svg": "assets/icons/home-regal-100/186-trihedral-clasp.svg",
+    "legacyId": "Regal 100:186"
   },
   {
-    "collection": "Regal 100",
-    "id": "187",
+    "id": "i0135",
     "name": "Twin chamber",
-    "svg": "assets/icons/home-regal-100/187-twin-chamber.svg"
+    "svg": "assets/icons/home-regal-100/187-twin-chamber.svg",
+    "legacyId": "Regal 100:187"
   },
   {
-    "collection": "Regal 100",
-    "id": "188",
+    "id": "i0136",
     "name": "Saltire signet",
-    "svg": "assets/icons/home-regal-100/188-saltire-signet.svg"
+    "svg": "assets/icons/home-regal-100/188-saltire-signet.svg",
+    "legacyId": "Regal 100:188"
   },
   {
-    "collection": "Regal 100",
-    "id": "189",
+    "id": "i0137",
     "name": "Winged tablet",
-    "svg": "assets/icons/home-regal-100/189-winged-tablet.svg"
+    "svg": "assets/icons/home-regal-100/189-winged-tablet.svg",
+    "legacyId": "Regal 100:189"
   },
   {
-    "collection": "Regal 100",
-    "id": "190",
+    "id": "i0138",
     "name": "Suspended prong",
-    "svg": "assets/icons/home-regal-100/190-suspended-prong.svg"
+    "svg": "assets/icons/home-regal-100/190-suspended-prong.svg",
+    "legacyId": "Regal 100:190"
   },
   {
-    "collection": "Regal 100",
-    "id": "191",
+    "id": "i0139",
     "name": "Polygon inlay",
-    "svg": "assets/icons/home-regal-100/191-polygon-inlay.svg"
+    "svg": "assets/icons/home-regal-100/191-polygon-inlay.svg",
+    "legacyId": "Regal 100:191"
   },
   {
-    "collection": "Regal 100",
-    "id": "192",
+    "id": "i0140",
     "name": "Offset cartouche",
-    "svg": "assets/icons/home-regal-100/192-offset-cartouche.svg"
+    "svg": "assets/icons/home-regal-100/192-offset-cartouche.svg",
+    "legacyId": "Regal 100:192"
   },
   {
-    "collection": "Regal 100",
-    "id": "193",
+    "id": "i0141",
     "name": "Terraced garnet",
-    "svg": "assets/icons/home-regal-100/193-terraced-garnet.svg"
+    "svg": "assets/icons/home-regal-100/193-terraced-garnet.svg",
+    "legacyId": "Regal 100:193"
   },
   {
-    "collection": "Regal 100",
-    "id": "194",
+    "id": "i0142",
     "name": "Quadrilateral fold",
-    "svg": "assets/icons/home-regal-100/194-quadrilateral-fold.svg"
+    "svg": "assets/icons/home-regal-100/194-quadrilateral-fold.svg",
+    "legacyId": "Regal 100:194"
   },
   {
-    "collection": "Regal 100",
-    "id": "195",
+    "id": "i0143",
     "name": "Angle palanquin",
-    "svg": "assets/icons/home-regal-100/195-angle-palanquin.svg"
+    "svg": "assets/icons/home-regal-100/195-angle-palanquin.svg",
+    "legacyId": "Regal 100:195"
   },
   {
-    "collection": "Regal 100",
-    "id": "196",
+    "id": "i0144",
     "name": "Tessellated crest",
-    "svg": "assets/icons/home-regal-100/196-tessellated-crest.svg"
+    "svg": "assets/icons/home-regal-100/196-tessellated-crest.svg",
+    "legacyId": "Regal 100:196"
   },
   {
-    "collection": "Regal 100",
-    "id": "197",
+    "id": "i0145",
     "name": "Notched ward",
-    "svg": "assets/icons/home-regal-100/197-notched-ward.svg"
+    "svg": "assets/icons/home-regal-100/197-notched-ward.svg",
+    "legacyId": "Regal 100:197"
   },
   {
-    "collection": "Regal 100",
-    "id": "198",
+    "id": "i0146",
     "name": "Triune setting",
-    "svg": "assets/icons/home-regal-100/198-triune-setting.svg"
+    "svg": "assets/icons/home-regal-100/198-triune-setting.svg",
+    "legacyId": "Regal 100:198"
   },
   {
-    "collection": "Regal 100",
-    "id": "199",
+    "id": "i0147",
     "name": "Crenel inlay",
-    "svg": "assets/icons/home-regal-100/199-crenel-inlay.svg"
+    "svg": "assets/icons/home-regal-100/199-crenel-inlay.svg",
+    "legacyId": "Regal 100:199"
   },
   {
-    "collection": "Regal 100",
-    "id": "200",
+    "id": "i0148",
     "name": "Canted parure",
-    "svg": "assets/icons/home-regal-100/200-canted-parure.svg"
+    "svg": "assets/icons/home-regal-100/200-canted-parure.svg",
+    "legacyId": "Regal 100:200"
+  },
+  {
+    "id": "i0149",
+    "name": "Home doorway",
+    "svg": "assets/icons/expanded/interface/i0149.svg"
+  },
+  {
+    "id": "i0150",
+    "name": "Breadcrumb trail",
+    "svg": "assets/icons/expanded/interface/i0150.svg"
+  },
+  {
+    "id": "i0151",
+    "name": "Sidebar navigation",
+    "svg": "assets/icons/expanded/interface/i0151.svg"
+  },
+  {
+    "id": "i0152",
+    "name": "Tab navigation",
+    "svg": "assets/icons/expanded/interface/i0152.svg"
+  },
+  {
+    "id": "i0153",
+    "name": "Page index",
+    "svg": "assets/icons/expanded/interface/i0153.svg"
+  },
+  {
+    "id": "i0154",
+    "name": "Sitemap",
+    "svg": "assets/icons/expanded/interface/i0154.svg"
+  },
+  {
+    "id": "i0155",
+    "name": "Route branches",
+    "svg": "assets/icons/expanded/interface/i0155.svg"
+  },
+  {
+    "id": "i0156",
+    "name": "Return to start",
+    "svg": "assets/icons/expanded/interface/i0156.svg"
+  },
+  {
+    "id": "i0157",
+    "name": "Jump to anchor",
+    "svg": "assets/icons/expanded/interface/i0157.svg"
+  },
+  {
+    "id": "i0158",
+    "name": "Exit doorway",
+    "svg": "assets/icons/expanded/interface/i0158.svg"
+  },
+  {
+    "id": "i0159",
+    "name": "External destination",
+    "svg": "assets/icons/expanded/interface/i0159.svg"
+  },
+  {
+    "id": "i0160",
+    "name": "History loop",
+    "svg": "assets/icons/expanded/interface/i0160.svg"
+  },
+  {
+    "id": "i0161",
+    "name": "Recent pages",
+    "svg": "assets/icons/expanded/interface/i0161.svg"
+  },
+  {
+    "id": "i0162",
+    "name": "Backtrack route",
+    "svg": "assets/icons/expanded/interface/i0162.svg"
+  },
+  {
+    "id": "i0163",
+    "name": "Explore compass",
+    "svg": "assets/icons/expanded/interface/i0163.svg"
+  },
+  {
+    "id": "i0164",
+    "name": "Location pin",
+    "svg": "assets/icons/expanded/interface/i0164.svg"
+  },
+  {
+    "id": "i0165",
+    "name": "Map folds",
+    "svg": "assets/icons/expanded/interface/i0165.svg"
+  },
+  {
+    "id": "i0166",
+    "name": "Milestone flags",
+    "svg": "assets/icons/expanded/interface/i0166.svg"
+  },
+  {
+    "id": "i0167",
+    "name": "Page stack overview",
+    "svg": "assets/icons/expanded/interface/i0167.svg"
+  },
+  {
+    "id": "i0168",
+    "name": "Navigation rail",
+    "svg": "assets/icons/expanded/interface/i0168.svg"
+  },
+  {
+    "id": "i0169",
+    "name": "Skip section",
+    "svg": "assets/icons/expanded/interface/i0169.svg"
+  },
+  {
+    "id": "i0170",
+    "name": "Stepped progress",
+    "svg": "assets/icons/expanded/interface/i0170.svg"
+  },
+  {
+    "id": "i0171",
+    "name": "Trail endpoint",
+    "svg": "assets/icons/expanded/interface/i0171.svg"
+  },
+  {
+    "id": "i0172",
+    "name": "Open navigation drawer",
+    "svg": "assets/icons/expanded/interface/i0172.svg"
+  },
+  {
+    "id": "i0173",
+    "name": "Nested menu",
+    "svg": "assets/icons/expanded/interface/i0173.svg"
+  },
+  {
+    "id": "i0174",
+    "name": "Add cross",
+    "svg": "assets/icons/expanded/interface/i0174.svg"
+  },
+  {
+    "id": "i0175",
+    "name": "Remove bar",
+    "svg": "assets/icons/expanded/interface/i0175.svg"
+  },
+  {
+    "id": "i0176",
+    "name": "Confirm check",
+    "svg": "assets/icons/expanded/interface/i0176.svg"
+  },
+  {
+    "id": "i0177",
+    "name": "Dismiss cross",
+    "svg": "assets/icons/expanded/interface/i0177.svg"
+  },
+  {
+    "id": "i0178",
+    "name": "Undo stroke",
+    "svg": "assets/icons/expanded/interface/i0178.svg"
+  },
+  {
+    "id": "i0179",
+    "name": "Repeat action",
+    "svg": "assets/icons/expanded/interface/i0179.svg"
+  },
+  {
+    "id": "i0180",
+    "name": "Restart action",
+    "svg": "assets/icons/expanded/interface/i0180.svg"
+  },
+  {
+    "id": "i0181",
+    "name": "Share branches",
+    "svg": "assets/icons/expanded/interface/i0181.svg"
+  },
+  {
+    "id": "i0182",
+    "name": "Send arrow",
+    "svg": "assets/icons/expanded/interface/i0182.svg"
+  },
+  {
+    "id": "i0183",
+    "name": "Upload tray",
+    "svg": "assets/icons/expanded/interface/i0183.svg"
+  },
+  {
+    "id": "i0184",
+    "name": "Download shelf",
+    "svg": "assets/icons/expanded/interface/i0184.svg"
+  },
+  {
+    "id": "i0185",
+    "name": "Save disk",
+    "svg": "assets/icons/expanded/interface/i0185.svg"
+  },
+  {
+    "id": "i0186",
+    "name": "Print page",
+    "svg": "assets/icons/expanded/interface/i0186.svg"
+  },
+  {
+    "id": "i0187",
+    "name": "Copy sheets",
+    "svg": "assets/icons/expanded/interface/i0187.svg"
+  },
+  {
+    "id": "i0188",
+    "name": "Cut scissors",
+    "svg": "assets/icons/expanded/interface/i0188.svg"
+  },
+  {
+    "id": "i0189",
+    "name": "Paste clipboard",
+    "svg": "assets/icons/expanded/interface/i0189.svg"
+  },
+  {
+    "id": "i0190",
+    "name": "Trash bin",
+    "svg": "assets/icons/expanded/interface/i0190.svg"
+  },
+  {
+    "id": "i0191",
+    "name": "Archive box",
+    "svg": "assets/icons/expanded/interface/i0191.svg"
+  },
+  {
+    "id": "i0192",
+    "name": "Restore from archive",
+    "svg": "assets/icons/expanded/interface/i0192.svg"
+  },
+  {
+    "id": "i0193",
+    "name": "Duplicate item",
+    "svg": "assets/icons/expanded/interface/i0193.svg"
+  },
+  {
+    "id": "i0194",
+    "name": "Merge inputs",
+    "svg": "assets/icons/expanded/interface/i0194.svg"
+  },
+  {
+    "id": "i0195",
+    "name": "Split output",
+    "svg": "assets/icons/expanded/interface/i0195.svg"
+  },
+  {
+    "id": "i0196",
+    "name": "Swap positions",
+    "svg": "assets/icons/expanded/interface/i0196.svg"
+  },
+  {
+    "id": "i0197",
+    "name": "Synchronize records",
+    "svg": "assets/icons/expanded/interface/i0197.svg"
+  },
+  {
+    "id": "i0198",
+    "name": "Clear formatting",
+    "svg": "assets/icons/expanded/interface/i0198.svg"
+  },
+  {
+    "id": "i0199",
+    "name": "Document page",
+    "svg": "assets/icons/expanded/interface/i0199.svg"
+  },
+  {
+    "id": "i0200",
+    "name": "Text file",
+    "svg": "assets/icons/expanded/interface/i0200.svg"
+  },
+  {
+    "id": "i0201",
+    "name": "Code file",
+    "svg": "assets/icons/expanded/interface/i0201.svg"
+  },
+  {
+    "id": "i0202",
+    "name": "Spreadsheet file",
+    "svg": "assets/icons/expanded/interface/i0202.svg"
+  },
+  {
+    "id": "i0203",
+    "name": "Image file",
+    "svg": "assets/icons/expanded/interface/i0203.svg"
+  },
+  {
+    "id": "i0204",
+    "name": "Audio file",
+    "svg": "assets/icons/expanded/interface/i0204.svg"
+  },
+  {
+    "id": "i0205",
+    "name": "Video file",
+    "svg": "assets/icons/expanded/interface/i0205.svg"
+  },
+  {
+    "id": "i0206",
+    "name": "Compressed file",
+    "svg": "assets/icons/expanded/interface/i0206.svg"
+  },
+  {
+    "id": "i0207",
+    "name": "Presentation file",
+    "svg": "assets/icons/expanded/interface/i0207.svg"
+  },
+  {
+    "id": "i0208",
+    "name": "Blank page",
+    "svg": "assets/icons/expanded/interface/i0208.svg"
+  },
+  {
+    "id": "i0209",
+    "name": "Folder closed",
+    "svg": "assets/icons/expanded/interface/i0209.svg"
+  },
+  {
+    "id": "i0210",
+    "name": "Folder open",
+    "svg": "assets/icons/expanded/interface/i0210.svg"
+  },
+  {
+    "id": "i0211",
+    "name": "File cabinet",
+    "svg": "assets/icons/expanded/interface/i0211.svg"
+  },
+  {
+    "id": "i0212",
+    "name": "Directory tree",
+    "svg": "assets/icons/expanded/interface/i0212.svg"
+  },
+  {
+    "id": "i0213",
+    "name": "Binder book",
+    "svg": "assets/icons/expanded/interface/i0213.svg"
+  },
+  {
+    "id": "i0214",
+    "name": "Ring notebook",
+    "svg": "assets/icons/expanded/interface/i0214.svg"
+  },
+  {
+    "id": "i0215",
+    "name": "Scroll document",
+    "svg": "assets/icons/expanded/interface/i0215.svg"
+  },
+  {
+    "id": "i0216",
+    "name": "File bundle",
+    "svg": "assets/icons/expanded/interface/i0216.svg"
+  },
+  {
+    "id": "i0217",
+    "name": "Document comparison",
+    "svg": "assets/icons/expanded/interface/i0217.svg"
+  },
+  {
+    "id": "i0218",
+    "name": "Attachment paperclip",
+    "svg": "assets/icons/expanded/interface/i0218.svg"
+  },
+  {
+    "id": "i0219",
+    "name": "File tabs",
+    "svg": "assets/icons/expanded/interface/i0219.svg"
+  },
+  {
+    "id": "i0220",
+    "name": "Envelope document",
+    "svg": "assets/icons/expanded/interface/i0220.svg"
+  },
+  {
+    "id": "i0221",
+    "name": "Inbox tray",
+    "svg": "assets/icons/expanded/interface/i0221.svg"
+  },
+  {
+    "id": "i0222",
+    "name": "Storage shelves",
+    "svg": "assets/icons/expanded/interface/i0222.svg"
+  },
+  {
+    "id": "i0223",
+    "name": "Document roll",
+    "svg": "assets/icons/expanded/interface/i0223.svg"
+  },
+  {
+    "id": "i0224",
+    "name": "Pencil edit",
+    "svg": "assets/icons/expanded/interface/i0224.svg"
+  },
+  {
+    "id": "i0225",
+    "name": "Pen nib",
+    "svg": "assets/icons/expanded/interface/i0225.svg"
+  },
+  {
+    "id": "i0226",
+    "name": "Brush stroke",
+    "svg": "assets/icons/expanded/interface/i0226.svg"
+  },
+  {
+    "id": "i0227",
+    "name": "Eraser block",
+    "svg": "assets/icons/expanded/interface/i0227.svg"
+  },
+  {
+    "id": "i0228",
+    "name": "Paint roller",
+    "svg": "assets/icons/expanded/interface/i0228.svg"
+  },
+  {
+    "id": "i0229",
+    "name": "Paint bucket",
+    "svg": "assets/icons/expanded/interface/i0229.svg"
+  },
+  {
+    "id": "i0230",
+    "name": "Color palette",
+    "svg": "assets/icons/expanded/interface/i0230.svg"
+  },
+  {
+    "id": "i0231",
+    "name": "Eyedropper",
+    "svg": "assets/icons/expanded/interface/i0231.svg"
+  },
+  {
+    "id": "i0232",
+    "name": "Ruler",
+    "svg": "assets/icons/expanded/interface/i0232.svg"
+  },
+  {
+    "id": "i0233",
+    "name": "Crop corners",
+    "svg": "assets/icons/expanded/interface/i0233.svg"
+  },
+  {
+    "id": "i0234",
+    "name": "Bezier curve",
+    "svg": "assets/icons/expanded/interface/i0234.svg"
+  },
+  {
+    "id": "i0235",
+    "name": "Anchor point",
+    "svg": "assets/icons/expanded/interface/i0235.svg"
+  },
+  {
+    "id": "i0236",
+    "name": "Freehand path",
+    "svg": "assets/icons/expanded/interface/i0236.svg"
+  },
+  {
+    "id": "i0237",
+    "name": "Shape union",
+    "svg": "assets/icons/expanded/interface/i0237.svg"
+  },
+  {
+    "id": "i0238",
+    "name": "Shape intersection",
+    "svg": "assets/icons/expanded/interface/i0238.svg"
+  },
+  {
+    "id": "i0239",
+    "name": "Shape subtraction",
+    "svg": "assets/icons/expanded/interface/i0239.svg"
+  },
+  {
+    "id": "i0240",
+    "name": "Shape outline",
+    "svg": "assets/icons/expanded/interface/i0240.svg"
+  },
+  {
+    "id": "i0241",
+    "name": "Lasso select",
+    "svg": "assets/icons/expanded/interface/i0241.svg"
+  },
+  {
+    "id": "i0242",
+    "name": "Magic wand",
+    "svg": "assets/icons/expanded/interface/i0242.svg"
+  },
+  {
+    "id": "i0243",
+    "name": "Clone stamp",
+    "svg": "assets/icons/expanded/interface/i0243.svg"
+  },
+  {
+    "id": "i0244",
+    "name": "Smudge tool",
+    "svg": "assets/icons/expanded/interface/i0244.svg"
+  },
+  {
+    "id": "i0245",
+    "name": "Straight line tool",
+    "svg": "assets/icons/expanded/interface/i0245.svg"
+  },
+  {
+    "id": "i0246",
+    "name": "Polygon tool",
+    "svg": "assets/icons/expanded/interface/i0246.svg"
+  },
+  {
+    "id": "i0247",
+    "name": "Gradient fill",
+    "svg": "assets/icons/expanded/interface/i0247.svg"
+  },
+  {
+    "id": "i0248",
+    "name": "Mesh warp",
+    "svg": "assets/icons/expanded/interface/i0248.svg"
+  },
+  {
+    "id": "i0249",
+    "name": "Two column layout",
+    "svg": "assets/icons/expanded/interface/i0249.svg"
+  },
+  {
+    "id": "i0250",
+    "name": "Three column layout",
+    "svg": "assets/icons/expanded/interface/i0250.svg"
+  },
+  {
+    "id": "i0251",
+    "name": "Header content layout",
+    "svg": "assets/icons/expanded/interface/i0251.svg"
+  },
+  {
+    "id": "i0252",
+    "name": "Sidebar content layout",
+    "svg": "assets/icons/expanded/interface/i0252.svg"
+  },
+  {
+    "id": "i0253",
+    "name": "Dashboard layout",
+    "svg": "assets/icons/expanded/interface/i0253.svg"
+  },
+  {
+    "id": "i0254",
+    "name": "Masonry layout",
+    "svg": "assets/icons/expanded/interface/i0254.svg"
+  },
+  {
+    "id": "i0255",
+    "name": "Card grid",
+    "svg": "assets/icons/expanded/interface/i0255.svg"
+  },
+  {
+    "id": "i0256",
+    "name": "Article layout",
+    "svg": "assets/icons/expanded/interface/i0256.svg"
+  },
+  {
+    "id": "i0257",
+    "name": "Cover layout",
+    "svg": "assets/icons/expanded/interface/i0257.svg"
+  },
+  {
+    "id": "i0258",
+    "name": "Footer layout",
+    "svg": "assets/icons/expanded/interface/i0258.svg"
+  },
+  {
+    "id": "i0259",
+    "name": "Picture in picture",
+    "svg": "assets/icons/expanded/interface/i0259.svg"
+  },
+  {
+    "id": "i0260",
+    "name": "Resizable panes",
+    "svg": "assets/icons/expanded/interface/i0260.svg"
+  },
+  {
+    "id": "i0261",
+    "name": "Stacked panels",
+    "svg": "assets/icons/expanded/interface/i0261.svg"
+  },
+  {
+    "id": "i0262",
+    "name": "Responsive layout",
+    "svg": "assets/icons/expanded/interface/i0262.svg"
+  },
+  {
+    "id": "i0263",
+    "name": "Full bleed",
+    "svg": "assets/icons/expanded/interface/i0263.svg"
+  },
+  {
+    "id": "i0264",
+    "name": "Horizontal distribution",
+    "svg": "assets/icons/expanded/interface/i0264.svg"
+  },
+  {
+    "id": "i0265",
+    "name": "Vertical distribution",
+    "svg": "assets/icons/expanded/interface/i0265.svg"
+  },
+  {
+    "id": "i0266",
+    "name": "Align left edge",
+    "svg": "assets/icons/expanded/interface/i0266.svg"
+  },
+  {
+    "id": "i0267",
+    "name": "Align center axis",
+    "svg": "assets/icons/expanded/interface/i0267.svg"
+  },
+  {
+    "id": "i0268",
+    "name": "Align bottom baseline",
+    "svg": "assets/icons/expanded/interface/i0268.svg"
+  },
+  {
+    "id": "i0269",
+    "name": "Group objects",
+    "svg": "assets/icons/expanded/interface/i0269.svg"
+  },
+  {
+    "id": "i0270",
+    "name": "Ungroup objects",
+    "svg": "assets/icons/expanded/interface/i0270.svg"
+  },
+  {
+    "id": "i0271",
+    "name": "Layer stack",
+    "svg": "assets/icons/expanded/interface/i0271.svg"
+  },
+  {
+    "id": "i0272",
+    "name": "Bring forward",
+    "svg": "assets/icons/expanded/interface/i0272.svg"
+  },
+  {
+    "id": "i0273",
+    "name": "Send backward",
+    "svg": "assets/icons/expanded/interface/i0273.svg"
+  },
+  {
+    "id": "i0274",
+    "name": "Text insertion",
+    "svg": "assets/icons/expanded/interface/i0274.svg"
+  },
+  {
+    "id": "i0275",
+    "name": "Serif type",
+    "svg": "assets/icons/expanded/interface/i0275.svg"
+  },
+  {
+    "id": "i0276",
+    "name": "Bold text",
+    "svg": "assets/icons/expanded/interface/i0276.svg"
+  },
+  {
+    "id": "i0277",
+    "name": "Italic text",
+    "svg": "assets/icons/expanded/interface/i0277.svg"
+  },
+  {
+    "id": "i0278",
+    "name": "Underline text",
+    "svg": "assets/icons/expanded/interface/i0278.svg"
+  },
+  {
+    "id": "i0279",
+    "name": "Strikethrough text",
+    "svg": "assets/icons/expanded/interface/i0279.svg"
+  },
+  {
+    "id": "i0280",
+    "name": "Superscript",
+    "svg": "assets/icons/expanded/interface/i0280.svg"
+  },
+  {
+    "id": "i0281",
+    "name": "Subscript",
+    "svg": "assets/icons/expanded/interface/i0281.svg"
+  },
+  {
+    "id": "i0282",
+    "name": "Small capitals",
+    "svg": "assets/icons/expanded/interface/i0282.svg"
+  },
+  {
+    "id": "i0283",
+    "name": "Paragraph mark",
+    "svg": "assets/icons/expanded/interface/i0283.svg"
+  },
+  {
+    "id": "i0284",
+    "name": "Section mark",
+    "svg": "assets/icons/expanded/interface/i0284.svg"
+  },
+  {
+    "id": "i0285",
+    "name": "Quotation marks",
+    "svg": "assets/icons/expanded/interface/i0285.svg"
+  },
+  {
+    "id": "i0286",
+    "name": "Text align left",
+    "svg": "assets/icons/expanded/interface/i0286.svg"
+  },
+  {
+    "id": "i0287",
+    "name": "Text justify",
+    "svg": "assets/icons/expanded/interface/i0287.svg"
+  },
+  {
+    "id": "i0288",
+    "name": "Text indent",
+    "svg": "assets/icons/expanded/interface/i0288.svg"
+  },
+  {
+    "id": "i0289",
+    "name": "Hanging indent",
+    "svg": "assets/icons/expanded/interface/i0289.svg"
+  },
+  {
+    "id": "i0290",
+    "name": "Line spacing",
+    "svg": "assets/icons/expanded/interface/i0290.svg"
+  },
+  {
+    "id": "i0291",
+    "name": "Letter spacing",
+    "svg": "assets/icons/expanded/interface/i0291.svg"
+  },
+  {
+    "id": "i0292",
+    "name": "Text wrapping",
+    "svg": "assets/icons/expanded/interface/i0292.svg"
+  },
+  {
+    "id": "i0293",
+    "name": "No wrapping",
+    "svg": "assets/icons/expanded/interface/i0293.svg"
+  },
+  {
+    "id": "i0294",
+    "name": "Drop cap",
+    "svg": "assets/icons/expanded/interface/i0294.svg"
+  },
+  {
+    "id": "i0295",
+    "name": "Bulleted list",
+    "svg": "assets/icons/expanded/interface/i0295.svg"
+  },
+  {
+    "id": "i0296",
+    "name": "Numbered list",
+    "svg": "assets/icons/expanded/interface/i0296.svg"
+  },
+  {
+    "id": "i0297",
+    "name": "Checklist",
+    "svg": "assets/icons/expanded/interface/i0297.svg"
+  },
+  {
+    "id": "i0298",
+    "name": "Text highlight",
+    "svg": "assets/icons/expanded/interface/i0298.svg"
+  },
+  {
+    "id": "i0299",
+    "name": "Pointer arrow",
+    "svg": "assets/icons/expanded/interface/i0299.svg"
+  },
+  {
+    "id": "i0300",
+    "name": "Text cursor",
+    "svg": "assets/icons/expanded/interface/i0300.svg"
+  },
+  {
+    "id": "i0301",
+    "name": "Crosshair",
+    "svg": "assets/icons/expanded/interface/i0301.svg"
+  },
+  {
+    "id": "i0302",
+    "name": "Hand pointer",
+    "svg": "assets/icons/expanded/interface/i0302.svg"
+  },
+  {
+    "id": "i0303",
+    "name": "Grab hand",
+    "svg": "assets/icons/expanded/interface/i0303.svg"
+  },
+  {
+    "id": "i0304",
+    "name": "Marquee rectangle",
+    "svg": "assets/icons/expanded/interface/i0304.svg"
+  },
+  {
+    "id": "i0305",
+    "name": "Marquee ellipse",
+    "svg": "assets/icons/expanded/interface/i0305.svg"
+  },
+  {
+    "id": "i0306",
+    "name": "Select all",
+    "svg": "assets/icons/expanded/interface/i0306.svg"
+  },
+  {
+    "id": "i0307",
+    "name": "Deselect",
+    "svg": "assets/icons/expanded/interface/i0307.svg"
+  },
+  {
+    "id": "i0308",
+    "name": "Inverse selection",
+    "svg": "assets/icons/expanded/interface/i0308.svg"
+  },
+  {
+    "id": "i0309",
+    "name": "Selection handles",
+    "svg": "assets/icons/expanded/interface/i0309.svg"
+  },
+  {
+    "id": "i0310",
+    "name": "Transform rotate",
+    "svg": "assets/icons/expanded/interface/i0310.svg"
+  },
+  {
+    "id": "i0311",
+    "name": "Transform skew",
+    "svg": "assets/icons/expanded/interface/i0311.svg"
+  },
+  {
+    "id": "i0312",
+    "name": "Perspective transform",
+    "svg": "assets/icons/expanded/interface/i0312.svg"
+  },
+  {
+    "id": "i0313",
+    "name": "Reflect object",
+    "svg": "assets/icons/expanded/interface/i0313.svg"
+  },
+  {
+    "id": "i0314",
+    "name": "Move object",
+    "svg": "assets/icons/expanded/interface/i0314.svg"
+  },
+  {
+    "id": "i0315",
+    "name": "Resize diagonal",
+    "svg": "assets/icons/expanded/interface/i0315.svg"
+  },
+  {
+    "id": "i0316",
+    "name": "Scale object",
+    "svg": "assets/icons/expanded/interface/i0316.svg"
+  },
+  {
+    "id": "i0317",
+    "name": "Snap to grid",
+    "svg": "assets/icons/expanded/interface/i0317.svg"
+  },
+  {
+    "id": "i0318",
+    "name": "Snap to point",
+    "svg": "assets/icons/expanded/interface/i0318.svg"
+  },
+  {
+    "id": "i0319",
+    "name": "Magnet snap",
+    "svg": "assets/icons/expanded/interface/i0319.svg"
+  },
+  {
+    "id": "i0320",
+    "name": "Hand drag",
+    "svg": "assets/icons/expanded/interface/i0320.svg"
+  },
+  {
+    "id": "i0321",
+    "name": "Precision alignment",
+    "svg": "assets/icons/expanded/interface/i0321.svg"
+  },
+  {
+    "id": "i0322",
+    "name": "Bounding box",
+    "svg": "assets/icons/expanded/interface/i0322.svg"
+  },
+  {
+    "id": "i0323",
+    "name": "Object pivot",
+    "svg": "assets/icons/expanded/interface/i0323.svg"
+  },
+  {
+    "id": "i0324",
+    "name": "Toggle switch",
+    "svg": "assets/icons/expanded/interface/i0324.svg"
+  },
+  {
+    "id": "i0325",
+    "name": "Slider control",
+    "svg": "assets/icons/expanded/interface/i0325.svg"
+  },
+  {
+    "id": "i0326",
+    "name": "Range slider",
+    "svg": "assets/icons/expanded/interface/i0326.svg"
+  },
+  {
+    "id": "i0327",
+    "name": "Mixer faders",
+    "svg": "assets/icons/expanded/interface/i0327.svg"
+  },
+  {
+    "id": "i0328",
+    "name": "Rotary dial",
+    "svg": "assets/icons/expanded/interface/i0328.svg"
+  },
+  {
+    "id": "i0329",
+    "name": "Checkbox checked",
+    "svg": "assets/icons/expanded/interface/i0329.svg"
+  },
+  {
+    "id": "i0330",
+    "name": "Checkbox mixed",
+    "svg": "assets/icons/expanded/interface/i0330.svg"
+  },
+  {
+    "id": "i0331",
+    "name": "Radio selected",
+    "svg": "assets/icons/expanded/interface/i0331.svg"
+  },
+  {
+    "id": "i0332",
+    "name": "Dropdown select",
+    "svg": "assets/icons/expanded/interface/i0332.svg"
+  },
+  {
+    "id": "i0333",
+    "name": "Combobox",
+    "svg": "assets/icons/expanded/interface/i0333.svg"
+  },
+  {
+    "id": "i0334",
+    "name": "Text field",
+    "svg": "assets/icons/expanded/interface/i0334.svg"
+  },
+  {
+    "id": "i0335",
+    "name": "Multiline field",
+    "svg": "assets/icons/expanded/interface/i0335.svg"
+  },
+  {
+    "id": "i0336",
+    "name": "Number stepper",
+    "svg": "assets/icons/expanded/interface/i0336.svg"
+  },
+  {
+    "id": "i0337",
+    "name": "Segmented control",
+    "svg": "assets/icons/expanded/interface/i0337.svg"
+  },
+  {
+    "id": "i0338",
+    "name": "Progress bar",
+    "svg": "assets/icons/expanded/interface/i0338.svg"
+  },
+  {
+    "id": "i0339",
+    "name": "Progress ring",
+    "svg": "assets/icons/expanded/interface/i0339.svg"
+  },
+  {
+    "id": "i0340",
+    "name": "Loading spinner",
+    "svg": "assets/icons/expanded/interface/i0340.svg"
+  },
+  {
+    "id": "i0341",
+    "name": "Search field",
+    "svg": "assets/icons/expanded/interface/i0341.svg"
+  },
+  {
+    "id": "i0342",
+    "name": "Password field",
+    "svg": "assets/icons/expanded/interface/i0342.svg"
+  },
+  {
+    "id": "i0343",
+    "name": "Form labels",
+    "svg": "assets/icons/expanded/interface/i0343.svg"
+  },
+  {
+    "id": "i0344",
+    "name": "Required field",
+    "svg": "assets/icons/expanded/interface/i0344.svg"
+  },
+  {
+    "id": "i0345",
+    "name": "Validation list",
+    "svg": "assets/icons/expanded/interface/i0345.svg"
+  },
+  {
+    "id": "i0346",
+    "name": "Settings gear",
+    "svg": "assets/icons/expanded/interface/i0346.svg"
+  },
+  {
+    "id": "i0347",
+    "name": "Filter funnel",
+    "svg": "assets/icons/expanded/interface/i0347.svg"
+  },
+  {
+    "id": "i0348",
+    "name": "Sort hierarchy",
+    "svg": "assets/icons/expanded/interface/i0348.svg"
+  },
+  {
+    "id": "i0349",
+    "name": "Window titlebar",
+    "svg": "assets/icons/expanded/interface/i0349.svg"
+  },
+  {
+    "id": "i0350",
+    "name": "Overlapping windows",
+    "svg": "assets/icons/expanded/interface/i0350.svg"
+  },
+  {
+    "id": "i0351",
+    "name": "Modal dialog",
+    "svg": "assets/icons/expanded/interface/i0351.svg"
+  },
+  {
+    "id": "i0352",
+    "name": "Tooltip",
+    "svg": "assets/icons/expanded/interface/i0352.svg"
+  },
+  {
+    "id": "i0353",
+    "name": "Command palette",
+    "svg": "assets/icons/expanded/interface/i0353.svg"
+  },
+  {
+    "id": "i0354",
+    "name": "Context menu",
+    "svg": "assets/icons/expanded/interface/i0354.svg"
+  },
+  {
+    "id": "i0355",
+    "name": "Accordion panels",
+    "svg": "assets/icons/expanded/interface/i0355.svg"
+  },
+  {
+    "id": "i0356",
+    "name": "Dock toolbar",
+    "svg": "assets/icons/expanded/interface/i0356.svg"
+  },
+  {
+    "id": "i0357",
+    "name": "Floating toolbar",
+    "svg": "assets/icons/expanded/interface/i0357.svg"
+  },
+  {
+    "id": "i0358",
+    "name": "Pagination",
+    "svg": "assets/icons/expanded/interface/i0358.svg"
+  },
+  {
+    "id": "i0359",
+    "name": "Carousel",
+    "svg": "assets/icons/expanded/interface/i0359.svg"
+  },
+  {
+    "id": "i0360",
+    "name": "Tree disclosure",
+    "svg": "assets/icons/expanded/interface/i0360.svg"
+  },
+  {
+    "id": "i0361",
+    "name": "Tabs overflow",
+    "svg": "assets/icons/expanded/interface/i0361.svg"
+  },
+  {
+    "id": "i0362",
+    "name": "Disclosure list",
+    "svg": "assets/icons/expanded/interface/i0362.svg"
+  },
+  {
+    "id": "i0363",
+    "name": "Drag handle",
+    "svg": "assets/icons/expanded/interface/i0363.svg"
+  },
+  {
+    "id": "i0364",
+    "name": "Scrollbar",
+    "svg": "assets/icons/expanded/interface/i0364.svg"
+  },
+  {
+    "id": "i0365",
+    "name": "Page break",
+    "svg": "assets/icons/expanded/interface/i0365.svg"
+  },
+  {
+    "id": "i0366",
+    "name": "Column break",
+    "svg": "assets/icons/expanded/interface/i0366.svg"
+  },
+  {
+    "id": "i0367",
+    "name": "Page margins",
+    "svg": "assets/icons/expanded/interface/i0367.svg"
+  },
+  {
+    "id": "i0368",
+    "name": "Document bookmark",
+    "svg": "assets/icons/expanded/interface/i0368.svg"
+  },
+  {
+    "id": "i0369",
+    "name": "Sticky note",
+    "svg": "assets/icons/expanded/interface/i0369.svg"
+  },
+  {
+    "id": "i0370",
+    "name": "Document footnote",
+    "svg": "assets/icons/expanded/interface/i0370.svg"
+  },
+  {
+    "id": "i0371",
+    "name": "Table of contents",
+    "svg": "assets/icons/expanded/interface/i0371.svg"
+  },
+  {
+    "id": "i0372",
+    "name": "Tracked changes",
+    "svg": "assets/icons/expanded/interface/i0372.svg"
+  },
+  {
+    "id": "i0373",
+    "name": "Document signature",
+    "svg": "assets/icons/expanded/interface/i0373.svg"
+  },
+  {
+    "id": "i0374",
+    "name": "Hyperlink",
+    "svg": "assets/icons/expanded/interface/i0374.svg"
+  },
+  {
+    "id": "i0375",
+    "name": "Broken link",
+    "svg": "assets/icons/expanded/interface/i0375.svg"
+  },
+  {
+    "id": "i0376",
+    "name": "Inline code",
+    "svg": "assets/icons/expanded/interface/i0376.svg"
+  },
+  {
+    "id": "i0377",
+    "name": "Code block",
+    "svg": "assets/icons/expanded/interface/i0377.svg"
+  },
+  {
+    "id": "i0378",
+    "name": "Heading text",
+    "svg": "assets/icons/expanded/interface/i0378.svg"
+  },
+  {
+    "id": "i0379",
+    "name": "Horizontal rule",
+    "svg": "assets/icons/expanded/interface/i0379.svg"
+  },
+  {
+    "id": "i0380",
+    "name": "Spell check",
+    "svg": "assets/icons/expanded/interface/i0380.svg"
+  },
+  {
+    "id": "i0381",
+    "name": "Word count",
+    "svg": "assets/icons/expanded/interface/i0381.svg"
+  },
+  {
+    "id": "i0382",
+    "name": "Comment margin",
+    "svg": "assets/icons/expanded/interface/i0382.svg"
+  },
+  {
+    "id": "i0383",
+    "name": "Keyboard input",
+    "svg": "assets/icons/expanded/interface/i0383.svg"
+  },
+  {
+    "id": "i0384",
+    "name": "Return key",
+    "svg": "assets/icons/expanded/interface/i0384.svg"
+  },
+  {
+    "id": "i0385",
+    "name": "Spacebar key",
+    "svg": "assets/icons/expanded/interface/i0385.svg"
+  },
+  {
+    "id": "i0386",
+    "name": "Escape key",
+    "svg": "assets/icons/expanded/interface/i0386.svg"
+  },
+  {
+    "id": "i0387",
+    "name": "Command modifier",
+    "svg": "assets/icons/expanded/interface/i0387.svg"
+  },
+  {
+    "id": "i0388",
+    "name": "Option modifier",
+    "svg": "assets/icons/expanded/interface/i0388.svg"
+  },
+  {
+    "id": "i0389",
+    "name": "Caps lock key",
+    "svg": "assets/icons/expanded/interface/i0389.svg"
+  },
+  {
+    "id": "i0390",
+    "name": "Backspace key",
+    "svg": "assets/icons/expanded/interface/i0390.svg"
+  },
+  {
+    "id": "i0391",
+    "name": "Column width",
+    "svg": "assets/icons/expanded/interface/i0391.svg"
+  },
+  {
+    "id": "i0392",
+    "name": "Row height",
+    "svg": "assets/icons/expanded/interface/i0392.svg"
+  },
+  {
+    "id": "i0393",
+    "name": "Merge table cells",
+    "svg": "assets/icons/expanded/interface/i0393.svg"
+  },
+  {
+    "id": "i0394",
+    "name": "Split table cell",
+    "svg": "assets/icons/expanded/interface/i0394.svg"
+  },
+  {
+    "id": "i0395",
+    "name": "Border styles",
+    "svg": "assets/icons/expanded/interface/i0395.svg"
+  },
+  {
+    "id": "i0396",
+    "name": "Corner radius",
+    "svg": "assets/icons/expanded/interface/i0396.svg"
+  },
+  {
+    "id": "i0397",
+    "name": "Stroke thickness",
+    "svg": "assets/icons/expanded/interface/i0397.svg"
+  },
+  {
+    "id": "i0398",
+    "name": "Fill opacity",
+    "svg": "assets/icons/expanded/interface/i0398.svg"
+  },
+  {
+    "id": "i0399",
+    "name": "Studio microphone",
+    "svg": "assets/icons/expanded/media/i0399.svg"
+  },
+  {
+    "id": "i0400",
+    "name": "Handheld microphone",
+    "svg": "assets/icons/expanded/media/i0400.svg"
+  },
+  {
+    "id": "i0401",
+    "name": "Microphone on boom",
+    "svg": "assets/icons/expanded/media/i0401.svg"
+  },
+  {
+    "id": "i0402",
+    "name": "Lavalier microphone",
+    "svg": "assets/icons/expanded/media/i0402.svg"
+  },
+  {
+    "id": "i0403",
+    "name": "Headphones",
+    "svg": "assets/icons/expanded/media/i0403.svg"
+  },
+  {
+    "id": "i0404",
+    "name": "In-ear monitors",
+    "svg": "assets/icons/expanded/media/i0404.svg"
+  },
+  {
+    "id": "i0405",
+    "name": "Sound wave",
+    "svg": "assets/icons/expanded/media/i0405.svg"
+  },
+  {
+    "id": "i0406",
+    "name": "Acoustic foam panel",
+    "svg": "assets/icons/expanded/media/i0406.svg"
+  },
+  {
+    "id": "i0407",
+    "name": "Tape splice",
+    "svg": "assets/icons/expanded/media/i0407.svg"
+  },
+  {
+    "id": "i0408",
+    "name": "Audio mixing console",
+    "svg": "assets/icons/expanded/media/i0408.svg"
+  },
+  {
+    "id": "i0409",
+    "name": "Stereo speaker pair",
+    "svg": "assets/icons/expanded/media/i0409.svg"
+  },
+  {
+    "id": "i0410",
+    "name": "Megaphone",
+    "svg": "assets/icons/expanded/media/i0410.svg"
+  },
+  {
+    "id": "i0411",
+    "name": "Music note",
+    "svg": "assets/icons/expanded/media/i0411.svg"
+  },
+  {
+    "id": "i0412",
+    "name": "Musical rest",
+    "svg": "assets/icons/expanded/media/i0412.svg"
+  },
+  {
+    "id": "i0413",
+    "name": "Metronome",
+    "svg": "assets/icons/expanded/media/i0413.svg"
+  },
+  {
+    "id": "i0414",
+    "name": "Tuning fork",
+    "svg": "assets/icons/expanded/media/i0414.svg"
+  },
+  {
+    "id": "i0415",
+    "name": "Vinyl record",
+    "svg": "assets/icons/expanded/media/i0415.svg"
+  },
+  {
+    "id": "i0416",
+    "name": "Record player",
+    "svg": "assets/icons/expanded/media/i0416.svg"
+  },
+  {
+    "id": "i0417",
+    "name": "Audio cassette",
+    "svg": "assets/icons/expanded/media/i0417.svg"
+  },
+  {
+    "id": "i0418",
+    "name": "Reel-to-reel tape",
+    "svg": "assets/icons/expanded/media/i0418.svg"
+  },
+  {
+    "id": "i0419",
+    "name": "Piano keyboard",
+    "svg": "assets/icons/expanded/media/i0419.svg"
+  },
+  {
+    "id": "i0420",
+    "name": "Acoustic guitar",
+    "svg": "assets/icons/expanded/media/i0420.svg"
+  },
+  {
+    "id": "i0421",
+    "name": "Violin",
+    "svg": "assets/icons/expanded/media/i0421.svg"
+  },
+  {
+    "id": "i0422",
+    "name": "Trumpet",
+    "svg": "assets/icons/expanded/media/i0422.svg"
+  },
+  {
+    "id": "i0423",
+    "name": "Drum",
+    "svg": "assets/icons/expanded/media/i0423.svg"
+  },
+  {
+    "id": "i0424",
+    "name": "Cymbals",
+    "svg": "assets/icons/expanded/media/i0424.svg"
+  },
+  {
+    "id": "i0425",
+    "name": "Harp",
+    "svg": "assets/icons/expanded/media/i0425.svg"
+  },
+  {
+    "id": "i0426",
+    "name": "Xylophone",
+    "svg": "assets/icons/expanded/media/i0426.svg"
+  },
+  {
+    "id": "i0427",
+    "name": "Music staff",
+    "svg": "assets/icons/expanded/media/i0427.svg"
+  },
+  {
+    "id": "i0428",
+    "name": "Concert stage",
+    "svg": "assets/icons/expanded/media/i0428.svg"
+  },
+  {
+    "id": "i0429",
+    "name": "Stage spotlight",
+    "svg": "assets/icons/expanded/media/i0429.svg"
+  },
+  {
+    "id": "i0430",
+    "name": "Clapperboard",
+    "svg": "assets/icons/expanded/media/i0430.svg"
+  },
+  {
+    "id": "i0431",
+    "name": "Movie film strip",
+    "svg": "assets/icons/expanded/media/i0431.svg"
+  },
+  {
+    "id": "i0432",
+    "name": "Film reel",
+    "svg": "assets/icons/expanded/media/i0432.svg"
+  },
+  {
+    "id": "i0433",
+    "name": "Video camera",
+    "svg": "assets/icons/expanded/media/i0433.svg"
+  },
+  {
+    "id": "i0434",
+    "name": "Cinema projector",
+    "svg": "assets/icons/expanded/media/i0434.svg"
+  },
+  {
+    "id": "i0435",
+    "name": "Projection screen",
+    "svg": "assets/icons/expanded/media/i0435.svg"
+  },
+  {
+    "id": "i0436",
+    "name": "Camera",
+    "svg": "assets/icons/expanded/media/i0436.svg"
+  },
+  {
+    "id": "i0437",
+    "name": "Instant camera",
+    "svg": "assets/icons/expanded/media/i0437.svg"
+  },
+  {
+    "id": "i0438",
+    "name": "Camera tripod",
+    "svg": "assets/icons/expanded/media/i0438.svg"
+  },
+  {
+    "id": "i0439",
+    "name": "Camera aperture",
+    "svg": "assets/icons/expanded/media/i0439.svg"
+  },
+  {
+    "id": "i0440",
+    "name": "Camera flash",
+    "svg": "assets/icons/expanded/media/i0440.svg"
+  },
+  {
+    "id": "i0441",
+    "name": "Photographic light meter",
+    "svg": "assets/icons/expanded/media/i0441.svg"
+  },
+  {
+    "id": "i0442",
+    "name": "Photo contact sheet",
+    "svg": "assets/icons/expanded/media/i0442.svg"
+  },
+  {
+    "id": "i0443",
+    "name": "Photo album",
+    "svg": "assets/icons/expanded/media/i0443.svg"
+  },
+  {
+    "id": "i0444",
+    "name": "Photo negative",
+    "svg": "assets/icons/expanded/media/i0444.svg"
+  },
+  {
+    "id": "i0445",
+    "name": "Green screen backdrop",
+    "svg": "assets/icons/expanded/media/i0445.svg"
+  },
+  {
+    "id": "i0446",
+    "name": "Closed captions",
+    "svg": "assets/icons/expanded/media/i0446.svg"
+  },
+  {
+    "id": "i0447",
+    "name": "Audio description",
+    "svg": "assets/icons/expanded/media/i0447.svg"
+  },
+  {
+    "id": "i0448",
+    "name": "Media playlist",
+    "svg": "assets/icons/expanded/media/i0448.svg"
+  },
+  {
+    "id": "i0449",
+    "name": "Intercom",
+    "svg": "assets/icons/expanded/media/i0449.svg"
+  },
+  {
+    "id": "i0450",
+    "name": "Conversation",
+    "svg": "assets/icons/expanded/media/i0450.svg"
+  },
+  {
+    "id": "i0451",
+    "name": "Thought bubble",
+    "svg": "assets/icons/expanded/media/i0451.svg"
+  },
+  {
+    "id": "i0452",
+    "name": "Announcement pennants",
+    "svg": "assets/icons/expanded/media/i0452.svg"
+  },
+  {
+    "id": "i0453",
+    "name": "Broadcast signal",
+    "svg": "assets/icons/expanded/media/i0453.svg"
+  },
+  {
+    "id": "i0454",
+    "name": "Podcast",
+    "svg": "assets/icons/expanded/media/i0454.svg"
+  },
+  {
+    "id": "i0455",
+    "name": "Pneumatic mail capsule",
+    "svg": "assets/icons/expanded/media/i0455.svg"
+  },
+  {
+    "id": "i0456",
+    "name": "Open correspondence",
+    "svg": "assets/icons/expanded/media/i0456.svg"
+  },
+  {
+    "id": "i0457",
+    "name": "Postage stamp",
+    "svg": "assets/icons/expanded/media/i0457.svg"
+  },
+  {
+    "id": "i0458",
+    "name": "Postmark",
+    "svg": "assets/icons/expanded/media/i0458.svg"
+  },
+  {
+    "id": "i0459",
+    "name": "Mailbox",
+    "svg": "assets/icons/expanded/media/i0459.svg"
+  },
+  {
+    "id": "i0460",
+    "name": "Sealed letter",
+    "svg": "assets/icons/expanded/media/i0460.svg"
+  },
+  {
+    "id": "i0461",
+    "name": "Paper message airplane",
+    "svg": "assets/icons/expanded/media/i0461.svg"
+  },
+  {
+    "id": "i0462",
+    "name": "Telephone handset",
+    "svg": "assets/icons/expanded/media/i0462.svg"
+  },
+  {
+    "id": "i0463",
+    "name": "Desk telephone",
+    "svg": "assets/icons/expanded/media/i0463.svg"
+  },
+  {
+    "id": "i0464",
+    "name": "Telephone exchange",
+    "svg": "assets/icons/expanded/media/i0464.svg"
+  },
+  {
+    "id": "i0465",
+    "name": "Voicemail",
+    "svg": "assets/icons/expanded/media/i0465.svg"
+  },
+  {
+    "id": "i0466",
+    "name": "Telephone keypad",
+    "svg": "assets/icons/expanded/media/i0466.svg"
+  },
+  {
+    "id": "i0467",
+    "name": "Contact card",
+    "svg": "assets/icons/expanded/media/i0467.svg"
+  },
+  {
+    "id": "i0468",
+    "name": "Address book",
+    "svg": "assets/icons/expanded/media/i0468.svg"
+  },
+  {
+    "id": "i0469",
+    "name": "Hashtag",
+    "svg": "assets/icons/expanded/media/i0469.svg"
+  },
+  {
+    "id": "i0470",
+    "name": "At sign",
+    "svg": "assets/icons/expanded/media/i0470.svg"
+  },
+  {
+    "id": "i0471",
+    "name": "Mention in conversation",
+    "svg": "assets/icons/expanded/media/i0471.svg"
+  },
+  {
+    "id": "i0472",
+    "name": "Language exchange",
+    "svg": "assets/icons/expanded/media/i0472.svg"
+  },
+  {
+    "id": "i0473",
+    "name": "Applause",
+    "svg": "assets/icons/expanded/media/i0473.svg"
+  },
+  {
+    "id": "i0474",
+    "name": "Thumbs up",
+    "svg": "assets/icons/expanded/media/i0474.svg"
+  },
+  {
+    "id": "i0475",
+    "name": "Handshake",
+    "svg": "assets/icons/expanded/media/i0475.svg"
+  },
+  {
+    "id": "i0476",
+    "name": "Community circle",
+    "svg": "assets/icons/expanded/media/i0476.svg"
+  },
+  {
+    "id": "i0477",
+    "name": "Audience",
+    "svg": "assets/icons/expanded/media/i0477.svg"
+  },
+  {
+    "id": "i0478",
+    "name": "Public speaking",
+    "svg": "assets/icons/expanded/media/i0478.svg"
+  },
+  {
+    "id": "i0479",
+    "name": "Calendar month",
+    "svg": "assets/icons/expanded/media/i0479.svg"
+  },
+  {
+    "id": "i0480",
+    "name": "Calendar day",
+    "svg": "assets/icons/expanded/media/i0480.svg"
+  },
+  {
+    "id": "i0481",
+    "name": "Weekly planner",
+    "svg": "assets/icons/expanded/media/i0481.svg"
+  },
+  {
+    "id": "i0482",
+    "name": "Desk calendar",
+    "svg": "assets/icons/expanded/media/i0482.svg"
+  },
+  {
+    "id": "i0483",
+    "name": "Tear-off calendar",
+    "svg": "assets/icons/expanded/media/i0483.svg"
+  },
+  {
+    "id": "i0484",
+    "name": "Wall clock",
+    "svg": "assets/icons/expanded/media/i0484.svg"
+  },
+  {
+    "id": "i0485",
+    "name": "Alarm clock",
+    "svg": "assets/icons/expanded/media/i0485.svg"
+  },
+  {
+    "id": "i0486",
+    "name": "Stopwatch",
+    "svg": "assets/icons/expanded/media/i0486.svg"
+  },
+  {
+    "id": "i0487",
+    "name": "Sand timer",
+    "svg": "assets/icons/expanded/media/i0487.svg"
+  },
+  {
+    "id": "i0488",
+    "name": "Pendulum clock",
+    "svg": "assets/icons/expanded/media/i0488.svg"
+  },
+  {
+    "id": "i0489",
+    "name": "Wristwatch",
+    "svg": "assets/icons/expanded/media/i0489.svg"
+  },
+  {
+    "id": "i0490",
+    "name": "Time zone clocks",
+    "svg": "assets/icons/expanded/media/i0490.svg"
+  },
+  {
+    "id": "i0491",
+    "name": "Elapsed time interval",
+    "svg": "assets/icons/expanded/media/i0491.svg"
+  },
+  {
+    "id": "i0492",
+    "name": "Timeline milestones",
+    "svg": "assets/icons/expanded/media/i0492.svg"
+  },
+  {
+    "id": "i0493",
+    "name": "Appointment slot",
+    "svg": "assets/icons/expanded/media/i0493.svg"
+  },
+  {
+    "id": "i0494",
+    "name": "Recurring schedule",
+    "svg": "assets/icons/expanded/media/i0494.svg"
+  },
+  {
+    "id": "i0495",
+    "name": "Deadline",
+    "svg": "assets/icons/expanded/media/i0495.svg"
+  },
+  {
+    "id": "i0496",
+    "name": "Shift schedule",
+    "svg": "assets/icons/expanded/media/i0496.svg"
+  },
+  {
+    "id": "i0497",
+    "name": "Time allocation",
+    "svg": "assets/icons/expanded/media/i0497.svg"
+  },
+  {
+    "id": "i0498",
+    "name": "Time off",
+    "svg": "assets/icons/expanded/media/i0498.svg"
+  },
+  {
+    "id": "i0499",
+    "name": "Shopping basket",
+    "svg": "assets/icons/expanded/media/i0499.svg"
+  },
+  {
+    "id": "i0500",
+    "name": "Shopping cart",
+    "svg": "assets/icons/expanded/media/i0500.svg"
+  },
+  {
+    "id": "i0501",
+    "name": "Upright shopping trolley",
+    "svg": "assets/icons/expanded/media/i0501.svg"
+  },
+  {
+    "id": "i0502",
+    "name": "Shopping bag",
+    "svg": "assets/icons/expanded/media/i0502.svg"
+  },
+  {
+    "id": "i0503",
+    "name": "Paper retail bag",
+    "svg": "assets/icons/expanded/media/i0503.svg"
+  },
+  {
+    "id": "i0504",
+    "name": "Fitting room",
+    "svg": "assets/icons/expanded/media/i0504.svg"
+  },
+  {
+    "id": "i0505",
+    "name": "Gift box",
+    "svg": "assets/icons/expanded/media/i0505.svg"
+  },
+  {
+    "id": "i0506",
+    "name": "Gift ribbon",
+    "svg": "assets/icons/expanded/media/i0506.svg"
+  },
+  {
+    "id": "i0507",
+    "name": "Price tag",
+    "svg": "assets/icons/expanded/media/i0507.svg"
+  },
+  {
+    "id": "i0508",
+    "name": "Hanging price label",
+    "svg": "assets/icons/expanded/media/i0508.svg"
+  },
+  {
+    "id": "i0509",
+    "name": "Sale coupon",
+    "svg": "assets/icons/expanded/media/i0509.svg"
+  },
+  {
+    "id": "i0510",
+    "name": "Discount percentage",
+    "svg": "assets/icons/expanded/media/i0510.svg"
+  },
+  {
+    "id": "i0511",
+    "name": "Barcode",
+    "svg": "assets/icons/expanded/media/i0511.svg"
+  },
+  {
+    "id": "i0512",
+    "name": "QR label",
+    "svg": "assets/icons/expanded/media/i0512.svg"
+  },
+  {
+    "id": "i0513",
+    "name": "Cash register",
+    "svg": "assets/icons/expanded/media/i0513.svg"
+  },
+  {
+    "id": "i0514",
+    "name": "Checkout counter",
+    "svg": "assets/icons/expanded/media/i0514.svg"
+  },
+  {
+    "id": "i0515",
+    "name": "Payment terminal",
+    "svg": "assets/icons/expanded/media/i0515.svg"
+  },
+  {
+    "id": "i0516",
+    "name": "Credit card",
+    "svg": "assets/icons/expanded/media/i0516.svg"
+  },
+  {
+    "id": "i0517",
+    "name": "Contactless payment",
+    "svg": "assets/icons/expanded/media/i0517.svg"
+  },
+  {
+    "id": "i0518",
+    "name": "Wallet",
+    "svg": "assets/icons/expanded/media/i0518.svg"
+  },
+  {
+    "id": "i0519",
+    "name": "Coin purse",
+    "svg": "assets/icons/expanded/media/i0519.svg"
+  },
+  {
+    "id": "i0520",
+    "name": "Banknote",
+    "svg": "assets/icons/expanded/media/i0520.svg"
+  },
+  {
+    "id": "i0521",
+    "name": "Stack of cash",
+    "svg": "assets/icons/expanded/media/i0521.svg"
+  },
+  {
+    "id": "i0522",
+    "name": "Coin stack",
+    "svg": "assets/icons/expanded/media/i0522.svg"
+  },
+  {
+    "id": "i0523",
+    "name": "Piggy bank",
+    "svg": "assets/icons/expanded/media/i0523.svg"
+  },
+  {
+    "id": "i0524",
+    "name": "Money safe",
+    "svg": "assets/icons/expanded/media/i0524.svg"
+  },
+  {
+    "id": "i0525",
+    "name": "Donation box",
+    "svg": "assets/icons/expanded/media/i0525.svg"
+  },
+  {
+    "id": "i0526",
+    "name": "Tip jar",
+    "svg": "assets/icons/expanded/media/i0526.svg"
+  },
+  {
+    "id": "i0527",
+    "name": "Receipt roll",
+    "svg": "assets/icons/expanded/media/i0527.svg"
+  },
+  {
+    "id": "i0528",
+    "name": "Itemized invoice",
+    "svg": "assets/icons/expanded/media/i0528.svg"
+  },
+  {
+    "id": "i0529",
+    "name": "Loyalty card",
+    "svg": "assets/icons/expanded/media/i0529.svg"
+  },
+  {
+    "id": "i0530",
+    "name": "Membership pass",
+    "svg": "assets/icons/expanded/media/i0530.svg"
+  },
+  {
+    "id": "i0531",
+    "name": "Retail storefront",
+    "svg": "assets/icons/expanded/media/i0531.svg"
+  },
+  {
+    "id": "i0532",
+    "name": "Market stall",
+    "svg": "assets/icons/expanded/media/i0532.svg"
+  },
+  {
+    "id": "i0533",
+    "name": "Shop opening sign",
+    "svg": "assets/icons/expanded/media/i0533.svg"
+  },
+  {
+    "id": "i0534",
+    "name": "Retail display carousel",
+    "svg": "assets/icons/expanded/media/i0534.svg"
+  },
+  {
+    "id": "i0535",
+    "name": "Auction gavel",
+    "svg": "assets/icons/expanded/media/i0535.svg"
+  },
+  {
+    "id": "i0536",
+    "name": "Sales bell",
+    "svg": "assets/icons/expanded/media/i0536.svg"
+  },
+  {
+    "id": "i0537",
+    "name": "Product hanger",
+    "svg": "assets/icons/expanded/media/i0537.svg"
+  },
+  {
+    "id": "i0538",
+    "name": "Display mannequin",
+    "svg": "assets/icons/expanded/media/i0538.svg"
+  },
+  {
+    "id": "i0539",
+    "name": "Jewelry display",
+    "svg": "assets/icons/expanded/media/i0539.svg"
+  },
+  {
+    "id": "i0540",
+    "name": "Order packing",
+    "svg": "assets/icons/expanded/media/i0540.svg"
+  },
+  {
+    "id": "i0541",
+    "name": "Open parcel",
+    "svg": "assets/icons/expanded/media/i0541.svg"
+  },
+  {
+    "id": "i0542",
+    "name": "Fragile package",
+    "svg": "assets/icons/expanded/media/i0542.svg"
+  },
+  {
+    "id": "i0543",
+    "name": "Order weighing scale",
+    "svg": "assets/icons/expanded/media/i0543.svg"
+  },
+  {
+    "id": "i0544",
+    "name": "Product bundle",
+    "svg": "assets/icons/expanded/media/i0544.svg"
+  },
+  {
+    "id": "i0545",
+    "name": "Price comparison",
+    "svg": "assets/icons/expanded/media/i0545.svg"
+  },
+  {
+    "id": "i0546",
+    "name": "Refund",
+    "svg": "assets/icons/expanded/media/i0546.svg"
+  },
+  {
+    "id": "i0547",
+    "name": "Currency exchange",
+    "svg": "assets/icons/expanded/media/i0547.svg"
+  },
+  {
+    "id": "i0548",
+    "name": "Payment installments",
+    "svg": "assets/icons/expanded/media/i0548.svg"
+  },
+  {
+    "id": "i0549",
+    "name": "Briefcase",
+    "svg": "assets/icons/expanded/media/i0549.svg"
+  },
+  {
+    "id": "i0550",
+    "name": "Portfolio case",
+    "svg": "assets/icons/expanded/media/i0550.svg"
+  },
+  {
+    "id": "i0551",
+    "name": "Office water cooler",
+    "svg": "assets/icons/expanded/media/i0551.svg"
+  },
+  {
+    "id": "i0552",
+    "name": "Office building",
+    "svg": "assets/icons/expanded/media/i0552.svg"
+  },
+  {
+    "id": "i0553",
+    "name": "Headquarters",
+    "svg": "assets/icons/expanded/media/i0553.svg"
+  },
+  {
+    "id": "i0554",
+    "name": "Boardroom table",
+    "svg": "assets/icons/expanded/media/i0554.svg"
+  },
+  {
+    "id": "i0555",
+    "name": "Meeting chairs",
+    "svg": "assets/icons/expanded/media/i0555.svg"
+  },
+  {
+    "id": "i0556",
+    "name": "Conference podium",
+    "svg": "assets/icons/expanded/media/i0556.svg"
+  },
+  {
+    "id": "i0557",
+    "name": "Work desk",
+    "svg": "assets/icons/expanded/media/i0557.svg"
+  },
+  {
+    "id": "i0558",
+    "name": "Office chair",
+    "svg": "assets/icons/expanded/media/i0558.svg"
+  },
+  {
+    "id": "i0559",
+    "name": "Succession plan",
+    "svg": "assets/icons/expanded/media/i0559.svg"
+  },
+  {
+    "id": "i0560",
+    "name": "Staff onboarding",
+    "svg": "assets/icons/expanded/media/i0560.svg"
+  },
+  {
+    "id": "i0561",
+    "name": "Collaboration network",
+    "svg": "assets/icons/expanded/media/i0561.svg"
+  },
+  {
+    "id": "i0562",
+    "name": "Employee badge",
+    "svg": "assets/icons/expanded/media/i0562.svg"
+  },
+  {
+    "id": "i0563",
+    "name": "Nameplate",
+    "svg": "assets/icons/expanded/media/i0563.svg"
+  },
+  {
+    "id": "i0564",
+    "name": "Professional tie",
+    "svg": "assets/icons/expanded/media/i0564.svg"
+  },
+  {
+    "id": "i0565",
+    "name": "Promotion ladder",
+    "svg": "assets/icons/expanded/media/i0565.svg"
+  },
+  {
+    "id": "i0566",
+    "name": "Career steps",
+    "svg": "assets/icons/expanded/media/i0566.svg"
+  },
+  {
+    "id": "i0567",
+    "name": "Job interview",
+    "svg": "assets/icons/expanded/media/i0567.svg"
+  },
+  {
+    "id": "i0568",
+    "name": "Recruitment funnel",
+    "svg": "assets/icons/expanded/media/i0568.svg"
+  },
+  {
+    "id": "i0569",
+    "name": "Skills matrix",
+    "svg": "assets/icons/expanded/media/i0569.svg"
+  },
+  {
+    "id": "i0570",
+    "name": "Training workshop",
+    "svg": "assets/icons/expanded/media/i0570.svg"
+  },
+  {
+    "id": "i0571",
+    "name": "Certificate seal",
+    "svg": "assets/icons/expanded/media/i0571.svg"
+  },
+  {
+    "id": "i0572",
+    "name": "Award trophy",
+    "svg": "assets/icons/expanded/media/i0572.svg"
+  },
+  {
+    "id": "i0573",
+    "name": "Award medal",
+    "svg": "assets/icons/expanded/media/i0573.svg"
+  },
+  {
+    "id": "i0574",
+    "name": "Achievement rosette",
+    "svg": "assets/icons/expanded/media/i0574.svg"
+  },
+  {
+    "id": "i0575",
+    "name": "Business target",
+    "svg": "assets/icons/expanded/media/i0575.svg"
+  },
+  {
+    "id": "i0576",
+    "name": "Strategy chess king",
+    "svg": "assets/icons/expanded/media/i0576.svg"
+  },
+  {
+    "id": "i0577",
+    "name": "Strategy chess knight",
+    "svg": "assets/icons/expanded/media/i0577.svg"
+  },
+  {
+    "id": "i0578",
+    "name": "Roadmap phases",
+    "svg": "assets/icons/expanded/media/i0578.svg"
+  },
+  {
+    "id": "i0579",
+    "name": "Performance podium",
+    "svg": "assets/icons/expanded/media/i0579.svg"
+  },
+  {
+    "id": "i0580",
+    "name": "Project kanban",
+    "svg": "assets/icons/expanded/media/i0580.svg"
+  },
+  {
+    "id": "i0581",
+    "name": "Task dependency",
+    "svg": "assets/icons/expanded/media/i0581.svg"
+  },
+  {
+    "id": "i0582",
+    "name": "Workflow stages",
+    "svg": "assets/icons/expanded/media/i0582.svg"
+  },
+  {
+    "id": "i0583",
+    "name": "Critical path",
+    "svg": "assets/icons/expanded/media/i0583.svg"
+  },
+  {
+    "id": "i0584",
+    "name": "Risk matrix",
+    "svg": "assets/icons/expanded/media/i0584.svg"
+  },
+  {
+    "id": "i0585",
+    "name": "Risk balance",
+    "svg": "assets/icons/expanded/media/i0585.svg"
+  },
+  {
+    "id": "i0586",
+    "name": "Business umbrella",
+    "svg": "assets/icons/expanded/media/i0586.svg"
+  },
+  {
+    "id": "i0587",
+    "name": "Approval stamp",
+    "svg": "assets/icons/expanded/media/i0587.svg"
+  },
+  {
+    "id": "i0588",
+    "name": "Contract signing",
+    "svg": "assets/icons/expanded/media/i0588.svg"
+  },
+  {
+    "id": "i0589",
+    "name": "Partnership rings",
+    "svg": "assets/icons/expanded/media/i0589.svg"
+  },
+  {
+    "id": "i0590",
+    "name": "Merger",
+    "svg": "assets/icons/expanded/media/i0590.svg"
+  },
+  {
+    "id": "i0591",
+    "name": "Spin-off",
+    "svg": "assets/icons/expanded/media/i0591.svg"
+  },
+  {
+    "id": "i0592",
+    "name": "Business cycle",
+    "svg": "assets/icons/expanded/media/i0592.svg"
+  },
+  {
+    "id": "i0593",
+    "name": "Resource allocation",
+    "svg": "assets/icons/expanded/media/i0593.svg"
+  },
+  {
+    "id": "i0594",
+    "name": "Capacity planning",
+    "svg": "assets/icons/expanded/media/i0594.svg"
+  },
+  {
+    "id": "i0595",
+    "name": "Operations dashboard",
+    "svg": "assets/icons/expanded/media/i0595.svg"
+  },
+  {
+    "id": "i0596",
+    "name": "Business growth",
+    "svg": "assets/icons/expanded/media/i0596.svg"
+  },
+  {
+    "id": "i0597",
+    "name": "Cost reduction",
+    "svg": "assets/icons/expanded/media/i0597.svg"
+  },
+  {
+    "id": "i0598",
+    "name": "Profit margin",
+    "svg": "assets/icons/expanded/media/i0598.svg"
+  },
+  {
+    "id": "i0599",
+    "name": "Vertical bar chart",
+    "svg": "assets/icons/expanded/media/i0599.svg"
+  },
+  {
+    "id": "i0600",
+    "name": "Horizontal bar chart",
+    "svg": "assets/icons/expanded/media/i0600.svg"
+  },
+  {
+    "id": "i0601",
+    "name": "Grouped bar chart",
+    "svg": "assets/icons/expanded/media/i0601.svg"
+  },
+  {
+    "id": "i0602",
+    "name": "Stacked bar chart",
+    "svg": "assets/icons/expanded/media/i0602.svg"
+  },
+  {
+    "id": "i0603",
+    "name": "Diverging bar chart",
+    "svg": "assets/icons/expanded/media/i0603.svg"
+  },
+  {
+    "id": "i0604",
+    "name": "Lollipop chart",
+    "svg": "assets/icons/expanded/media/i0604.svg"
+  },
+  {
+    "id": "i0605",
+    "name": "Line chart",
+    "svg": "assets/icons/expanded/media/i0605.svg"
+  },
+  {
+    "id": "i0606",
+    "name": "Multiple line chart",
+    "svg": "assets/icons/expanded/media/i0606.svg"
+  },
+  {
+    "id": "i0607",
+    "name": "Step chart",
+    "svg": "assets/icons/expanded/media/i0607.svg"
+  },
+  {
+    "id": "i0608",
+    "name": "Area chart",
+    "svg": "assets/icons/expanded/media/i0608.svg"
+  },
+  {
+    "id": "i0609",
+    "name": "Stacked area chart",
+    "svg": "assets/icons/expanded/media/i0609.svg"
+  },
+  {
+    "id": "i0610",
+    "name": "Streamgraph",
+    "svg": "assets/icons/expanded/media/i0610.svg"
+  },
+  {
+    "id": "i0611",
+    "name": "Pie chart",
+    "svg": "assets/icons/expanded/media/i0611.svg"
+  },
+  {
+    "id": "i0612",
+    "name": "Donut chart",
+    "svg": "assets/icons/expanded/media/i0612.svg"
+  },
+  {
+    "id": "i0613",
+    "name": "Semicircle gauge",
+    "svg": "assets/icons/expanded/media/i0613.svg"
+  },
+  {
+    "id": "i0614",
+    "name": "Dial gauge",
+    "svg": "assets/icons/expanded/media/i0614.svg"
+  },
+  {
+    "id": "i0615",
+    "name": "Radar chart",
+    "svg": "assets/icons/expanded/media/i0615.svg"
+  },
+  {
+    "id": "i0616",
+    "name": "Scatter plot",
+    "svg": "assets/icons/expanded/media/i0616.svg"
+  },
+  {
+    "id": "i0617",
+    "name": "Bubble chart",
+    "svg": "assets/icons/expanded/media/i0617.svg"
+  },
+  {
+    "id": "i0618",
+    "name": "Heatmap",
+    "svg": "assets/icons/expanded/media/i0618.svg"
+  },
+  {
+    "id": "i0619",
+    "name": "Treemap",
+    "svg": "assets/icons/expanded/media/i0619.svg"
+  },
+  {
+    "id": "i0620",
+    "name": "Histogram",
+    "svg": "assets/icons/expanded/media/i0620.svg"
+  },
+  {
+    "id": "i0621",
+    "name": "Box plot",
+    "svg": "assets/icons/expanded/media/i0621.svg"
+  },
+  {
+    "id": "i0622",
+    "name": "Violin plot",
+    "svg": "assets/icons/expanded/media/i0622.svg"
+  },
+  {
+    "id": "i0623",
+    "name": "Normal distribution",
+    "svg": "assets/icons/expanded/media/i0623.svg"
+  },
+  {
+    "id": "i0624",
+    "name": "Cumulative distribution",
+    "svg": "assets/icons/expanded/media/i0624.svg"
+  },
+  {
+    "id": "i0625",
+    "name": "Error bars",
+    "svg": "assets/icons/expanded/media/i0625.svg"
+  },
+  {
+    "id": "i0626",
+    "name": "Confidence band",
+    "svg": "assets/icons/expanded/media/i0626.svg"
+  },
+  {
+    "id": "i0627",
+    "name": "Candlestick chart",
+    "svg": "assets/icons/expanded/media/i0627.svg"
+  },
+  {
+    "id": "i0628",
+    "name": "Open-high-low-close chart",
+    "svg": "assets/icons/expanded/media/i0628.svg"
+  },
+  {
+    "id": "i0629",
+    "name": "Waterfall chart",
+    "svg": "assets/icons/expanded/media/i0629.svg"
+  },
+  {
+    "id": "i0630",
+    "name": "Funnel chart",
+    "svg": "assets/icons/expanded/media/i0630.svg"
+  },
+  {
+    "id": "i0631",
+    "name": "Pyramid chart",
+    "svg": "assets/icons/expanded/media/i0631.svg"
+  },
+  {
+    "id": "i0632",
+    "name": "Population pyramid",
+    "svg": "assets/icons/expanded/media/i0632.svg"
+  },
+  {
+    "id": "i0633",
+    "name": "Sankey flow chart",
+    "svg": "assets/icons/expanded/media/i0633.svg"
+  },
+  {
+    "id": "i0634",
+    "name": "Chord diagram",
+    "svg": "assets/icons/expanded/media/i0634.svg"
+  },
+  {
+    "id": "i0635",
+    "name": "Network graph",
+    "svg": "assets/icons/expanded/media/i0635.svg"
+  },
+  {
+    "id": "i0636",
+    "name": "Decision tree",
+    "svg": "assets/icons/expanded/media/i0636.svg"
+  },
+  {
+    "id": "i0637",
+    "name": "Dendrogram",
+    "svg": "assets/icons/expanded/media/i0637.svg"
+  },
+  {
+    "id": "i0638",
+    "name": "Parallel coordinates",
+    "svg": "assets/icons/expanded/media/i0638.svg"
+  },
+  {
+    "id": "i0639",
+    "name": "Slope chart",
+    "svg": "assets/icons/expanded/media/i0639.svg"
+  },
+  {
+    "id": "i0640",
+    "name": "Bump ranking chart",
+    "svg": "assets/icons/expanded/media/i0640.svg"
+  },
+  {
+    "id": "i0641",
+    "name": "Gantt chart",
+    "svg": "assets/icons/expanded/media/i0641.svg"
+  },
+  {
+    "id": "i0642",
+    "name": "Bullet chart",
+    "svg": "assets/icons/expanded/media/i0642.svg"
+  },
+  {
+    "id": "i0643",
+    "name": "Dot plot",
+    "svg": "assets/icons/expanded/media/i0643.svg"
+  },
+  {
+    "id": "i0644",
+    "name": "Correlation matrix",
+    "svg": "assets/icons/expanded/media/i0644.svg"
+  },
+  {
+    "id": "i0645",
+    "name": "Lorenz curve",
+    "svg": "assets/icons/expanded/media/i0645.svg"
+  },
+  {
+    "id": "i0646",
+    "name": "Seasonal pattern",
+    "svg": "assets/icons/expanded/media/i0646.svg"
+  },
+  {
+    "id": "i0647",
+    "name": "Forecast trend",
+    "svg": "assets/icons/expanded/media/i0647.svg"
+  },
+  {
+    "id": "i0648",
+    "name": "Statistical summary",
+    "svg": "assets/icons/expanded/media/i0648.svg"
+  },
+  {
+    "id": "i0649",
+    "name": "Syntax parse tree",
+    "svg": "assets/icons/expanded/technical/i0649.svg"
+  },
+  {
+    "id": "i0650",
+    "name": "Curly braces",
+    "svg": "assets/icons/expanded/technical/i0650.svg"
+  },
+  {
+    "id": "i0651",
+    "name": "Command terminal",
+    "svg": "assets/icons/expanded/technical/i0651.svg"
+  },
+  {
+    "id": "i0652",
+    "name": "Function",
+    "svg": "assets/icons/expanded/technical/i0652.svg"
+  },
+  {
+    "id": "i0653",
+    "name": "Binary digits",
+    "svg": "assets/icons/expanded/technical/i0653.svg"
+  },
+  {
+    "id": "i0654",
+    "name": "Variable assignment",
+    "svg": "assets/icons/expanded/technical/i0654.svg"
+  },
+  {
+    "id": "i0655",
+    "name": "Loop",
+    "svg": "assets/icons/expanded/technical/i0655.svg"
+  },
+  {
+    "id": "i0656",
+    "name": "Conditional branch",
+    "svg": "assets/icons/expanded/technical/i0656.svg"
+  },
+  {
+    "id": "i0657",
+    "name": "Merge branches",
+    "svg": "assets/icons/expanded/technical/i0657.svg"
+  },
+  {
+    "id": "i0658",
+    "name": "Fork branches",
+    "svg": "assets/icons/expanded/technical/i0658.svg"
+  },
+  {
+    "id": "i0659",
+    "name": "Commit history",
+    "svg": "assets/icons/expanded/technical/i0659.svg"
+  },
+  {
+    "id": "i0660",
+    "name": "Pull request",
+    "svg": "assets/icons/expanded/technical/i0660.svg"
+  },
+  {
+    "id": "i0661",
+    "name": "Memory heap",
+    "svg": "assets/icons/expanded/technical/i0661.svg"
+  },
+  {
+    "id": "i0662",
+    "name": "Queue",
+    "svg": "assets/icons/expanded/technical/i0662.svg"
+  },
+  {
+    "id": "i0663",
+    "name": "Tree structure",
+    "svg": "assets/icons/expanded/technical/i0663.svg"
+  },
+  {
+    "id": "i0664",
+    "name": "Linked list",
+    "svg": "assets/icons/expanded/technical/i0664.svg"
+  },
+  {
+    "id": "i0665",
+    "name": "Graph nodes",
+    "svg": "assets/icons/expanded/technical/i0665.svg"
+  },
+  {
+    "id": "i0666",
+    "name": "Recursion",
+    "svg": "assets/icons/expanded/technical/i0666.svg"
+  },
+  {
+    "id": "i0667",
+    "name": "Regular expression",
+    "svg": "assets/icons/expanded/technical/i0667.svg"
+  },
+  {
+    "id": "i0668",
+    "name": "Lambda",
+    "svg": "assets/icons/expanded/technical/i0668.svg"
+  },
+  {
+    "id": "i0669",
+    "name": "Pipeline",
+    "svg": "assets/icons/expanded/technical/i0669.svg"
+  },
+  {
+    "id": "i0670",
+    "name": "API endpoints",
+    "svg": "assets/icons/expanded/technical/i0670.svg"
+  },
+  {
+    "id": "i0671",
+    "name": "Webhook",
+    "svg": "assets/icons/expanded/technical/i0671.svg"
+  },
+  {
+    "id": "i0672",
+    "name": "Socket connection",
+    "svg": "assets/icons/expanded/technical/i0672.svg"
+  },
+  {
+    "id": "i0673",
+    "name": "Ring network",
+    "svg": "assets/icons/expanded/technical/i0673.svg"
+  },
+  {
+    "id": "i0674",
+    "name": "Router",
+    "svg": "assets/icons/expanded/technical/i0674.svg"
+  },
+  {
+    "id": "i0675",
+    "name": "Wireless signal",
+    "svg": "assets/icons/expanded/technical/i0675.svg"
+  },
+  {
+    "id": "i0676",
+    "name": "Inductive coupling",
+    "svg": "assets/icons/expanded/technical/i0676.svg"
+  },
+  {
+    "id": "i0677",
+    "name": "Local area network",
+    "svg": "assets/icons/expanded/technical/i0677.svg"
+  },
+  {
+    "id": "i0678",
+    "name": "Ethernet jack",
+    "svg": "assets/icons/expanded/technical/i0678.svg"
+  },
+  {
+    "id": "i0679",
+    "name": "Fiber optic cable",
+    "svg": "assets/icons/expanded/technical/i0679.svg"
+  },
+  {
+    "id": "i0680",
+    "name": "Mesh network",
+    "svg": "assets/icons/expanded/technical/i0680.svg"
+  },
+  {
+    "id": "i0681",
+    "name": "Firewall",
+    "svg": "assets/icons/expanded/technical/i0681.svg"
+  },
+  {
+    "id": "i0682",
+    "name": "Shield",
+    "svg": "assets/icons/expanded/technical/i0682.svg"
+  },
+  {
+    "id": "i0683",
+    "name": "Padlock",
+    "svg": "assets/icons/expanded/technical/i0683.svg"
+  },
+  {
+    "id": "i0684",
+    "name": "Unlock",
+    "svg": "assets/icons/expanded/technical/i0684.svg"
+  },
+  {
+    "id": "i0685",
+    "name": "Passkey",
+    "svg": "assets/icons/expanded/technical/i0685.svg"
+  },
+  {
+    "id": "i0686",
+    "name": "Fingerprint",
+    "svg": "assets/icons/expanded/technical/i0686.svg"
+  },
+  {
+    "id": "i0687",
+    "name": "Iris scan",
+    "svg": "assets/icons/expanded/technical/i0687.svg"
+  },
+  {
+    "id": "i0688",
+    "name": "Security token",
+    "svg": "assets/icons/expanded/technical/i0688.svg"
+  },
+  {
+    "id": "i0689",
+    "name": "Keypad code",
+    "svg": "assets/icons/expanded/technical/i0689.svg"
+  },
+  {
+    "id": "i0690",
+    "name": "Encryption",
+    "svg": "assets/icons/expanded/technical/i0690.svg"
+  },
+  {
+    "id": "i0691",
+    "name": "Authentication certificate",
+    "svg": "assets/icons/expanded/technical/i0691.svg"
+  },
+  {
+    "id": "i0692",
+    "name": "Bug",
+    "svg": "assets/icons/expanded/technical/i0692.svg"
+  },
+  {
+    "id": "i0693",
+    "name": "Sandbox",
+    "svg": "assets/icons/expanded/technical/i0693.svg"
+  },
+  {
+    "id": "i0694",
+    "name": "Unit test",
+    "svg": "assets/icons/expanded/technical/i0694.svg"
+  },
+  {
+    "id": "i0695",
+    "name": "Debug breakpoint",
+    "svg": "assets/icons/expanded/technical/i0695.svg"
+  },
+  {
+    "id": "i0696",
+    "name": "Source diff",
+    "svg": "assets/icons/expanded/technical/i0696.svg"
+  },
+  {
+    "id": "i0697",
+    "name": "Package dependency",
+    "svg": "assets/icons/expanded/technical/i0697.svg"
+  },
+  {
+    "id": "i0698",
+    "name": "Process flow",
+    "svg": "assets/icons/expanded/technical/i0698.svg"
+  },
+  {
+    "id": "i0699",
+    "name": "Desktop monitor",
+    "svg": "assets/icons/expanded/technical/i0699.svg"
+  },
+  {
+    "id": "i0700",
+    "name": "Laptop computer",
+    "svg": "assets/icons/expanded/technical/i0700.svg"
+  },
+  {
+    "id": "i0701",
+    "name": "Tablet device",
+    "svg": "assets/icons/expanded/technical/i0701.svg"
+  },
+  {
+    "id": "i0702",
+    "name": "Smartphone",
+    "svg": "assets/icons/expanded/technical/i0702.svg"
+  },
+  {
+    "id": "i0703",
+    "name": "Foldable screen",
+    "svg": "assets/icons/expanded/technical/i0703.svg"
+  },
+  {
+    "id": "i0704",
+    "name": "Smartwatch",
+    "svg": "assets/icons/expanded/technical/i0704.svg"
+  },
+  {
+    "id": "i0705",
+    "name": "Ergonomic split keyboard",
+    "svg": "assets/icons/expanded/technical/i0705.svg"
+  },
+  {
+    "id": "i0706",
+    "name": "Computer mouse",
+    "svg": "assets/icons/expanded/technical/i0706.svg"
+  },
+  {
+    "id": "i0707",
+    "name": "Trackpad",
+    "svg": "assets/icons/expanded/technical/i0707.svg"
+  },
+  {
+    "id": "i0708",
+    "name": "Punch card",
+    "svg": "assets/icons/expanded/technical/i0708.svg"
+  },
+  {
+    "id": "i0709",
+    "name": "Graphics tablet",
+    "svg": "assets/icons/expanded/technical/i0709.svg"
+  },
+  {
+    "id": "i0710",
+    "name": "Game controller",
+    "svg": "assets/icons/expanded/technical/i0710.svg"
+  },
+  {
+    "id": "i0711",
+    "name": "Joystick",
+    "svg": "assets/icons/expanded/technical/i0711.svg"
+  },
+  {
+    "id": "i0712",
+    "name": "Virtual reality headset",
+    "svg": "assets/icons/expanded/technical/i0712.svg"
+  },
+  {
+    "id": "i0713",
+    "name": "Augmented reality glasses",
+    "svg": "assets/icons/expanded/technical/i0713.svg"
+  },
+  {
+    "id": "i0714",
+    "name": "Computer tower",
+    "svg": "assets/icons/expanded/technical/i0714.svg"
+  },
+  {
+    "id": "i0715",
+    "name": "Server rack",
+    "svg": "assets/icons/expanded/technical/i0715.svg"
+  },
+  {
+    "id": "i0716",
+    "name": "Microchip",
+    "svg": "assets/icons/expanded/technical/i0716.svg"
+  },
+  {
+    "id": "i0717",
+    "name": "Circuit board",
+    "svg": "assets/icons/expanded/technical/i0717.svg"
+  },
+  {
+    "id": "i0718",
+    "name": "Memory module",
+    "svg": "assets/icons/expanded/technical/i0718.svg"
+  },
+  {
+    "id": "i0719",
+    "name": "Solid state drive",
+    "svg": "assets/icons/expanded/technical/i0719.svg"
+  },
+  {
+    "id": "i0720",
+    "name": "Hard disk platter",
+    "svg": "assets/icons/expanded/technical/i0720.svg"
+  },
+  {
+    "id": "i0721",
+    "name": "USB flash drive",
+    "svg": "assets/icons/expanded/technical/i0721.svg"
+  },
+  {
+    "id": "i0722",
+    "name": "Memory card",
+    "svg": "assets/icons/expanded/technical/i0722.svg"
+  },
+  {
+    "id": "i0723",
+    "name": "SIM card",
+    "svg": "assets/icons/expanded/technical/i0723.svg"
+  },
+  {
+    "id": "i0724",
+    "name": "USB connector",
+    "svg": "assets/icons/expanded/technical/i0724.svg"
+  },
+  {
+    "id": "i0725",
+    "name": "Power plug",
+    "svg": "assets/icons/expanded/technical/i0725.svg"
+  },
+  {
+    "id": "i0726",
+    "name": "Wall outlet",
+    "svg": "assets/icons/expanded/technical/i0726.svg"
+  },
+  {
+    "id": "i0727",
+    "name": "Extension socket",
+    "svg": "assets/icons/expanded/technical/i0727.svg"
+  },
+  {
+    "id": "i0728",
+    "name": "Battery cell",
+    "svg": "assets/icons/expanded/technical/i0728.svg"
+  },
+  {
+    "id": "i0729",
+    "name": "Coin cell battery",
+    "svg": "assets/icons/expanded/technical/i0729.svg"
+  },
+  {
+    "id": "i0730",
+    "name": "Solar cell",
+    "svg": "assets/icons/expanded/technical/i0730.svg"
+  },
+  {
+    "id": "i0731",
+    "name": "Charging coil",
+    "svg": "assets/icons/expanded/technical/i0731.svg"
+  },
+  {
+    "id": "i0732",
+    "name": "Cooling fan",
+    "svg": "assets/icons/expanded/technical/i0732.svg"
+  },
+  {
+    "id": "i0733",
+    "name": "Heat sink",
+    "svg": "assets/icons/expanded/technical/i0733.svg"
+  },
+  {
+    "id": "i0734",
+    "name": "Oscilloscope",
+    "svg": "assets/icons/expanded/technical/i0734.svg"
+  },
+  {
+    "id": "i0735",
+    "name": "Multimeter",
+    "svg": "assets/icons/expanded/technical/i0735.svg"
+  },
+  {
+    "id": "i0736",
+    "name": "Resistor",
+    "svg": "assets/icons/expanded/technical/i0736.svg"
+  },
+  {
+    "id": "i0737",
+    "name": "Capacitor",
+    "svg": "assets/icons/expanded/technical/i0737.svg"
+  },
+  {
+    "id": "i0738",
+    "name": "Inductor",
+    "svg": "assets/icons/expanded/technical/i0738.svg"
+  },
+  {
+    "id": "i0739",
+    "name": "Diode",
+    "svg": "assets/icons/expanded/technical/i0739.svg"
+  },
+  {
+    "id": "i0740",
+    "name": "Transistor",
+    "svg": "assets/icons/expanded/technical/i0740.svg"
+  },
+  {
+    "id": "i0741",
+    "name": "Electrical toggle switch",
+    "svg": "assets/icons/expanded/technical/i0741.svg"
+  },
+  {
+    "id": "i0742",
+    "name": "Relay",
+    "svg": "assets/icons/expanded/technical/i0742.svg"
+  },
+  {
+    "id": "i0743",
+    "name": "LED lamp",
+    "svg": "assets/icons/expanded/technical/i0743.svg"
+  },
+  {
+    "id": "i0744",
+    "name": "Breadboard",
+    "svg": "assets/icons/expanded/technical/i0744.svg"
+  },
+  {
+    "id": "i0745",
+    "name": "Ribbon cable",
+    "svg": "assets/icons/expanded/technical/i0745.svg"
+  },
+  {
+    "id": "i0746",
+    "name": "Antenna mast",
+    "svg": "assets/icons/expanded/technical/i0746.svg"
+  },
+  {
+    "id": "i0747",
+    "name": "Three dimensional printer",
+    "svg": "assets/icons/expanded/technical/i0747.svg"
+  },
+  {
+    "id": "i0748",
+    "name": "Robotic arm",
+    "svg": "assets/icons/expanded/technical/i0748.svg"
+  },
+  {
+    "id": "i0749",
+    "name": "Laboratory flask",
+    "svg": "assets/icons/expanded/technical/i0749.svg"
+  },
+  {
+    "id": "i0750",
+    "name": "Round bottom flask",
+    "svg": "assets/icons/expanded/technical/i0750.svg"
+  },
+  {
+    "id": "i0751",
+    "name": "Beaker",
+    "svg": "assets/icons/expanded/technical/i0751.svg"
+  },
+  {
+    "id": "i0752",
+    "name": "Test tube",
+    "svg": "assets/icons/expanded/technical/i0752.svg"
+  },
+  {
+    "id": "i0753",
+    "name": "Pipette",
+    "svg": "assets/icons/expanded/technical/i0753.svg"
+  },
+  {
+    "id": "i0754",
+    "name": "Petri dish",
+    "svg": "assets/icons/expanded/technical/i0754.svg"
+  },
+  {
+    "id": "i0755",
+    "name": "Microscope",
+    "svg": "assets/icons/expanded/technical/i0755.svg"
+  },
+  {
+    "id": "i0756",
+    "name": "Telescope",
+    "svg": "assets/icons/expanded/technical/i0756.svg"
+  },
+  {
+    "id": "i0757",
+    "name": "Atom model",
+    "svg": "assets/icons/expanded/technical/i0757.svg"
+  },
+  {
+    "id": "i0758",
+    "name": "Molecule",
+    "svg": "assets/icons/expanded/technical/i0758.svg"
+  },
+  {
+    "id": "i0759",
+    "name": "DNA helix",
+    "svg": "assets/icons/expanded/technical/i0759.svg"
+  },
+  {
+    "id": "i0760",
+    "name": "Chromosome",
+    "svg": "assets/icons/expanded/technical/i0760.svg"
+  },
+  {
+    "id": "i0761",
+    "name": "Cell membrane",
+    "svg": "assets/icons/expanded/technical/i0761.svg"
+  },
+  {
+    "id": "i0762",
+    "name": "Bacterium",
+    "svg": "assets/icons/expanded/technical/i0762.svg"
+  },
+  {
+    "id": "i0763",
+    "name": "Virus",
+    "svg": "assets/icons/expanded/technical/i0763.svg"
+  },
+  {
+    "id": "i0764",
+    "name": "Electromagnet",
+    "svg": "assets/icons/expanded/technical/i0764.svg"
+  },
+  {
+    "id": "i0765",
+    "name": "Magnetic field",
+    "svg": "assets/icons/expanded/technical/i0765.svg"
+  },
+  {
+    "id": "i0766",
+    "name": "Prism",
+    "svg": "assets/icons/expanded/technical/i0766.svg"
+  },
+  {
+    "id": "i0767",
+    "name": "Lens",
+    "svg": "assets/icons/expanded/technical/i0767.svg"
+  },
+  {
+    "id": "i0768",
+    "name": "Pendulum",
+    "svg": "assets/icons/expanded/technical/i0768.svg"
+  },
+  {
+    "id": "i0769",
+    "name": "Gyroscope",
+    "svg": "assets/icons/expanded/technical/i0769.svg"
+  },
+  {
+    "id": "i0770",
+    "name": "Newton cradle",
+    "svg": "assets/icons/expanded/technical/i0770.svg"
+  },
+  {
+    "id": "i0771",
+    "name": "Balance scale",
+    "svg": "assets/icons/expanded/technical/i0771.svg"
+  },
+  {
+    "id": "i0772",
+    "name": "Spring",
+    "svg": "assets/icons/expanded/technical/i0772.svg"
+  },
+  {
+    "id": "i0773",
+    "name": "Wave interference",
+    "svg": "assets/icons/expanded/technical/i0773.svg"
+  },
+  {
+    "id": "i0774",
+    "name": "Sine wave",
+    "svg": "assets/icons/expanded/technical/i0774.svg"
+  },
+  {
+    "id": "i0775",
+    "name": "Square wave",
+    "svg": "assets/icons/expanded/technical/i0775.svg"
+  },
+  {
+    "id": "i0776",
+    "name": "Sawtooth wave",
+    "svg": "assets/icons/expanded/technical/i0776.svg"
+  },
+  {
+    "id": "i0777",
+    "name": "Spectrum",
+    "svg": "assets/icons/expanded/technical/i0777.svg"
+  },
+  {
+    "id": "i0778",
+    "name": "Cartesian axes",
+    "svg": "assets/icons/expanded/technical/i0778.svg"
+  },
+  {
+    "id": "i0779",
+    "name": "Polar coordinates",
+    "svg": "assets/icons/expanded/technical/i0779.svg"
+  },
+  {
+    "id": "i0780",
+    "name": "Vector arrow",
+    "svg": "assets/icons/expanded/technical/i0780.svg"
+  },
+  {
+    "id": "i0781",
+    "name": "Matrix",
+    "svg": "assets/icons/expanded/technical/i0781.svg"
+  },
+  {
+    "id": "i0782",
+    "name": "Integral",
+    "svg": "assets/icons/expanded/technical/i0782.svg"
+  },
+  {
+    "id": "i0783",
+    "name": "Summation",
+    "svg": "assets/icons/expanded/technical/i0783.svg"
+  },
+  {
+    "id": "i0784",
+    "name": "Pi constant",
+    "svg": "assets/icons/expanded/technical/i0784.svg"
+  },
+  {
+    "id": "i0785",
+    "name": "Infinity",
+    "svg": "assets/icons/expanded/technical/i0785.svg"
+  },
+  {
+    "id": "i0786",
+    "name": "Square root",
+    "svg": "assets/icons/expanded/technical/i0786.svg"
+  },
+  {
+    "id": "i0787",
+    "name": "Right angle",
+    "svg": "assets/icons/expanded/technical/i0787.svg"
+  },
+  {
+    "id": "i0788",
+    "name": "Protractor",
+    "svg": "assets/icons/expanded/technical/i0788.svg"
+  },
+  {
+    "id": "i0789",
+    "name": "Drawing compass",
+    "svg": "assets/icons/expanded/technical/i0789.svg"
+  },
+  {
+    "id": "i0790",
+    "name": "Caliper",
+    "svg": "assets/icons/expanded/technical/i0790.svg"
+  },
+  {
+    "id": "i0791",
+    "name": "Micrometer",
+    "svg": "assets/icons/expanded/technical/i0791.svg"
+  },
+  {
+    "id": "i0792",
+    "name": "Measuring ruler",
+    "svg": "assets/icons/expanded/technical/i0792.svg"
+  },
+  {
+    "id": "i0793",
+    "name": "Measuring tape",
+    "svg": "assets/icons/expanded/technical/i0793.svg"
+  },
+  {
+    "id": "i0794",
+    "name": "Thermometer",
+    "svg": "assets/icons/expanded/technical/i0794.svg"
+  },
+  {
+    "id": "i0795",
+    "name": "Pressure gauge",
+    "svg": "assets/icons/expanded/technical/i0795.svg"
+  },
+  {
+    "id": "i0796",
+    "name": "Hydrometer",
+    "svg": "assets/icons/expanded/technical/i0796.svg"
+  },
+  {
+    "id": "i0797",
+    "name": "Graduated cylinder",
+    "svg": "assets/icons/expanded/technical/i0797.svg"
+  },
+  {
+    "id": "i0798",
+    "name": "Vernier scale",
+    "svg": "assets/icons/expanded/technical/i0798.svg"
+  },
+  {
+    "id": "i0799",
+    "name": "Wheelchair access",
+    "svg": "assets/icons/expanded/technical/i0799.svg"
+  },
+  {
+    "id": "i0800",
+    "name": "Walking cane",
+    "svg": "assets/icons/expanded/technical/i0800.svg"
+  },
+  {
+    "id": "i0801",
+    "name": "White mobility cane",
+    "svg": "assets/icons/expanded/technical/i0801.svg"
+  },
+  {
+    "id": "i0802",
+    "name": "Crutches",
+    "svg": "assets/icons/expanded/technical/i0802.svg"
+  },
+  {
+    "id": "i0803",
+    "name": "Walker",
+    "svg": "assets/icons/expanded/technical/i0803.svg"
+  },
+  {
+    "id": "i0804",
+    "name": "Hearing aid",
+    "svg": "assets/icons/expanded/technical/i0804.svg"
+  },
+  {
+    "id": "i0805",
+    "name": "Braille cell",
+    "svg": "assets/icons/expanded/technical/i0805.svg"
+  },
+  {
+    "id": "i0806",
+    "name": "Sign language hand",
+    "svg": "assets/icons/expanded/technical/i0806.svg"
+  },
+  {
+    "id": "i0807",
+    "name": "Accessible ramp",
+    "svg": "assets/icons/expanded/technical/i0807.svg"
+  },
+  {
+    "id": "i0808",
+    "name": "High contrast",
+    "svg": "assets/icons/expanded/technical/i0808.svg"
+  },
+  {
+    "id": "i0809",
+    "name": "Focus target",
+    "svg": "assets/icons/expanded/technical/i0809.svg"
+  },
+  {
+    "id": "i0810",
+    "name": "Screen magnifier",
+    "svg": "assets/icons/expanded/technical/i0810.svg"
+  },
+  {
+    "id": "i0811",
+    "name": "Communication board",
+    "svg": "assets/icons/expanded/technical/i0811.svg"
+  },
+  {
+    "id": "i0812",
+    "name": "Tactile paving",
+    "svg": "assets/icons/expanded/technical/i0812.svg"
+  },
+  {
+    "id": "i0813",
+    "name": "Reading guide",
+    "svg": "assets/icons/expanded/technical/i0813.svg"
+  },
+  {
+    "id": "i0814",
+    "name": "Touch gesture",
+    "svg": "assets/icons/expanded/technical/i0814.svg"
+  },
+  {
+    "id": "i0815",
+    "name": "Foot pedal",
+    "svg": "assets/icons/expanded/technical/i0815.svg"
+  },
+  {
+    "id": "i0816",
+    "name": "Assistive switch",
+    "svg": "assets/icons/expanded/technical/i0816.svg"
+  },
+  {
+    "id": "i0817",
+    "name": "Medical cross",
+    "svg": "assets/icons/expanded/technical/i0817.svg"
+  },
+  {
+    "id": "i0818",
+    "name": "Stethoscope",
+    "svg": "assets/icons/expanded/technical/i0818.svg"
+  },
+  {
+    "id": "i0819",
+    "name": "Heartbeat trace",
+    "svg": "assets/icons/expanded/technical/i0819.svg"
+  },
+  {
+    "id": "i0820",
+    "name": "Anatomical heart",
+    "svg": "assets/icons/expanded/technical/i0820.svg"
+  },
+  {
+    "id": "i0821",
+    "name": "Lungs",
+    "svg": "assets/icons/expanded/technical/i0821.svg"
+  },
+  {
+    "id": "i0822",
+    "name": "Brain",
+    "svg": "assets/icons/expanded/technical/i0822.svg"
+  },
+  {
+    "id": "i0823",
+    "name": "Tooth",
+    "svg": "assets/icons/expanded/technical/i0823.svg"
+  },
+  {
+    "id": "i0824",
+    "name": "Bone",
+    "svg": "assets/icons/expanded/technical/i0824.svg"
+  },
+  {
+    "id": "i0825",
+    "name": "Spine",
+    "svg": "assets/icons/expanded/technical/i0825.svg"
+  },
+  {
+    "id": "i0826",
+    "name": "Eye examination",
+    "svg": "assets/icons/expanded/technical/i0826.svg"
+  },
+  {
+    "id": "i0827",
+    "name": "Ear",
+    "svg": "assets/icons/expanded/technical/i0827.svg"
+  },
+  {
+    "id": "i0828",
+    "name": "Nose",
+    "svg": "assets/icons/expanded/technical/i0828.svg"
+  },
+  {
+    "id": "i0829",
+    "name": "Syringe",
+    "svg": "assets/icons/expanded/technical/i0829.svg"
+  },
+  {
+    "id": "i0830",
+    "name": "Capsule",
+    "svg": "assets/icons/expanded/technical/i0830.svg"
+  },
+  {
+    "id": "i0831",
+    "name": "Tablet pill",
+    "svg": "assets/icons/expanded/technical/i0831.svg"
+  },
+  {
+    "id": "i0832",
+    "name": "Medicine bottle",
+    "svg": "assets/icons/expanded/technical/i0832.svg"
+  },
+  {
+    "id": "i0833",
+    "name": "Bandage",
+    "svg": "assets/icons/expanded/technical/i0833.svg"
+  },
+  {
+    "id": "i0834",
+    "name": "Scalpel",
+    "svg": "assets/icons/expanded/technical/i0834.svg"
+  },
+  {
+    "id": "i0835",
+    "name": "Medical forceps",
+    "svg": "assets/icons/expanded/technical/i0835.svg"
+  },
+  {
+    "id": "i0836",
+    "name": "Surgical mask",
+    "svg": "assets/icons/expanded/technical/i0836.svg"
+  },
+  {
+    "id": "i0837",
+    "name": "Respirator",
+    "svg": "assets/icons/expanded/technical/i0837.svg"
+  },
+  {
+    "id": "i0838",
+    "name": "Protective goggles",
+    "svg": "assets/icons/expanded/technical/i0838.svg"
+  },
+  {
+    "id": "i0839",
+    "name": "Hard hat",
+    "svg": "assets/icons/expanded/technical/i0839.svg"
+  },
+  {
+    "id": "i0840",
+    "name": "Safety boot",
+    "svg": "assets/icons/expanded/technical/i0840.svg"
+  },
+  {
+    "id": "i0841",
+    "name": "Safety vest",
+    "svg": "assets/icons/expanded/technical/i0841.svg"
+  },
+  {
+    "id": "i0842",
+    "name": "Fire extinguisher",
+    "svg": "assets/icons/expanded/technical/i0842.svg"
+  },
+  {
+    "id": "i0843",
+    "name": "Emergency shower",
+    "svg": "assets/icons/expanded/technical/i0843.svg"
+  },
+  {
+    "id": "i0844",
+    "name": "Eyewash station",
+    "svg": "assets/icons/expanded/technical/i0844.svg"
+  },
+  {
+    "id": "i0845",
+    "name": "Biohazard",
+    "svg": "assets/icons/expanded/technical/i0845.svg"
+  },
+  {
+    "id": "i0846",
+    "name": "Radiation hazard",
+    "svg": "assets/icons/expanded/technical/i0846.svg"
+  },
+  {
+    "id": "i0847",
+    "name": "Electric shock hazard",
+    "svg": "assets/icons/expanded/technical/i0847.svg"
+  },
+  {
+    "id": "i0848",
+    "name": "Safety barrier",
+    "svg": "assets/icons/expanded/technical/i0848.svg"
+  },
+  {
+    "id": "i0849",
+    "name": "Claw hammer",
+    "svg": "assets/icons/expanded/technical/i0849.svg"
+  },
+  {
+    "id": "i0850",
+    "name": "Ball peen hammer",
+    "svg": "assets/icons/expanded/technical/i0850.svg"
+  },
+  {
+    "id": "i0851",
+    "name": "Sledgehammer",
+    "svg": "assets/icons/expanded/technical/i0851.svg"
+  },
+  {
+    "id": "i0852",
+    "name": "Open end wrench",
+    "svg": "assets/icons/expanded/technical/i0852.svg"
+  },
+  {
+    "id": "i0853",
+    "name": "Adjustable wrench",
+    "svg": "assets/icons/expanded/technical/i0853.svg"
+  },
+  {
+    "id": "i0854",
+    "name": "Socket wrench",
+    "svg": "assets/icons/expanded/technical/i0854.svg"
+  },
+  {
+    "id": "i0855",
+    "name": "Screwdriver",
+    "svg": "assets/icons/expanded/technical/i0855.svg"
+  },
+  {
+    "id": "i0856",
+    "name": "Hex key",
+    "svg": "assets/icons/expanded/technical/i0856.svg"
+  },
+  {
+    "id": "i0857",
+    "name": "Pliers",
+    "svg": "assets/icons/expanded/technical/i0857.svg"
+  },
+  {
+    "id": "i0858",
+    "name": "Needle nose pliers",
+    "svg": "assets/icons/expanded/technical/i0858.svg"
+  },
+  {
+    "id": "i0859",
+    "name": "Wire cutters",
+    "svg": "assets/icons/expanded/technical/i0859.svg"
+  },
+  {
+    "id": "i0860",
+    "name": "Hand saw",
+    "svg": "assets/icons/expanded/technical/i0860.svg"
+  },
+  {
+    "id": "i0861",
+    "name": "Hacksaw",
+    "svg": "assets/icons/expanded/technical/i0861.svg"
+  },
+  {
+    "id": "i0862",
+    "name": "Circular saw",
+    "svg": "assets/icons/expanded/technical/i0862.svg"
+  },
+  {
+    "id": "i0863",
+    "name": "Power drill",
+    "svg": "assets/icons/expanded/technical/i0863.svg"
+  },
+  {
+    "id": "i0864",
+    "name": "Drill bit",
+    "svg": "assets/icons/expanded/technical/i0864.svg"
+  },
+  {
+    "id": "i0865",
+    "name": "Bench vise",
+    "svg": "assets/icons/expanded/technical/i0865.svg"
+  },
+  {
+    "id": "i0866",
+    "name": "C clamp",
+    "svg": "assets/icons/expanded/technical/i0866.svg"
+  },
+  {
+    "id": "i0867",
+    "name": "Bar clamp",
+    "svg": "assets/icons/expanded/technical/i0867.svg"
+  },
+  {
+    "id": "i0868",
+    "name": "Spirit level",
+    "svg": "assets/icons/expanded/technical/i0868.svg"
+  },
+  {
+    "id": "i0869",
+    "name": "Plumb bob",
+    "svg": "assets/icons/expanded/technical/i0869.svg"
+  },
+  {
+    "id": "i0870",
+    "name": "Carpenter square",
+    "svg": "assets/icons/expanded/technical/i0870.svg"
+  },
+  {
+    "id": "i0871",
+    "name": "Chisel",
+    "svg": "assets/icons/expanded/technical/i0871.svg"
+  },
+  {
+    "id": "i0872",
+    "name": "Wood plane",
+    "svg": "assets/icons/expanded/technical/i0872.svg"
+  },
+  {
+    "id": "i0873",
+    "name": "Rasp file",
+    "svg": "assets/icons/expanded/technical/i0873.svg"
+  },
+  {
+    "id": "i0874",
+    "name": "Welding torch",
+    "svg": "assets/icons/expanded/technical/i0874.svg"
+  },
+  {
+    "id": "i0875",
+    "name": "Soldering iron",
+    "svg": "assets/icons/expanded/technical/i0875.svg"
+  },
+  {
+    "id": "i0876",
+    "name": "Hot glue gun",
+    "svg": "assets/icons/expanded/technical/i0876.svg"
+  },
+  {
+    "id": "i0877",
+    "name": "Heat gun",
+    "svg": "assets/icons/expanded/technical/i0877.svg"
+  },
+  {
+    "id": "i0878",
+    "name": "Torque wrench",
+    "svg": "assets/icons/expanded/technical/i0878.svg"
+  },
+  {
+    "id": "i0879",
+    "name": "Ratchet strap",
+    "svg": "assets/icons/expanded/technical/i0879.svg"
+  },
+  {
+    "id": "i0880",
+    "name": "Screw fastener",
+    "svg": "assets/icons/expanded/technical/i0880.svg"
+  },
+  {
+    "id": "i0881",
+    "name": "Bolt fastener",
+    "svg": "assets/icons/expanded/technical/i0881.svg"
+  },
+  {
+    "id": "i0882",
+    "name": "Hex nut",
+    "svg": "assets/icons/expanded/technical/i0882.svg"
+  },
+  {
+    "id": "i0883",
+    "name": "Split lock washer",
+    "svg": "assets/icons/expanded/technical/i0883.svg"
+  },
+  {
+    "id": "i0884",
+    "name": "Rivet",
+    "svg": "assets/icons/expanded/technical/i0884.svg"
+  },
+  {
+    "id": "i0885",
+    "name": "Nail",
+    "svg": "assets/icons/expanded/technical/i0885.svg"
+  },
+  {
+    "id": "i0886",
+    "name": "Anchor bolt",
+    "svg": "assets/icons/expanded/technical/i0886.svg"
+  },
+  {
+    "id": "i0887",
+    "name": "Rack and pinion",
+    "svg": "assets/icons/expanded/technical/i0887.svg"
+  },
+  {
+    "id": "i0888",
+    "name": "Ball bearing",
+    "svg": "assets/icons/expanded/technical/i0888.svg"
+  },
+  {
+    "id": "i0889",
+    "name": "Pulley",
+    "svg": "assets/icons/expanded/technical/i0889.svg"
+  },
+  {
+    "id": "i0890",
+    "name": "Chain links",
+    "svg": "assets/icons/expanded/technical/i0890.svg"
+  },
+  {
+    "id": "i0891",
+    "name": "Conveyor belt",
+    "svg": "assets/icons/expanded/technical/i0891.svg"
+  },
+  {
+    "id": "i0892",
+    "name": "Factory press",
+    "svg": "assets/icons/expanded/technical/i0892.svg"
+  },
+  {
+    "id": "i0893",
+    "name": "Lathe machine",
+    "svg": "assets/icons/expanded/technical/i0893.svg"
+  },
+  {
+    "id": "i0894",
+    "name": "Anvil",
+    "svg": "assets/icons/expanded/technical/i0894.svg"
+  },
+  {
+    "id": "i0895",
+    "name": "Trowel",
+    "svg": "assets/icons/expanded/technical/i0895.svg"
+  },
+  {
+    "id": "i0896",
+    "name": "Brick wall",
+    "svg": "assets/icons/expanded/technical/i0896.svg"
+  },
+  {
+    "id": "i0897",
+    "name": "Scaffold frame",
+    "svg": "assets/icons/expanded/technical/i0897.svg"
+  },
+  {
+    "id": "i0898",
+    "name": "Ladder",
+    "svg": "assets/icons/expanded/technical/i0898.svg"
+  },
+  {
+    "id": "i0899",
+    "name": "Compact car",
+    "svg": "assets/icons/expanded/world/i0899.svg"
+  },
+  {
+    "id": "i0900",
+    "name": "Delivery van",
+    "svg": "assets/icons/expanded/world/i0900.svg"
+  },
+  {
+    "id": "i0901",
+    "name": "City bus",
+    "svg": "assets/icons/expanded/world/i0901.svg"
+  },
+  {
+    "id": "i0902",
+    "name": "School bus",
+    "svg": "assets/icons/expanded/world/i0902.svg"
+  },
+  {
+    "id": "i0903",
+    "name": "Tram",
+    "svg": "assets/icons/expanded/world/i0903.svg"
+  },
+  {
+    "id": "i0904",
+    "name": "Train engine",
+    "svg": "assets/icons/expanded/world/i0904.svg"
+  },
+  {
+    "id": "i0905",
+    "name": "High speed train",
+    "svg": "assets/icons/expanded/world/i0905.svg"
+  },
+  {
+    "id": "i0906",
+    "name": "Bicycle",
+    "svg": "assets/icons/expanded/world/i0906.svg"
+  },
+  {
+    "id": "i0907",
+    "name": "Kick scooter",
+    "svg": "assets/icons/expanded/world/i0907.svg"
+  },
+  {
+    "id": "i0908",
+    "name": "Motor scooter",
+    "svg": "assets/icons/expanded/world/i0908.svg"
+  },
+  {
+    "id": "i0909",
+    "name": "Motorcycle",
+    "svg": "assets/icons/expanded/world/i0909.svg"
+  },
+  {
+    "id": "i0910",
+    "name": "Cable car",
+    "svg": "assets/icons/expanded/world/i0910.svg"
+  },
+  {
+    "id": "i0911",
+    "name": "Airplane",
+    "svg": "assets/icons/expanded/world/i0911.svg"
+  },
+  {
+    "id": "i0912",
+    "name": "Helicopter",
+    "svg": "assets/icons/expanded/world/i0912.svg"
+  },
+  {
+    "id": "i0913",
+    "name": "Hot air balloon",
+    "svg": "assets/icons/expanded/world/i0913.svg"
+  },
+  {
+    "id": "i0914",
+    "name": "Sailboat",
+    "svg": "assets/icons/expanded/world/i0914.svg"
+  },
+  {
+    "id": "i0915",
+    "name": "Rowboat",
+    "svg": "assets/icons/expanded/world/i0915.svg"
+  },
+  {
+    "id": "i0916",
+    "name": "Ferry",
+    "svg": "assets/icons/expanded/world/i0916.svg"
+  },
+  {
+    "id": "i0917",
+    "name": "Submarine",
+    "svg": "assets/icons/expanded/world/i0917.svg"
+  },
+  {
+    "id": "i0918",
+    "name": "Canoe",
+    "svg": "assets/icons/expanded/world/i0918.svg"
+  },
+  {
+    "id": "i0919",
+    "name": "Mooring bollard",
+    "svg": "assets/icons/expanded/world/i0919.svg"
+  },
+  {
+    "id": "i0920",
+    "name": "Lighthouse",
+    "svg": "assets/icons/expanded/world/i0920.svg"
+  },
+  {
+    "id": "i0921",
+    "name": "Passport",
+    "svg": "assets/icons/expanded/world/i0921.svg"
+  },
+  {
+    "id": "i0922",
+    "name": "Travel trunk",
+    "svg": "assets/icons/expanded/world/i0922.svg"
+  },
+  {
+    "id": "i0923",
+    "name": "Backpack",
+    "svg": "assets/icons/expanded/world/i0923.svg"
+  },
+  {
+    "id": "i0924",
+    "name": "Tent",
+    "svg": "assets/icons/expanded/world/i0924.svg"
+  },
+  {
+    "id": "i0925",
+    "name": "Caravan",
+    "svg": "assets/icons/expanded/world/i0925.svg"
+  },
+  {
+    "id": "i0926",
+    "name": "Compass rose",
+    "svg": "assets/icons/expanded/world/i0926.svg"
+  },
+  {
+    "id": "i0927",
+    "name": "Folded map",
+    "svg": "assets/icons/expanded/world/i0927.svg"
+  },
+  {
+    "id": "i0928",
+    "name": "Winding road",
+    "svg": "assets/icons/expanded/world/i0928.svg"
+  },
+  {
+    "id": "i0929",
+    "name": "Railway tracks",
+    "svg": "assets/icons/expanded/world/i0929.svg"
+  },
+  {
+    "id": "i0930",
+    "name": "Road bridge",
+    "svg": "assets/icons/expanded/world/i0930.svg"
+  },
+  {
+    "id": "i0931",
+    "name": "Traffic light",
+    "svg": "assets/icons/expanded/world/i0931.svg"
+  },
+  {
+    "id": "i0932",
+    "name": "Pedestrian crossing",
+    "svg": "assets/icons/expanded/world/i0932.svg"
+  },
+  {
+    "id": "i0933",
+    "name": "House with porch",
+    "svg": "assets/icons/expanded/world/i0933.svg"
+  },
+  {
+    "id": "i0934",
+    "name": "Apartment building",
+    "svg": "assets/icons/expanded/world/i0934.svg"
+  },
+  {
+    "id": "i0935",
+    "name": "Office tower",
+    "svg": "assets/icons/expanded/world/i0935.svg"
+  },
+  {
+    "id": "i0936",
+    "name": "Town hall",
+    "svg": "assets/icons/expanded/world/i0936.svg"
+  },
+  {
+    "id": "i0937",
+    "name": "Castle",
+    "svg": "assets/icons/expanded/world/i0937.svg"
+  },
+  {
+    "id": "i0938",
+    "name": "Church",
+    "svg": "assets/icons/expanded/world/i0938.svg"
+  },
+  {
+    "id": "i0939",
+    "name": "Mosque",
+    "svg": "assets/icons/expanded/world/i0939.svg"
+  },
+  {
+    "id": "i0940",
+    "name": "Pagoda",
+    "svg": "assets/icons/expanded/world/i0940.svg"
+  },
+  {
+    "id": "i0941",
+    "name": "Windmill",
+    "svg": "assets/icons/expanded/world/i0941.svg"
+  },
+  {
+    "id": "i0942",
+    "name": "Water tower",
+    "svg": "assets/icons/expanded/world/i0942.svg"
+  },
+  {
+    "id": "i0943",
+    "name": "Barn",
+    "svg": "assets/icons/expanded/world/i0943.svg"
+  },
+  {
+    "id": "i0944",
+    "name": "Greenhouse",
+    "svg": "assets/icons/expanded/world/i0944.svg"
+  },
+  {
+    "id": "i0945",
+    "name": "Gazebo",
+    "svg": "assets/icons/expanded/world/i0945.svg"
+  },
+  {
+    "id": "i0946",
+    "name": "Stone arch",
+    "svg": "assets/icons/expanded/world/i0946.svg"
+  },
+  {
+    "id": "i0947",
+    "name": "Pyramid",
+    "svg": "assets/icons/expanded/world/i0947.svg"
+  },
+  {
+    "id": "i0948",
+    "name": "Igloo",
+    "svg": "assets/icons/expanded/world/i0948.svg"
+  },
+  {
+    "id": "i0949",
+    "name": "Cabin",
+    "svg": "assets/icons/expanded/world/i0949.svg"
+  },
+  {
+    "id": "i0950",
+    "name": "Fountain",
+    "svg": "assets/icons/expanded/world/i0950.svg"
+  },
+  {
+    "id": "i0951",
+    "name": "Park bench",
+    "svg": "assets/icons/expanded/world/i0951.svg"
+  },
+  {
+    "id": "i0952",
+    "name": "Fence gate",
+    "svg": "assets/icons/expanded/world/i0952.svg"
+  },
+  {
+    "id": "i0953",
+    "name": "Well",
+    "svg": "assets/icons/expanded/world/i0953.svg"
+  },
+  {
+    "id": "i0954",
+    "name": "Escalator",
+    "svg": "assets/icons/expanded/world/i0954.svg"
+  },
+  {
+    "id": "i0955",
+    "name": "Staircase",
+    "svg": "assets/icons/expanded/world/i0955.svg"
+  },
+  {
+    "id": "i0956",
+    "name": "Playground slide",
+    "svg": "assets/icons/expanded/world/i0956.svg"
+  },
+  {
+    "id": "i0957",
+    "name": "Swing set",
+    "svg": "assets/icons/expanded/world/i0957.svg"
+  },
+  {
+    "id": "i0958",
+    "name": "Observation wheel",
+    "svg": "assets/icons/expanded/world/i0958.svg"
+  },
+  {
+    "id": "i0959",
+    "name": "Sun",
+    "svg": "assets/icons/expanded/world/i0959.svg"
+  },
+  {
+    "id": "i0960",
+    "name": "Crescent moon",
+    "svg": "assets/icons/expanded/world/i0960.svg"
+  },
+  {
+    "id": "i0961",
+    "name": "Cloud",
+    "svg": "assets/icons/expanded/world/i0961.svg"
+  },
+  {
+    "id": "i0962",
+    "name": "Rain",
+    "svg": "assets/icons/expanded/world/i0962.svg"
+  },
+  {
+    "id": "i0963",
+    "name": "Thunderstorm",
+    "svg": "assets/icons/expanded/world/i0963.svg"
+  },
+  {
+    "id": "i0964",
+    "name": "Snowflake",
+    "svg": "assets/icons/expanded/world/i0964.svg"
+  },
+  {
+    "id": "i0965",
+    "name": "Wind",
+    "svg": "assets/icons/expanded/world/i0965.svg"
+  },
+  {
+    "id": "i0966",
+    "name": "Tornado",
+    "svg": "assets/icons/expanded/world/i0966.svg"
+  },
+  {
+    "id": "i0967",
+    "name": "Rainbow",
+    "svg": "assets/icons/expanded/world/i0967.svg"
+  },
+  {
+    "id": "i0968",
+    "name": "Fog",
+    "svg": "assets/icons/expanded/world/i0968.svg"
+  },
+  {
+    "id": "i0969",
+    "name": "Sunrise",
+    "svg": "assets/icons/expanded/world/i0969.svg"
+  },
+  {
+    "id": "i0970",
+    "name": "Sunset",
+    "svg": "assets/icons/expanded/world/i0970.svg"
+  },
+  {
+    "id": "i0971",
+    "name": "Raindrop",
+    "svg": "assets/icons/expanded/world/i0971.svg"
+  },
+  {
+    "id": "i0972",
+    "name": "Waves",
+    "svg": "assets/icons/expanded/world/i0972.svg"
+  },
+  {
+    "id": "i0973",
+    "name": "Breaking wave",
+    "svg": "assets/icons/expanded/world/i0973.svg"
+  },
+  {
+    "id": "i0974",
+    "name": "Mountain peaks",
+    "svg": "assets/icons/expanded/world/i0974.svg"
+  },
+  {
+    "id": "i0975",
+    "name": "Volcano",
+    "svg": "assets/icons/expanded/world/i0975.svg"
+  },
+  {
+    "id": "i0976",
+    "name": "Waterfall",
+    "svg": "assets/icons/expanded/world/i0976.svg"
+  },
+  {
+    "id": "i0977",
+    "name": "River bend",
+    "svg": "assets/icons/expanded/world/i0977.svg"
+  },
+  {
+    "id": "i0978",
+    "name": "Desert dunes",
+    "svg": "assets/icons/expanded/world/i0978.svg"
+  },
+  {
+    "id": "i0979",
+    "name": "Island palm",
+    "svg": "assets/icons/expanded/world/i0979.svg"
+  },
+  {
+    "id": "i0980",
+    "name": "Cave entrance",
+    "svg": "assets/icons/expanded/world/i0980.svg"
+  },
+  {
+    "id": "i0981",
+    "name": "Rolling hills",
+    "svg": "assets/icons/expanded/world/i0981.svg"
+  },
+  {
+    "id": "i0982",
+    "name": "Pine tree",
+    "svg": "assets/icons/expanded/world/i0982.svg"
+  },
+  {
+    "id": "i0983",
+    "name": "Oak tree",
+    "svg": "assets/icons/expanded/world/i0983.svg"
+  },
+  {
+    "id": "i0984",
+    "name": "Birch tree",
+    "svg": "assets/icons/expanded/world/i0984.svg"
+  },
+  {
+    "id": "i0985",
+    "name": "Tree stump",
+    "svg": "assets/icons/expanded/world/i0985.svg"
+  },
+  {
+    "id": "i0986",
+    "name": "Log",
+    "svg": "assets/icons/expanded/world/i0986.svg"
+  },
+  {
+    "id": "i0987",
+    "name": "Leaf",
+    "svg": "assets/icons/expanded/world/i0987.svg"
+  },
+  {
+    "id": "i0988",
+    "name": "Maple leaf",
+    "svg": "assets/icons/expanded/world/i0988.svg"
+  },
+  {
+    "id": "i0989",
+    "name": "Fern",
+    "svg": "assets/icons/expanded/world/i0989.svg"
+  },
+  {
+    "id": "i0990",
+    "name": "Sprout",
+    "svg": "assets/icons/expanded/world/i0990.svg"
+  },
+  {
+    "id": "i0991",
+    "name": "Flower",
+    "svg": "assets/icons/expanded/world/i0991.svg"
+  },
+  {
+    "id": "i0992",
+    "name": "Tulip",
+    "svg": "assets/icons/expanded/world/i0992.svg"
+  },
+  {
+    "id": "i0993",
+    "name": "Sunflower",
+    "svg": "assets/icons/expanded/world/i0993.svg"
+  },
+  {
+    "id": "i0994",
+    "name": "Lotus",
+    "svg": "assets/icons/expanded/world/i0994.svg"
+  },
+  {
+    "id": "i0995",
+    "name": "Rose",
+    "svg": "assets/icons/expanded/world/i0995.svg"
+  },
+  {
+    "id": "i0996",
+    "name": "Cactus",
+    "svg": "assets/icons/expanded/world/i0996.svg"
+  },
+  {
+    "id": "i0997",
+    "name": "Mushroom",
+    "svg": "assets/icons/expanded/world/i0997.svg"
+  },
+  {
+    "id": "i0998",
+    "name": "Wheat",
+    "svg": "assets/icons/expanded/world/i0998.svg"
+  },
+  {
+    "id": "i0999",
+    "name": "Acorn",
+    "svg": "assets/icons/expanded/world/i0999.svg"
+  },
+  {
+    "id": "i1000",
+    "name": "Pine cone",
+    "svg": "assets/icons/expanded/world/i1000.svg"
+  },
+  {
+    "id": "i1001",
+    "name": "Seashell",
+    "svg": "assets/icons/expanded/world/i1001.svg"
+  },
+  {
+    "id": "i1002",
+    "name": "Snail",
+    "svg": "assets/icons/expanded/world/i1002.svg"
+  },
+  {
+    "id": "i1003",
+    "name": "Butterfly",
+    "svg": "assets/icons/expanded/world/i1003.svg"
+  },
+  {
+    "id": "i1004",
+    "name": "Dragonfly",
+    "svg": "assets/icons/expanded/world/i1004.svg"
+  },
+  {
+    "id": "i1005",
+    "name": "Bee",
+    "svg": "assets/icons/expanded/world/i1005.svg"
+  },
+  {
+    "id": "i1006",
+    "name": "Ladybird",
+    "svg": "assets/icons/expanded/world/i1006.svg"
+  },
+  {
+    "id": "i1007",
+    "name": "Ant",
+    "svg": "assets/icons/expanded/world/i1007.svg"
+  },
+  {
+    "id": "i1008",
+    "name": "Spider",
+    "svg": "assets/icons/expanded/world/i1008.svg"
+  },
+  {
+    "id": "i1009",
+    "name": "Fish",
+    "svg": "assets/icons/expanded/world/i1009.svg"
+  },
+  {
+    "id": "i1010",
+    "name": "Whale",
+    "svg": "assets/icons/expanded/world/i1010.svg"
+  },
+  {
+    "id": "i1011",
+    "name": "Dolphin",
+    "svg": "assets/icons/expanded/world/i1011.svg"
+  },
+  {
+    "id": "i1012",
+    "name": "Shark",
+    "svg": "assets/icons/expanded/world/i1012.svg"
+  },
+  {
+    "id": "i1013",
+    "name": "Octopus",
+    "svg": "assets/icons/expanded/world/i1013.svg"
+  },
+  {
+    "id": "i1014",
+    "name": "Crab",
+    "svg": "assets/icons/expanded/world/i1014.svg"
+  },
+  {
+    "id": "i1015",
+    "name": "Turtle",
+    "svg": "assets/icons/expanded/world/i1015.svg"
+  },
+  {
+    "id": "i1016",
+    "name": "Frog",
+    "svg": "assets/icons/expanded/world/i1016.svg"
+  },
+  {
+    "id": "i1017",
+    "name": "Bird",
+    "svg": "assets/icons/expanded/world/i1017.svg"
+  },
+  {
+    "id": "i1018",
+    "name": "Owl",
+    "svg": "assets/icons/expanded/world/i1018.svg"
+  },
+  {
+    "id": "i1019",
+    "name": "Duck",
+    "svg": "assets/icons/expanded/world/i1019.svg"
+  },
+  {
+    "id": "i1020",
+    "name": "Penguin",
+    "svg": "assets/icons/expanded/world/i1020.svg"
+  },
+  {
+    "id": "i1021",
+    "name": "Cat",
+    "svg": "assets/icons/expanded/world/i1021.svg"
+  },
+  {
+    "id": "i1022",
+    "name": "Dog",
+    "svg": "assets/icons/expanded/world/i1022.svg"
+  },
+  {
+    "id": "i1023",
+    "name": "Rabbit",
+    "svg": "assets/icons/expanded/world/i1023.svg"
+  },
+  {
+    "id": "i1024",
+    "name": "Fox",
+    "svg": "assets/icons/expanded/world/i1024.svg"
+  },
+  {
+    "id": "i1025",
+    "name": "Bear",
+    "svg": "assets/icons/expanded/world/i1025.svg"
+  },
+  {
+    "id": "i1026",
+    "name": "Armchair",
+    "svg": "assets/icons/expanded/world/i1026.svg"
+  },
+  {
+    "id": "i1027",
+    "name": "Sofa",
+    "svg": "assets/icons/expanded/world/i1027.svg"
+  },
+  {
+    "id": "i1028",
+    "name": "Dining chair",
+    "svg": "assets/icons/expanded/world/i1028.svg"
+  },
+  {
+    "id": "i1029",
+    "name": "Table",
+    "svg": "assets/icons/expanded/world/i1029.svg"
+  },
+  {
+    "id": "i1030",
+    "name": "Desk",
+    "svg": "assets/icons/expanded/world/i1030.svg"
+  },
+  {
+    "id": "i1031",
+    "name": "Bed",
+    "svg": "assets/icons/expanded/world/i1031.svg"
+  },
+  {
+    "id": "i1032",
+    "name": "Bunk beds",
+    "svg": "assets/icons/expanded/world/i1032.svg"
+  },
+  {
+    "id": "i1033",
+    "name": "Wardrobe",
+    "svg": "assets/icons/expanded/world/i1033.svg"
+  },
+  {
+    "id": "i1034",
+    "name": "Chest of drawers",
+    "svg": "assets/icons/expanded/world/i1034.svg"
+  },
+  {
+    "id": "i1035",
+    "name": "Bookshelf",
+    "svg": "assets/icons/expanded/world/i1035.svg"
+  },
+  {
+    "id": "i1036",
+    "name": "Floor lamp",
+    "svg": "assets/icons/expanded/world/i1036.svg"
+  },
+  {
+    "id": "i1037",
+    "name": "Table lamp",
+    "svg": "assets/icons/expanded/world/i1037.svg"
+  },
+  {
+    "id": "i1038",
+    "name": "Pendant light",
+    "svg": "assets/icons/expanded/world/i1038.svg"
+  },
+  {
+    "id": "i1039",
+    "name": "Candle",
+    "svg": "assets/icons/expanded/world/i1039.svg"
+  },
+  {
+    "id": "i1040",
+    "name": "Fireplace",
+    "svg": "assets/icons/expanded/world/i1040.svg"
+  },
+  {
+    "id": "i1041",
+    "name": "Bathtub",
+    "svg": "assets/icons/expanded/world/i1041.svg"
+  },
+  {
+    "id": "i1042",
+    "name": "Washing machine",
+    "svg": "assets/icons/expanded/world/i1042.svg"
+  },
+  {
+    "id": "i1043",
+    "name": "Wash basin",
+    "svg": "assets/icons/expanded/world/i1043.svg"
+  },
+  {
+    "id": "i1044",
+    "name": "Toilet",
+    "svg": "assets/icons/expanded/world/i1044.svg"
+  },
+  {
+    "id": "i1045",
+    "name": "Mirror",
+    "svg": "assets/icons/expanded/world/i1045.svg"
+  },
+  {
+    "id": "i1046",
+    "name": "Laundry basket",
+    "svg": "assets/icons/expanded/world/i1046.svg"
+  },
+  {
+    "id": "i1047",
+    "name": "Washing line",
+    "svg": "assets/icons/expanded/world/i1047.svg"
+  },
+  {
+    "id": "i1048",
+    "name": "Broom",
+    "svg": "assets/icons/expanded/world/i1048.svg"
+  },
+  {
+    "id": "i1049",
+    "name": "Dustpan",
+    "svg": "assets/icons/expanded/world/i1049.svg"
+  },
+  {
+    "id": "i1050",
+    "name": "Bucket",
+    "svg": "assets/icons/expanded/world/i1050.svg"
+  },
+  {
+    "id": "i1051",
+    "name": "Watering can",
+    "svg": "assets/icons/expanded/world/i1051.svg"
+  },
+  {
+    "id": "i1052",
+    "name": "Flower pot",
+    "svg": "assets/icons/expanded/world/i1052.svg"
+  },
+  {
+    "id": "i1053",
+    "name": "Curtains",
+    "svg": "assets/icons/expanded/world/i1053.svg"
+  },
+  {
+    "id": "i1054",
+    "name": "Door mat",
+    "svg": "assets/icons/expanded/world/i1054.svg"
+  },
+  {
+    "id": "i1055",
+    "name": "Umbrella stand",
+    "svg": "assets/icons/expanded/world/i1055.svg"
+  },
+  {
+    "id": "i1056",
+    "name": "Apple",
+    "svg": "assets/icons/expanded/world/i1056.svg"
+  },
+  {
+    "id": "i1057",
+    "name": "Pear",
+    "svg": "assets/icons/expanded/world/i1057.svg"
+  },
+  {
+    "id": "i1058",
+    "name": "Banana",
+    "svg": "assets/icons/expanded/world/i1058.svg"
+  },
+  {
+    "id": "i1059",
+    "name": "Orange slice",
+    "svg": "assets/icons/expanded/world/i1059.svg"
+  },
+  {
+    "id": "i1060",
+    "name": "Lemon",
+    "svg": "assets/icons/expanded/world/i1060.svg"
+  },
+  {
+    "id": "i1061",
+    "name": "Strawberry",
+    "svg": "assets/icons/expanded/world/i1061.svg"
+  },
+  {
+    "id": "i1062",
+    "name": "Cherry pair",
+    "svg": "assets/icons/expanded/world/i1062.svg"
+  },
+  {
+    "id": "i1063",
+    "name": "Grape bunch",
+    "svg": "assets/icons/expanded/world/i1063.svg"
+  },
+  {
+    "id": "i1064",
+    "name": "Pineapple",
+    "svg": "assets/icons/expanded/world/i1064.svg"
+  },
+  {
+    "id": "i1065",
+    "name": "Watermelon wedge",
+    "svg": "assets/icons/expanded/world/i1065.svg"
+  },
+  {
+    "id": "i1066",
+    "name": "Carrot",
+    "svg": "assets/icons/expanded/world/i1066.svg"
+  },
+  {
+    "id": "i1067",
+    "name": "Broccoli",
+    "svg": "assets/icons/expanded/world/i1067.svg"
+  },
+  {
+    "id": "i1068",
+    "name": "Corn cob",
+    "svg": "assets/icons/expanded/world/i1068.svg"
+  },
+  {
+    "id": "i1069",
+    "name": "Bell pepper",
+    "svg": "assets/icons/expanded/world/i1069.svg"
+  },
+  {
+    "id": "i1070",
+    "name": "Chili pepper",
+    "svg": "assets/icons/expanded/world/i1070.svg"
+  },
+  {
+    "id": "i1071",
+    "name": "Onion",
+    "svg": "assets/icons/expanded/world/i1071.svg"
+  },
+  {
+    "id": "i1072",
+    "name": "Pumpkin",
+    "svg": "assets/icons/expanded/world/i1072.svg"
+  },
+  {
+    "id": "i1073",
+    "name": "Bread loaf",
+    "svg": "assets/icons/expanded/world/i1073.svg"
+  },
+  {
+    "id": "i1074",
+    "name": "Croissant",
+    "svg": "assets/icons/expanded/world/i1074.svg"
+  },
+  {
+    "id": "i1075",
+    "name": "Pretzel",
+    "svg": "assets/icons/expanded/world/i1075.svg"
+  },
+  {
+    "id": "i1076",
+    "name": "Cheese wedge",
+    "svg": "assets/icons/expanded/world/i1076.svg"
+  },
+  {
+    "id": "i1077",
+    "name": "Fried egg",
+    "svg": "assets/icons/expanded/world/i1077.svg"
+  },
+  {
+    "id": "i1078",
+    "name": "Pizza slice",
+    "svg": "assets/icons/expanded/world/i1078.svg"
+  },
+  {
+    "id": "i1079",
+    "name": "Burger",
+    "svg": "assets/icons/expanded/world/i1079.svg"
+  },
+  {
+    "id": "i1080",
+    "name": "Ice cream cone",
+    "svg": "assets/icons/expanded/world/i1080.svg"
+  },
+  {
+    "id": "i1081",
+    "name": "Cake slice",
+    "svg": "assets/icons/expanded/world/i1081.svg"
+  },
+  {
+    "id": "i1082",
+    "name": "Teapot",
+    "svg": "assets/icons/expanded/world/i1082.svg"
+  },
+  {
+    "id": "i1083",
+    "name": "Coffee cup",
+    "svg": "assets/icons/expanded/world/i1083.svg"
+  },
+  {
+    "id": "i1084",
+    "name": "Wine glass",
+    "svg": "assets/icons/expanded/world/i1084.svg"
+  },
+  {
+    "id": "i1085",
+    "name": "Water pitcher",
+    "svg": "assets/icons/expanded/world/i1085.svg"
+  },
+  {
+    "id": "i1086",
+    "name": "T-shirt",
+    "svg": "assets/icons/expanded/world/i1086.svg"
+  },
+  {
+    "id": "i1087",
+    "name": "Collared shirt",
+    "svg": "assets/icons/expanded/world/i1087.svg"
+  },
+  {
+    "id": "i1088",
+    "name": "Jacket",
+    "svg": "assets/icons/expanded/world/i1088.svg"
+  },
+  {
+    "id": "i1089",
+    "name": "Hooded sweatshirt",
+    "svg": "assets/icons/expanded/world/i1089.svg"
+  },
+  {
+    "id": "i1090",
+    "name": "Dress",
+    "svg": "assets/icons/expanded/world/i1090.svg"
+  },
+  {
+    "id": "i1091",
+    "name": "Skirt",
+    "svg": "assets/icons/expanded/world/i1091.svg"
+  },
+  {
+    "id": "i1092",
+    "name": "Trousers",
+    "svg": "assets/icons/expanded/world/i1092.svg"
+  },
+  {
+    "id": "i1093",
+    "name": "Shorts",
+    "svg": "assets/icons/expanded/world/i1093.svg"
+  },
+  {
+    "id": "i1094",
+    "name": "Sock",
+    "svg": "assets/icons/expanded/world/i1094.svg"
+  },
+  {
+    "id": "i1095",
+    "name": "Boot",
+    "svg": "assets/icons/expanded/world/i1095.svg"
+  },
+  {
+    "id": "i1096",
+    "name": "Sneaker",
+    "svg": "assets/icons/expanded/world/i1096.svg"
+  },
+  {
+    "id": "i1097",
+    "name": "Sandal",
+    "svg": "assets/icons/expanded/world/i1097.svg"
+  },
+  {
+    "id": "i1098",
+    "name": "Winter hat",
+    "svg": "assets/icons/expanded/world/i1098.svg"
+  },
+  {
+    "id": "i1099",
+    "name": "Baseball cap",
+    "svg": "assets/icons/expanded/world/i1099.svg"
+  },
+  {
+    "id": "i1100",
+    "name": "Sun hat",
+    "svg": "assets/icons/expanded/world/i1100.svg"
+  },
+  {
+    "id": "i1101",
+    "name": "Scarf",
+    "svg": "assets/icons/expanded/world/i1101.svg"
+  },
+  {
+    "id": "i1102",
+    "name": "Mitten",
+    "svg": "assets/icons/expanded/world/i1102.svg"
+  },
+  {
+    "id": "i1103",
+    "name": "Belt",
+    "svg": "assets/icons/expanded/world/i1103.svg"
+  },
+  {
+    "id": "i1104",
+    "name": "Bow tie",
+    "svg": "assets/icons/expanded/world/i1104.svg"
+  },
+  {
+    "id": "i1105",
+    "name": "Apron",
+    "svg": "assets/icons/expanded/world/i1105.svg"
+  },
+  {
+    "id": "i1106",
+    "name": "Football",
+    "svg": "assets/icons/expanded/world/i1106.svg"
+  },
+  {
+    "id": "i1107",
+    "name": "Basketball",
+    "svg": "assets/icons/expanded/world/i1107.svg"
+  },
+  {
+    "id": "i1108",
+    "name": "Tennis racket",
+    "svg": "assets/icons/expanded/world/i1108.svg"
+  },
+  {
+    "id": "i1109",
+    "name": "Badminton shuttle",
+    "svg": "assets/icons/expanded/world/i1109.svg"
+  },
+  {
+    "id": "i1110",
+    "name": "Baseball bat",
+    "svg": "assets/icons/expanded/world/i1110.svg"
+  },
+  {
+    "id": "i1111",
+    "name": "Golf club",
+    "svg": "assets/icons/expanded/world/i1111.svg"
+  },
+  {
+    "id": "i1112",
+    "name": "Hockey stick",
+    "svg": "assets/icons/expanded/world/i1112.svg"
+  },
+  {
+    "id": "i1113",
+    "name": "Cricket bat",
+    "svg": "assets/icons/expanded/world/i1113.svg"
+  },
+  {
+    "id": "i1114",
+    "name": "Boxing glove",
+    "svg": "assets/icons/expanded/world/i1114.svg"
+  },
+  {
+    "id": "i1115",
+    "name": "Skateboard",
+    "svg": "assets/icons/expanded/world/i1115.svg"
+  },
+  {
+    "id": "i1116",
+    "name": "Roller skate",
+    "svg": "assets/icons/expanded/world/i1116.svg"
+  },
+  {
+    "id": "i1117",
+    "name": "Ice skate",
+    "svg": "assets/icons/expanded/world/i1117.svg"
+  },
+  {
+    "id": "i1118",
+    "name": "Skis",
+    "svg": "assets/icons/expanded/world/i1118.svg"
+  },
+  {
+    "id": "i1119",
+    "name": "Snowboard",
+    "svg": "assets/icons/expanded/world/i1119.svg"
+  },
+  {
+    "id": "i1120",
+    "name": "Surfboard",
+    "svg": "assets/icons/expanded/world/i1120.svg"
+  },
+  {
+    "id": "i1121",
+    "name": "Swimming goggles",
+    "svg": "assets/icons/expanded/world/i1121.svg"
+  },
+  {
+    "id": "i1122",
+    "name": "Diving mask",
+    "svg": "assets/icons/expanded/world/i1122.svg"
+  },
+  {
+    "id": "i1123",
+    "name": "Dumbbell",
+    "svg": "assets/icons/expanded/world/i1123.svg"
+  },
+  {
+    "id": "i1124",
+    "name": "Kettlebell",
+    "svg": "assets/icons/expanded/world/i1124.svg"
+  },
+  {
+    "id": "i1125",
+    "name": "Jump rope",
+    "svg": "assets/icons/expanded/world/i1125.svg"
+  },
+  {
+    "id": "i1126",
+    "name": "Kite",
+    "svg": "assets/icons/expanded/world/i1126.svg"
+  },
+  {
+    "id": "i1127",
+    "name": "Playing card hand",
+    "svg": "assets/icons/expanded/world/i1127.svg"
+  },
+  {
+    "id": "i1128",
+    "name": "Domino tile",
+    "svg": "assets/icons/expanded/world/i1128.svg"
+  },
+  {
+    "id": "i1129",
+    "name": "Circle",
+    "svg": "assets/icons/expanded/world/i1129.svg"
+  },
+  {
+    "id": "i1130",
+    "name": "Square",
+    "svg": "assets/icons/expanded/world/i1130.svg"
+  },
+  {
+    "id": "i1131",
+    "name": "Triangle",
+    "svg": "assets/icons/expanded/world/i1131.svg"
+  },
+  {
+    "id": "i1132",
+    "name": "Hexagon",
+    "svg": "assets/icons/expanded/world/i1132.svg"
+  },
+  {
+    "id": "i1133",
+    "name": "Pentagon",
+    "svg": "assets/icons/expanded/world/i1133.svg"
+  },
+  {
+    "id": "i1134",
+    "name": "Octagon",
+    "svg": "assets/icons/expanded/world/i1134.svg"
+  },
+  {
+    "id": "i1135",
+    "name": "Diamond",
+    "svg": "assets/icons/expanded/world/i1135.svg"
+  },
+  {
+    "id": "i1136",
+    "name": "Oval",
+    "svg": "assets/icons/expanded/world/i1136.svg"
+  },
+  {
+    "id": "i1137",
+    "name": "Trapezoid",
+    "svg": "assets/icons/expanded/world/i1137.svg"
+  },
+  {
+    "id": "i1138",
+    "name": "Parallelogram",
+    "svg": "assets/icons/expanded/world/i1138.svg"
+  },
+  {
+    "id": "i1139",
+    "name": "Cube",
+    "svg": "assets/icons/expanded/world/i1139.svg"
+  },
+  {
+    "id": "i1140",
+    "name": "Cylinder",
+    "svg": "assets/icons/expanded/world/i1140.svg"
+  },
+  {
+    "id": "i1141",
+    "name": "Cone",
+    "svg": "assets/icons/expanded/world/i1141.svg"
+  },
+  {
+    "id": "i1142",
+    "name": "Dodecahedron",
+    "svg": "assets/icons/expanded/world/i1142.svg"
+  },
+  {
+    "id": "i1143",
+    "name": "Torus",
+    "svg": "assets/icons/expanded/world/i1143.svg"
+  },
+  {
+    "id": "i1144",
+    "name": "Spiral",
+    "svg": "assets/icons/expanded/world/i1144.svg"
+  },
+  {
+    "id": "i1145",
+    "name": "Trefoil",
+    "svg": "assets/icons/expanded/world/i1145.svg"
+  },
+  {
+    "id": "i1146",
+    "name": "Four loop knot",
+    "svg": "assets/icons/expanded/world/i1146.svg"
+  },
+  {
+    "id": "i1147",
+    "name": "Eight point star",
+    "svg": "assets/icons/expanded/world/i1147.svg"
+  },
+  {
+    "id": "i1148",
+    "name": "Square meander",
+    "svg": "assets/icons/expanded/world/i1148.svg"
   }
 ]
