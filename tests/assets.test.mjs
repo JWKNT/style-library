@@ -1,0 +1,8 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile,access} from 'node:fs/promises';
+const root=new URL('../',import.meta.url);
+const read=p=>readFile(new URL(p,root),'utf8');
+test('ten font families have both formats',async()=>{const fonts=JSON.parse(await read('data/fonts.json'));assert.equal(fonts.length,10);assert.equal(new Set(fonts.map(f=>f.family)).size,10);for(const f of fonts){for(const key of ['ttf','woff2']){const bytes=await readFile(new URL(f[key],root));assert.ok(bytes.length>1000);assert.equal(bytes.subarray(0,4).toString('hex'),key==='woff2'?'774f4632':'00010000');}}});
+test('all four icon collections retain distinct IDs and actual SVG downloads',async()=>{const icons=JSON.parse(await read('data/icons.json'));assert.equal(icons.length,148);assert.deepEqual(Object.values(Object.groupBy(icons,x=>x.collection)).map(a=>a.length),[16,16,16,100]);assert.equal(new Set(icons.map(x=>x.collection+':'+x.id)).size,148);for(const icon of icons){const svg=await read(icon.svg);assert.match(svg,/<svg/);assert.doesNotMatch(svg,/<script|<image|https?:\/\/(?!www.w3.org)/);}});
+test('page exposes previews, tabs, downloads and home without filler',async()=>{const page=await read('index.html');assert.equal((page.match(/class="font-item"/g)||[]).length,10);assert.equal((page.match(/class="icon-item"/g)||[]).length,148);assert.match(page,/href="https:\/\/jehlp.net\/"/);assert.match(page,/<button disabled type="button">Dropcaps<\/button>/);assert.match(page,/href="licenses.html"/);for(const match of page.matchAll(/(?:href|src)="((?:assets|data)\/[^"?#]+)"/g))await access(new URL(match[1],root));});

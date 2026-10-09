@@ -1,0 +1,172 @@
+[
+  {
+    "family": "Wrenfold Text",
+    "category": "Baskerville-inspired",
+    "description": "Transitional serif with a curved R leg, calligraphic Q and generous text proportions.",
+    "basis_and_license": "Noto Serif, SIL OFL 1.1",
+    "ttf": "assets/Fonts/WrenfoldText-Regular.ttf",
+    "woff2": "assets/Webfonts/WrenfoldText-Regular.woff2",
+    "unicode_codepoints": 2840,
+    "glyph_count": 3256,
+    "ascii_complete": true,
+    "fixed_advance": null,
+    "bounds_y": [
+      -381,
+      1067
+    ],
+    "sha256": "d2bcb0a7f5e8efac967888d4490753b7963bbdf2502ce083cbc1f0a1a8a3dec3"
+  },
+  {
+    "family": "Wrenfold Display",
+    "category": "Baskerville-inspired",
+    "description": "Fine, high-contrast serif with sculpted terminals and a long, lifted Q tail.",
+    "basis_and_license": "Noto Serif Display, SIL OFL 1.1",
+    "ttf": "assets/Fonts/WrenfoldDisplay-Regular.ttf",
+    "woff2": "assets/Webfonts/WrenfoldDisplay-Regular.woff2",
+    "unicode_codepoints": 2840,
+    "glyph_count": 3256,
+    "ascii_complete": true,
+    "fixed_advance": null,
+    "bounds_y": [
+      -390,
+      1061
+    ],
+    "sha256": "7feb80477a35214ce796ca746800157aa83c42ba736eeb58b3852e59b3f87b59"
+  },
+  {
+    "family": "Rowan Quill",
+    "category": "Times-inspired",
+    "description": "Warm editorial serif with low-bar A, calligraphic Q, swept R and double-storey a.",
+    "basis_and_license": "Liberation Serif, SIL OFL 1.1",
+    "ttf": "assets/Fonts/RowanQuill-Regular.ttf",
+    "woff2": "assets/Webfonts/RowanQuill-Regular.woff2",
+    "unicode_codepoints": 2321,
+    "glyph_count": 2602,
+    "ascii_complete": true,
+    "fixed_advance": null,
+    "bounds_y": [
+      -621,
+      2016
+    ],
+    "sha256": "9b8acb19d2f0a7b0cdf64f11089edebc9160374c70056ed2a9bf3e5139e12905"
+  },
+  {
+    "family": "Vellum Crest",
+    "category": "Times-inspired",
+    "description": "Compact literary serif with single-storey a and g, a diagonal Q and a barred 7.",
+    "basis_and_license": "Liberation Serif, SIL OFL 1.1",
+    "ttf": "assets/Fonts/VellumCrest-Regular.ttf",
+    "woff2": "assets/Webfonts/VellumCrest-Regular.woff2",
+    "unicode_codepoints": 2321,
+    "glyph_count": 2602,
+    "ascii_complete": true,
+    "fixed_advance": null,
+    "bounds_y": [
+      -621,
+      2013
+    ],
+    "sha256": "f9584d1c97d5ecfc26f5ba6a654a9a7f108f17d34fda660c7552097aa2e5d644"
+  },
+  {
+    "family": "Harbor Plain",
+    "category": "Arial-inspired",
+    "description": "Humanist sans with double-storey a, single-storey g, open e and a generous t exit.",
+    "basis_and_license": "Liberation Sans, SIL OFL 1.1",
+    "ttf": "assets/Fonts/HarborPlain-Regular.ttf",
+    "woff2": "assets/Webfonts/HarborPlain-Regular.woff2",
+    "unicode_codepoints": 2327,
+    "glyph_count": 2620,
+    "ascii_complete": true,
+    "fixed_advance": null,
+    "bounds_y": [
+      -621,
+      2007
+    ],
+    "sha256": "232528ff61b3e239d05c857101dc1763d16b662365628a8b6124501fa8df1b1c"
+  },
+  {
+    "family": "Vector Vale",
+    "category": "Arial-inspired",
+    "description": "Geometric sans with squared O and zero, single-storey a and g and a right-angle Q tail.",
+    "basis_and_license": "Liberation Sans, SIL OFL 1.1",
+    "ttf": "assets/Fonts/VectorVale-Regular.ttf",
+    "woff2": "assets/Webfonts/VectorVale-Regular.woff2",
+    "unicode_codepoints": 2327,
+    "glyph_count": 2620,
+    "ascii_complete": true,
+    "fixed_advance": null,
+    "bounds_y": [
+      -621,
+      2007
+    ],
+    "sha256": "2e32d2a367fdc5a67bb5a74d3b716a4e4f50804afa4ae6ef9d0cb650ceef0f7c"
+  },
+  {
+    "family": "Circuit Mono",
+    "category": "Menlo-inspired",
+    "description": "Faceted coding mono with chamfered bowls, a slashed zero and open operators.",
+    "basis_and_license": "DejaVu Sans Mono, Bitstream Vera license + public-domain additions",
+    "ttf": "assets/Fonts/CircuitMono-Regular.ttf",
+    "woff2": "assets/Webfonts/CircuitMono-Regular.woff2",
+    "unicode_codepoints": 3322,
+    "glyph_count": 3377,
+    "ascii_complete": true,
+    "fixed_advance": 1233,
+    "bounds_y": [
+      -721,
+      2105
+    ],
+    "sha256": "468c2118a448f1ddc332c0eeca208e634ed2940ba86682d0be66a2726ce7eb40"
+  },
+  {
+    "family": "Hearth Mono",
+    "category": "Menlo-inspired",
+    "description": "Soft coding mono with rounded punctuation, a dotted zero and single-storey a and g.",
+    "basis_and_license": "DejaVu Sans Mono, Bitstream Vera license + public-domain additions",
+    "ttf": "assets/Fonts/HearthMono-Regular.ttf",
+    "woff2": "assets/Webfonts/HearthMono-Regular.woff2",
+    "unicode_codepoints": 3322,
+    "glyph_count": 3377,
+    "ascii_complete": true,
+    "fixed_advance": 1233,
+    "bounds_y": [
+      -786,
+      2106
+    ],
+    "sha256": "bd2c9a44e08152271fa7d7b2c0949fe0cfe3e4ceeca526a249b3fc0d7d240987"
+  },
+  {
+    "family": "Aster Loop",
+    "category": "Original design",
+    "description": "Drawn from scratch: rounded monoline geometry, circular bowls and open terminals.",
+    "basis_and_license": "Original outlines, SIL OFL 1.1",
+    "ttf": "assets/Fonts/AsterLoop-Regular.ttf",
+    "woff2": "assets/Webfonts/AsterLoop-Regular.woff2",
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "ascii_complete": true,
+    "fixed_advance": null,
+    "bounds_y": [
+      -242,
+      803
+    ],
+    "sha256": "983b87bca8c5a260d20e54a730f4b0a36adb6029de11edda19a4efb0d9f8521f"
+  },
+  {
+    "family": "Quoin Ink",
+    "category": "Original design",
+    "description": "Drawn from scratch: faceted bowls, incised stroke contrast and diamond punctuation.",
+    "basis_and_license": "Original outlines, SIL OFL 1.1",
+    "ttf": "assets/Fonts/QuoinInk-Regular.ttf",
+    "woff2": "assets/Webfonts/QuoinInk-Regular.woff2",
+    "unicode_codepoints": 104,
+    "glyph_count": 105,
+    "ascii_complete": true,
+    "fixed_advance": null,
+    "bounds_y": [
+      -235,
+      780
+    ],
+    "sha256": "a206c4a1ea0fe10389549d96573e0c54fcd80e92f38e59092042c438c3d2f7e7"
+  }
+]

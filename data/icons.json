@@ -1,0 +1,890 @@
+[
+  {
+    "collection": "Home",
+    "id": "01",
+    "name": "Gable",
+    "svg": "assets/icons/home-svg-options/01-gable.svg"
+  },
+  {
+    "collection": "Home",
+    "id": "02",
+    "name": "Shelter",
+    "svg": "assets/icons/home-svg-options/02-shelter.svg"
+  },
+  {
+    "collection": "Home",
+    "id": "03",
+    "name": "Archway",
+    "svg": "assets/icons/home-svg-options/03-archway.svg"
+  },
+  {
+    "collection": "Home",
+    "id": "04",
+    "name": "Open door",
+    "svg": "assets/icons/home-svg-options/04-open-door.svg"
+  },
+  {
+    "collection": "Home",
+    "id": "05",
+    "name": "Crossroads",
+    "svg": "assets/icons/home-svg-options/05-crossroads.svg"
+  },
+  {
+    "collection": "Home",
+    "id": "06",
+    "name": "Constellation",
+    "svg": "assets/icons/home-svg-options/06-constellation.svg"
+  },
+  {
+    "collection": "Home",
+    "id": "07",
+    "name": "Index",
+    "svg": "assets/icons/home-svg-options/07-index.svg"
+  },
+  {
+    "collection": "Home",
+    "id": "08",
+    "name": "Open book",
+    "svg": "assets/icons/home-svg-options/08-open-book.svg"
+  },
+  {
+    "collection": "Home",
+    "id": "09",
+    "name": "Origin",
+    "svg": "assets/icons/home-svg-options/09-origin.svg"
+  },
+  {
+    "collection": "Home",
+    "id": "10",
+    "name": "Orbit",
+    "svg": "assets/icons/home-svg-options/10-orbit.svg"
+  },
+  {
+    "collection": "Home",
+    "id": "11",
+    "name": "Passage",
+    "svg": "assets/icons/home-svg-options/11-passage.svg"
+  },
+  {
+    "collection": "Home",
+    "id": "12",
+    "name": "Clover",
+    "svg": "assets/icons/home-svg-options/12-clover.svg"
+  },
+  {
+    "collection": "Home",
+    "id": "13",
+    "name": "Beacon",
+    "svg": "assets/icons/home-svg-options/13-beacon.svg"
+  },
+  {
+    "collection": "Home",
+    "id": "14",
+    "name": "Courtyard",
+    "svg": "assets/icons/home-svg-options/14-courtyard.svg"
+  },
+  {
+    "collection": "Home",
+    "id": "15",
+    "name": "Atlas",
+    "svg": "assets/icons/home-svg-options/15-atlas.svg"
+  },
+  {
+    "collection": "Home",
+    "id": "16",
+    "name": "Confluence",
+    "svg": "assets/icons/home-svg-options/16-confluence.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "01",
+    "name": "Return point",
+    "svg": "assets/icons/home-abstract-options/01-return-point.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "02",
+    "name": "Main tile",
+    "svg": "assets/icons/home-abstract-options/02-main-tile.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "03",
+    "name": "Root",
+    "svg": "assets/icons/home-abstract-options/03-root.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "04",
+    "name": "First page",
+    "svg": "assets/icons/home-abstract-options/04-first-page.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "05",
+    "name": "Centreward",
+    "svg": "assets/icons/home-abstract-options/05-centreward.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "06",
+    "name": "Common ground",
+    "svg": "assets/icons/home-abstract-options/06-common-ground.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "07",
+    "name": "Source",
+    "svg": "assets/icons/home-abstract-options/07-source.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "08",
+    "name": "Beginning",
+    "svg": "assets/icons/home-abstract-options/08-beginning.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "09",
+    "name": "Foldback",
+    "svg": "assets/icons/home-abstract-options/09-foldback.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "10",
+    "name": "Shared centre",
+    "svg": "assets/icons/home-abstract-options/10-shared-centre.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "11",
+    "name": "First tile",
+    "svg": "assets/icons/home-abstract-options/11-first-tile.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "12",
+    "name": "Index root",
+    "svg": "assets/icons/home-abstract-options/12-index-root.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "13",
+    "name": "Landing",
+    "svg": "assets/icons/home-abstract-options/13-landing.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "14",
+    "name": "Home field",
+    "svg": "assets/icons/home-abstract-options/14-home-field.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "15",
+    "name": "Converge",
+    "svg": "assets/icons/home-abstract-options/15-converge.svg"
+  },
+  {
+    "collection": "Abstract",
+    "id": "16",
+    "name": "Return index",
+    "svg": "assets/icons/home-abstract-options/16-return-index.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "01",
+    "name": "Vesica",
+    "svg": "assets/icons/home-regal-options/01-vesica.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "02",
+    "name": "Parenthesis seal",
+    "svg": "assets/icons/home-regal-options/02-parenthesis-seal.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "03",
+    "name": "Quatrefoil",
+    "svg": "assets/icons/home-regal-options/03-quatrefoil.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "04",
+    "name": "Petal sigil",
+    "svg": "assets/icons/home-regal-options/04-petal-sigil.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "05",
+    "name": "Infinity seal",
+    "svg": "assets/icons/home-regal-options/05-infinity-seal.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "06",
+    "name": "Eternal knot",
+    "svg": "assets/icons/home-regal-options/06-eternal-knot.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "07",
+    "name": "Twin orbit",
+    "svg": "assets/icons/home-regal-options/07-twin-orbit.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "08",
+    "name": "Spindle",
+    "svg": "assets/icons/home-regal-options/08-spindle.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "09",
+    "name": "Aster seal",
+    "svg": "assets/icons/home-regal-options/09-aster-seal.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "10",
+    "name": "Braced jewel",
+    "svg": "assets/icons/home-regal-options/10-braced-jewel.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "11",
+    "name": "Fleuron",
+    "svg": "assets/icons/home-regal-options/11-fleuron.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "12",
+    "name": "Rosette",
+    "svg": "assets/icons/home-regal-options/12-rosette.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "13",
+    "name": "Concord",
+    "svg": "assets/icons/home-regal-options/13-concord.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "14",
+    "name": "Constellation",
+    "svg": "assets/icons/home-regal-options/14-constellation.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "15",
+    "name": "Quartered jewel",
+    "svg": "assets/icons/home-regal-options/15-quartered-jewel.svg"
+  },
+  {
+    "collection": "Regal",
+    "id": "16",
+    "name": "Sovereign",
+    "svg": "assets/icons/home-regal-options/16-sovereign.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "101",
+    "name": "Court volute",
+    "svg": "assets/icons/home-regal-100/101-court-volute.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "102",
+    "name": "Crescent tablet",
+    "svg": "assets/icons/home-regal-100/102-crescent-tablet.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "103",
+    "name": "Quiet aureole",
+    "svg": "assets/icons/home-regal-100/103-quiet-aureole.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "104",
+    "name": "Indented silk",
+    "svg": "assets/icons/home-regal-100/104-indented-silk.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "105",
+    "name": "Silk interval",
+    "svg": "assets/icons/home-regal-100/105-silk-interval.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "106",
+    "name": "Scribe clasp",
+    "svg": "assets/icons/home-regal-100/106-scribe-clasp.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "107",
+    "name": "Inward scroll",
+    "svg": "assets/icons/home-regal-100/107-inward-scroll.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "108",
+    "name": "Silken brooch",
+    "svg": "assets/icons/home-regal-100/108-silken-brooch.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "109",
+    "name": "Ogee medallion",
+    "svg": "assets/icons/home-regal-100/109-ogee-medallion.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "110",
+    "name": "Arched counterweight",
+    "svg": "assets/icons/home-regal-100/110-arched-counterweight.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "111",
+    "name": "Four courtesies",
+    "svg": "assets/icons/home-regal-100/111-four-courtesies.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "112",
+    "name": "Tasseled interval",
+    "svg": "assets/icons/home-regal-100/112-tasseled-interval.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "113",
+    "name": "Tension clasp",
+    "svg": "assets/icons/home-regal-100/113-tension-clasp.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "114",
+    "name": "Chambered tablet",
+    "svg": "assets/icons/home-regal-100/114-chambered-tablet.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "115",
+    "name": "Ruffle seal",
+    "svg": "assets/icons/home-regal-100/115-ruffle-seal.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "116",
+    "name": "Suspended jewel",
+    "svg": "assets/icons/home-regal-100/116-suspended-jewel.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "117",
+    "name": "Oblique flourishes",
+    "svg": "assets/icons/home-regal-100/117-oblique-flourishes.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "118",
+    "name": "Twin lunules",
+    "svg": "assets/icons/home-regal-100/118-twin-lunules.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "119",
+    "name": "Cushion seal",
+    "svg": "assets/icons/home-regal-100/119-cushion-seal.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "120",
+    "name": "Open corolla",
+    "svg": "assets/icons/home-regal-100/120-open-corolla.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "121",
+    "name": "Velvet buckle",
+    "svg": "assets/icons/home-regal-100/121-velvet-buckle.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "122",
+    "name": "Recessed cameo",
+    "svg": "assets/icons/home-regal-100/122-recessed-cameo.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "123",
+    "name": "Braided acclamation",
+    "svg": "assets/icons/home-regal-100/123-braided-acclamation.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "124",
+    "name": "Folio scroll",
+    "svg": "assets/icons/home-regal-100/124-folio-scroll.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "125",
+    "name": "Royal pause",
+    "svg": "assets/icons/home-regal-100/125-royal-pause.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "126",
+    "name": "Silken diadem",
+    "svg": "assets/icons/home-regal-100/126-silken-diadem.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "127",
+    "name": "Horizon sash",
+    "svg": "assets/icons/home-regal-100/127-horizon-sash.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "128",
+    "name": "Girdled bond",
+    "svg": "assets/icons/home-regal-100/128-girdled-bond.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "129",
+    "name": "Sovereign weft",
+    "svg": "assets/icons/home-regal-100/129-sovereign-weft.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "130",
+    "name": "Triple accord",
+    "svg": "assets/icons/home-regal-100/130-triple-accord.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "131",
+    "name": "Enduring spire",
+    "svg": "assets/icons/home-regal-100/131-enduring-spire.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "132",
+    "name": "Paired vows",
+    "svg": "assets/icons/home-regal-100/132-paired-vows.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "133",
+    "name": "Royal shuttle",
+    "svg": "assets/icons/home-regal-100/133-royal-shuttle.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "134",
+    "name": "Covenant column",
+    "svg": "assets/icons/home-regal-100/134-covenant-column.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "135",
+    "name": "Silk reliquary",
+    "svg": "assets/icons/home-regal-100/135-silk-reliquary.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "136",
+    "name": "Solomon accord",
+    "svg": "assets/icons/home-regal-100/136-solomon-accord.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "137",
+    "name": "Trefoil covenant",
+    "svg": "assets/icons/home-regal-100/137-trefoil-covenant.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "138",
+    "name": "Quadrant weave",
+    "svg": "assets/icons/home-regal-100/138-quadrant-weave.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "139",
+    "name": "Knot of hours",
+    "svg": "assets/icons/home-regal-100/139-knot-of-hours.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "140",
+    "name": "Woven sun",
+    "svg": "assets/icons/home-regal-100/140-woven-sun.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "141",
+    "name": "Endless cartouche",
+    "svg": "assets/icons/home-regal-100/141-endless-cartouche.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "142",
+    "name": "Bound aureole",
+    "svg": "assets/icons/home-regal-100/142-bound-aureole.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "143",
+    "name": "Cloistered silk",
+    "svg": "assets/icons/home-regal-100/143-cloistered-silk.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "144",
+    "name": "Vow medallion",
+    "svg": "assets/icons/home-regal-100/144-vow-medallion.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "145",
+    "name": "Open circuit seal",
+    "svg": "assets/icons/home-regal-100/145-open-circuit-seal.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "146",
+    "name": "Brocade crest",
+    "svg": "assets/icons/home-regal-100/146-brocade-crest.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "147",
+    "name": "Courted loops",
+    "svg": "assets/icons/home-regal-100/147-courted-loops.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "148",
+    "name": "Lacuna knot",
+    "svg": "assets/icons/home-regal-100/148-lacuna-knot.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "149",
+    "name": "Ribbon bastion",
+    "svg": "assets/icons/home-regal-100/149-ribbon-bastion.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "150",
+    "name": "Imperial continuum",
+    "svg": "assets/icons/home-regal-100/150-imperial-continuum.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "151",
+    "name": "Trillium seal",
+    "svg": "assets/icons/home-regal-100/151-trillium-seal.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "152",
+    "name": "Cinquefoil aperture",
+    "svg": "assets/icons/home-regal-100/152-cinquefoil-aperture.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "153",
+    "name": "Acanthus cross",
+    "svg": "assets/icons/home-regal-100/153-acanthus-cross.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "154",
+    "name": "Fluted diadem",
+    "svg": "assets/icons/home-regal-100/154-fluted-diadem.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "155",
+    "name": "Trefoil window",
+    "svg": "assets/icons/home-regal-100/155-trefoil-window.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "156",
+    "name": "Wreath aster",
+    "svg": "assets/icons/home-regal-100/156-wreath-aster.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "157",
+    "name": "Palmette script",
+    "svg": "assets/icons/home-regal-100/157-palmette-script.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "158",
+    "name": "Triskel volute",
+    "svg": "assets/icons/home-regal-100/158-triskel-volute.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "159",
+    "name": "Hexalobe seal",
+    "svg": "assets/icons/home-regal-100/159-hexalobe-seal.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "160",
+    "name": "Ogee blossom",
+    "svg": "assets/icons/home-regal-100/160-ogee-blossom.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "161",
+    "name": "Velvet coronet",
+    "svg": "assets/icons/home-regal-100/161-velvet-coronet.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "162",
+    "name": "Scribe foliation",
+    "svg": "assets/icons/home-regal-100/162-scribe-foliation.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "163",
+    "name": "Pendant calyx",
+    "svg": "assets/icons/home-regal-100/163-pendant-calyx.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "164",
+    "name": "Trine anthemion",
+    "svg": "assets/icons/home-regal-100/164-trine-anthemion.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "165",
+    "name": "Fanborne pearl",
+    "svg": "assets/icons/home-regal-100/165-fanborne-pearl.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "166",
+    "name": "Quadrant scroll",
+    "svg": "assets/icons/home-regal-100/166-quadrant-scroll.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "167",
+    "name": "Thistled medallion",
+    "svg": "assets/icons/home-regal-100/167-thistled-medallion.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "168",
+    "name": "Lotus cipher",
+    "svg": "assets/icons/home-regal-100/168-lotus-cipher.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "169",
+    "name": "Arcadian fleuron",
+    "svg": "assets/icons/home-regal-100/169-arcadian-fleuron.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "170",
+    "name": "Flame rosette",
+    "svg": "assets/icons/home-regal-100/170-flame-rosette.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "171",
+    "name": "Winged acanthus",
+    "svg": "assets/icons/home-regal-100/171-winged-acanthus.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "172",
+    "name": "Clover sceptre",
+    "svg": "assets/icons/home-regal-100/172-clover-sceptre.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "173",
+    "name": "Pollen cartouche",
+    "svg": "assets/icons/home-regal-100/173-pollen-cartouche.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "174",
+    "name": "Crested fleurette",
+    "svg": "assets/icons/home-regal-100/174-crested-fleurette.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "175",
+    "name": "Rose cipher",
+    "svg": "assets/icons/home-regal-100/175-rose-cipher.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "176",
+    "name": "Clasped facet",
+    "svg": "assets/icons/home-regal-100/176-clasped-facet.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "177",
+    "name": "Counterfold",
+    "svg": "assets/icons/home-regal-100/177-counterfold.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "178",
+    "name": "Gallery jewel",
+    "svg": "assets/icons/home-regal-100/178-gallery-jewel.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "179",
+    "name": "Indented tessera",
+    "svg": "assets/icons/home-regal-100/179-indented-tessera.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "180",
+    "name": "Triptych seal",
+    "svg": "assets/icons/home-regal-100/180-triptych-seal.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "181",
+    "name": "Waisted coronal",
+    "svg": "assets/icons/home-regal-100/181-waisted-coronal.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "182",
+    "name": "Garnet braid",
+    "svg": "assets/icons/home-regal-100/182-garnet-braid.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "183",
+    "name": "Oblique jewels",
+    "svg": "assets/icons/home-regal-100/183-oblique-jewels.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "184",
+    "name": "Pavilion lattice",
+    "svg": "assets/icons/home-regal-100/184-pavilion-lattice.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "185",
+    "name": "Stepped reliquary",
+    "svg": "assets/icons/home-regal-100/185-stepped-reliquary.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "186",
+    "name": "Trihedral clasp",
+    "svg": "assets/icons/home-regal-100/186-trihedral-clasp.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "187",
+    "name": "Twin chamber",
+    "svg": "assets/icons/home-regal-100/187-twin-chamber.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "188",
+    "name": "Saltire signet",
+    "svg": "assets/icons/home-regal-100/188-saltire-signet.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "189",
+    "name": "Winged tablet",
+    "svg": "assets/icons/home-regal-100/189-winged-tablet.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "190",
+    "name": "Suspended prong",
+    "svg": "assets/icons/home-regal-100/190-suspended-prong.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "191",
+    "name": "Polygon inlay",
+    "svg": "assets/icons/home-regal-100/191-polygon-inlay.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "192",
+    "name": "Offset cartouche",
+    "svg": "assets/icons/home-regal-100/192-offset-cartouche.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "193",
+    "name": "Terraced garnet",
+    "svg": "assets/icons/home-regal-100/193-terraced-garnet.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "194",
+    "name": "Quadrilateral fold",
+    "svg": "assets/icons/home-regal-100/194-quadrilateral-fold.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "195",
+    "name": "Angle palanquin",
+    "svg": "assets/icons/home-regal-100/195-angle-palanquin.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "196",
+    "name": "Tessellated crest",
+    "svg": "assets/icons/home-regal-100/196-tessellated-crest.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "197",
+    "name": "Notched ward",
+    "svg": "assets/icons/home-regal-100/197-notched-ward.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "198",
+    "name": "Triune setting",
+    "svg": "assets/icons/home-regal-100/198-triune-setting.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "199",
+    "name": "Crenel inlay",
+    "svg": "assets/icons/home-regal-100/199-crenel-inlay.svg"
+  },
+  {
+    "collection": "Regal 100",
+    "id": "200",
+    "name": "Canted parure",
+    "svg": "assets/icons/home-regal-100/200-canted-parure.svg"
+  }
+]
