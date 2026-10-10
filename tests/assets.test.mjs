@@ -40,7 +40,7 @@ test('one continuous icon wall contains only preview and ID labels',async()=>{
   assert.equal((page.match(/class="icon-item"/g)||[]).length,1148);
   assert.equal((page.match(/class="icon-grid"/g)||[]).length,1);
   assert.doesNotMatch(page,/icon-collection/);
-  const wall=page.slice(page.indexOf('<section id="icons"'),page.indexOf('</main>'));
+  const wall=page.slice(page.indexOf('<section id="icons"'),page.indexOf('</section>',page.indexOf('<section id="icons"'))+'</section>'.length);
   assert.doesNotMatch(wall,/<h[1-6]|<select|<button|<input/);
   assert.deepEqual([...wall.matchAll(/<span class="icon-label">([^<]+)<\/span>/g)].map(m=>m[1]),icons.map(x=>x.id));
   for(const icon of icons){
@@ -49,7 +49,7 @@ test('one continuous icon wall contains only preview and ID labels',async()=>{
     assert.ok(wall.includes(`aria-label="Download ${icon.id}: `));
   }
   assert.match(page,/href="https:\/\/jehlp.net\/"/);
-  assert.match(page,/<button disabled type="button">Dropcaps<\/button>/);
+  assert.match(page,/<a href="#dropcaps" id="tab-dropcaps">Dropcaps<\/a>/);
   assert.match(page,/href="licenses.html"/);
   for(const match of page.matchAll(/(?:href|src)="((?:assets|data)\/[^"?#]+)"/g))await access(new URL(match[1],root));
 });

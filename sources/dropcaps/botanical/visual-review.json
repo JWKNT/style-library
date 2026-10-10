@@ -1,0 +1,28 @@
+{
+  "reviewed_on": "2026-10-09",
+  "reviewed_artwork": 78,
+  "actual_sizes": [
+    96,
+    112
+  ],
+  "additional_samples": {
+    "sizes": [
+      96,
+      120
+    ],
+    "letters": "ABMQ",
+    "surfaces": [
+      "warm light",
+      "dark green reverse ink"
+    ]
+  },
+  "status": "pass",
+  "findings": {
+    "iris": "All 26 hand-drawn capitals remain identifiable; G was corrected during development, and final full grids include a clear G. I/J have balanced open space, W uses reduced ribbon breadth. Larger flowers and attached leaf terminals integrate lettering with ornament.",
+    "laurel": "All 26 remain identifiable at 96 px. The final letter outline is 1.8 units with 3.2-unit foliage clearance; this increases contrast while retaining the delicate engraving. Broad W and narrow I/J retain distinct fitted proportions.",
+    "briar": "All 26 light capitals are true transparent cuts through dense foliage; B/D/O/P/Q/R counters remain filled by the botanical tapestry rather than turning into solid islands. I/J are visually centered; W stays within breathing margins.",
+    "bounds": "Every SVG has a minimum six-unit ink margin, verified by geometry and 96/112/120px raster alpha checks.",
+    "transparency": "Only a currentColor compound path remains. There are no alpha masks, white shapes, runtime fonts, external resources, or raster images. Light/dark test grids show correct recoloring and holes.",
+    "optimization": "Before/after raster comparison passed at every target size. No pixel alpha changed by more than 64/255; worst mean alpha error 2.04597/255."
+  }
+}

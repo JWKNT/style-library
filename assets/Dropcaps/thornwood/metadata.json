@@ -1,0 +1,33 @@
+{
+  "id": "thornwood",
+  "name": "Thornwood",
+  "count": 26,
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "format": "SVG",
+  "source_group": "medieval",
+  "description": "Floriated woodcut letters with sharp medieval silhouettes and original lobed thorn leaves, cut veins, rosettes, branch spirals and double keylines.",
+  "design_changes": [
+    "Extracted only the interior historic letter body from each Morris initial; removed every original outer foliage and frame component.",
+    "Renormalized body proportions and redrew the ornamental composition from new path data.",
+    "Added original cut-vein lobed thorn foliage, per-letter seeded leaf positions, branch spirals, two rosettes and outer letter keylines.",
+    "Added sparse new engraved cuts to the thick letter strokes; preserved E’s separately encoded crossbar."
+  ],
+  "artwork_license": "LPPL-1.3c-or-later",
+  "design_metadata": "sources/dropcaps/medieval/metadata.json",
+  "license_files": [
+    "licenses/dropcaps/NOTICE.txt",
+    "sources/dropcaps/medieval/LICENSE.txt",
+    "sources/dropcaps/medieval/sources/LPPL.txt",
+    "sources/dropcaps/medieval/sources/CTAN-initials-README.txt",
+    "sources/dropcaps/medieval/sources/NOTICE.md"
+  ],
+  "download_files": [
+    "assets/Dropcaps/thornwood/README.txt",
+    "assets/Dropcaps/thornwood/metadata.json",
+    "licenses/dropcaps/NOTICE.txt",
+    "sources/dropcaps/medieval/LICENSE.txt",
+    "sources/dropcaps/medieval/sources/LPPL.txt",
+    "sources/dropcaps/medieval/sources/CTAN-initials-README.txt",
+    "sources/dropcaps/medieval/sources/NOTICE.md"
+  ]
+}

@@ -10,7 +10,7 @@
     panels[i].tabIndex = 0;
   });
   const activate = () => {
-    const chosen = location.hash === '#icons' ? 1 : 0;
+    const chosen = Math.max(0, tabs.findIndex(tab => tab.hash === location.hash));
     tabs.forEach((tab, i) => {
       tab.setAttribute('aria-selected', String(i === chosen));
       tab.tabIndex = i === chosen ? 0 : -1;

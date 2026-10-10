@@ -1,0 +1,14 @@
+nameID 0: Copyright 2016 Google Inc. All Rights Reserved.
+nameID 1: Noto Serif Display
+nameID 2: Bold
+nameID 3: 2.003;GOOG;NotoSerifDisplay-Bold
+nameID 5: Version 2.003; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D latn -f none -a qsq -X ""
+nameID 6: NotoSerifDisplay-Bold
+nameID 8: Monotype Imaging Inc.
+nameID 9: Monotype Design Team
+nameID 11: http://www.google.com/get/noto/
+nameID 12: http://www.monotype.com/studio
+nameID 13: This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.
+nameID 14: http://scripts.sil.org/OFL
+
+The source font file is included unchanged.

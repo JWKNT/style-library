@@ -1,0 +1,33 @@
+{
+  "id": "cameo",
+  "name": "Cameo",
+  "count": 26,
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "format": "SVG",
+  "source_group": "display",
+  "description": "Relief-engraved Roman capitals with inset glints, diagonal graver shading, and fitted laurel or acanthus terminals.",
+  "design_changes": [
+    "Reconstructed capital proportions retain the full cap height for M and W.",
+    "A new offset extruded side plane is separated from the letter face by transparent air.",
+    "Inset left-edge glints and diagonal graver channels are Boolean cuts, with no opaque white paint.",
+    "Original engraved laurel sprays, split-leaf acanthus volutes, intertwined ribbons and small intaglio seals fit four structural letter groups."
+  ],
+  "artwork_license": "CC0-1.0 for new artwork; applicable source notices retained",
+  "design_metadata": "sources/dropcaps/display/metadata.json",
+  "license_files": [
+    "licenses/dropcaps/NOTICE.txt",
+    "licenses/dropcaps/CC0-1.0.txt",
+    "sources/dropcaps/display/NOTICE.txt",
+    "sources/dropcaps/display/sources/OFL-1.1.txt",
+    "sources/dropcaps/display/sources/NotoSerifDisplay-COPYRIGHT.txt"
+  ],
+  "download_files": [
+    "assets/Dropcaps/cameo/README.txt",
+    "assets/Dropcaps/cameo/metadata.json",
+    "licenses/dropcaps/NOTICE.txt",
+    "licenses/dropcaps/CC0-1.0.txt",
+    "sources/dropcaps/display/NOTICE.txt",
+    "sources/dropcaps/display/sources/OFL-1.1.txt",
+    "sources/dropcaps/display/sources/NotoSerifDisplay-COPYRIGHT.txt"
+  ]
+}

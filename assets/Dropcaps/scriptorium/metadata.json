@@ -1,0 +1,33 @@
+{
+  "id": "scriptorium",
+  "name": "Scriptorium",
+  "count": 26,
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "format": "SVG",
+  "source_group": "medieval",
+  "description": "Illuminated penwork versals with historic blackletter anatomy, newly incised stem scrolls and extensive open curling pen sprays.",
+  "design_changes": [
+    "Reconstructed the Royal historic silhouettes with a closing operation and selective counter preservation, removing and merging fine source ornament.",
+    "Added new engraved S-scroll cuts throughout available stem interiors.",
+    "Recomposed open spaces with eight original calligraphic branching sprays, lobed leaf terminals and ink beads.",
+    "Replaced the original visual composition with a wider freely branching penwork silhouette."
+  ],
+  "artwork_license": "LPPL-1.3c-or-later",
+  "design_metadata": "sources/dropcaps/medieval/metadata.json",
+  "license_files": [
+    "licenses/dropcaps/NOTICE.txt",
+    "sources/dropcaps/medieval/LICENSE.txt",
+    "sources/dropcaps/medieval/sources/LPPL.txt",
+    "sources/dropcaps/medieval/sources/CTAN-initials-README.txt",
+    "sources/dropcaps/medieval/sources/NOTICE.md"
+  ],
+  "download_files": [
+    "assets/Dropcaps/scriptorium/README.txt",
+    "assets/Dropcaps/scriptorium/metadata.json",
+    "licenses/dropcaps/NOTICE.txt",
+    "sources/dropcaps/medieval/LICENSE.txt",
+    "sources/dropcaps/medieval/sources/LPPL.txt",
+    "sources/dropcaps/medieval/sources/CTAN-initials-README.txt",
+    "sources/dropcaps/medieval/sources/NOTICE.md"
+  ]
+}

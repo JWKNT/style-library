@@ -1,0 +1,553 @@
+{
+  "family": "tessera",
+  "count": 26,
+  "allGeometriesValid": true,
+  "letters": [
+    {
+      "letter": "A",
+      "viewBox": [
+        -39.31300006006559,
+        18.5,
+        838.584441050007,
+        938.9788426380385
+      ],
+      "inkBounds": [
+        4.6869999399344096,
+        62.5,
+        755.2714409899413,
+        913.4788426380385
+      ],
+      "transparentInlays": 45,
+      "blackInsetStones": 10,
+      "area": 208960.2175958125,
+      "valid": true,
+      "polygons": 11,
+      "sha256": "bd1a354f25e76f25e0a452d629747039f98f441c5641016a9e3b2e76be5adde2"
+    },
+    {
+      "letter": "B",
+      "viewBox": [
+        -5.25,
+        32.0,
+        746.75,
+        949.5
+      ],
+      "inkBounds": [
+        38.75,
+        76.0,
+        697.5,
+        937.5
+      ],
+      "transparentInlays": 67,
+      "blackInsetStones": 16,
+      "area": 307456.1422545491,
+      "valid": true,
+      "polygons": 17,
+      "sha256": "1558da73cc6d8f884980e0279f464488b8ca77ed4c8b36c118e4d97cc70e2b79"
+    },
+    {
+      "letter": "C",
+      "viewBox": [
+        12.184219711412986,
+        23.5,
+        742.6344885369942,
+        962.2413374837676
+      ],
+      "inkBounds": [
+        56.184219711412986,
+        67.5,
+        710.8187082484072,
+        941.7413374837676
+      ],
+      "transparentInlays": 42,
+      "blackInsetStones": 10,
+      "area": 201901.73092712005,
+      "valid": true,
+      "polygons": 11,
+      "sha256": "037baffca20012000c4af3161887f3b902d94061c5c30aaf2fbaf2730fc2dfaf"
+    },
+    {
+      "letter": "D",
+      "viewBox": [
+        -1.0,
+        25.0,
+        743.3579848204981,
+        955.0
+      ],
+      "inkBounds": [
+        43.0,
+        69.0,
+        698.3579848204981,
+        936.0
+      ],
+      "transparentInlays": 56,
+      "blackInsetStones": 12,
+      "area": 267408.1989141652,
+      "valid": true,
+      "polygons": 13,
+      "sha256": "f62ba3c74885f4c4c860e0343160cefc37d94813cddf3c43d08eb61c82fbc2ef"
+    },
+    {
+      "letter": "E",
+      "viewBox": [
+        4.75,
+        -1.5,
+        677.25,
+        1014.0
+      ],
+      "inkBounds": [
+        48.75,
+        42.5,
+        638.0,
+        968.5
+      ],
+      "transparentInlays": 43,
+      "blackInsetStones": 12,
+      "area": 225170.7504218362,
+      "valid": true,
+      "polygons": 13,
+      "sha256": "fb6153632822c9637ee0a0939bb075de33ae228eabb22cf768ec5b6b291c0aae"
+    },
+    {
+      "letter": "F",
+      "viewBox": [
+        4.75,
+        -4.5,
+        667.25,
+        961.5
+      ],
+      "inkBounds": [
+        48.75,
+        39.5,
+        628.0,
+        913.0
+      ],
+      "transparentInlays": 33,
+      "blackInsetStones": 9,
+      "area": 182374.4652109181,
+      "valid": true,
+      "polygons": 10,
+      "sha256": "e40950dfd1103f480d5eadf2767b2b873dfc3315b0f76e1c08efd6416d5f632e"
+    },
+    {
+      "letter": "G",
+      "viewBox": [
+        12.074640121944142,
+        23.5,
+        750.5077078780255,
+        962.1946927346338
+      ],
+      "inkBounds": [
+        56.07464012194414,
+        67.5,
+        718.5823479999697,
+        941.6946927346338
+      ],
+      "transparentInlays": 53,
+      "blackInsetStones": 13,
+      "area": 252191.8246138165,
+      "valid": true,
+      "polygons": 14,
+      "sha256": "805cf84b7f50518f58d0c452ee722da8bff8b57d4736f1262c2fade10ef4a869"
+    },
+    {
+      "letter": "H",
+      "viewBox": [
+        4.75,
+        48.0,
+        755.5,
+        909.0
+      ],
+      "inkBounds": [
+        48.75,
+        92.0,
+        716.25,
+        913.0
+      ],
+      "transparentInlays": 46,
+      "blackInsetStones": 12,
+      "area": 245094.29999999993,
+      "valid": true,
+      "polygons": 13,
+      "sha256": "f42baf5fe802d8e2bd74a1a030cf7fcb715f6fcfd99486ab2d72985b86c1cd0b"
+    },
+    {
+      "letter": "I",
+      "viewBox": [
+        63.0,
+        19.5,
+        484.0,
+        972.0
+      ],
+      "inkBounds": [
+        107.0,
+        63.5,
+        503.0,
+        947.5
+      ],
+      "transparentInlays": 28,
+      "blackInsetStones": 7,
+      "area": 152232.06,
+      "valid": true,
+      "polygons": 8,
+      "sha256": "bcf44d412750dad502a2d3524007ed3d8143f629a22a665f9c16531b6b651277"
+    },
+    {
+      "letter": "J",
+      "viewBox": [
+        -25.0,
+        12.75,
+        717.0,
+        970.25
+      ],
+      "inkBounds": [
+        19.0,
+        56.75,
+        648.0,
+        939.0
+      ],
+      "transparentInlays": 35,
+      "blackInsetStones": 8,
+      "area": 190963.16562745487,
+      "valid": true,
+      "polygons": 9,
+      "sha256": "12b05f9bdb3a2005fdee4330732999e57a8d02a6c2b88d59133b8216711fcc51"
+    },
+    {
+      "letter": "K",
+      "viewBox": [
+        5.5,
+        1.5509921799017334,
+        784.5438951204061,
+        992.9562331108482
+      ],
+      "inkBounds": [
+        49.5,
+        45.55099217990173,
+        746.0438951204061,
+        950.50722529075
+      ],
+      "transparentInlays": 48,
+      "blackInsetStones": 11,
+      "area": 234961.49441262952,
+      "valid": true,
+      "polygons": 12,
+      "sha256": "c5175dfc91531d78ccfe849512aad52e50a9b1f49f88b8787484845c4694bc55"
+    },
+    {
+      "letter": "L",
+      "viewBox": [
+        6.25,
+        48.0,
+        761.9499999999999,
+        937.5
+      ],
+      "inkBounds": [
+        50.25,
+        92.0,
+        724.1999999999999,
+        941.5
+      ],
+      "transparentInlays": 32,
+      "blackInsetStones": 7,
+      "area": 174333.691895295,
+      "valid": true,
+      "polygons": 8,
+      "sha256": "44f7ab90b279152b74c28b4f7b02e10985d7bba12355686835822a38333a9a00"
+    },
+    {
+      "letter": "M",
+      "viewBox": [
+        -5.5,
+        25.0,
+        936.0,
+        932.0
+      ],
+      "inkBounds": [
+        38.5,
+        69.0,
+        886.5,
+        913.0
+      ],
+      "transparentInlays": 70,
+      "blackInsetStones": 15,
+      "area": 328568.7141666666,
+      "valid": true,
+      "polygons": 16,
+      "sha256": "23623dfa8fd3c58a88866e6b9e6b1da979c5d459df8abd341467706266174e51"
+    },
+    {
+      "letter": "N",
+      "viewBox": [
+        5.0,
+        27.0,
+        790.0,
+        956.0
+      ],
+      "inkBounds": [
+        49.0,
+        71.0,
+        751.0,
+        939.0
+      ],
+      "transparentInlays": 64,
+      "blackInsetStones": 16,
+      "area": 305762.40260624816,
+      "valid": true,
+      "polygons": 17,
+      "sha256": "be21fd20d74f488143b3eb88a1a8987983dc10c3d6451bcabc8dea3efb6ac4f7"
+    },
+    {
+      "letter": "O",
+      "viewBox": [
+        -37.0,
+        23.0,
+        844.0,
+        959.0
+      ],
+      "inkBounds": [
+        7.0,
+        67.0,
+        763.0,
+        938.0
+      ],
+      "transparentInlays": 59,
+      "blackInsetStones": 14,
+      "area": 263105.16658830387,
+      "valid": true,
+      "polygons": 15,
+      "sha256": "e9231560a7ecc0bf1342290e46210706d982dd8f4ca0402b177190ab16582b26"
+    },
+    {
+      "letter": "P",
+      "viewBox": [
+        4.75,
+        23.5,
+        721.75,
+        933.5
+      ],
+      "inkBounds": [
+        48.75,
+        67.5,
+        682.5,
+        913.0
+      ],
+      "transparentInlays": 45,
+      "blackInsetStones": 10,
+      "area": 235220.72463548067,
+      "valid": true,
+      "polygons": 11,
+      "sha256": "eee1bac4f2c1484cb620666052ad2e868844b56c0257294073a50aaf8f6d016d"
+    },
+    {
+      "letter": "Q",
+      "viewBox": [
+        -37.0,
+        23.0,
+        844.0,
+        1052.272493319352
+      ],
+      "inkBounds": [
+        7.0,
+        67.0,
+        763.0,
+        1031.272493319352
+      ],
+      "transparentInlays": 62,
+      "blackInsetStones": 16,
+      "area": 282164.8606448541,
+      "valid": true,
+      "polygons": 17,
+      "sha256": "725f2dc51ecc2078f2863a8df47407315f9274c9df5a6e0ed05c8b80b394f3ba"
+    },
+    {
+      "letter": "R",
+      "viewBox": [
+        4.75,
+        23.5,
+        779.0465984062588,
+        968.5026822107936
+      ],
+      "inkBounds": [
+        48.75,
+        67.5,
+        739.7965984062588,
+        948.0026822107936
+      ],
+      "transparentInlays": 54,
+      "blackInsetStones": 12,
+      "area": 277191.05125119066,
+      "valid": true,
+      "polygons": 13,
+      "sha256": "9b017ac4d66f75c5ff6831d9aadd1d21690c9445f1e44732cc1573c56952b75b"
+    },
+    {
+      "letter": "S",
+      "viewBox": [
+        -14.046964615265992,
+        24.5,
+        749.6461143498527,
+        956.0
+      ],
+      "inkBounds": [
+        29.953035384734008,
+        68.5,
+        691.5991497345867,
+        936.5
+      ],
+      "transparentInlays": 46,
+      "blackInsetStones": 11,
+      "area": 242432.99653996638,
+      "valid": true,
+      "polygons": 12,
+      "sha256": "342a236ba143b595dcda11568a73e90471dd3fcb9c83ca597ba1cb7c8ff02f8a"
+    },
+    {
+      "letter": "T",
+      "viewBox": [
+        8.0,
+        -5.25,
+        749.0,
+        962.25
+      ],
+      "inkBounds": [
+        52.0,
+        38.75,
+        713.0,
+        913.0
+      ],
+      "transparentInlays": 33,
+      "blackInsetStones": 8,
+      "area": 172542.31999999995,
+      "valid": true,
+      "polygons": 9,
+      "sha256": "b983ea24a4acd1ad05532c4b7232b12780b67640beece68d68e79c29a26c2a9e"
+    },
+    {
+      "letter": "U",
+      "viewBox": [
+        0.0,
+        48.0,
+        775.0,
+        935.0
+      ],
+      "inkBounds": [
+        44.0,
+        92.0,
+        731.0,
+        939.0
+      ],
+      "transparentInlays": 50,
+      "blackInsetStones": 12,
+      "area": 230591.49572979996,
+      "valid": true,
+      "polygons": 13,
+      "sha256": "eebfbb3ca7bdae8545c76ffc427a2e0ebeec2ac00df7a7f38dad5ccbbdda394e"
+    },
+    {
+      "letter": "V",
+      "viewBox": [
+        -37.98605101356768,
+        36.54293334489702,
+        855.9194876406236,
+        930.957066655103
+      ],
+      "inkBounds": [
+        6.013948986432319,
+        80.54293334489702,
+        773.9334366270559,
+        923.5
+      ],
+      "transparentInlays": 41,
+      "blackInsetStones": 9,
+      "area": 211293.0809888155,
+      "valid": true,
+      "polygons": 10,
+      "sha256": "d4d967ff2be3a750cbbdb85bd118660bc925c21dfc9bdff2f9b84652a078686b"
+    },
+    {
+      "letter": "W",
+      "viewBox": [
+        -30.57557756488486,
+        45.04690537622088,
+        1071.1511551297697,
+        913.9530946237792
+      ],
+      "inkBounds": [
+        13.42442243511514,
+        89.04690537622088,
+        996.5755775648848,
+        915.0
+      ],
+      "transparentInlays": 70,
+      "blackInsetStones": 16,
+      "area": 288916.81649988476,
+      "valid": true,
+      "polygons": 17,
+      "sha256": "cd0659a9f546f719bd704642410cfd75b274e4d770755004a0dd10565370972e"
+    },
+    {
+      "letter": "X",
+      "viewBox": [
+        -24.583506959393304,
+        8.089418783727119,
+        824.1670139187866,
+        988.8211624325459
+      ],
+      "inkBounds": [
+        19.416493040606696,
+        52.08941878372712,
+        755.5835069593933,
+        952.9105812162729
+      ],
+      "transparentInlays": 45,
+      "blackInsetStones": 10,
+      "area": 225814.50329634137,
+      "valid": true,
+      "polygons": 11,
+      "sha256": "32e8f8a3e543099ab9e4587080eb91ef8165d43d70321b0f98cb9d3c8dc064ac"
+    },
+    {
+      "letter": "Y",
+      "viewBox": [
+        -47.76482219559675,
+        9.414139784517197,
+        845.5296443911934,
+        947.5858602154829
+      ],
+      "inkBounds": [
+        -3.76482219559675,
+        53.4141397845172,
+        753.7648221955967,
+        913.0
+      ],
+      "transparentInlays": 30,
+      "blackInsetStones": 7,
+      "area": 171041.64991669805,
+      "valid": true,
+      "polygons": 8,
+      "sha256": "233279a37e9865e034c298e758da25aa4fd1312d5b5a2317de21beef6a0ffab3"
+    },
+    {
+      "letter": "Z",
+      "viewBox": [
+        -43.542085280478844,
+        -12.0,
+        837.0841705609578,
+        1029.0
+      ],
+      "inkBounds": [
+        0.45791471952115825,
+        32.0,
+        749.5420852804789,
+        973.0
+      ],
+      "transparentInlays": 52,
+      "blackInsetStones": 13,
+      "area": 245314.61994056188,
+      "valid": true,
+      "polygons": 14,
+      "sha256": "cecdcf03ed1f455acca4c02076597874078f51bb7f30d6dce7a5c20795305d97"
+    }
+  ]
+}

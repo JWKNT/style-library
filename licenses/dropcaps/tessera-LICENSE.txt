@@ -1,0 +1,7 @@
+Tessera original alphabet illustrations and generator
+
+To the extent possible under law, the creators have waived all copyright and related or neighboring rights to these original Tessera illustrations and their generator under CC0 1.0 Universal.
+
+https://creativecommons.org/publicdomain/zero/1.0/
+
+No third-party font or historical illustration outlines are contained in these SVGs. Shapely, CairoSVG, and Pillow are separately licensed build dependencies and are not part of the illustration deliverable. Historical reference renderings in references/ are local review materials only and must not be distributed as part of the Tessera asset package.

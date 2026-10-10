@@ -1,0 +1,309 @@
+[
+  {
+    "id": "thornwood",
+    "name": "Thornwood",
+    "count": 26,
+    "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "format": "SVG",
+    "source_group": "medieval",
+    "description": "Floriated woodcut letters with sharp medieval silhouettes and original lobed thorn leaves, cut veins, rosettes, branch spirals and double keylines.",
+    "design_changes": [
+      "Extracted only the interior historic letter body from each Morris initial; removed every original outer foliage and frame component.",
+      "Renormalized body proportions and redrew the ornamental composition from new path data.",
+      "Added original cut-vein lobed thorn foliage, per-letter seeded leaf positions, branch spirals, two rosettes and outer letter keylines.",
+      "Added sparse new engraved cuts to the thick letter strokes; preserved E’s separately encoded crossbar."
+    ],
+    "artwork_license": "LPPL-1.3c-or-later",
+    "design_metadata": "sources/dropcaps/medieval/metadata.json",
+    "license_files": [
+      "licenses/dropcaps/NOTICE.txt",
+      "sources/dropcaps/medieval/LICENSE.txt",
+      "sources/dropcaps/medieval/sources/LPPL.txt",
+      "sources/dropcaps/medieval/sources/CTAN-initials-README.txt",
+      "sources/dropcaps/medieval/sources/NOTICE.md"
+    ],
+    "download_files": [
+      "assets/Dropcaps/thornwood/README.txt",
+      "assets/Dropcaps/thornwood/metadata.json",
+      "licenses/dropcaps/NOTICE.txt",
+      "sources/dropcaps/medieval/LICENSE.txt",
+      "sources/dropcaps/medieval/sources/LPPL.txt",
+      "sources/dropcaps/medieval/sources/CTAN-initials-README.txt",
+      "sources/dropcaps/medieval/sources/NOTICE.md"
+    ]
+  },
+  {
+    "id": "scriptorium",
+    "name": "Scriptorium",
+    "count": 26,
+    "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "format": "SVG",
+    "source_group": "medieval",
+    "description": "Illuminated penwork versals with historic blackletter anatomy, newly incised stem scrolls and extensive open curling pen sprays.",
+    "design_changes": [
+      "Reconstructed the Royal historic silhouettes with a closing operation and selective counter preservation, removing and merging fine source ornament.",
+      "Added new engraved S-scroll cuts throughout available stem interiors.",
+      "Recomposed open spaces with eight original calligraphic branching sprays, lobed leaf terminals and ink beads.",
+      "Replaced the original visual composition with a wider freely branching penwork silhouette."
+    ],
+    "artwork_license": "LPPL-1.3c-or-later",
+    "design_metadata": "sources/dropcaps/medieval/metadata.json",
+    "license_files": [
+      "licenses/dropcaps/NOTICE.txt",
+      "sources/dropcaps/medieval/LICENSE.txt",
+      "sources/dropcaps/medieval/sources/LPPL.txt",
+      "sources/dropcaps/medieval/sources/CTAN-initials-README.txt",
+      "sources/dropcaps/medieval/sources/NOTICE.md"
+    ],
+    "download_files": [
+      "assets/Dropcaps/scriptorium/README.txt",
+      "assets/Dropcaps/scriptorium/metadata.json",
+      "licenses/dropcaps/NOTICE.txt",
+      "sources/dropcaps/medieval/LICENSE.txt",
+      "sources/dropcaps/medieval/sources/LPPL.txt",
+      "sources/dropcaps/medieval/sources/CTAN-initials-README.txt",
+      "sources/dropcaps/medieval/sources/NOTICE.md"
+    ]
+  },
+  {
+    "id": "ribbon",
+    "name": "Ribbon",
+    "count": 26,
+    "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "format": "SVG",
+    "source_group": "medieval",
+    "description": "Insular letters rebuilt as channeled bands and threaded with original alternating over-and-under interlace strands.",
+    "design_changes": [
+      "Isolated Carrick’s weighty insular letter construction with a morphological opening; removed most original thin interlace and outline details.",
+      "Discarded tiny remnant components and rebuilt body edges with a light closing operation.",
+      "Cut new inset channels following the complete letter contours and counters.",
+      "Drew three new continuous ornamental strands and two foreground crossing segments; erased the understrands at the crossings to make genuine interlace.",
+      "Preserved historical letter identity and roof/foot construction while materially replacing the ornament; independently redrew I and T for distinct anatomy, strengthened E’s exposed middle arm, and extended Q’s tail."
+    ],
+    "artwork_license": "LPPL-1.3c-or-later",
+    "design_metadata": "sources/dropcaps/medieval/metadata.json",
+    "license_files": [
+      "licenses/dropcaps/NOTICE.txt",
+      "sources/dropcaps/medieval/LICENSE.txt",
+      "sources/dropcaps/medieval/sources/LPPL.txt",
+      "sources/dropcaps/medieval/sources/CTAN-initials-README.txt",
+      "sources/dropcaps/medieval/sources/NOTICE.md"
+    ],
+    "download_files": [
+      "assets/Dropcaps/ribbon/README.txt",
+      "assets/Dropcaps/ribbon/metadata.json",
+      "licenses/dropcaps/NOTICE.txt",
+      "sources/dropcaps/medieval/LICENSE.txt",
+      "sources/dropcaps/medieval/sources/LPPL.txt",
+      "sources/dropcaps/medieval/sources/CTAN-initials-README.txt",
+      "sources/dropcaps/medieval/sources/NOTICE.md"
+    ]
+  },
+  {
+    "id": "iris",
+    "name": "Iris",
+    "count": 26,
+    "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "format": "SVG",
+    "source_group": "botanical",
+    "description": "Hand-drawn plant-stem capitals, iris flowers, elongated leaves, and whiplash tendrils.",
+    "design_changes": [
+      "26 original hand-drawn curved letter skeletons expanded into contrasting tapered ribbons.",
+      "Per-letter rooted leaf terminals, iris-petal drawings, and whiplash vine arrangement.",
+      "Actual transparent engraving and clear letter/ornament interlace."
+    ],
+    "artwork_license": "CC0-1.0 for new artwork; applicable source notices retained",
+    "design_metadata": "sources/dropcaps/botanical/metadata.json",
+    "license_files": [
+      "licenses/dropcaps/NOTICE.txt",
+      "licenses/dropcaps/CC0-1.0.txt"
+    ],
+    "download_files": [
+      "assets/Dropcaps/iris/README.txt",
+      "assets/Dropcaps/iris/metadata.json",
+      "licenses/dropcaps/NOTICE.txt",
+      "licenses/dropcaps/CC0-1.0.txt"
+    ]
+  },
+  {
+    "id": "laurel",
+    "name": "Laurel",
+    "count": 26,
+    "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "format": "SVG",
+    "source_group": "botanical",
+    "description": "Bowed high-contrast Roman outlines with engraved hatching, rooted laurel sprays, blossom clusters, and berries.",
+    "design_changes": [
+      "Illustration-specific bowed contour geometry and asymmetric organic contour fitting in every capital.",
+      "Entirely new rooted laurel leaf/flower/berry compositions per letter, including counter ornament.",
+      "Engraved letter interior hatch, outlined face, and transparent separation from plants."
+    ],
+    "artwork_license": "CC0-1.0 for new artwork; applicable source notices retained",
+    "design_metadata": "sources/dropcaps/botanical/metadata.json",
+    "license_files": [
+      "licenses/dropcaps/NOTICE.txt",
+      "licenses/dropcaps/CC0-1.0.txt",
+      "sources/dropcaps/botanical/sources/OFL-1.1.txt",
+      "sources/dropcaps/botanical/sources/Noto-Debian-copyright.txt"
+    ],
+    "download_files": [
+      "assets/Dropcaps/laurel/README.txt",
+      "assets/Dropcaps/laurel/metadata.json",
+      "licenses/dropcaps/NOTICE.txt",
+      "licenses/dropcaps/CC0-1.0.txt",
+      "sources/dropcaps/botanical/sources/OFL-1.1.txt",
+      "sources/dropcaps/botanical/sources/Noto-Debian-copyright.txt"
+    ]
+  },
+  {
+    "id": "briar",
+    "name": "Briar",
+    "count": 26,
+    "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "format": "SVG",
+    "source_group": "botanical",
+    "description": "Broad light capitals cut transparently through a dense Arts-and-Crafts canopy of dog roses, leaves, and intertwined thorn stems.",
+    "design_changes": [
+      "Illustration-specific broad fitting, bowed stems, and curved waist treatment in every capital.",
+      "Entirely new dense dog-rose canopy, original lobed flower geometry and lanceolate leaves.",
+      "Capital is negative-space cut through artwork, with open transparent leaf veins and no white paint."
+    ],
+    "artwork_license": "CC0-1.0 for new artwork; applicable source notices retained",
+    "design_metadata": "sources/dropcaps/botanical/metadata.json",
+    "license_files": [
+      "licenses/dropcaps/NOTICE.txt",
+      "licenses/dropcaps/CC0-1.0.txt",
+      "sources/dropcaps/botanical/sources/DejaVu-copyright.txt"
+    ],
+    "download_files": [
+      "assets/Dropcaps/briar/README.txt",
+      "assets/Dropcaps/briar/metadata.json",
+      "licenses/dropcaps/NOTICE.txt",
+      "licenses/dropcaps/CC0-1.0.txt",
+      "sources/dropcaps/botanical/sources/DejaVu-copyright.txt"
+    ]
+  },
+  {
+    "id": "nocturne",
+    "name": "Nocturne",
+    "count": 26,
+    "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "format": "SVG",
+    "source_group": "display",
+    "description": "Blackletter capitals with pressure-written flourishes, quill-cut highlights, and fitted counter arabesques.",
+    "design_changes": [
+      "Individually fitted cap proportions; broad capitals retain a full optical cap height.",
+      "New quill-cut interior contours preserve the blackletter silhouettes and counters.",
+      "Original pressure-shaped pennants, linked scrolls, spirals and leaf-like pen terminals attach to the individual letter outlines.",
+      "Counter arabesques are fitted only where clear interior room exists.",
+      "Different terminal groups fit curved, diagonal and upright capitals; Q has a substantial new diagonal descending swash and J has an enlarged hooked terminal."
+    ],
+    "artwork_license": "CC0-1.0 for new artwork; applicable source notices retained",
+    "design_metadata": "sources/dropcaps/display/metadata.json",
+    "license_files": [
+      "licenses/dropcaps/NOTICE.txt",
+      "licenses/dropcaps/CC0-1.0.txt",
+      "sources/dropcaps/display/NOTICE.txt",
+      "sources/dropcaps/display/sources/OFL-1.1.txt",
+      "sources/dropcaps/display/sources/Euler-COPYRIGHT.txt"
+    ],
+    "download_files": [
+      "assets/Dropcaps/nocturne/README.txt",
+      "assets/Dropcaps/nocturne/metadata.json",
+      "licenses/dropcaps/NOTICE.txt",
+      "licenses/dropcaps/CC0-1.0.txt",
+      "sources/dropcaps/display/NOTICE.txt",
+      "sources/dropcaps/display/sources/OFL-1.1.txt",
+      "sources/dropcaps/display/sources/Euler-COPYRIGHT.txt"
+    ]
+  },
+  {
+    "id": "cameo",
+    "name": "Cameo",
+    "count": 26,
+    "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "format": "SVG",
+    "source_group": "display",
+    "description": "Relief-engraved Roman capitals with inset glints, diagonal graver shading, and fitted laurel or acanthus terminals.",
+    "design_changes": [
+      "Reconstructed capital proportions retain the full cap height for M and W.",
+      "A new offset extruded side plane is separated from the letter face by transparent air.",
+      "Inset left-edge glints and diagonal graver channels are Boolean cuts, with no opaque white paint.",
+      "Original engraved laurel sprays, split-leaf acanthus volutes, intertwined ribbons and small intaglio seals fit four structural letter groups."
+    ],
+    "artwork_license": "CC0-1.0 for new artwork; applicable source notices retained",
+    "design_metadata": "sources/dropcaps/display/metadata.json",
+    "license_files": [
+      "licenses/dropcaps/NOTICE.txt",
+      "licenses/dropcaps/CC0-1.0.txt",
+      "sources/dropcaps/display/NOTICE.txt",
+      "sources/dropcaps/display/sources/OFL-1.1.txt",
+      "sources/dropcaps/display/sources/NotoSerifDisplay-COPYRIGHT.txt"
+    ],
+    "download_files": [
+      "assets/Dropcaps/cameo/README.txt",
+      "assets/Dropcaps/cameo/metadata.json",
+      "licenses/dropcaps/NOTICE.txt",
+      "licenses/dropcaps/CC0-1.0.txt",
+      "sources/dropcaps/display/NOTICE.txt",
+      "sources/dropcaps/display/sources/OFL-1.1.txt",
+      "sources/dropcaps/display/sources/NotoSerifDisplay-COPYRIGHT.txt"
+    ]
+  },
+  {
+    "id": "obelisk",
+    "name": "Obelisk",
+    "count": 26,
+    "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "format": "SVG",
+    "source_group": "display",
+    "description": "Original Art Deco capitals with chamfered bowls, low crossbars, fluted stems, and stepped terminal collars.",
+    "design_changes": [
+      "All 26 semantic skeletons are independently authored as coordinates.",
+      "Low A and H bars, a high-waisted K, chamfered B/D/O/P/R bowls, and a diagonal Q tail define the architecture.",
+      "Parallel transparent cuts run through the letter strokes themselves to create three fluted rails.",
+      "Stepped collars attach only to actual open terminals; narrow sunburst and needle ornaments do not form a box."
+    ],
+    "artwork_license": "CC0-1.0 for new artwork; applicable source notices retained",
+    "design_metadata": "sources/dropcaps/display/metadata.json",
+    "license_files": [
+      "licenses/dropcaps/NOTICE.txt",
+      "licenses/dropcaps/CC0-1.0.txt"
+    ],
+    "download_files": [
+      "assets/Dropcaps/obelisk/README.txt",
+      "assets/Dropcaps/obelisk/metadata.json",
+      "licenses/dropcaps/NOTICE.txt",
+      "licenses/dropcaps/CC0-1.0.txt"
+    ]
+  },
+  {
+    "id": "tessera",
+    "name": "Tessera",
+    "count": 26,
+    "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "format": "SVG",
+    "source_group": "mosaic",
+    "description": "Original faceted capitals with broad black strokes, forked spear terminals, and transparent geometric inlays. Nested lozenges, chevrons, and angular fragments suggest cut tesserae arranged along each stroke.",
+    "design_changes": [
+      "Drew a complete original A–Z structure as polygonal stroke centerlines with letter-specific proportions.",
+      "Used asymmetrical, faceted bowl construction and flat-topped pointed forms.",
+      "Added integral split spear terminals to the silhouette, rather than a frame around unchanged lettering.",
+      "Subtracted lozenge, chevron, triangular, and diagonal-joint motifs from the ink geometry; preserved nested black inset stones.",
+      "Cut real transparent inlays and counters with Boolean geometry and even-odd SVG paths.",
+      "Added 44-unit safety margins around the full ink bounds for every letter, including Q's descending terminal."
+    ],
+    "artwork_license": "CC0-1.0 for new artwork; applicable source notices retained",
+    "design_metadata": "sources/dropcaps/mosaic/metadata.json",
+    "license_files": [
+      "licenses/dropcaps/NOTICE.txt",
+      "licenses/dropcaps/CC0-1.0.txt"
+    ],
+    "download_files": [
+      "assets/Dropcaps/tessera/README.txt",
+      "assets/Dropcaps/tessera/metadata.json",
+      "licenses/dropcaps/NOTICE.txt",
+      "licenses/dropcaps/CC0-1.0.txt"
+    ]
+  }
+]

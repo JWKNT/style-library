@@ -1,0 +1,14 @@
+{
+  "result": "pass",
+  "changed": [],
+  "asset_files_checked": 78,
+  "metadata_checked": true,
+  "license_checked": true,
+  "tested_dependencies": {
+    "fonttools": "4.61.1",
+    "shapely": "2.2.0",
+    "CairoSVG": "2.9.1",
+    "Pillow": "12.3.0",
+    "numpy": "2.5.3"
+  }
+}

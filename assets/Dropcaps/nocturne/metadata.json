@@ -1,0 +1,34 @@
+{
+  "id": "nocturne",
+  "name": "Nocturne",
+  "count": 26,
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "format": "SVG",
+  "source_group": "display",
+  "description": "Blackletter capitals with pressure-written flourishes, quill-cut highlights, and fitted counter arabesques.",
+  "design_changes": [
+    "Individually fitted cap proportions; broad capitals retain a full optical cap height.",
+    "New quill-cut interior contours preserve the blackletter silhouettes and counters.",
+    "Original pressure-shaped pennants, linked scrolls, spirals and leaf-like pen terminals attach to the individual letter outlines.",
+    "Counter arabesques are fitted only where clear interior room exists.",
+    "Different terminal groups fit curved, diagonal and upright capitals; Q has a substantial new diagonal descending swash and J has an enlarged hooked terminal."
+  ],
+  "artwork_license": "CC0-1.0 for new artwork; applicable source notices retained",
+  "design_metadata": "sources/dropcaps/display/metadata.json",
+  "license_files": [
+    "licenses/dropcaps/NOTICE.txt",
+    "licenses/dropcaps/CC0-1.0.txt",
+    "sources/dropcaps/display/NOTICE.txt",
+    "sources/dropcaps/display/sources/OFL-1.1.txt",
+    "sources/dropcaps/display/sources/Euler-COPYRIGHT.txt"
+  ],
+  "download_files": [
+    "assets/Dropcaps/nocturne/README.txt",
+    "assets/Dropcaps/nocturne/metadata.json",
+    "licenses/dropcaps/NOTICE.txt",
+    "licenses/dropcaps/CC0-1.0.txt",
+    "sources/dropcaps/display/NOTICE.txt",
+    "sources/dropcaps/display/sources/OFL-1.1.txt",
+    "sources/dropcaps/display/sources/Euler-COPYRIGHT.txt"
+  ]
+}

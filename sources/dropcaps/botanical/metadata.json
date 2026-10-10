@@ -1,0 +1,485 @@
+{
+  "title": "JWKNT botanical decorative initial alphabets",
+  "created": "2026-10-09",
+  "reference_inspection": [
+    "Readers Urth / Art Nouveau Initialen: rendered A B M Q",
+    "Readers Green / Acorn Initials: rendered A B M Q",
+    "Readers Nightside / Eileen Caps: rendered A B M Q",
+    "Readers Lake / Elzevier Caps: rendered A B M Q"
+  ],
+  "reference_reuse": "No paths from the CTAN reference illustrations are copied. References were used for visual comparison of ornament density, interlace, and letter legibility.",
+  "runtime": "No text elements, embedded fonts, external resources, raster assets, paint masks, or white paint. Visible ink uses currentColor; negative space is true compound-path geometry.",
+  "styles": [
+    {
+      "slug": "iris",
+      "name": "Iris",
+      "description": "Hand-drawn plant-stem capitals, iris flowers, elongated leaves, and whiplash tendrils.",
+      "format": "standalone SVG illustration paths, 128\u00d7128 viewBox",
+      "letters": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "count": 26,
+      "source": "Original drawn capital centerlines and ornament; no font basis.",
+      "license": "CC0-1.0 for original SVG artwork and generator",
+      "design_changes": [
+        "26 original hand-drawn curved letter skeletons expanded into contrasting tapered ribbons.",
+        "Per-letter rooted leaf terminals, iris-petal drawings, and whiplash vine arrangement.",
+        "Actual transparent engraving and clear letter/ornament interlace."
+      ],
+      "files": [
+        {
+          "letter": "A",
+          "path": "assets/iris/A.svg",
+          "sha256": "fc7433854329e142992b3bc528c309264b8b4ecd2408ab69ccfffc32bd4cdb86"
+        },
+        {
+          "letter": "B",
+          "path": "assets/iris/B.svg",
+          "sha256": "338da61ed745a69ccd2d0310aa6b37b6c378dc7990fdecbe9601aaa14a8a57af"
+        },
+        {
+          "letter": "C",
+          "path": "assets/iris/C.svg",
+          "sha256": "e5d818e531487228191cd4ad32fa6796691fc7a7f67ff544058c12ca6c4b4b94"
+        },
+        {
+          "letter": "D",
+          "path": "assets/iris/D.svg",
+          "sha256": "0d48e6f047d05e917c4ca89986b68bcaac606602dcb15330f201abf8fc329f11"
+        },
+        {
+          "letter": "E",
+          "path": "assets/iris/E.svg",
+          "sha256": "f73e6c3599184ba551da8def89ea2ae5bc41cc111458b98760f0f5ea1b50456b"
+        },
+        {
+          "letter": "F",
+          "path": "assets/iris/F.svg",
+          "sha256": "c5a8c5f3f37f034e925b7cc5b944d46f8f61f9e6ff6a9768468f9d6996e47791"
+        },
+        {
+          "letter": "G",
+          "path": "assets/iris/G.svg",
+          "sha256": "2b39f04d4fc6b2cae583133e392a59ecf570540239114344739d3d04cda989e7"
+        },
+        {
+          "letter": "H",
+          "path": "assets/iris/H.svg",
+          "sha256": "21595e5b19fad2a90e52af40e5248571afeebaa9de14345eb96b8facc7d87ccb"
+        },
+        {
+          "letter": "I",
+          "path": "assets/iris/I.svg",
+          "sha256": "6bc209e2c550bd53034f95ed61e18769c32ed720f882c0f7eca7a42b7c9a1645"
+        },
+        {
+          "letter": "J",
+          "path": "assets/iris/J.svg",
+          "sha256": "8156471badff71b634723c4c373623ea523dd18bb6683cc678d71f3f2ae0e882"
+        },
+        {
+          "letter": "K",
+          "path": "assets/iris/K.svg",
+          "sha256": "78c8b15a8d5f977c25d06452c5114ded74ecb105991f0d0ff4480b04e70120cb"
+        },
+        {
+          "letter": "L",
+          "path": "assets/iris/L.svg",
+          "sha256": "b91954963427bf0351aef6d8ba3e973fe69875fd01b11d758cded9cfb92fefcf"
+        },
+        {
+          "letter": "M",
+          "path": "assets/iris/M.svg",
+          "sha256": "61b21eaed9d8a46c922aabacf3a4c5850be5dc6775aec083897bb401f59ee7ad"
+        },
+        {
+          "letter": "N",
+          "path": "assets/iris/N.svg",
+          "sha256": "fb5c8981c3711a3620d81ba654c9ca74934f8ad51132b561943a92a528c212a4"
+        },
+        {
+          "letter": "O",
+          "path": "assets/iris/O.svg",
+          "sha256": "8951e354e484a416f8e2a25486d8b7f0c62a4f44a963c74653e631d3d1b0591a"
+        },
+        {
+          "letter": "P",
+          "path": "assets/iris/P.svg",
+          "sha256": "c510cf60834dff2f827da968f184cfa5aa77b565f29ad5892a745152743948c2"
+        },
+        {
+          "letter": "Q",
+          "path": "assets/iris/Q.svg",
+          "sha256": "6f6b922851fdf9892d60c5ecbc65ad15dfd8975cc0f00862c84d3a3c2de8cf79"
+        },
+        {
+          "letter": "R",
+          "path": "assets/iris/R.svg",
+          "sha256": "02ce65dd61f5b3c97ee864c8b267146401af8422c963bc3eb0120d52b1dc25a4"
+        },
+        {
+          "letter": "S",
+          "path": "assets/iris/S.svg",
+          "sha256": "972687498f9a1ac7c8974cf206323e408b2deb57cc52fe38fd71b15fe750bad4"
+        },
+        {
+          "letter": "T",
+          "path": "assets/iris/T.svg",
+          "sha256": "d55647653237ecb1cc557ea5b11231cfca75164112fff41325e611ddf3cedc6f"
+        },
+        {
+          "letter": "U",
+          "path": "assets/iris/U.svg",
+          "sha256": "ff872432209f26d785a20c71c44b26fd376cc7b15713ac8d83b16dd8fd3cdc8f"
+        },
+        {
+          "letter": "V",
+          "path": "assets/iris/V.svg",
+          "sha256": "7e1467257db549d2f24b0aeb3e3d8e83ee9fb9c0600f53baba33b0f3b18c98ec"
+        },
+        {
+          "letter": "W",
+          "path": "assets/iris/W.svg",
+          "sha256": "55d98b6cbdc45ea64b26cff91eddef5953e10dad30b155b7d966e0baeba59773"
+        },
+        {
+          "letter": "X",
+          "path": "assets/iris/X.svg",
+          "sha256": "70f92844237fd16917f82d1e88066cd3d2d6d162af4fbb94faca59f57379e921"
+        },
+        {
+          "letter": "Y",
+          "path": "assets/iris/Y.svg",
+          "sha256": "a48e749c9d7cc13ec01983bc993ecf83bb161e06141d3e898de08654667720df"
+        },
+        {
+          "letter": "Z",
+          "path": "assets/iris/Z.svg",
+          "sha256": "4093aae493fb8a7cd5d801c904247d4e3b171dab2ddf899eed1f3d72da6139b3"
+        }
+      ]
+    },
+    {
+      "slug": "laurel",
+      "name": "Laurel",
+      "description": "Bowed high-contrast Roman outlines with engraved hatching, rooted laurel sprays, blossom clusters, and berries.",
+      "format": "standalone SVG illustration paths, 128\u00d7128 viewBox",
+      "letters": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "count": 26,
+      "source": "Noto Serif Display Regular capital outlines; Copyright 2016 Google Inc. All Rights Reserved.; version 2.003; Monotype Design Team. New contour fitting and original botanical illustration.",
+      "license": "SIL Open Font License 1.1 for source outlines; CC0-1.0 for original ornament and generator",
+      "design_changes": [
+        "Illustration-specific bowed contour geometry and asymmetric organic contour fitting in every capital.",
+        "Entirely new rooted laurel leaf/flower/berry compositions per letter, including counter ornament.",
+        "Engraved letter interior hatch, outlined face, and transparent separation from plants."
+      ],
+      "files": [
+        {
+          "letter": "A",
+          "path": "assets/laurel/A.svg",
+          "sha256": "f5d5a3639e9b66fed5061026129d0b6e4ad00f07ecdcae5575be2d457c87bed0"
+        },
+        {
+          "letter": "B",
+          "path": "assets/laurel/B.svg",
+          "sha256": "00041bc37cecb21c2193f6bf321ee7ee69404c4919cb74553fe37c9e124e6b68"
+        },
+        {
+          "letter": "C",
+          "path": "assets/laurel/C.svg",
+          "sha256": "098d191eafec4a6b3d333f17d2ccd631065adfe527b9b5fb50e35055c41c71c3"
+        },
+        {
+          "letter": "D",
+          "path": "assets/laurel/D.svg",
+          "sha256": "22187c7c154d6233cafe42a68da89ba613f2a89c135580302a7d9f1874c1116c"
+        },
+        {
+          "letter": "E",
+          "path": "assets/laurel/E.svg",
+          "sha256": "4f609c5a5822a08d427e66a493d516f92734b11c7091a14919caddcbfe4912f2"
+        },
+        {
+          "letter": "F",
+          "path": "assets/laurel/F.svg",
+          "sha256": "71e3dbf1697afacfdb8ae2c347b2742cca6243b1e1aff8ba5e037c583b861879"
+        },
+        {
+          "letter": "G",
+          "path": "assets/laurel/G.svg",
+          "sha256": "2d76c650d98ed04f77b5788e5ce162aefbb84d3e5b1eb345f01ef4a8f05531f6"
+        },
+        {
+          "letter": "H",
+          "path": "assets/laurel/H.svg",
+          "sha256": "7100ac036edf44ecb591ad613c7659aae0753896826fe539e288cd8233566f8b"
+        },
+        {
+          "letter": "I",
+          "path": "assets/laurel/I.svg",
+          "sha256": "6751490f35f234f765ade3a64ef116ec7eb185f89bdc40f32f5fdd816f95f47a"
+        },
+        {
+          "letter": "J",
+          "path": "assets/laurel/J.svg",
+          "sha256": "b34a6918763e6d1e1eca70357f2235a1c51cc7f98717d8ab8d20f6ad4ff09ae9"
+        },
+        {
+          "letter": "K",
+          "path": "assets/laurel/K.svg",
+          "sha256": "e345544b2fd2d6c4a41f85efcd8634cb5dac7d15ed62a715ed9856b65cc39d28"
+        },
+        {
+          "letter": "L",
+          "path": "assets/laurel/L.svg",
+          "sha256": "8cba58e8afba749be162ee5d23ea9f8238d5e6d78635fdf3bdedd945a786531a"
+        },
+        {
+          "letter": "M",
+          "path": "assets/laurel/M.svg",
+          "sha256": "08e34862d3faa8038cef2bb2863c9dca105b8105f0d729344a98dbebd02360b3"
+        },
+        {
+          "letter": "N",
+          "path": "assets/laurel/N.svg",
+          "sha256": "2d873cda5457bc693960cc57d66ab4a51d21622f4f16dffe1630db59663261b7"
+        },
+        {
+          "letter": "O",
+          "path": "assets/laurel/O.svg",
+          "sha256": "1ae0065a98074e0fef2218ef3678d6b08a1a36f1bf9b977a69971e1db7408d1d"
+        },
+        {
+          "letter": "P",
+          "path": "assets/laurel/P.svg",
+          "sha256": "2c0fef0c8ad29f04491263661b3662ec84ed800af121de6b10198c136f527006"
+        },
+        {
+          "letter": "Q",
+          "path": "assets/laurel/Q.svg",
+          "sha256": "25b052ef39bd270de187d75d4e660582c410e47855898ed5d1a4077fedbe2da0"
+        },
+        {
+          "letter": "R",
+          "path": "assets/laurel/R.svg",
+          "sha256": "63a7e3a8733338a49a5aa3ffd7062efa343aed54412de44f2aec861086afc356"
+        },
+        {
+          "letter": "S",
+          "path": "assets/laurel/S.svg",
+          "sha256": "6bd18c9551e798074cc5b4d6b6af9c4d123d2b6fe11ef30d35ee516050401846"
+        },
+        {
+          "letter": "T",
+          "path": "assets/laurel/T.svg",
+          "sha256": "2c750592511f1d2343cecc281b708b59648e39fd0f16eb1c3e0d1116724872ec"
+        },
+        {
+          "letter": "U",
+          "path": "assets/laurel/U.svg",
+          "sha256": "4722c54b6ad4e25f3ade086f105e97cd9bb778563b6855db9026bbdcf00e2a66"
+        },
+        {
+          "letter": "V",
+          "path": "assets/laurel/V.svg",
+          "sha256": "39e26438212b0237bc20e884b9c072b39498a09aa86a0a3ca52104aaa7e2d482"
+        },
+        {
+          "letter": "W",
+          "path": "assets/laurel/W.svg",
+          "sha256": "ee1643cd5de51a90fa75442eb922f831db029d14c7eef60ad7615559f2cfdd0a"
+        },
+        {
+          "letter": "X",
+          "path": "assets/laurel/X.svg",
+          "sha256": "0747174a21d706309e56a8b94fbb9600622f0c7c85cac2556454e409442c0ca5"
+        },
+        {
+          "letter": "Y",
+          "path": "assets/laurel/Y.svg",
+          "sha256": "ae15a5f484b121515a09bca5c696c8412243e56e5a5af26fbee64bd63e28a26f"
+        },
+        {
+          "letter": "Z",
+          "path": "assets/laurel/Z.svg",
+          "sha256": "cbba10f18502f0b6a47237a59b92611f20803c2d08ce074f42dc4a5e046ed52c"
+        }
+      ]
+    },
+    {
+      "slug": "briar",
+      "name": "Briar",
+      "description": "Broad light capitals cut transparently through a dense Arts-and-Crafts canopy of dog roses, leaves, and intertwined thorn stems.",
+      "format": "standalone SVG illustration paths, 128\u00d7128 viewBox",
+      "letters": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "count": 26,
+      "source": "DejaVu Serif capital outlines; Bitstream Vera and DejaVu contributors. New contour fitting and original botanical illustration.",
+      "license": "Bitstream Vera / DejaVu license for source outlines; CC0-1.0 for original ornament and generator",
+      "design_changes": [
+        "Illustration-specific broad fitting, bowed stems, and curved waist treatment in every capital.",
+        "Entirely new dense dog-rose canopy, original lobed flower geometry and lanceolate leaves.",
+        "Capital is negative-space cut through artwork, with open transparent leaf veins and no white paint."
+      ],
+      "files": [
+        {
+          "letter": "A",
+          "path": "assets/briar/A.svg",
+          "sha256": "21e9ab839fc1e6b45de140b167d34a7a101aa1f2a33ea8cb4dec186b971b0880"
+        },
+        {
+          "letter": "B",
+          "path": "assets/briar/B.svg",
+          "sha256": "88c0452282033151bf0baebea84a9323b39652591f53c014b0a31b1959da2c6e"
+        },
+        {
+          "letter": "C",
+          "path": "assets/briar/C.svg",
+          "sha256": "61f31c15a9fa0c67ecf5d062ec4eb6287fa21eec3eba6c2901142244fc6b0b3e"
+        },
+        {
+          "letter": "D",
+          "path": "assets/briar/D.svg",
+          "sha256": "46950637bf1003a2a83d39ef95cd9f0dd6f79b9af184290689f3f20165943df2"
+        },
+        {
+          "letter": "E",
+          "path": "assets/briar/E.svg",
+          "sha256": "2998b3ac1ed1bcb8b26e73db9f27d829b811c2c35adc35ff06c39b672132e540"
+        },
+        {
+          "letter": "F",
+          "path": "assets/briar/F.svg",
+          "sha256": "ab2844e21c132029bce6c0f002540a99fa336acb2e186400cb0d28121bff9ff0"
+        },
+        {
+          "letter": "G",
+          "path": "assets/briar/G.svg",
+          "sha256": "f7650b15be5cc6f9887525dd07e500b114fc50e117478ddf921e6e9a9efb149e"
+        },
+        {
+          "letter": "H",
+          "path": "assets/briar/H.svg",
+          "sha256": "3e88967c9091bbc0a3eddfc433510cb97012611268a259d4321c6542a537d2a9"
+        },
+        {
+          "letter": "I",
+          "path": "assets/briar/I.svg",
+          "sha256": "375caca74ec7d64094254676697be58c95b7a40b371b21cb257458ce187977fc"
+        },
+        {
+          "letter": "J",
+          "path": "assets/briar/J.svg",
+          "sha256": "b48c55dba64fa3643e3ebb1d226ab11532c2e3d23c99dd2ea51ebcf9a026716b"
+        },
+        {
+          "letter": "K",
+          "path": "assets/briar/K.svg",
+          "sha256": "845bc67ef07eb213eb456f41c41c370a4dcd6a3792a86c477cbfb0d10adc3516"
+        },
+        {
+          "letter": "L",
+          "path": "assets/briar/L.svg",
+          "sha256": "584457d8df5216d2d90bea0895e6075a271d5d638a6b8b7887962cf53808c316"
+        },
+        {
+          "letter": "M",
+          "path": "assets/briar/M.svg",
+          "sha256": "9a50b06df6be738aefd6fd8ab4f4aab1d0b5233ddb2da770c8ccc38c92b8883f"
+        },
+        {
+          "letter": "N",
+          "path": "assets/briar/N.svg",
+          "sha256": "606c22b9bb0dd182da8579c6d876d3212a24ca4cccbfcc497d76af71089e674d"
+        },
+        {
+          "letter": "O",
+          "path": "assets/briar/O.svg",
+          "sha256": "24b9faa53ee1871f4a6c40eed33775c07618b6f1b7b80677b0611abff2149653"
+        },
+        {
+          "letter": "P",
+          "path": "assets/briar/P.svg",
+          "sha256": "f3dea5fb935e42060662c60326833a2b8dc7aa62ade24bf6c4cf9a9f7a96ac15"
+        },
+        {
+          "letter": "Q",
+          "path": "assets/briar/Q.svg",
+          "sha256": "17a42124d897a95fc3afd49d0cc159418f006ed238bdb9a32b1cc886b522effd"
+        },
+        {
+          "letter": "R",
+          "path": "assets/briar/R.svg",
+          "sha256": "43351bbc1f56e3fe5fe65f715d4557214ca2da2388ad3deb67af2df365700d2a"
+        },
+        {
+          "letter": "S",
+          "path": "assets/briar/S.svg",
+          "sha256": "3d1ad8442667dc5b284f1a9e20679bd93b0f22f7029e5cd76e86654ab4d676c7"
+        },
+        {
+          "letter": "T",
+          "path": "assets/briar/T.svg",
+          "sha256": "77d43535618bef6a1463055f1fc57f294bff48c0e6916e319bfc22bb7d6915bf"
+        },
+        {
+          "letter": "U",
+          "path": "assets/briar/U.svg",
+          "sha256": "45220a974c8cf51960b76281c1ed28a237d3abd3f43aa6047112c457d6bec6ed"
+        },
+        {
+          "letter": "V",
+          "path": "assets/briar/V.svg",
+          "sha256": "3fa1cd2e56df5c075a8b17f27a7f4ae8befa1f4998101ce95cb0bbe24c5e4b42"
+        },
+        {
+          "letter": "W",
+          "path": "assets/briar/W.svg",
+          "sha256": "c8dec8a9ec605175948612ab183fc12644d94c0f8928c230eba045c0de641704"
+        },
+        {
+          "letter": "X",
+          "path": "assets/briar/X.svg",
+          "sha256": "e1ecae9c548058e7955283338ed6681a555ba7d47fda99908a6f664a7c29969c"
+        },
+        {
+          "letter": "Y",
+          "path": "assets/briar/Y.svg",
+          "sha256": "06b4cf6b04216ccf5cca16023f95362cfec05a3b5b88ade513c40aaeba0f0cd9"
+        },
+        {
+          "letter": "Z",
+          "path": "assets/briar/Z.svg",
+          "sha256": "72ca75011d0ebbf004c086240941a10892247f6ca132bb42329aec1ddf6e3d78"
+        }
+      ]
+    }
+  ],
+  "source_files": [
+    {
+      "path": "sources/DejaVu-copyright.txt",
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9"
+    },
+    {
+      "path": "sources/DejaVuSerif.ttf",
+      "sha256": "8cb29f7db250ebb2551a6ce2c1e0bfd5a0eb520e9e233370db0493e82e1f36f7",
+      "family": "DejaVu Serif",
+      "version": "Version 2.37",
+      "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\n",
+      "license_url": "http://dejavu.sourceforge.net/wiki/index.php/License"
+    },
+    {
+      "path": "sources/Noto-Debian-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "sources/NotoSerifDisplay-Regular.ttf",
+      "sha256": "bcdc596729c24044e28c54815ecbe6004f83b10169a49a51160b22f59116249f",
+      "family": "Noto Serif Display",
+      "version": "Version 2.003; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D latn -f none -a qsq -X \"\"",
+      "copyright": "Copyright 2016 Google Inc. All Rights Reserved.",
+      "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+      "path": "sources/OFL-1.1.txt",
+      "sha256": "78f3274d48229864392da9101ea9e302dbd1f2cf4290f2944ca72afcf8890d7f"
+    }
+  ]
+}

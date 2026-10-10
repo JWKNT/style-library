@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-09",
+  "styles": [
+    "nocturne",
+    "obelisk",
+    "cameo"
+  ],
+  "coverage": "All 78 letters visually inspected in complete 96px and 120px proof grids.",
+  "reference_review": [
+    "Rendered and inspected Readers exodus, citadel and sword A/B/M/Q/S SVGs.",
+    "Read NOTICE.md and the CTAN permission/source inventory. Reference geometry was not copied."
+  ],
+  "revision_checks": [
+    "Increased Nocturne M/N/V/W optical cap height.",
+    "Increased Cameo M/W optical cap height.",
+    "Added independent Nocturne Q descending tail and strengthened J lower hook.",
+    "Varied fitted Nocturne terminal swashes by letter structure and fitted Cameo acanthus/laurel groups.",
+    "Checked larger O/Q/I/J comparison, including visible Q tail distinction.",
+    "Reviewed light and dark paper samples; cutouts are transparent.",
+    "Inspected all 96px proofs for readable bowls, intact counters and roomy swash bounds."
+  ],
+  "optimization": {
+    "geometry_simplification_1000_units": 0.65,
+    "coordinate_precision_units": 0.1,
+    "path_encoding": "relative and absolute commands chosen by encoded length",
+    "observed_mean_alpha_difference_120_px": [
+      0.456875,
+      0.47034722222222225,
+      0.5210416666666666
+    ],
+    "alpha_scale": "0-255; measured on Nocturne A/M/S before and after path optimization"
+  },
+  "release_notes": [
+    "Nocturne uses historical Fraktur forms, including an intentionally traditional I/J distinction.",
+    "Fine capillary flourishes retain antialiasing at 96px; 120px or larger is preferred for detailed ornaments.",
+    "Obelisk intentionally uses restrained geometric ornament.",
+    "Proof PNGs are local QA only and are not publication assets."
+  ]
+}

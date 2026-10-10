@@ -1,0 +1,957 @@
+{
+  "result": "pass",
+  "files": 78,
+  "complete_alphabets": 3,
+  "checks": [
+    "A-Z coverage",
+    "distinct letter paths",
+    "correct accessible titles",
+    "roomy ink bounds",
+    "transparent background and negative areas",
+    "currentColor only",
+    "path-only standalone SVG",
+    "under 40 KB per SVG",
+    "unchanged source-font hashes"
+  ],
+  "max_svg_bytes": 38897,
+  "total_svg_bytes": 1600208,
+  "minimum_margin_120_px": 6,
+  "files_detail": [
+    {
+      "style": "nocturne",
+      "letter": "A",
+      "svg_bytes": 27170,
+      "alpha_bounds_120": [
+        6,
+        17,
+        114,
+        103
+      ],
+      "sha256": "7e72a8111a4931d6ad8b7318710dc4060965d0dda9b3675f93ad8ff3e78832eb"
+    },
+    {
+      "style": "nocturne",
+      "letter": "B",
+      "svg_bytes": 29656,
+      "alpha_bounds_120": [
+        6,
+        15,
+        114,
+        106
+      ],
+      "sha256": "500a54df5f586cdbee30a2f0484acac756ca9bd81ea6e5badaddac6ff8370318"
+    },
+    {
+      "style": "nocturne",
+      "letter": "C",
+      "svg_bytes": 27617,
+      "alpha_bounds_120": [
+        6,
+        12,
+        114,
+        108
+      ],
+      "sha256": "45abee24569e7ea7cf927ceab90f4ae912e7a104e728afd6ca536598aafc72d7"
+    },
+    {
+      "style": "nocturne",
+      "letter": "D",
+      "svg_bytes": 27873,
+      "alpha_bounds_120": [
+        6,
+        16,
+        114,
+        104
+      ],
+      "sha256": "793d78d15aa8011aaa2a9b73d531ab9e955f7f3c6934ce5c571cd8393a7a4d99"
+    },
+    {
+      "style": "nocturne",
+      "letter": "E",
+      "svg_bytes": 26840,
+      "alpha_bounds_120": [
+        6,
+        12,
+        114,
+        108
+      ],
+      "sha256": "b0afb20f71bce37bfe40b4e0a8ee44e91dacbe01c59b3055c942002e0d655fb7"
+    },
+    {
+      "style": "nocturne",
+      "letter": "F",
+      "svg_bytes": 28354,
+      "alpha_bounds_120": [
+        7,
+        11,
+        113,
+        109
+      ],
+      "sha256": "cb8c2cd758a71b65542f05228c5d9fbfbaf71009a6118acf9aa5aa4533597a62"
+    },
+    {
+      "style": "nocturne",
+      "letter": "G",
+      "svg_bytes": 28975,
+      "alpha_bounds_120": [
+        6,
+        16,
+        114,
+        104
+      ],
+      "sha256": "d4769017e948b32e17a3411d28be067ce356781868e31cc611f9a793e6ebc636"
+    },
+    {
+      "style": "nocturne",
+      "letter": "H",
+      "svg_bytes": 28009,
+      "alpha_bounds_120": [
+        6,
+        13,
+        114,
+        107
+      ],
+      "sha256": "e3ce3da0b734f2bda7b928e60ed98087110601dcb6b3a90d5fa13a34a8f58058"
+    },
+    {
+      "style": "nocturne",
+      "letter": "I",
+      "svg_bytes": 26978,
+      "alpha_bounds_120": [
+        7,
+        8,
+        113,
+        112
+      ],
+      "sha256": "684881cae9ca603a44f43c9e0c1cc8a96fcc4f68a08bad26eac84cd3c101d3c0"
+    },
+    {
+      "style": "nocturne",
+      "letter": "J",
+      "svg_bytes": 29090,
+      "alpha_bounds_120": [
+        8,
+        7,
+        112,
+        113
+      ],
+      "sha256": "98ccdd9d4c5e1f2e056b18012a973be6f775ff6716f471e6d117d3a43370aea0"
+    },
+    {
+      "style": "nocturne",
+      "letter": "K",
+      "svg_bytes": 28632,
+      "alpha_bounds_120": [
+        6,
+        16,
+        114,
+        104
+      ],
+      "sha256": "596c37f190bf2cc7f63a3d59d5602c2b503e37f0fbaadb572c7c403695fe243d"
+    },
+    {
+      "style": "nocturne",
+      "letter": "L",
+      "svg_bytes": 26198,
+      "alpha_bounds_120": [
+        6,
+        16,
+        114,
+        104
+      ],
+      "sha256": "0893282014d0925f8f0326316b1f4382fb8a783c71c824c828932207cdf00b96"
+    },
+    {
+      "style": "nocturne",
+      "letter": "M",
+      "svg_bytes": 29238,
+      "alpha_bounds_120": [
+        6,
+        19,
+        114,
+        101
+      ],
+      "sha256": "712d1c325387ffd5dfbbdb2a0724ac78c9f77336045d59fdd24032ed2ddff149"
+    },
+    {
+      "style": "nocturne",
+      "letter": "N",
+      "svg_bytes": 28580,
+      "alpha_bounds_120": [
+        6,
+        15,
+        114,
+        105
+      ],
+      "sha256": "b38a3aaf757ab94c8f96f97cca9bed58e70bd263077ad3cea3d19cd9726bae86"
+    },
+    {
+      "style": "nocturne",
+      "letter": "O",
+      "svg_bytes": 27712,
+      "alpha_bounds_120": [
+        6,
+        16,
+        114,
+        104
+      ],
+      "sha256": "32d5ea596310d7aaf2d2f69b3f2126489e068c7fa96f4445bad1a54cc3bafcd0"
+    },
+    {
+      "style": "nocturne",
+      "letter": "P",
+      "svg_bytes": 29246,
+      "alpha_bounds_120": [
+        6,
+        13,
+        114,
+        107
+      ],
+      "sha256": "ae3fdf160a1486aea15c15aab83b903c24adf4da52b47f98c6cb7a01397fafdf"
+    },
+    {
+      "style": "nocturne",
+      "letter": "Q",
+      "svg_bytes": 29429,
+      "alpha_bounds_120": [
+        6,
+        16,
+        114,
+        104
+      ],
+      "sha256": "297ca0c2bdb1aa16156e6da2baf5c48c01381e4dc93792542be76d3e4c2dcf85"
+    },
+    {
+      "style": "nocturne",
+      "letter": "R",
+      "svg_bytes": 27994,
+      "alpha_bounds_120": [
+        6,
+        16,
+        114,
+        104
+      ],
+      "sha256": "013140bfce7f6d62b24404d092ee90b5d4aedc424582d089c2e7188f7e4b3ef2"
+    },
+    {
+      "style": "nocturne",
+      "letter": "S",
+      "svg_bytes": 28652,
+      "alpha_bounds_120": [
+        6,
+        16,
+        114,
+        104
+      ],
+      "sha256": "76f88b19ec842c9886619f07cb04bf5ff2c9e7814a3e06dc2f363b77fbed7a9a"
+    },
+    {
+      "style": "nocturne",
+      "letter": "T",
+      "svg_bytes": 26649,
+      "alpha_bounds_120": [
+        6,
+        16,
+        114,
+        104
+      ],
+      "sha256": "c747d62ccf527578df9e50b31c4e5926f11e76cb5bb2278d3677e6f3a42d726f"
+    },
+    {
+      "style": "nocturne",
+      "letter": "U",
+      "svg_bytes": 26476,
+      "alpha_bounds_120": [
+        6,
+        15,
+        114,
+        105
+      ],
+      "sha256": "f041cab376b259006244f5958899c5b1ee6d45231e6b6f62c552ba137c62a4d6"
+    },
+    {
+      "style": "nocturne",
+      "letter": "V",
+      "svg_bytes": 29416,
+      "alpha_bounds_120": [
+        6,
+        15,
+        114,
+        105
+      ],
+      "sha256": "66ea10c7fdb32500e7408ce916835c377a353b83f796d77a0b0ad76b136503ce"
+    },
+    {
+      "style": "nocturne",
+      "letter": "W",
+      "svg_bytes": 29957,
+      "alpha_bounds_120": [
+        6,
+        20,
+        114,
+        100
+      ],
+      "sha256": "c4ff1a513a36a4b68379dc40fc20bc40b8e0e6353e8b3fc43f16dabeaa901b5e"
+    },
+    {
+      "style": "nocturne",
+      "letter": "X",
+      "svg_bytes": 27248,
+      "alpha_bounds_120": [
+        6,
+        16,
+        114,
+        104
+      ],
+      "sha256": "81e839fe2fdfa29ecc715a94671b4244f17149cccac039c4c7d40f96bd6ce582"
+    },
+    {
+      "style": "nocturne",
+      "letter": "Y",
+      "svg_bytes": 29673,
+      "alpha_bounds_120": [
+        6,
+        11,
+        114,
+        109
+      ],
+      "sha256": "ae43955c46126048a7d808327a10fb0c543be46d01f0103d1058d970de81699d"
+    },
+    {
+      "style": "nocturne",
+      "letter": "Z",
+      "svg_bytes": 28141,
+      "alpha_bounds_120": [
+        10,
+        7,
+        110,
+        113
+      ],
+      "sha256": "2e3f601c15c0faad4e913c05ef5004a85d78f74694c6c85a1a19176318b2f970"
+    },
+    {
+      "style": "obelisk",
+      "letter": "A",
+      "svg_bytes": 1469,
+      "alpha_bounds_120": [
+        21,
+        7,
+        99,
+        113
+      ],
+      "sha256": "73d7d694e97d25bc5d4d1ccdfce7b9ca064242103583ab97cfbdd46d5c25c83a"
+    },
+    {
+      "style": "obelisk",
+      "letter": "B",
+      "svg_bytes": 1722,
+      "alpha_bounds_120": [
+        21,
+        7,
+        99,
+        113
+      ],
+      "sha256": "28f49df6fa95a7b901b6df73c2061418bb52350e519c4528a39e393183ab3b6a"
+    },
+    {
+      "style": "obelisk",
+      "letter": "C",
+      "svg_bytes": 1521,
+      "alpha_bounds_120": [
+        21,
+        7,
+        99,
+        113
+      ],
+      "sha256": "8b1f0dfc149c2b3ba1b43ef6692b54fe272f19c3fd6ea4db6f6dc3fe875654e2"
+    },
+    {
+      "style": "obelisk",
+      "letter": "D",
+      "svg_bytes": 1384,
+      "alpha_bounds_120": [
+        21,
+        7,
+        99,
+        113
+      ],
+      "sha256": "fe502cada73ecf102d1ec8a17e8d5179ab1cedd4689876a3d06fbd1c8a4e0d3c"
+    },
+    {
+      "style": "obelisk",
+      "letter": "E",
+      "svg_bytes": 1456,
+      "alpha_bounds_120": [
+        24,
+        7,
+        96,
+        113
+      ],
+      "sha256": "22aa3133694bf041c5974333917d55ac44271d1c8e8a277eeacd321a79f6f3a4"
+    },
+    {
+      "style": "obelisk",
+      "letter": "F",
+      "svg_bytes": 1417,
+      "alpha_bounds_120": [
+        24,
+        7,
+        96,
+        113
+      ],
+      "sha256": "ec2de699c1aa8f12f1613ad99d2877b6a98eb34480b4e3a6ffbd866d14fb889e"
+    },
+    {
+      "style": "obelisk",
+      "letter": "G",
+      "svg_bytes": 1529,
+      "alpha_bounds_120": [
+        20,
+        7,
+        100,
+        113
+      ],
+      "sha256": "1f35098da76fe6d20f28f8487f3d18fd09b700ee5cdf03b24a55c68092dc67f1"
+    },
+    {
+      "style": "obelisk",
+      "letter": "H",
+      "svg_bytes": 1576,
+      "alpha_bounds_120": [
+        21,
+        7,
+        99,
+        113
+      ],
+      "sha256": "f7030f94f7a2abe328cbe4afadbd3f268e15f361597cb817f0c4791611242223"
+    },
+    {
+      "style": "obelisk",
+      "letter": "I",
+      "svg_bytes": 1710,
+      "alpha_bounds_120": [
+        32,
+        7,
+        88,
+        113
+      ],
+      "sha256": "aef62218ec231a4f8f21292db1045215aa3262478fc6c9a9f4ccfb118804b16b"
+    },
+    {
+      "style": "obelisk",
+      "letter": "J",
+      "svg_bytes": 1492,
+      "alpha_bounds_120": [
+        22,
+        7,
+        98,
+        113
+      ],
+      "sha256": "a62c1e1d476fd77f916e6f934a7c25e64080bed5f110e2c253fb260ca16fb33e"
+    },
+    {
+      "style": "obelisk",
+      "letter": "K",
+      "svg_bytes": 1699,
+      "alpha_bounds_120": [
+        21,
+        7,
+        99,
+        113
+      ],
+      "sha256": "83a8d0fe215431c2b28f4f9131b9bb13922dc09a3da6da88636d2ea752aa6ebc"
+    },
+    {
+      "style": "obelisk",
+      "letter": "L",
+      "svg_bytes": 1348,
+      "alpha_bounds_120": [
+        24,
+        7,
+        96,
+        113
+      ],
+      "sha256": "e3120ddd9f60f6f7eb0450b23ed90a9abcb0914c24f3c3c86fdf0d234c0eecfc"
+    },
+    {
+      "style": "obelisk",
+      "letter": "M",
+      "svg_bytes": 1431,
+      "alpha_bounds_120": [
+        15,
+        7,
+        105,
+        113
+      ],
+      "sha256": "417eebffd4008034160e761c2361e8a16500463d7e7721452f65c5862ca4b7a3"
+    },
+    {
+      "style": "obelisk",
+      "letter": "N",
+      "svg_bytes": 1404,
+      "alpha_bounds_120": [
+        23,
+        7,
+        97,
+        113
+      ],
+      "sha256": "c14b3fdd9160440d501d7336c4d22e3bbb7cc0c2e3a0513e1e0b398ebd0f2104"
+    },
+    {
+      "style": "obelisk",
+      "letter": "O",
+      "svg_bytes": 1510,
+      "alpha_bounds_120": [
+        19,
+        7,
+        101,
+        113
+      ],
+      "sha256": "a6ecc1ace20457ce0eadae5c4a815b0431da9dd8e0c4704d36310c101a28d630"
+    },
+    {
+      "style": "obelisk",
+      "letter": "P",
+      "svg_bytes": 1484,
+      "alpha_bounds_120": [
+        22,
+        7,
+        98,
+        113
+      ],
+      "sha256": "f6b56a70b898eeb527dfc6e6094ba52547b8163e4d2145f35cdd32c79c6b9404"
+    },
+    {
+      "style": "obelisk",
+      "letter": "Q",
+      "svg_bytes": 1771,
+      "alpha_bounds_120": [
+        17,
+        7,
+        103,
+        113
+      ],
+      "sha256": "0956167777c456808b6c750e9bf99d35cf53311d641b4010350c3ba825150117"
+    },
+    {
+      "style": "obelisk",
+      "letter": "R",
+      "svg_bytes": 1640,
+      "alpha_bounds_120": [
+        20,
+        7,
+        100,
+        113
+      ],
+      "sha256": "083facd819f3037d964e71a79bb86c9f5b6d81cd4b04a3cd75415fdae83385ec"
+    },
+    {
+      "style": "obelisk",
+      "letter": "S",
+      "svg_bytes": 1729,
+      "alpha_bounds_120": [
+        20,
+        7,
+        100,
+        113
+      ],
+      "sha256": "2e6ef6adce52b4fd3fec301b4b6b639774fafdc7214c78607c5cfc2a34267b09"
+    },
+    {
+      "style": "obelisk",
+      "letter": "T",
+      "svg_bytes": 1522,
+      "alpha_bounds_120": [
+        22,
+        7,
+        98,
+        113
+      ],
+      "sha256": "94a18b564a0dec293852a96118ec9f5c962398420244fbcff12ada98f3519088"
+    },
+    {
+      "style": "obelisk",
+      "letter": "U",
+      "svg_bytes": 1540,
+      "alpha_bounds_120": [
+        20,
+        7,
+        100,
+        113
+      ],
+      "sha256": "35885d3513c295e72afd9381439828dcc905a125019eaab285421ff658fcb0c6"
+    },
+    {
+      "style": "obelisk",
+      "letter": "V",
+      "svg_bytes": 1486,
+      "alpha_bounds_120": [
+        19,
+        7,
+        101,
+        113
+      ],
+      "sha256": "b3a6521efe051b71ee6e4b60b45234a0d4ae794082d7330ed36d393c39170ee3"
+    },
+    {
+      "style": "obelisk",
+      "letter": "W",
+      "svg_bytes": 1577,
+      "alpha_bounds_120": [
+        14,
+        7,
+        106,
+        113
+      ],
+      "sha256": "f6d40800f98fcbbae82fdadb70776dfae6fcfc36dc9aeb0bf79c70e6cb72981c"
+    },
+    {
+      "style": "obelisk",
+      "letter": "X",
+      "svg_bytes": 1761,
+      "alpha_bounds_120": [
+        20,
+        7,
+        100,
+        113
+      ],
+      "sha256": "b30902c3f41684e482ec9702989f74b9a4b7f48fcf33c36ba0da9404228750c0"
+    },
+    {
+      "style": "obelisk",
+      "letter": "Y",
+      "svg_bytes": 1562,
+      "alpha_bounds_120": [
+        19,
+        7,
+        101,
+        113
+      ],
+      "sha256": "609496eba09009e79c99d12dde4630485d0345cbbfca4d0bd176a2822ecddb21"
+    },
+    {
+      "style": "obelisk",
+      "letter": "Z",
+      "svg_bytes": 1579,
+      "alpha_bounds_120": [
+        15,
+        7,
+        105,
+        113
+      ],
+      "sha256": "073ebb84d588df0e2ca7d998c00bc27b1006c773365983a8d007a7c568783c0f"
+    },
+    {
+      "style": "cameo",
+      "letter": "A",
+      "svg_bytes": 34643,
+      "alpha_bounds_120": [
+        11,
+        7,
+        109,
+        113
+      ],
+      "sha256": "d79deb8885287c4a5231e0347f5828cd9bb7a0d02f6d63fdf24bc6a87f4886e7"
+    },
+    {
+      "style": "cameo",
+      "letter": "B",
+      "svg_bytes": 31191,
+      "alpha_bounds_120": [
+        12,
+        7,
+        108,
+        113
+      ],
+      "sha256": "792d0ce9a2be66d040b8eeb4b4991f0d950041eca413d9abd72717049fb06b26"
+    },
+    {
+      "style": "cameo",
+      "letter": "C",
+      "svg_bytes": 29953,
+      "alpha_bounds_120": [
+        15,
+        7,
+        105,
+        113
+      ],
+      "sha256": "d66c60d207fca284a0d4522bc9c48129d0bdc6340c23dcf20a17d5aaececf652"
+    },
+    {
+      "style": "cameo",
+      "letter": "D",
+      "svg_bytes": 30054,
+      "alpha_bounds_120": [
+        8,
+        7,
+        112,
+        113
+      ],
+      "sha256": "d27f4d1cd4dc2673547f3c612636c25f6de9a2949388aa120f6289704a6cbe9f"
+    },
+    {
+      "style": "cameo",
+      "letter": "E",
+      "svg_bytes": 28690,
+      "alpha_bounds_120": [
+        14,
+        7,
+        106,
+        113
+      ],
+      "sha256": "d65e826c9092677452e84db86febf742dac9740b65d2ff23d50dfdd0d90f52be"
+    },
+    {
+      "style": "cameo",
+      "letter": "F",
+      "svg_bytes": 30222,
+      "alpha_bounds_120": [
+        16,
+        7,
+        104,
+        113
+      ],
+      "sha256": "9e7c7e5b2783a748243105ab25570031d8da28201e12088a4a182981c5603307"
+    },
+    {
+      "style": "cameo",
+      "letter": "G",
+      "svg_bytes": 31917,
+      "alpha_bounds_120": [
+        9,
+        7,
+        111,
+        113
+      ],
+      "sha256": "f0bb3b8e7008593dcca57491ce505dde0edd1f2e374808eca08fad42e1bef0e2"
+    },
+    {
+      "style": "cameo",
+      "letter": "H",
+      "svg_bytes": 33244,
+      "alpha_bounds_120": [
+        7,
+        8,
+        113,
+        112
+      ],
+      "sha256": "1e6bb3493ce04ef1dc342e4e5f4bf0308e25b6e5f6e5a736bd46932fa363ab5f"
+    },
+    {
+      "style": "cameo",
+      "letter": "I",
+      "svg_bytes": 28018,
+      "alpha_bounds_120": [
+        28,
+        7,
+        92,
+        113
+      ],
+      "sha256": "03a63cc2c26db860f4570daf6d5a983dbf18af4d32dcd1205ab7835be28ab6ec"
+    },
+    {
+      "style": "cameo",
+      "letter": "J",
+      "svg_bytes": 28475,
+      "alpha_bounds_120": [
+        31,
+        7,
+        89,
+        113
+      ],
+      "sha256": "27d51e2e4d1126a38e92fe3c40152687b31001b3bd7c5bc66384f79b45b2a1d5"
+    },
+    {
+      "style": "cameo",
+      "letter": "K",
+      "svg_bytes": 36721,
+      "alpha_bounds_120": [
+        13,
+        7,
+        107,
+        113
+      ],
+      "sha256": "9882030bb22597fafb5373c3d16091f67874a4a00dde65f61f27c26ba7f9dcee"
+    },
+    {
+      "style": "cameo",
+      "letter": "L",
+      "svg_bytes": 27392,
+      "alpha_bounds_120": [
+        14,
+        7,
+        106,
+        113
+      ],
+      "sha256": "34361b77415ff06438107004ac0e2a4b62340371dc5733fd87a9549d0ccfa8a4"
+    },
+    {
+      "style": "cameo",
+      "letter": "M",
+      "svg_bytes": 33564,
+      "alpha_bounds_120": [
+        7,
+        8,
+        113,
+        112
+      ],
+      "sha256": "663ffcf7f5f4f0aa2b176be4a7499ba1dbd3b13f8d0a924c686a4bf88b7b9687"
+    },
+    {
+      "style": "cameo",
+      "letter": "N",
+      "svg_bytes": 30066,
+      "alpha_bounds_120": [
+        7,
+        8,
+        113,
+        112
+      ],
+      "sha256": "a8d90c1d420d1072c2569e77c38227d6c7b399344d80dbb85b55942d1ebffcbd"
+    },
+    {
+      "style": "cameo",
+      "letter": "O",
+      "svg_bytes": 30905,
+      "alpha_bounds_120": [
+        9,
+        7,
+        111,
+        113
+      ],
+      "sha256": "cd52a084d97f18c2834bd721bc315ae66ec74ea04024507f9e4783317015408b"
+    },
+    {
+      "style": "cameo",
+      "letter": "P",
+      "svg_bytes": 31710,
+      "alpha_bounds_120": [
+        14,
+        7,
+        106,
+        113
+      ],
+      "sha256": "802f965d8cacc7573d77ac14a88dfdb422abc3a0fed0d2b8c809fbf41fe391ef"
+    },
+    {
+      "style": "cameo",
+      "letter": "Q",
+      "svg_bytes": 30643,
+      "alpha_bounds_120": [
+        18,
+        7,
+        102,
+        113
+      ],
+      "sha256": "ba3cdb6d2ec55444fc800bd99b382dcbbd90e76bee5b27a185eceb4a57848bf1"
+    },
+    {
+      "style": "cameo",
+      "letter": "R",
+      "svg_bytes": 32110,
+      "alpha_bounds_120": [
+        8,
+        7,
+        112,
+        113
+      ],
+      "sha256": "ebc1f310db1205bcfd141669f195d8e5548997368c56b3aa2f19d39e3406de00"
+    },
+    {
+      "style": "cameo",
+      "letter": "S",
+      "svg_bytes": 28823,
+      "alpha_bounds_120": [
+        19,
+        7,
+        101,
+        113
+      ],
+      "sha256": "77b1f6519b0927a8864f1d51c5d158618ee22674fc80bbcb7a1de2df1d4c5d75"
+    },
+    {
+      "style": "cameo",
+      "letter": "T",
+      "svg_bytes": 30754,
+      "alpha_bounds_120": [
+        12,
+        7,
+        108,
+        113
+      ],
+      "sha256": "140e167aa054c0e4f385919211aeb1efdbb7b58aff4662397e745abb81c0e00c"
+    },
+    {
+      "style": "cameo",
+      "letter": "U",
+      "svg_bytes": 31421,
+      "alpha_bounds_120": [
+        8,
+        7,
+        112,
+        113
+      ],
+      "sha256": "34bced4f91d3ef330c71b51a513c8bf220d827cdd80cc0cd25dc26c9e7ffa393"
+    },
+    {
+      "style": "cameo",
+      "letter": "V",
+      "svg_bytes": 35832,
+      "alpha_bounds_120": [
+        13,
+        7,
+        107,
+        113
+      ],
+      "sha256": "2c03305cadf5df7be407a7c48035c319e80c577c896a98a73b05a381d959896c"
+    },
+    {
+      "style": "cameo",
+      "letter": "W",
+      "svg_bytes": 38897,
+      "alpha_bounds_120": [
+        11,
+        7,
+        109,
+        113
+      ],
+      "sha256": "7683c139bafb029708cb10f3121a75f86bf3886731652ecdca67c9356d2daf24"
+    },
+    {
+      "style": "cameo",
+      "letter": "X",
+      "svg_bytes": 35798,
+      "alpha_bounds_120": [
+        13,
+        7,
+        107,
+        113
+      ],
+      "sha256": "eb96c52ed603a0d219bcf46d426723b00f1499aca7364958124211b0db0e2a0d"
+    },
+    {
+      "style": "cameo",
+      "letter": "Y",
+      "svg_bytes": 36146,
+      "alpha_bounds_120": [
+        14,
+        7,
+        106,
+        113
+      ],
+      "sha256": "1ff5bad3839a2f3015e142f7030dd2b66303b68084fe8619627733f173202a9c"
+    },
+    {
+      "style": "cameo",
+      "letter": "Z",
+      "svg_bytes": 28897,
+      "alpha_bounds_120": [
+        15,
+        7,
+        105,
+        113
+      ],
+      "sha256": "0a2a1ecbbace868fd3b2e70c7c7c8dd1a36b705afd3d1b5b9d4a2fee5ef9d00a"
+    }
+  ]
+}

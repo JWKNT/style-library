@@ -1,0 +1,55 @@
+{
+  "source": "https://mirrors.ctan.org/fonts/initials.zip",
+  "license": "LPPL (permission in the CTAN initials README)",
+  "families": {
+    "nightside": {
+      "name": "Eileen Caps Regular",
+      "sourceFile": "Eileen.pfb",
+      "sha256": "3175469ecc17c6e09d0a558b70d91002c7cf22b6db6aaf4ffbc8ef3a569ee25e",
+      "notice": "Copyright (c) Typographer Mediengestaltung, 2000. All rights reserved. Eileen Caps (c) 1992 by D. Rakowski.",
+      "version": "001.025"
+    },
+    "lake": {
+      "name": "Elzevier Caps",
+      "sourceFile": "Elzevier.pfb",
+      "sha256": "aa97de9e289dd6df4ad27f2953fbaebdf541dcf6875dc67a9d389b44a6cd8f23",
+      "notice": "Copyright (c) Typographer Mediengestaltung, 2000. All rights reserved. Elzevier Caps, from David Rakowski's EPS art.",
+      "version": "001.025"
+    },
+    "calde": {
+      "name": "Carrick Caps",
+      "sourceFile": "Carrickc.pfb",
+      "sha256": "518f1b056b1d90d297348479c6d5be76ce1c01ca7ce46c498e904950cb280660",
+      "notice": "Copyright (c) Typographer Mediengestaltung, 2000. All rights reserved.",
+      "version": "001.023"
+    },
+    "exodus": {
+      "name": "Rothenburg Decorative",
+      "sourceFile": "Rothdn.pfb",
+      "sha256": "a9a5455a52a3758b657d4458aeb0586f2c8fd7d29c83e2001133d1d50a5ef862",
+      "notice": "Copyright (c) Typographer Mediengestaltung, 2000. All rights reserved. Full character set added by D. Steffmann",
+      "version": "001.060"
+    },
+    "blue": {
+      "name": "Nouveau Drop Caps",
+      "sourceFile": "Nouveaud.pfb",
+      "sha256": "3c0b35f7ca887dd6ad9b5c9148a6b200d5071e3cba89f05c6c52e57ca96d7b81",
+      "notice": "Copyright (c) Typographer Mediengestaltung, 2000. All rights reserved.",
+      "version": "001.001"
+    },
+    "green": {
+      "name": "Acorn Initials",
+      "sourceFile": "Acorn.pfb",
+      "sha256": "4c2ef7d795317f67e906cd0b7f409cce2ae3fe1b008062d835cf7bf71ce2f213",
+      "notice": "Copyright (c) Typographer Mediengestaltung, 2000. All rights reserved.",
+      "version": "1.0; 2000; initial release"
+    },
+    "return": {
+      "name": "Morris Initialen",
+      "sourceFile": "MorrisIn.pfb",
+      "sha256": "d34438dee1aaf9678a362545c45b4fcb6ef4a27965988df0454e73c235d0754c",
+      "notice": "Copyright (c) Typographer Mediengestaltung, 2000. All rights reserved. These characters are based on those designed by William Morris",
+      "version": "002.002"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "tessera",
+  "name": "Tessera",
+  "category": "Geometric mosaic initials",
+  "description": "Original faceted capitals with broad black strokes, forked spear terminals, and transparent geometric inlays. Nested lozenges, chevrons, and angular fragments suggest cut tesserae arranged along each stroke.",
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "assetDirectory": "assets/tessera",
+  "source": "Original explicit geometric drawing in build.py; no font outline or historical illustration is incorporated.",
+  "license": "CC0-1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "designChanges": [
+    "Drew a complete original A–Z structure as polygonal stroke centerlines with letter-specific proportions.",
+    "Used asymmetrical, faceted bowl construction and flat-topped pointed forms.",
+    "Added integral split spear terminals to the silhouette, rather than a frame around unchanged lettering.",
+    "Subtracted lozenge, chevron, triangular, and diagonal-joint motifs from the ink geometry; preserved nested black inset stones.",
+    "Cut real transparent inlays and counters with Boolean geometry and even-odd SVG paths.",
+    "Added 44-unit safety margins around the full ink bounds for every letter, including Q's descending terminal."
+  ],
+  "historicalReferences": {
+    "purpose": "Visual study only; no artwork, outlines, ornaments, or font programs copied.",
+    "examplesViewed": ["Rothenburg Decorative", "Goudy Initialen", "Gotische Initialen", "Morris Initialen", "Carrick Caps", "Eileen Caps", "Art Nouveau Initialen"],
+    "noticeReviewed": "folio-theme/readers/assets/initials/NOTICE.md"
+  },
+  "rendering": {
+    "fill": "currentColor",
+    "fillRule": "evenodd",
+    "background": "transparent",
+    "containsTextElements": false,
+    "containsRasterImages": false,
+    "containsFiltersOrMasks": false,
+    "externalDependencies": false,
+    "runtimeFonts": false,
+    "testedPixelHeights": [96, 120, 300]
+  },
+  "build": {
+    "entrypoint": "build.py",
+    "requirements": "requirements.txt",
+    "command": "python build.py",
+    "sourceGeometry": "Explicit coordinates in G and T mappings in build.py",
+    "provenance": "New original artwork; reference study is not part of the published asset files."
+  }
+}

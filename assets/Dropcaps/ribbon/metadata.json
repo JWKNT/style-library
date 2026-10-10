@@ -1,0 +1,34 @@
+{
+  "id": "ribbon",
+  "name": "Ribbon",
+  "count": 26,
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "format": "SVG",
+  "source_group": "medieval",
+  "description": "Insular letters rebuilt as channeled bands and threaded with original alternating over-and-under interlace strands.",
+  "design_changes": [
+    "Isolated Carrick’s weighty insular letter construction with a morphological opening; removed most original thin interlace and outline details.",
+    "Discarded tiny remnant components and rebuilt body edges with a light closing operation.",
+    "Cut new inset channels following the complete letter contours and counters.",
+    "Drew three new continuous ornamental strands and two foreground crossing segments; erased the understrands at the crossings to make genuine interlace.",
+    "Preserved historical letter identity and roof/foot construction while materially replacing the ornament; independently redrew I and T for distinct anatomy, strengthened E’s exposed middle arm, and extended Q’s tail."
+  ],
+  "artwork_license": "LPPL-1.3c-or-later",
+  "design_metadata": "sources/dropcaps/medieval/metadata.json",
+  "license_files": [
+    "licenses/dropcaps/NOTICE.txt",
+    "sources/dropcaps/medieval/LICENSE.txt",
+    "sources/dropcaps/medieval/sources/LPPL.txt",
+    "sources/dropcaps/medieval/sources/CTAN-initials-README.txt",
+    "sources/dropcaps/medieval/sources/NOTICE.md"
+  ],
+  "download_files": [
+    "assets/Dropcaps/ribbon/README.txt",
+    "assets/Dropcaps/ribbon/metadata.json",
+    "licenses/dropcaps/NOTICE.txt",
+    "sources/dropcaps/medieval/LICENSE.txt",
+    "sources/dropcaps/medieval/sources/LPPL.txt",
+    "sources/dropcaps/medieval/sources/CTAN-initials-README.txt",
+    "sources/dropcaps/medieval/sources/NOTICE.md"
+  ]
+}

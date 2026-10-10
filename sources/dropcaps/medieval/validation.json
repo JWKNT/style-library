@@ -1,0 +1,1350 @@
+{
+  "result": "pass",
+  "asset_count": 78,
+  "total_svg_bytes": 2832716,
+  "source_svg_count": 78,
+  "proof_sizes": [
+    96,
+    120
+  ],
+  "checks": [
+    "Exactly A\u2013Z per style",
+    "78 distinct named monochrome currentColor path artworks",
+    "No runtime fonts, text, raster images, masks, hardcoded white or external resources",
+    "Source SHA-256 matches retained exact SVGs",
+    "Derived asset SHA-256 matches metadata",
+    "At least six viewBox units safe margin",
+    "Transparent outside artwork; true counters and channels",
+    "All colored raster pixels black in default rendering",
+    "All assets render at 96 and 120 pixels"
+  ],
+  "manual_review": "All six A\u2013Z proof sheets inspected. E crossbar, Ribbon I/J distinction and extended Q tail corrected; Ribbon E middle arm and T central stem strengthened after independent review. Scriptorium I/J and O/Q checked in enlarged proof. Light and dark specimens inspected.",
+  "assets": [
+    {
+      "style": "thornwood",
+      "letter": "A",
+      "bytes": 36528,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3644,
+          "opaque_pixels": 1265,
+          "transparent_fraction": 0.6046
+        },
+        "120": {
+          "nontransparent_pixels": 5466,
+          "opaque_pixels": 2269,
+          "transparent_fraction": 0.6204
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "B",
+      "bytes": 42912,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3737,
+          "opaque_pixels": 1190,
+          "transparent_fraction": 0.5945
+        },
+        "120": {
+          "nontransparent_pixels": 5623,
+          "opaque_pixels": 2161,
+          "transparent_fraction": 0.6095
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "C",
+      "bytes": 42341,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3222,
+          "opaque_pixels": 820,
+          "transparent_fraction": 0.6504
+        },
+        "120": {
+          "nontransparent_pixels": 4756,
+          "opaque_pixels": 1511,
+          "transparent_fraction": 0.6697
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "D",
+      "bytes": 41471,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3488,
+          "opaque_pixels": 1125,
+          "transparent_fraction": 0.6215
+        },
+        "120": {
+          "nontransparent_pixels": 5232,
+          "opaque_pixels": 2020,
+          "transparent_fraction": 0.6367
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "E",
+      "bytes": 44772,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3663,
+          "opaque_pixels": 1015,
+          "transparent_fraction": 0.6025
+        },
+        "120": {
+          "nontransparent_pixels": 5456,
+          "opaque_pixels": 1897,
+          "transparent_fraction": 0.6211
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "F",
+      "bytes": 37928,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3655,
+          "opaque_pixels": 1166,
+          "transparent_fraction": 0.6034
+        },
+        "120": {
+          "nontransparent_pixels": 5431,
+          "opaque_pixels": 2112,
+          "transparent_fraction": 0.6228
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "G",
+      "bytes": 39488,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3703,
+          "opaque_pixels": 1265,
+          "transparent_fraction": 0.5982
+        },
+        "120": {
+          "nontransparent_pixels": 5522,
+          "opaque_pixels": 2222,
+          "transparent_fraction": 0.6165
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "H",
+      "bytes": 41202,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3499,
+          "opaque_pixels": 1053,
+          "transparent_fraction": 0.6203
+        },
+        "120": {
+          "nontransparent_pixels": 5236,
+          "opaque_pixels": 1902,
+          "transparent_fraction": 0.6364
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "I",
+      "bytes": 37094,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3233,
+          "opaque_pixels": 1106,
+          "transparent_fraction": 0.6492
+        },
+        "120": {
+          "nontransparent_pixels": 4849,
+          "opaque_pixels": 2028,
+          "transparent_fraction": 0.6633
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "J",
+      "bytes": 39944,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3498,
+          "opaque_pixels": 1055,
+          "transparent_fraction": 0.6204
+        },
+        "120": {
+          "nontransparent_pixels": 5226,
+          "opaque_pixels": 1961,
+          "transparent_fraction": 0.6371
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "K",
+      "bytes": 39492,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3708,
+          "opaque_pixels": 1159,
+          "transparent_fraction": 0.5977
+        },
+        "120": {
+          "nontransparent_pixels": 5540,
+          "opaque_pixels": 2120,
+          "transparent_fraction": 0.6153
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "L",
+      "bytes": 42376,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3549,
+          "opaque_pixels": 1022,
+          "transparent_fraction": 0.6149
+        },
+        "120": {
+          "nontransparent_pixels": 5308,
+          "opaque_pixels": 1927,
+          "transparent_fraction": 0.6314
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "M",
+      "bytes": 38439,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3672,
+          "opaque_pixels": 1187,
+          "transparent_fraction": 0.6016
+        },
+        "120": {
+          "nontransparent_pixels": 5471,
+          "opaque_pixels": 2117,
+          "transparent_fraction": 0.6201
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "N",
+      "bytes": 42450,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3647,
+          "opaque_pixels": 1158,
+          "transparent_fraction": 0.6043
+        },
+        "120": {
+          "nontransparent_pixels": 5450,
+          "opaque_pixels": 2128,
+          "transparent_fraction": 0.6215
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "O",
+      "bytes": 40144,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3342,
+          "opaque_pixels": 988,
+          "transparent_fraction": 0.6374
+        },
+        "120": {
+          "nontransparent_pixels": 4969,
+          "opaque_pixels": 1794,
+          "transparent_fraction": 0.6549
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "P",
+      "bytes": 40638,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3431,
+          "opaque_pixels": 1049,
+          "transparent_fraction": 0.6277
+        },
+        "120": {
+          "nontransparent_pixels": 5124,
+          "opaque_pixels": 1902,
+          "transparent_fraction": 0.6442
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "Q",
+      "bytes": 40806,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3476,
+          "opaque_pixels": 1060,
+          "transparent_fraction": 0.6228
+        },
+        "120": {
+          "nontransparent_pixels": 5202,
+          "opaque_pixels": 1936,
+          "transparent_fraction": 0.6388
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "R",
+      "bytes": 41112,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3642,
+          "opaque_pixels": 1144,
+          "transparent_fraction": 0.6048
+        },
+        "120": {
+          "nontransparent_pixels": 5463,
+          "opaque_pixels": 2104,
+          "transparent_fraction": 0.6206
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "S",
+      "bytes": 42927,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3423,
+          "opaque_pixels": 924,
+          "transparent_fraction": 0.6286
+        },
+        "120": {
+          "nontransparent_pixels": 5138,
+          "opaque_pixels": 1735,
+          "transparent_fraction": 0.6432
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "T",
+      "bytes": 40576,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3371,
+          "opaque_pixels": 994,
+          "transparent_fraction": 0.6342
+        },
+        "120": {
+          "nontransparent_pixels": 5033,
+          "opaque_pixels": 1772,
+          "transparent_fraction": 0.6505
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "U",
+      "bytes": 41590,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3770,
+          "opaque_pixels": 1250,
+          "transparent_fraction": 0.5909
+        },
+        "120": {
+          "nontransparent_pixels": 5632,
+          "opaque_pixels": 2216,
+          "transparent_fraction": 0.6089
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "V",
+      "bytes": 39522,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3465,
+          "opaque_pixels": 1034,
+          "transparent_fraction": 0.624
+        },
+        "120": {
+          "nontransparent_pixels": 5170,
+          "opaque_pixels": 1918,
+          "transparent_fraction": 0.641
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "W",
+      "bytes": 42408,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3506,
+          "opaque_pixels": 973,
+          "transparent_fraction": 0.6196
+        },
+        "120": {
+          "nontransparent_pixels": 5225,
+          "opaque_pixels": 1775,
+          "transparent_fraction": 0.6372
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "X",
+      "bytes": 39836,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3600,
+          "opaque_pixels": 977,
+          "transparent_fraction": 0.6094
+        },
+        "120": {
+          "nontransparent_pixels": 5414,
+          "opaque_pixels": 1868,
+          "transparent_fraction": 0.624
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "Y",
+      "bytes": 40219,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3311,
+          "opaque_pixels": 927,
+          "transparent_fraction": 0.6407
+        },
+        "120": {
+          "nontransparent_pixels": 4930,
+          "opaque_pixels": 1758,
+          "transparent_fraction": 0.6576
+        }
+      }
+    },
+    {
+      "style": "thornwood",
+      "letter": "Z",
+      "bytes": 36126,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3586,
+          "opaque_pixels": 1133,
+          "transparent_fraction": 0.6109
+        },
+        "120": {
+          "nontransparent_pixels": 5388,
+          "opaque_pixels": 2050,
+          "transparent_fraction": 0.6258
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "A",
+      "bytes": 37353,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3349,
+          "opaque_pixels": 1326,
+          "transparent_fraction": 0.6366
+        },
+        "120": {
+          "nontransparent_pixels": 4941,
+          "opaque_pixels": 2253,
+          "transparent_fraction": 0.6569
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "B",
+      "bytes": 38599,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3641,
+          "opaque_pixels": 1534,
+          "transparent_fraction": 0.6049
+        },
+        "120": {
+          "nontransparent_pixels": 5406,
+          "opaque_pixels": 2581,
+          "transparent_fraction": 0.6246
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "C",
+      "bytes": 36259,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3567,
+          "opaque_pixels": 1578,
+          "transparent_fraction": 0.613
+        },
+        "120": {
+          "nontransparent_pixels": 5280,
+          "opaque_pixels": 2633,
+          "transparent_fraction": 0.6333
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "D",
+      "bytes": 35870,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3641,
+          "opaque_pixels": 1615,
+          "transparent_fraction": 0.6049
+        },
+        "120": {
+          "nontransparent_pixels": 5370,
+          "opaque_pixels": 2693,
+          "transparent_fraction": 0.6271
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "E",
+      "bytes": 38796,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3453,
+          "opaque_pixels": 1432,
+          "transparent_fraction": 0.6253
+        },
+        "120": {
+          "nontransparent_pixels": 5170,
+          "opaque_pixels": 2448,
+          "transparent_fraction": 0.641
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "F",
+      "bytes": 37184,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3203,
+          "opaque_pixels": 1283,
+          "transparent_fraction": 0.6525
+        },
+        "120": {
+          "nontransparent_pixels": 4779,
+          "opaque_pixels": 2193,
+          "transparent_fraction": 0.6681
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "G",
+      "bytes": 37392,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3715,
+          "opaque_pixels": 1632,
+          "transparent_fraction": 0.5969
+        },
+        "120": {
+          "nontransparent_pixels": 5497,
+          "opaque_pixels": 2734,
+          "transparent_fraction": 0.6183
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "H",
+      "bytes": 37432,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3512,
+          "opaque_pixels": 1539,
+          "transparent_fraction": 0.6189
+        },
+        "120": {
+          "nontransparent_pixels": 5191,
+          "opaque_pixels": 2515,
+          "transparent_fraction": 0.6395
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "I",
+      "bytes": 35502,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3352,
+          "opaque_pixels": 1471,
+          "transparent_fraction": 0.6363
+        },
+        "120": {
+          "nontransparent_pixels": 4984,
+          "opaque_pixels": 2464,
+          "transparent_fraction": 0.6539
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "J",
+      "bytes": 38777,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3357,
+          "opaque_pixels": 1420,
+          "transparent_fraction": 0.6357
+        },
+        "120": {
+          "nontransparent_pixels": 5002,
+          "opaque_pixels": 2393,
+          "transparent_fraction": 0.6526
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "K",
+      "bytes": 38641,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3495,
+          "opaque_pixels": 1459,
+          "transparent_fraction": 0.6208
+        },
+        "120": {
+          "nontransparent_pixels": 5199,
+          "opaque_pixels": 2463,
+          "transparent_fraction": 0.639
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "L",
+      "bytes": 37814,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3532,
+          "opaque_pixels": 1510,
+          "transparent_fraction": 0.6168
+        },
+        "120": {
+          "nontransparent_pixels": 5262,
+          "opaque_pixels": 2594,
+          "transparent_fraction": 0.6346
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "M",
+      "bytes": 41699,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4185,
+          "opaque_pixels": 1778,
+          "transparent_fraction": 0.5459
+        },
+        "120": {
+          "nontransparent_pixels": 6180,
+          "opaque_pixels": 2953,
+          "transparent_fraction": 0.5708
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "N",
+      "bytes": 35309,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3092,
+          "opaque_pixels": 1218,
+          "transparent_fraction": 0.6645
+        },
+        "120": {
+          "nontransparent_pixels": 4551,
+          "opaque_pixels": 2015,
+          "transparent_fraction": 0.684
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "O",
+      "bytes": 39173,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3910,
+          "opaque_pixels": 1650,
+          "transparent_fraction": 0.5757
+        },
+        "120": {
+          "nontransparent_pixels": 5815,
+          "opaque_pixels": 2811,
+          "transparent_fraction": 0.5962
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "P",
+      "bytes": 36081,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3321,
+          "opaque_pixels": 1234,
+          "transparent_fraction": 0.6396
+        },
+        "120": {
+          "nontransparent_pixels": 4916,
+          "opaque_pixels": 2145,
+          "transparent_fraction": 0.6586
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "Q",
+      "bytes": 38935,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3512,
+          "opaque_pixels": 1497,
+          "transparent_fraction": 0.6189
+        },
+        "120": {
+          "nontransparent_pixels": 5193,
+          "opaque_pixels": 2475,
+          "transparent_fraction": 0.6394
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "R",
+      "bytes": 39722,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3628,
+          "opaque_pixels": 1448,
+          "transparent_fraction": 0.6063
+        },
+        "120": {
+          "nontransparent_pixels": 5375,
+          "opaque_pixels": 2451,
+          "transparent_fraction": 0.6267
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "S",
+      "bytes": 38638,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3858,
+          "opaque_pixels": 1684,
+          "transparent_fraction": 0.5814
+        },
+        "120": {
+          "nontransparent_pixels": 5710,
+          "opaque_pixels": 2804,
+          "transparent_fraction": 0.6035
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "T",
+      "bytes": 35757,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3693,
+          "opaque_pixels": 1747,
+          "transparent_fraction": 0.5993
+        },
+        "120": {
+          "nontransparent_pixels": 5444,
+          "opaque_pixels": 2855,
+          "transparent_fraction": 0.6219
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "U",
+      "bytes": 35814,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3296,
+          "opaque_pixels": 1433,
+          "transparent_fraction": 0.6424
+        },
+        "120": {
+          "nontransparent_pixels": 4925,
+          "opaque_pixels": 2415,
+          "transparent_fraction": 0.658
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "V",
+      "bytes": 33576,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3039,
+          "opaque_pixels": 1287,
+          "transparent_fraction": 0.6702
+        },
+        "120": {
+          "nontransparent_pixels": 4477,
+          "opaque_pixels": 2114,
+          "transparent_fraction": 0.6891
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "W",
+      "bytes": 35130,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3608,
+          "opaque_pixels": 1664,
+          "transparent_fraction": 0.6085
+        },
+        "120": {
+          "nontransparent_pixels": 5406,
+          "opaque_pixels": 2788,
+          "transparent_fraction": 0.6246
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "X",
+      "bytes": 37953,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3448,
+          "opaque_pixels": 1348,
+          "transparent_fraction": 0.6259
+        },
+        "120": {
+          "nontransparent_pixels": 5113,
+          "opaque_pixels": 2300,
+          "transparent_fraction": 0.6449
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "Y",
+      "bytes": 34350,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3033,
+          "opaque_pixels": 1264,
+          "transparent_fraction": 0.6709
+        },
+        "120": {
+          "nontransparent_pixels": 4540,
+          "opaque_pixels": 2134,
+          "transparent_fraction": 0.6847
+        }
+      }
+    },
+    {
+      "style": "scriptorium",
+      "letter": "Z",
+      "bytes": 34313,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3298,
+          "opaque_pixels": 1466,
+          "transparent_fraction": 0.6421
+        },
+        "120": {
+          "nontransparent_pixels": 4915,
+          "opaque_pixels": 2406,
+          "transparent_fraction": 0.6587
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "A",
+      "bytes": 30435,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4124,
+          "opaque_pixels": 1129,
+          "transparent_fraction": 0.5525
+        },
+        "120": {
+          "nontransparent_pixels": 6067,
+          "opaque_pixels": 2190,
+          "transparent_fraction": 0.5787
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "B",
+      "bytes": 31486,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4121,
+          "opaque_pixels": 993,
+          "transparent_fraction": 0.5528
+        },
+        "120": {
+          "nontransparent_pixels": 6108,
+          "opaque_pixels": 2073,
+          "transparent_fraction": 0.5758
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "C",
+      "bytes": 29259,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3787,
+          "opaque_pixels": 669,
+          "transparent_fraction": 0.5891
+        },
+        "120": {
+          "nontransparent_pixels": 5518,
+          "opaque_pixels": 1467,
+          "transparent_fraction": 0.6168
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "D",
+      "bytes": 31484,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4313,
+          "opaque_pixels": 1175,
+          "transparent_fraction": 0.532
+        },
+        "120": {
+          "nontransparent_pixels": 6343,
+          "opaque_pixels": 2233,
+          "transparent_fraction": 0.5595
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "E",
+      "bytes": 34620,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3958,
+          "opaque_pixels": 977,
+          "transparent_fraction": 0.5705
+        },
+        "120": {
+          "nontransparent_pixels": 5802,
+          "opaque_pixels": 1974,
+          "transparent_fraction": 0.5971
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "F",
+      "bytes": 33071,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3862,
+          "opaque_pixels": 680,
+          "transparent_fraction": 0.5809
+        },
+        "120": {
+          "nontransparent_pixels": 5647,
+          "opaque_pixels": 1558,
+          "transparent_fraction": 0.6078
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "G",
+      "bytes": 35307,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4283,
+          "opaque_pixels": 994,
+          "transparent_fraction": 0.5353
+        },
+        "120": {
+          "nontransparent_pixels": 6254,
+          "opaque_pixels": 1952,
+          "transparent_fraction": 0.5657
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "H",
+      "bytes": 32262,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4119,
+          "opaque_pixels": 999,
+          "transparent_fraction": 0.5531
+        },
+        "120": {
+          "nontransparent_pixels": 6060,
+          "opaque_pixels": 1988,
+          "transparent_fraction": 0.5792
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "I",
+      "bytes": 24389,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3530,
+          "opaque_pixels": 716,
+          "transparent_fraction": 0.617
+        },
+        "120": {
+          "nontransparent_pixels": 5165,
+          "opaque_pixels": 1527,
+          "transparent_fraction": 0.6413
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "J",
+      "bytes": 29981,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3628,
+          "opaque_pixels": 677,
+          "transparent_fraction": 0.6063
+        },
+        "120": {
+          "nontransparent_pixels": 5304,
+          "opaque_pixels": 1549,
+          "transparent_fraction": 0.6317
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "K",
+      "bytes": 32838,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4292,
+          "opaque_pixels": 1073,
+          "transparent_fraction": 0.5343
+        },
+        "120": {
+          "nontransparent_pixels": 6269,
+          "opaque_pixels": 2052,
+          "transparent_fraction": 0.5647
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "L",
+      "bytes": 26829,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3928,
+          "opaque_pixels": 784,
+          "transparent_fraction": 0.5738
+        },
+        "120": {
+          "nontransparent_pixels": 5750,
+          "opaque_pixels": 1739,
+          "transparent_fraction": 0.6007
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "M",
+      "bytes": 32163,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4558,
+          "opaque_pixels": 1383,
+          "transparent_fraction": 0.5054
+        },
+        "120": {
+          "nontransparent_pixels": 6688,
+          "opaque_pixels": 2560,
+          "transparent_fraction": 0.5356
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "N",
+      "bytes": 29804,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4052,
+          "opaque_pixels": 983,
+          "transparent_fraction": 0.5603
+        },
+        "120": {
+          "nontransparent_pixels": 5922,
+          "opaque_pixels": 2002,
+          "transparent_fraction": 0.5887
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "O",
+      "bytes": 32421,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4093,
+          "opaque_pixels": 885,
+          "transparent_fraction": 0.5559
+        },
+        "120": {
+          "nontransparent_pixels": 6000,
+          "opaque_pixels": 1847,
+          "transparent_fraction": 0.5833
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "P",
+      "bytes": 32870,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4001,
+          "opaque_pixels": 882,
+          "transparent_fraction": 0.5659
+        },
+        "120": {
+          "nontransparent_pixels": 5831,
+          "opaque_pixels": 1757,
+          "transparent_fraction": 0.5951
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "Q",
+      "bytes": 33908,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4206,
+          "opaque_pixels": 1024,
+          "transparent_fraction": 0.5436
+        },
+        "120": {
+          "nontransparent_pixels": 6180,
+          "opaque_pixels": 1964,
+          "transparent_fraction": 0.5708
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "R",
+      "bytes": 31103,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4094,
+          "opaque_pixels": 921,
+          "transparent_fraction": 0.5558
+        },
+        "120": {
+          "nontransparent_pixels": 6018,
+          "opaque_pixels": 1943,
+          "transparent_fraction": 0.5821
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "S",
+      "bytes": 30209,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3850,
+          "opaque_pixels": 642,
+          "transparent_fraction": 0.5822
+        },
+        "120": {
+          "nontransparent_pixels": 5667,
+          "opaque_pixels": 1482,
+          "transparent_fraction": 0.6065
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "T",
+      "bytes": 24566,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3676,
+          "opaque_pixels": 731,
+          "transparent_fraction": 0.6011
+        },
+        "120": {
+          "nontransparent_pixels": 5378,
+          "opaque_pixels": 1563,
+          "transparent_fraction": 0.6265
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "U",
+      "bytes": 30821,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4030,
+          "opaque_pixels": 970,
+          "transparent_fraction": 0.5627
+        },
+        "120": {
+          "nontransparent_pixels": 5963,
+          "opaque_pixels": 1979,
+          "transparent_fraction": 0.5859
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "V",
+      "bytes": 32552,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4125,
+          "opaque_pixels": 937,
+          "transparent_fraction": 0.5524
+        },
+        "120": {
+          "nontransparent_pixels": 6057,
+          "opaque_pixels": 1949,
+          "transparent_fraction": 0.5794
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "W",
+      "bytes": 33370,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4680,
+          "opaque_pixels": 1406,
+          "transparent_fraction": 0.4922
+        },
+        "120": {
+          "nontransparent_pixels": 6885,
+          "opaque_pixels": 2559,
+          "transparent_fraction": 0.5219
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "X",
+      "bytes": 33951,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3785,
+          "opaque_pixels": 666,
+          "transparent_fraction": 0.5893
+        },
+        "120": {
+          "nontransparent_pixels": 5539,
+          "opaque_pixels": 1472,
+          "transparent_fraction": 0.6153
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "Y",
+      "bytes": 34617,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 4096,
+          "opaque_pixels": 968,
+          "transparent_fraction": 0.5556
+        },
+        "120": {
+          "nontransparent_pixels": 6030,
+          "opaque_pixels": 1947,
+          "transparent_fraction": 0.5813
+        }
+      }
+    },
+    {
+      "style": "ribbon",
+      "letter": "Z",
+      "bytes": 29990,
+      "render_checks": {
+        "96": {
+          "nontransparent_pixels": 3800,
+          "opaque_pixels": 624,
+          "transparent_fraction": 0.5877
+        },
+        "120": {
+          "nontransparent_pixels": 5542,
+          "opaque_pixels": 1406,
+          "transparent_fraction": 0.6151
+        }
+      }
+    }
+  ]
+}

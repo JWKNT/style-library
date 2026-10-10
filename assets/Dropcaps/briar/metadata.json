@@ -1,0 +1,28 @@
+{
+  "id": "briar",
+  "name": "Briar",
+  "count": 26,
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "format": "SVG",
+  "source_group": "botanical",
+  "description": "Broad light capitals cut transparently through a dense Arts-and-Crafts canopy of dog roses, leaves, and intertwined thorn stems.",
+  "design_changes": [
+    "Illustration-specific broad fitting, bowed stems, and curved waist treatment in every capital.",
+    "Entirely new dense dog-rose canopy, original lobed flower geometry and lanceolate leaves.",
+    "Capital is negative-space cut through artwork, with open transparent leaf veins and no white paint."
+  ],
+  "artwork_license": "CC0-1.0 for new artwork; applicable source notices retained",
+  "design_metadata": "sources/dropcaps/botanical/metadata.json",
+  "license_files": [
+    "licenses/dropcaps/NOTICE.txt",
+    "licenses/dropcaps/CC0-1.0.txt",
+    "sources/dropcaps/botanical/sources/DejaVu-copyright.txt"
+  ],
+  "download_files": [
+    "assets/Dropcaps/briar/README.txt",
+    "assets/Dropcaps/briar/metadata.json",
+    "licenses/dropcaps/NOTICE.txt",
+    "licenses/dropcaps/CC0-1.0.txt",
+    "sources/dropcaps/botanical/sources/DejaVu-copyright.txt"
+  ]
+}

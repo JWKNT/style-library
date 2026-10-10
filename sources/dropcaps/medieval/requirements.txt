@@ -1,0 +1,5 @@
+fonttools>=4.0,<5
+shapely>=2.0,<3
+CairoSVG>=2.7,<3
+Pillow>=10,<13
+numpy>=1.24,<3

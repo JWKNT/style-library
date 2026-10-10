@@ -1,0 +1,29 @@
+{
+  "id": "tessera",
+  "name": "Tessera",
+  "count": 26,
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "format": "SVG",
+  "source_group": "mosaic",
+  "description": "Original faceted capitals with broad black strokes, forked spear terminals, and transparent geometric inlays. Nested lozenges, chevrons, and angular fragments suggest cut tesserae arranged along each stroke.",
+  "design_changes": [
+    "Drew a complete original A–Z structure as polygonal stroke centerlines with letter-specific proportions.",
+    "Used asymmetrical, faceted bowl construction and flat-topped pointed forms.",
+    "Added integral split spear terminals to the silhouette, rather than a frame around unchanged lettering.",
+    "Subtracted lozenge, chevron, triangular, and diagonal-joint motifs from the ink geometry; preserved nested black inset stones.",
+    "Cut real transparent inlays and counters with Boolean geometry and even-odd SVG paths.",
+    "Added 44-unit safety margins around the full ink bounds for every letter, including Q's descending terminal."
+  ],
+  "artwork_license": "CC0-1.0 for new artwork; applicable source notices retained",
+  "design_metadata": "sources/dropcaps/mosaic/metadata.json",
+  "license_files": [
+    "licenses/dropcaps/NOTICE.txt",
+    "licenses/dropcaps/CC0-1.0.txt"
+  ],
+  "download_files": [
+    "assets/Dropcaps/tessera/README.txt",
+    "assets/Dropcaps/tessera/metadata.json",
+    "licenses/dropcaps/NOTICE.txt",
+    "licenses/dropcaps/CC0-1.0.txt"
+  ]
+}

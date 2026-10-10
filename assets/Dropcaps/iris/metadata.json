@@ -1,0 +1,26 @@
+{
+  "id": "iris",
+  "name": "Iris",
+  "count": 26,
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "format": "SVG",
+  "source_group": "botanical",
+  "description": "Hand-drawn plant-stem capitals, iris flowers, elongated leaves, and whiplash tendrils.",
+  "design_changes": [
+    "26 original hand-drawn curved letter skeletons expanded into contrasting tapered ribbons.",
+    "Per-letter rooted leaf terminals, iris-petal drawings, and whiplash vine arrangement.",
+    "Actual transparent engraving and clear letter/ornament interlace."
+  ],
+  "artwork_license": "CC0-1.0 for new artwork; applicable source notices retained",
+  "design_metadata": "sources/dropcaps/botanical/metadata.json",
+  "license_files": [
+    "licenses/dropcaps/NOTICE.txt",
+    "licenses/dropcaps/CC0-1.0.txt"
+  ],
+  "download_files": [
+    "assets/Dropcaps/iris/README.txt",
+    "assets/Dropcaps/iris/metadata.json",
+    "licenses/dropcaps/NOTICE.txt",
+    "licenses/dropcaps/CC0-1.0.txt"
+  ]
+}

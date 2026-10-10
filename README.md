@@ -2,7 +2,7 @@
 
 [Open the library](https://jehlp.net/style-library/).
 
-The library contains 100 custom font faces and 1,148 SVG icons. Each font has a TTF file and a WOFF2 file.
+The library contains 100 custom font faces, 1,148 SVG icons, and ten complete dropcap alphabets (260 SVG letters). Each font has a TTF file and a WOFF2 file.
 
 ## Font sources and licenses
 
@@ -43,3 +43,13 @@ The shared preview field also updates fonts that have not loaded yet.
 The original font files and complete icon wall have byte-preservation tests.
 
 Actual-font proof sheets are in `assets/Specimens/`.
+
+## Dropcap alphabets
+
+The Dropcaps tab shows all A–Z letters in each set. Select a letter to download its SVG. Select ZIP to download the alphabet with its notices. The browser builds each ZIP from the original files; no third-party service is used.
+
+See `data/dropcaps.json` and `licenses/dropcaps/NOTICE.txt` for sources, changes, and license paths. The SVGs are transparent vector illustrations with no font dependency. Inline SVGs use `currentColor`. Standalone images use black ink; the gallery reverses them in dark mode.
+
+Rebuild sources are in `sources/dropcaps/`. Install each group's pinned requirements, then run `python tools/build-dropcap-assets.py`. Run `python tools/build-dropcaps.py` to rebuild only the gallery. Run `npm test` and `python tools/validate-dropcaps.py` for checks. The raster checker writes proof images to a temporary directory or the path supplied with `--output`. Proof PNGs are local review files and are not part of the site.
+
+2026-10-09: Added ten dropcap alphabets, individual SVG downloads, local ZIP creation, and three-tab keyboard navigation. Preserved every font and icon asset and the complete icon wall.

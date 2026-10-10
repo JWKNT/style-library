@@ -1,0 +1,1179 @@
+{
+  "project": "JWKNT Style Library",
+  "kind": "decorative initial SVG alphabets",
+  "version": 2,
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "count": 78,
+  "viewBox": "0 0 120 120",
+  "license": "LPPL-1.3c-or-later",
+  "license_file": "sources/LPPL.txt",
+  "modified_work": true,
+  "font_programs_used": false,
+  "source_paths_adapted": true,
+  "maintainer": "JWKNT Style Library project",
+  "rebuild": "python build.py --render",
+  "dependencies": {
+    "fonttools": "4.x",
+    "shapely": "2.x",
+    "cairosvg": "2.x (proofs only)",
+    "Pillow": "proofs only"
+  },
+  "styles": [
+    {
+      "id": "thornwood",
+      "name": "Thornwood",
+      "description": "Floriated woodcut letters with sharp medieval silhouettes and original lobed thorn leaves, cut veins, rosettes, branch spirals and double keylines.",
+      "source_author": "Dieter Steffmann / Typographer Mediengestaltung",
+      "source_name": "Morris Initialen",
+      "source_url": "https://ctan.org/tex-archive/fonts/initials",
+      "complete_unmodified_collection": "https://mirrors.ctan.org/fonts/initials.zip",
+      "source_copyright_date": "2000",
+      "license": "LPPL-1.3c-or-later",
+      "modified_work_declaration": "This is a modified work, maintained under the distinct name Thornwood. It is not the unmodified original Morris Initialen. The new ornament and contour construction are identified below.",
+      "design_changes": [
+        "Extracted only the interior historic letter body from each Morris initial; removed every original outer foliage and frame component.",
+        "Renormalized body proportions and redrew the ornamental composition from new path data.",
+        "Added original cut-vein lobed thorn foliage, per-letter seeded leaf positions, branch spirals, two rosettes and outer letter keylines.",
+        "Added sparse new engraved cuts to the thick letter strokes; preserved E\u2019s separately encoded crossbar."
+      ],
+      "count": 26,
+      "files": [
+        {
+          "letter": "A",
+          "file": "assets/thornwood/A.svg",
+          "source": "sources/morris-initialen/A.svg",
+          "source_sha256": "f9eedaf2be680fe05992e2fd6058b1d7ca4cc141a9488cc9bf74486963be3785",
+          "sha256": "3f52064fd6a5f3bbb9f737c21654ab88555087446bf5f56eb367896ac240570e",
+          "ink_bounds": [
+            6.0,
+            15.636,
+            114.0,
+            104.364
+          ],
+          "ink_area": 3843.281
+        },
+        {
+          "letter": "B",
+          "file": "assets/thornwood/B.svg",
+          "source": "sources/morris-initialen/B.svg",
+          "source_sha256": "e5deffeac593fb3ae04722a83459c8b15900147fa19171b3aea10dd33b4f75ec",
+          "sha256": "67d05d387802a6cb7a03bd3a9c819eedb2603f3005a452e8c2113aefd26069ed",
+          "ink_bounds": [
+            6.0,
+            14.528,
+            114.0,
+            105.472
+          ],
+          "ink_area": 3887.338
+        },
+        {
+          "letter": "C",
+          "file": "assets/thornwood/C.svg",
+          "source": "sources/morris-initialen/C.svg",
+          "source_sha256": "9f92ae1c795b1e940f89c291855c28ff6b54b28039244847b603c316287e6d2e",
+          "sha256": "9d912094dc906a49fd006d49f087cfd7c904e3146e772a22a586c544331469c5",
+          "ink_bounds": [
+            6.0,
+            14.996,
+            114.0,
+            105.004
+          ],
+          "ink_area": 3176.736
+        },
+        {
+          "letter": "D",
+          "file": "assets/thornwood/D.svg",
+          "source": "sources/morris-initialen/D.svg",
+          "source_sha256": "17c6b2316d6cc059a53d3ce4f6e66d9a54bfaa0f8126e52e4b918a4fe867b762",
+          "sha256": "3aaa2144ae5255c8b91bf94ac1c3adc87c2eca40986a94320807f8c61a19ea86",
+          "ink_bounds": [
+            6.0,
+            13.788,
+            114.0,
+            106.212
+          ],
+          "ink_area": 3650.037
+        },
+        {
+          "letter": "E",
+          "file": "assets/thornwood/E.svg",
+          "source": "sources/morris-initialen/E.svg",
+          "source_sha256": "53c4c0a7c81798416108b8e3df85b9fc8f5e9b084cb9098aa7bed13d76e9998e",
+          "sha256": "99aa4ac8d0832a3669e947261061c3eb8c1c95c677688edffe5027567365aafb",
+          "ink_bounds": [
+            6.0,
+            13.51,
+            114.0,
+            106.49
+          ],
+          "ink_area": 3669.635
+        },
+        {
+          "letter": "F",
+          "file": "assets/thornwood/F.svg",
+          "source": "sources/morris-initialen/F.svg",
+          "source_sha256": "d40713f94be24359a2b45e6c2b487a22cfdf5b8221f502b77411df746a12932e",
+          "sha256": "16f023a81539d64cd3d445dadaf89ad9b27a20a0a5f8ababe0134da2ded107df",
+          "ink_bounds": [
+            6.0,
+            13.545,
+            114.0,
+            106.455
+          ],
+          "ink_area": 3809.369
+        },
+        {
+          "letter": "G",
+          "file": "assets/thornwood/G.svg",
+          "source": "sources/morris-initialen/G.svg",
+          "source_sha256": "9bdd9e665fd0e97f2ec577835d107ff0e10c376bb35930372ec29af43e2b4115",
+          "sha256": "e01a935aaff0f07541fb39c61f44ae99ce888a8443b1c5daa70e49b68933dc4a",
+          "ink_bounds": [
+            6.0,
+            14.902,
+            114.0,
+            105.098
+          ],
+          "ink_area": 3869.129
+        },
+        {
+          "letter": "H",
+          "file": "assets/thornwood/H.svg",
+          "source": "sources/morris-initialen/H.svg",
+          "source_sha256": "e113fca7dd96ef4d8e6a173b35b1bc89bd5f61a556fc3173436e2b84ae330f8e",
+          "sha256": "b6252f470e1714f690060592f95b20633045017be10b568a0b18683a09038f43",
+          "ink_bounds": [
+            6.0,
+            13.835,
+            114.0,
+            106.165
+          ],
+          "ink_area": 3589.75
+        },
+        {
+          "letter": "I",
+          "file": "assets/thornwood/I.svg",
+          "source": "sources/morris-initialen/I.svg",
+          "source_sha256": "8d81e68bf5e7f350b14378c61aa58cc396d6ccc44aba2dd1474fa4d7cb7ca974",
+          "sha256": "e4cbd796ccd0e29848ac9c88d92aceb3ac19361bd9e61a2a74a64e22a1add4d4",
+          "ink_bounds": [
+            6.0,
+            15.436,
+            114.0,
+            104.564
+          ],
+          "ink_area": 3478.552
+        },
+        {
+          "letter": "J",
+          "file": "assets/thornwood/J.svg",
+          "source": "sources/morris-initialen/J.svg",
+          "source_sha256": "3a9f1b381a0f70d7b99005e50817a375089530eca31e2dd45c5159f573e54866",
+          "sha256": "90969ee27b5af531dbc15a36a01e398d34d341658bb76338a68f0038b4021338",
+          "ink_bounds": [
+            6.0,
+            14.203,
+            114.0,
+            105.797
+          ],
+          "ink_area": 3571.649
+        },
+        {
+          "letter": "K",
+          "file": "assets/thornwood/K.svg",
+          "source": "sources/morris-initialen/K.svg",
+          "source_sha256": "11ee2ca67997b176452fc7d673267d78708affc26f5dbc80f093154f4f81576d",
+          "sha256": "62f0b6b438af6f770f26ee5ceaced7a85e2351b53b718d38ad5d7a8812a70a9e",
+          "ink_bounds": [
+            6.0,
+            14.93,
+            114.0,
+            105.07
+          ],
+          "ink_area": 3881.461
+        },
+        {
+          "letter": "L",
+          "file": "assets/thornwood/L.svg",
+          "source": "sources/morris-initialen/L.svg",
+          "source_sha256": "e1d9619c0b17b4ba4e2bc97054193f8a5fe91773c16d29eeef5981fe1fecbe0e",
+          "sha256": "da86945aedaf29724a62ab24d5ce412e913238ce331530af40003edaa99ce3fa",
+          "ink_bounds": [
+            6.0,
+            14.567,
+            114.0,
+            105.433
+          ],
+          "ink_area": 3613.977
+        },
+        {
+          "letter": "M",
+          "file": "assets/thornwood/M.svg",
+          "source": "sources/morris-initialen/M.svg",
+          "source_sha256": "8d408cef7388973200ca02d06815fe4d6dd171e1ef17e40c7f1dcc6b00d74344",
+          "sha256": "6914949b183468fbf6678a6c73196bdbc9c9117239fb2e56fb7154c923b3132f",
+          "ink_bounds": [
+            6.0,
+            15.353,
+            114.0,
+            104.647
+          ],
+          "ink_area": 3774.299
+        },
+        {
+          "letter": "N",
+          "file": "assets/thornwood/N.svg",
+          "source": "sources/morris-initialen/N.svg",
+          "source_sha256": "3c3b07e0cc266c7233c9f052374d6d7f60e035d9274c0def68c61a2f8ea2aab2",
+          "sha256": "fc1a0aa82d63b962d8ff56b9869414211baf0f84f8d77151422bc504d1ae4dd4",
+          "ink_bounds": [
+            6.0,
+            14.058,
+            114.0,
+            105.942
+          ],
+          "ink_area": 3847.263
+        },
+        {
+          "letter": "O",
+          "file": "assets/thornwood/O.svg",
+          "source": "sources/morris-initialen/O.svg",
+          "source_sha256": "b42ec6ab2dc47fb88f834d2aebf8ea3c4ab0a0129e07f0a8641c63647d8432a7",
+          "sha256": "f1e7f7420a5e99150fd01a8acd8c1826a417ee244b8c119f03f7dfa8df2510a4",
+          "ink_bounds": [
+            6.0,
+            15.113,
+            114.0,
+            104.887
+          ],
+          "ink_area": 3403.527
+        },
+        {
+          "letter": "P",
+          "file": "assets/thornwood/P.svg",
+          "source": "sources/morris-initialen/P.svg",
+          "source_sha256": "733a4b88b5ab9fd50834bf2800b037283fe9f515b00640e3a29640b078701adb",
+          "sha256": "22c1a634ce44f4058cc501ea3f420b296bebfd3d31f4e34d9d0bce363ea0e07f",
+          "ink_bounds": [
+            6.0,
+            15.477,
+            114.0,
+            104.523
+          ],
+          "ink_area": 3544.879
+        },
+        {
+          "letter": "Q",
+          "file": "assets/thornwood/Q.svg",
+          "source": "sources/morris-initialen/Q.svg",
+          "source_sha256": "72ef2f0c149df9738a022952a65cda43874fd4b22b7614b36444a8902a192dd8",
+          "sha256": "50e190a1336b8ea7a4e6eb7195abb34fe53125aff5b5a0fafee0aaa601762f06",
+          "ink_bounds": [
+            6.0,
+            14.366,
+            114.0,
+            105.634
+          ],
+          "ink_area": 3577.703
+        },
+        {
+          "letter": "R",
+          "file": "assets/thornwood/R.svg",
+          "source": "sources/morris-initialen/R.svg",
+          "source_sha256": "4e759299ad7130f41ea850b97b2d411a1547ac324aab5be6c886b6a82455a18f",
+          "sha256": "a3690ebf0a7f23e8dc22e2f8f403a0255d687544ccdc3a47ad41027b4deb834f",
+          "ink_bounds": [
+            6.0,
+            14.171,
+            114.0,
+            105.829
+          ],
+          "ink_area": 3832.123
+        },
+        {
+          "letter": "S",
+          "file": "assets/thornwood/S.svg",
+          "source": "sources/morris-initialen/S.svg",
+          "source_sha256": "398f85e26151e7778a035f4a67ce1febc07f5a77b655e8fb3285a2dadc6c3d78",
+          "sha256": "f0768cabaeae9082c0a9af2392dba860b2eb313e64f4b2306303603aad83e8c9",
+          "ink_bounds": [
+            6.0,
+            15.734,
+            114.0,
+            104.266
+          ],
+          "ink_area": 3440.155
+        },
+        {
+          "letter": "T",
+          "file": "assets/thornwood/T.svg",
+          "source": "sources/morris-initialen/T.svg",
+          "source_sha256": "39762f2a14ff7a1d0110dd6306fe25ab26b31423c672508f8d015b2b332c0c58",
+          "sha256": "560ab1f9ad9cb1938e730e1283e615ca09ff25cdbbd9d70a1c2e7aa2a984fa0c",
+          "ink_bounds": [
+            6.0,
+            16.372,
+            114.0,
+            103.628
+          ],
+          "ink_area": 3405.117
+        },
+        {
+          "letter": "U",
+          "file": "assets/thornwood/U.svg",
+          "source": "sources/morris-initialen/U.svg",
+          "source_sha256": "adf9fa7a32562d0a47206aac44893661af713a20c44c7916aa6e071412b84950",
+          "sha256": "14534bfff6288414653e7351af2540784ef7480454d842b823c5e8c1bb37f58e",
+          "ink_bounds": [
+            6.0,
+            13.961,
+            114.0,
+            106.039
+          ],
+          "ink_area": 3960.086
+        },
+        {
+          "letter": "V",
+          "file": "assets/thornwood/V.svg",
+          "source": "sources/morris-initialen/V.svg",
+          "source_sha256": "d5d6ff281e0111da05f3e44b13d2be55ac89d1d167c5d3b33cfa19a97999d59d",
+          "sha256": "a3edd995672e51664047c816436391775a27ba3b8a0161f8cdfdb8bc4928c6d3",
+          "ink_bounds": [
+            6.0,
+            14.687,
+            114.0,
+            105.313
+          ],
+          "ink_area": 3576.312
+        },
+        {
+          "letter": "W",
+          "file": "assets/thornwood/W.svg",
+          "source": "sources/morris-initialen/W.svg",
+          "source_sha256": "89c34398e911076f5a39176f134e2c2eacc7334c6d29994fabf49908e8096c1b",
+          "sha256": "4040a43e911e15077c6e4963c543b4060353fb21e607ef86ec4ffbe9853aab6b",
+          "ink_bounds": [
+            6.0,
+            15.235,
+            114.0,
+            104.765
+          ],
+          "ink_area": 3504.515
+        },
+        {
+          "letter": "X",
+          "file": "assets/thornwood/X.svg",
+          "source": "sources/morris-initialen/X.svg",
+          "source_sha256": "42a760a5e7fe91143ebbb38926e6a0ad77b1bb7a434ebecaad34d806bfbc4366",
+          "sha256": "d4125634e3cbabee20088ebaa4cc81eef043c00e96a269dabd107c9a1c4da43d",
+          "ink_bounds": [
+            6.0,
+            12.313,
+            114.0,
+            107.687
+          ],
+          "ink_area": 3656.355
+        },
+        {
+          "letter": "Y",
+          "file": "assets/thornwood/Y.svg",
+          "source": "sources/morris-initialen/Y.svg",
+          "source_sha256": "e90d35fa70cc9b1461980366b5b26e78c8dab4c2bce20da6e185d8a1ddf1a103",
+          "sha256": "6460971ed54a1f6c26122d4dfd9a56b6abe047c854b656b95d30c0164e7156fb",
+          "ink_bounds": [
+            6.0,
+            12.685,
+            114.0,
+            107.315
+          ],
+          "ink_area": 3369.187
+        },
+        {
+          "letter": "Z",
+          "file": "assets/thornwood/Z.svg",
+          "source": "sources/morris-initialen/Z.svg",
+          "source_sha256": "e666a4db6b2697539d6a96bbd7d8fdea7062e0db8066448fde7179b7e4aae96b",
+          "sha256": "146194f1796e974fe28b48e129aa0cb252635788a134d517c2ed2237a31ce949",
+          "ink_bounds": [
+            6.0,
+            13.027,
+            114.0,
+            106.973
+          ],
+          "ink_area": 3736.232
+        }
+      ]
+    },
+    {
+      "id": "scriptorium",
+      "name": "Scriptorium",
+      "description": "Illuminated penwork versals with historic blackletter anatomy, newly incised stem scrolls and extensive open curling pen sprays.",
+      "source_author": "Dieter Steffmann / Typographer Mediengestaltung",
+      "source_name": "Royal Initialen",
+      "source_url": "https://ctan.org/tex-archive/fonts/initials",
+      "complete_unmodified_collection": "https://mirrors.ctan.org/fonts/initials.zip",
+      "source_copyright_date": "1999",
+      "license": "LPPL-1.3c-or-later",
+      "modified_work_declaration": "This is a modified work, maintained under the distinct name Scriptorium. It is not the unmodified original Royal Initialen. The new ornament and contour construction are identified below.",
+      "design_changes": [
+        "Reconstructed the Royal historic silhouettes with a closing operation and selective counter preservation, removing and merging fine source ornament.",
+        "Added new engraved S-scroll cuts throughout available stem interiors.",
+        "Recomposed open spaces with eight original calligraphic branching sprays, lobed leaf terminals and ink beads.",
+        "Replaced the original visual composition with a wider freely branching penwork silhouette."
+      ],
+      "count": 26,
+      "files": [
+        {
+          "letter": "A",
+          "file": "assets/scriptorium/A.svg",
+          "source": "sources/royal-initialen/A.svg",
+          "source_sha256": "d8f2c745b8587b713eb0ad9f7958292f53bc3d10046cb69eafd36b89a0972c93",
+          "sha256": "af38b4d351d6c8ef1a649fecb8d4f893d39dca590394f66567a7a3ee39462381",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3579.318
+        },
+        {
+          "letter": "B",
+          "file": "assets/scriptorium/B.svg",
+          "source": "sources/royal-initialen/B.svg",
+          "source_sha256": "c076e38a31bc75a5e34b637bd4f0d1bbdf4157d7b3aaa2d6e16fe2058f655164",
+          "sha256": "9afdfe4bab80e6a09aa9f46cb4f0b224f70ed279a16e0d5490f93e84f96fc5aa",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3947.717
+        },
+        {
+          "letter": "C",
+          "file": "assets/scriptorium/C.svg",
+          "source": "sources/royal-initialen/C.svg",
+          "source_sha256": "97fa03c5689192553c16d1a2e68c5c29362630d63d7a56bc8d3a6073ddb5ee08",
+          "sha256": "7d786557f3789379b6d7e32772313ebfd605f914a458fed8d60ca5a3741c9f13",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3908.373
+        },
+        {
+          "letter": "D",
+          "file": "assets/scriptorium/D.svg",
+          "source": "sources/royal-initialen/D.svg",
+          "source_sha256": "f8e4d9d490025115bf4cc5728e01db8b7c38c88810c4e1f03718a0823c3483d9",
+          "sha256": "fad2caaae38a5767224b30c7224ef186376d65cdf098ecc3eadb1bbfa6803b38",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 4047.656
+        },
+        {
+          "letter": "E",
+          "file": "assets/scriptorium/E.svg",
+          "source": "sources/royal-initialen/E.svg",
+          "source_sha256": "aa17a55d6adcf4cab14335163a981abfc22540dd87f90d7e05691bbab7dd7c28",
+          "sha256": "b55c21bfaab05b1dead506c521a664ddf5582775aaaf730be838e3bd2c2cce2d",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3773.526
+        },
+        {
+          "letter": "F",
+          "file": "assets/scriptorium/F.svg",
+          "source": "sources/royal-initialen/F.svg",
+          "source_sha256": "0de66ac30c929be7a5a7991c5b098b6a31ffac46edc48f82110bdce04af6be97",
+          "sha256": "a71641c8a7b463b6c9baa99340924a85b41efcd7372eedb49cb40c00b49a98a0",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3445.011
+        },
+        {
+          "letter": "G",
+          "file": "assets/scriptorium/G.svg",
+          "source": "sources/royal-initialen/G.svg",
+          "source_sha256": "b90a932af36fddf9cf6a848d0392a3513275e94d07a4d689a8f34980cdb3bbb7",
+          "sha256": "f3d526dfb5de8bf040bb5dbb4625bc528918cfeab473305a794d26abaa479860",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 4105.586
+        },
+        {
+          "letter": "H",
+          "file": "assets/scriptorium/H.svg",
+          "source": "sources/royal-initialen/H.svg",
+          "source_sha256": "be411489e453b41667f6253e3af23acc2f00e452149e85c7990d8bf040fc7c3c",
+          "sha256": "3af7816b464f4e4116670e509f96e55380c8bebb8aab522e0170f9cd2ff95e2c",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3864.484
+        },
+        {
+          "letter": "I",
+          "file": "assets/scriptorium/I.svg",
+          "source": "sources/royal-initialen/I.svg",
+          "source_sha256": "1d99bf9c8d2b566abf30d6d4dc7963d83f79ef83803321210970712ba363cc05",
+          "sha256": "7e0d1bd0f47b13de3ac28e1014e609e0a3e06998914aaecbe9976a71b0745179",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3640.296
+        },
+        {
+          "letter": "J",
+          "file": "assets/scriptorium/J.svg",
+          "source": "sources/royal-initialen/J.svg",
+          "source_sha256": "994a7344b6c56eff66035224e86ef667e847f45f0e962ac6ae9a941cb0441696",
+          "sha256": "cecd95fb79ebb8730aee372cd50c89ec88c5de6bde88386dc90ee854faa303d5",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3639.547
+        },
+        {
+          "letter": "K",
+          "file": "assets/scriptorium/K.svg",
+          "source": "sources/royal-initialen/K.svg",
+          "source_sha256": "1cfa47d3cffb2e74f890a3a525b0c607e2cb36e131e657a59f828db1388f8d1c",
+          "sha256": "59334252ac44b19e6d68c3aded3f1d7239f19e4d1bfc8f03e08d922a49f12cea",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3813.251
+        },
+        {
+          "letter": "L",
+          "file": "assets/scriptorium/L.svg",
+          "source": "sources/royal-initialen/L.svg",
+          "source_sha256": "0e18987b7010f25f697c0c00f593c2aa01c6ac539962ee9954495d5b072cd6b6",
+          "sha256": "ddf70e2c042382d4e553b200240ed8c4c8f461b2a1f742e287290735eccd164e",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3885.071
+        },
+        {
+          "letter": "M",
+          "file": "assets/scriptorium/M.svg",
+          "source": "sources/royal-initialen/M.svg",
+          "source_sha256": "658ce7233b022d5a050b221a4827559c574bcba525c2e8f6afdef70e59a4ae27",
+          "sha256": "592cc5a94f54b516069c85e5c79492e65d61397320d827ff7fdf87f2d90b12e3",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 4580.27
+        },
+        {
+          "letter": "N",
+          "file": "assets/scriptorium/N.svg",
+          "source": "sources/royal-initialen/N.svg",
+          "source_sha256": "c011fa5da0c37d2dc5e542b7fef171b3834f2964b427159cd37f444e632f2c78",
+          "sha256": "187fe19b6ed337248fd4143ba94011a2e68b39d9ac7237964d32a8d00f95b276",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3286.431
+        },
+        {
+          "letter": "O",
+          "file": "assets/scriptorium/O.svg",
+          "source": "sources/royal-initialen/O.svg",
+          "source_sha256": "0360adee6c75e966d4576d9ed57e00660d284ee90df31f4e76363e84a7f7b637",
+          "sha256": "2b7a40f8876bd7f6ed3542ab38e75e970918f6cebfa506ddf37dc5da8b305dc3",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 4287.163
+        },
+        {
+          "letter": "P",
+          "file": "assets/scriptorium/P.svg",
+          "source": "sources/royal-initialen/P.svg",
+          "source_sha256": "e72d6ec525def395d685667da5f2ea563fda1d0d5414a7c098aee7e812893662",
+          "sha256": "3f32cfef804fab6b745a3932c12eed1a243074dcdcf1f9cc6bb673271f0a38d0",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3451.463
+        },
+        {
+          "letter": "Q",
+          "file": "assets/scriptorium/Q.svg",
+          "source": "sources/royal-initialen/Q.svg",
+          "source_sha256": "5dda837f52f174c654de4f64148116636bf26a02e7e89c8b4b9595e297c411fe",
+          "sha256": "ad90f81226d4e0f35d2c4768d4525a9d8efb18e8dbf152da9cd619b0f022ba49",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3831.0
+        },
+        {
+          "letter": "R",
+          "file": "assets/scriptorium/R.svg",
+          "source": "sources/royal-initialen/R.svg",
+          "source_sha256": "5bfd6d1a1b39c299982f6ede29f58fba91fa956cab8e8f988c72eec312c68d8f",
+          "sha256": "f4200249f57dfad4ddd54f91d22e9f1cab987d050985d84be275e47ef0ae6fae",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3872.184
+        },
+        {
+          "letter": "S",
+          "file": "assets/scriptorium/S.svg",
+          "source": "sources/royal-initialen/S.svg",
+          "source_sha256": "cb734cab6077e438ae1a6fdd783a59b51f8f329b837cdd6649a78240760f4251",
+          "sha256": "f2f1b8c2486ab7060eba1101a56f86cb05cb77e7105baca0af1ac55636d3b010",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 4255.659
+        },
+        {
+          "letter": "T",
+          "file": "assets/scriptorium/T.svg",
+          "source": "sources/royal-initialen/T.svg",
+          "source_sha256": "6d83a79c02077689ac04191430aa1fbcc7eea006d511b09b02d66e3852e1bd3d",
+          "sha256": "cbca4aa43c6b8952beeb77f2951a99f32285b9667c95f87b39c0d964ff87f20b",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 4154.341
+        },
+        {
+          "letter": "U",
+          "file": "assets/scriptorium/U.svg",
+          "source": "sources/royal-initialen/U.svg",
+          "source_sha256": "27be7527aa709408e199c3a5c3a13fa292a8d18960e9e49f8222b0e89563a39b",
+          "sha256": "0b0c74d65c7fa7c2392207d3d779949c54072f121ee6d53d03c0cb0317a25e81",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3638.836
+        },
+        {
+          "letter": "V",
+          "file": "assets/scriptorium/V.svg",
+          "source": "sources/royal-initialen/V.svg",
+          "source_sha256": "f3d4b13b8c8c7c02a0cc0e1e9775e7ca4e9255c2ece7a9788f3211a2dc67edcf",
+          "sha256": "c90dd3d925a96e98abc6964d0dbac8d9107d2dcfba2169ec998bfac72ea374b3",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3270.979
+        },
+        {
+          "letter": "W",
+          "file": "assets/scriptorium/W.svg",
+          "source": "sources/royal-initialen/W.svg",
+          "source_sha256": "d15d079af01dfe7abef2e5d64b4bf15ffefb622449f14cfa4f0d7ca74a40a2f6",
+          "sha256": "a36acc623b1c3c53f9ea9c318044889a0992c4e71da28d3390ec27b024184126",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 4074.31
+        },
+        {
+          "letter": "X",
+          "file": "assets/scriptorium/X.svg",
+          "source": "sources/royal-initialen/X.svg",
+          "source_sha256": "7f6c53696009a0ad5707ace3efd43275b865ab27854b922c458a0746dd88a583",
+          "sha256": "1d02d65fb71884c2d29f4b45831d3b832b8efdd7b287fc96255780585b2a702d",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3671.269
+        },
+        {
+          "letter": "Y",
+          "file": "assets/scriptorium/Y.svg",
+          "source": "sources/royal-initialen/Y.svg",
+          "source_sha256": "a6e7aba4e2f9f58e8ff767ab24f54afcb9d1498d6c7e164607c013a516cfb3dd",
+          "sha256": "7f521cb1bd2c53c787dfb57cb9c3369454c7c685dc25e9320030aa180130bc77",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3287.066
+        },
+        {
+          "letter": "Z",
+          "file": "assets/scriptorium/Z.svg",
+          "source": "sources/royal-initialen/Z.svg",
+          "source_sha256": "f7bf1c1710cd155b7e971d504573fe05c8a643e1c0ca41ceb4615503ce652f2d",
+          "sha256": "53cb5f6ca3e0f605f92cd60dde239ad9c615c1990ae9dad35823a8ee7c05243e",
+          "ink_bounds": [
+            6.0,
+            7.914,
+            114.0,
+            112.086
+          ],
+          "ink_area": 3632.686
+        }
+      ]
+    },
+    {
+      "id": "ribbon",
+      "name": "Ribbon",
+      "description": "Insular letters rebuilt as channeled bands and threaded with original alternating over-and-under interlace strands.",
+      "source_author": "Dieter Steffmann / Typographer Mediengestaltung",
+      "source_name": "Carrick Caps",
+      "source_url": "https://ctan.org/tex-archive/fonts/initials",
+      "complete_unmodified_collection": "https://mirrors.ctan.org/fonts/initials.zip",
+      "source_copyright_date": "source notice retained",
+      "license": "LPPL-1.3c-or-later",
+      "modified_work_declaration": "This is a modified work, maintained under the distinct name Ribbon. It is not the unmodified original Carrick Caps. The new ornament and contour construction are identified below.",
+      "design_changes": [
+        "Isolated Carrick\u2019s weighty insular letter construction with a morphological opening; removed most original thin interlace and outline details.",
+        "Discarded tiny remnant components and rebuilt body edges with a light closing operation.",
+        "Cut new inset channels following the complete letter contours and counters.",
+        "Drew three new continuous ornamental strands and two foreground crossing segments; erased the understrands at the crossings to make genuine interlace.",
+        "Preserved historical letter identity and roof/foot construction while materially replacing the ornament; independently redrew I and T for distinct anatomy, strengthened E\u2019s exposed middle arm, and extended Q\u2019s tail."
+      ],
+      "count": 26,
+      "files": [
+        {
+          "letter": "A",
+          "file": "assets/ribbon/A.svg",
+          "source": "sources/carrick-caps/A.svg",
+          "source_sha256": "1de80aa611facf994a131e4746b3bcb86a73ca5c1f3e39072485d7735bf4ce09",
+          "sha256": "b01958bbffc1b1f9c613c6cd147b102ed7f0cb7911141b32f54557586c23c20b",
+          "ink_bounds": [
+            6.116,
+            9.862,
+            113.884,
+            110.138
+          ],
+          "ink_area": 4123.682
+        },
+        {
+          "letter": "B",
+          "file": "assets/ribbon/B.svg",
+          "source": "sources/carrick-caps/B.svg",
+          "source_sha256": "b66181568892346135e9b80febd939b6607cf2c471a4f5a73c77cef881d427a6",
+          "sha256": "aeb312a7cdd513d8fc3910b1647cdc7ac5a0b3e3863414135f66472177ce13f5",
+          "ink_bounds": [
+            6.116,
+            9.9,
+            113.884,
+            110.1
+          ],
+          "ink_area": 4089.828
+        },
+        {
+          "letter": "C",
+          "file": "assets/ribbon/C.svg",
+          "source": "sources/carrick-caps/C.svg",
+          "source_sha256": "274f26e48758cc56eae6472deb6461c48fa6fcb9349313b0cddcfb39e2ccbf9e",
+          "sha256": "ad3e37bfd3a46b5f39ebf407cf09cbb500213a3a471a2101b5f1d82385248209",
+          "ink_bounds": [
+            6.116,
+            9.862,
+            113.884,
+            110.138
+          ],
+          "ink_area": 3518.671
+        },
+        {
+          "letter": "D",
+          "file": "assets/ribbon/D.svg",
+          "source": "sources/carrick-caps/D.svg",
+          "source_sha256": "2a6626d342ecb18f3ac93e793d0106b3def990fe0b8a2d2e6b10be7f522fad1c",
+          "sha256": "055bec8cef6847d1a98afbd8322842645cfad76536dabc3e5f8c91aee55145f4",
+          "ink_bounds": [
+            6.116,
+            9.846,
+            113.884,
+            110.154
+          ],
+          "ink_area": 4304.303
+        },
+        {
+          "letter": "E",
+          "file": "assets/ribbon/E.svg",
+          "source": "sources/carrick-caps/E.svg",
+          "source_sha256": "1d032244f84b56abb9b4ed200b88d1d557dc0b06e7b79483e2dcc8e525bbd51b",
+          "sha256": "61de51157b311061e1f5018a6dc730c0de89ff791ea5530b23140f56b40eb4cd",
+          "ink_bounds": [
+            6.116,
+            9.515,
+            113.884,
+            110.485
+          ],
+          "ink_area": 3919.981
+        },
+        {
+          "letter": "F",
+          "file": "assets/ribbon/F.svg",
+          "source": "sources/carrick-caps/F.svg",
+          "source_sha256": "2715d8c89c263d5e3429cc33636d4898b118a3698f2fed767f12b79d3391e5c5",
+          "sha256": "2518898deb66610772a361baef2d600f218f647847950743a23f855b3c2c42f8",
+          "ink_bounds": [
+            6.116,
+            9.862,
+            113.884,
+            110.138
+          ],
+          "ink_area": 3605.953
+        },
+        {
+          "letter": "G",
+          "file": "assets/ribbon/G.svg",
+          "source": "sources/carrick-caps/G.svg",
+          "source_sha256": "a4d9bfefbdc662ae067a21d223d91014b135fc39e6744f016f236051e199d916",
+          "sha256": "b86e0e8b46da075eef4b34c3417bde303043db4f9e90fa3729d48c6329bf39bf",
+          "ink_bounds": [
+            6.116,
+            9.683,
+            113.884,
+            110.317
+          ],
+          "ink_area": 4106.187
+        },
+        {
+          "letter": "H",
+          "file": "assets/ribbon/H.svg",
+          "source": "sources/carrick-caps/H.svg",
+          "source_sha256": "4e55353211ebb628fb7f5213900f68fc066e5c2218d2927989bde76aeb3e34ee",
+          "sha256": "3fc153832ce640ebd197ccdedf8deb911edc2055e66b07843cf7e4009bc316bf",
+          "ink_bounds": [
+            6.116,
+            9.803,
+            113.884,
+            110.197
+          ],
+          "ink_area": 4038.048
+        },
+        {
+          "letter": "I",
+          "file": "assets/ribbon/I.svg",
+          "source": "sources/carrick-caps/I.svg",
+          "source_sha256": "c02cdd0280c325c0144ff23a6fe931a3cfdfdb7ea3900abab46ab3bb2d240950",
+          "sha256": "6da3403cddfb4a6aa3b708ce3ea195f3708188d79a1eaaa3a9464599a235ae7b",
+          "ink_bounds": [
+            6.116,
+            9.862,
+            113.884,
+            110.138
+          ],
+          "ink_area": 3349.89
+        },
+        {
+          "letter": "J",
+          "file": "assets/ribbon/J.svg",
+          "source": "sources/carrick-caps/J.svg",
+          "source_sha256": "c02cdd0280c325c0144ff23a6fe931a3cfdfdb7ea3900abab46ab3bb2d240950",
+          "sha256": "874344bcfb27ed4df68f7b481755cf8d0f4ec1fe09d8e45f1907de38e85abed0",
+          "ink_bounds": [
+            6.116,
+            9.394,
+            113.884,
+            110.606
+          ],
+          "ink_area": 3435.181
+        },
+        {
+          "letter": "K",
+          "file": "assets/ribbon/K.svg",
+          "source": "sources/carrick-caps/K.svg",
+          "source_sha256": "c471528a5a58e4082e95a549ccaf994dc713e245ebe9429a9524aef6f3b3311f",
+          "sha256": "7b08a6e02d7c24f74868487b8c3e40a2d90a1591eee34dfdeae9e63aff3cba96",
+          "ink_bounds": [
+            6.116,
+            9.387,
+            113.884,
+            110.613
+          ],
+          "ink_area": 4183.984
+        },
+        {
+          "letter": "L",
+          "file": "assets/ribbon/L.svg",
+          "source": "sources/carrick-caps/L.svg",
+          "source_sha256": "ed0e1e9634dd98dc15480a05cf53ed9b90e812377fa2bdd080f3ef792a1e64ae",
+          "sha256": "833b7fa510738a036ed3b5c908cbfe5c7f9f2656416050db5083de1715b0e97d",
+          "ink_bounds": [
+            6.116,
+            9.531,
+            113.884,
+            110.469
+          ],
+          "ink_area": 3741.307
+        },
+        {
+          "letter": "M",
+          "file": "assets/ribbon/M.svg",
+          "source": "sources/carrick-caps/M.svg",
+          "source_sha256": "2db1e16d2d4fa8a6e68f7b7fe57cc3d88be42a368d1441accdaf0c379cfab8a3",
+          "sha256": "3703dabcdfbf7f9eb019dce69b93aee661733af27fac1a896a69b6eae2cb0676",
+          "ink_bounds": [
+            6.116,
+            9.32,
+            113.884,
+            110.68
+          ],
+          "ink_area": 4668.121
+        },
+        {
+          "letter": "N",
+          "file": "assets/ribbon/N.svg",
+          "source": "sources/carrick-caps/N.svg",
+          "source_sha256": "fb4150f9a2c8aa54869e19942099d2e5a57bf7e29737ea33ef226eca7dbc50c9",
+          "sha256": "a74ac7e081e93c28e23dd42a2f6b3bfcacb77833914371c63eb83ba838722ff5",
+          "ink_bounds": [
+            6.116,
+            9.987,
+            113.884,
+            110.013
+          ],
+          "ink_area": 3975.924
+        },
+        {
+          "letter": "O",
+          "file": "assets/ribbon/O.svg",
+          "source": "sources/carrick-caps/O.svg",
+          "source_sha256": "a97dbd3fd89497e9d8bf274e5cd304b248053b47c8cd091c5b41df5a1f8e2d19",
+          "sha256": "6fb7ec2015766b63aa1a6774389f24db166e4f597632241482cdc1ec88b7def3",
+          "ink_bounds": [
+            6.116,
+            9.862,
+            113.884,
+            110.138
+          ],
+          "ink_area": 3957.823
+        },
+        {
+          "letter": "P",
+          "file": "assets/ribbon/P.svg",
+          "source": "sources/carrick-caps/P.svg",
+          "source_sha256": "26fa1da9aee1cfdef7b71e02bfd80a0364ce3ec0903a7f6587ae232eb0d7b07a",
+          "sha256": "21303db6415bc7a9c1a1b09c6120c02efb5ed1651aa603eadf43b6b36eb5e22a",
+          "ink_bounds": [
+            6.116,
+            9.987,
+            113.884,
+            110.013
+          ],
+          "ink_area": 3859.618
+        },
+        {
+          "letter": "Q",
+          "file": "assets/ribbon/Q.svg",
+          "source": "sources/carrick-caps/Q.svg",
+          "source_sha256": "3190456cc61624faabebed9d8d290d4532d16a4623b37f7a3fcfe9ee14897044",
+          "sha256": "42a8b2ed4c5644fece674f7c0f582d8bc122f5b646fb77a08e88f0c3e281f5fc",
+          "ink_bounds": [
+            6.116,
+            9.86,
+            113.884,
+            110.14
+          ],
+          "ink_area": 4094.499
+        },
+        {
+          "letter": "R",
+          "file": "assets/ribbon/R.svg",
+          "source": "sources/carrick-caps/R.svg",
+          "source_sha256": "a1b098d695f9edf03fc0bf7a02cc6496c5292ced94d9972a1d467abcfc01a166",
+          "sha256": "bd58cebfe6f319caaca4417a56419ac4522852b8ee7a533aa79ac2318e864e4c",
+          "ink_bounds": [
+            6.116,
+            9.649,
+            113.884,
+            110.351
+          ],
+          "ink_area": 3984.447
+        },
+        {
+          "letter": "S",
+          "file": "assets/ribbon/S.svg",
+          "source": "sources/carrick-caps/S.svg",
+          "source_sha256": "715a46f4fee45c120b94f4d5349bb6c4653f07cebe5363b6b7e1fc1c4f21491b",
+          "sha256": "02e9765b6437990744031b7f4ca64a0655347f464280fb607539ea0e6453dcec",
+          "ink_bounds": [
+            6.116,
+            9.838,
+            113.884,
+            110.162
+          ],
+          "ink_area": 3566.469
+        },
+        {
+          "letter": "T",
+          "file": "assets/ribbon/T.svg",
+          "source": "sources/carrick-caps/T.svg",
+          "source_sha256": "3f96ed62ef1e81a635119f92d30d792053277bf1358856401a995cca36f5db85",
+          "sha256": "9cb7a1c6c8d05875649d9dc8df11f9b8719fc65e5445d0862cd2ad0b12d1812d",
+          "ink_bounds": [
+            6.116,
+            9.862,
+            113.884,
+            110.138
+          ],
+          "ink_area": 3469.972
+        },
+        {
+          "letter": "U",
+          "file": "assets/ribbon/U.svg",
+          "source": "sources/carrick-caps/U.svg",
+          "source_sha256": "1bb59245cb1e048d6c0f7c7a4d30f9d3046e7273908e64d0a4c25f2d52d8ab7c",
+          "sha256": "afd40224378d9a26b1e816a7840c347fe2a9fa51bef36b1f6a8b6be20425b290",
+          "ink_bounds": [
+            6.116,
+            9.865,
+            113.884,
+            110.135
+          ],
+          "ink_area": 3962.757
+        },
+        {
+          "letter": "V",
+          "file": "assets/ribbon/V.svg",
+          "source": "sources/carrick-caps/V.svg",
+          "source_sha256": "7e18a2757afa88120e4c28eee54386fa1773e138b73d7e82f3f1b75a1946df87",
+          "sha256": "ab89b2ed711016e11bf99f2f691a7deda8b78d34f12a8af6b295b5abc39dba6a",
+          "ink_bounds": [
+            6.116,
+            9.721,
+            113.884,
+            110.279
+          ],
+          "ink_area": 4005.67
+        },
+        {
+          "letter": "W",
+          "file": "assets/ribbon/W.svg",
+          "source": "sources/carrick-caps/W.svg",
+          "source_sha256": "74b274345bb17656dd976605f3e3f59769391dd5e56e1641ec8c554767125535",
+          "sha256": "73ff2d6ba48e36c299d77c6fbfc6973e06aec72b400599d4577deacb515c1eb2",
+          "ink_bounds": [
+            6.116,
+            9.975,
+            113.884,
+            110.025
+          ],
+          "ink_area": 4740.852
+        },
+        {
+          "letter": "X",
+          "file": "assets/ribbon/X.svg",
+          "source": "sources/carrick-caps/X.svg",
+          "source_sha256": "e3fd8edfb4229c983252211d429a37caa0680de4342bd4dada46b6d9a4276fd3",
+          "sha256": "5d6016a15602346313e1a1713f28e4137c70abdfd7e0d5b526ed502ec319e9a7",
+          "ink_bounds": [
+            6.116,
+            9.761,
+            113.884,
+            110.239
+          ],
+          "ink_area": 3542.708
+        },
+        {
+          "letter": "Y",
+          "file": "assets/ribbon/Y.svg",
+          "source": "sources/carrick-caps/Y.svg",
+          "source_sha256": "36dc59c7d4bbe9322be05af6bbbed25df38f4533d970666f42849d9967d51a1e",
+          "sha256": "fd9e0c13d03b354d9447b938f4f0a069f397584700a4f3f8fc9fb85225f6b6e6",
+          "ink_bounds": [
+            6.116,
+            9.862,
+            113.884,
+            110.138
+          ],
+          "ink_area": 4028.389
+        },
+        {
+          "letter": "Z",
+          "file": "assets/ribbon/Z.svg",
+          "source": "sources/carrick-caps/Z.svg",
+          "source_sha256": "7149e6678c34b540a4f24d957813872086e9e17fabad31d678fd92718e5308f8",
+          "sha256": "f288935a7b08f8f10cffc3142001a940722c766b54069601ee672dc5f7702580",
+          "ink_bounds": [
+            6.116,
+            9.862,
+            113.884,
+            110.138
+          ],
+          "ink_area": 3476.039
+        }
+      ]
+    }
+  ]
+}

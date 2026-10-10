@@ -1,0 +1,30 @@
+{
+  "id": "laurel",
+  "name": "Laurel",
+  "count": 26,
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "format": "SVG",
+  "source_group": "botanical",
+  "description": "Bowed high-contrast Roman outlines with engraved hatching, rooted laurel sprays, blossom clusters, and berries.",
+  "design_changes": [
+    "Illustration-specific bowed contour geometry and asymmetric organic contour fitting in every capital.",
+    "Entirely new rooted laurel leaf/flower/berry compositions per letter, including counter ornament.",
+    "Engraved letter interior hatch, outlined face, and transparent separation from plants."
+  ],
+  "artwork_license": "CC0-1.0 for new artwork; applicable source notices retained",
+  "design_metadata": "sources/dropcaps/botanical/metadata.json",
+  "license_files": [
+    "licenses/dropcaps/NOTICE.txt",
+    "licenses/dropcaps/CC0-1.0.txt",
+    "sources/dropcaps/botanical/sources/OFL-1.1.txt",
+    "sources/dropcaps/botanical/sources/Noto-Debian-copyright.txt"
+  ],
+  "download_files": [
+    "assets/Dropcaps/laurel/README.txt",
+    "assets/Dropcaps/laurel/metadata.json",
+    "licenses/dropcaps/NOTICE.txt",
+    "licenses/dropcaps/CC0-1.0.txt",
+    "sources/dropcaps/botanical/sources/OFL-1.1.txt",
+    "sources/dropcaps/botanical/sources/Noto-Debian-copyright.txt"
+  ]
+}

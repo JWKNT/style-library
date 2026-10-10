@@ -1,0 +1,32 @@
+JWKNT Style Library: Nocturne, Obelisk, Cameo
+
+The new decorative compositions, original ornament geometry, and generator are
+provided under CC0 1.0 Universal (CC0-1.0.txt). These are illustrations, not font
+programs. No font downloads, text elements, raster images, or embedded fonts are
+needed to render the SVG files. All paper-colored details are genuinely transparent.
+
+Nocturne uses Euler Bold letterform outlines as its historical blackletter basis.
+Copyright (c) 1997, 2009, 2011 American Mathematical Society
+(<http://www.ams.org>), with Reserved Font Name EUFB10.
+Source version 003.003; the original source is redistributed unchanged.
+https://ctan.org/pkg/amsfonts
+
+Cameo uses Noto Serif Display Bold letterform outlines as its Roman basis.
+Copyright 2016 Google Inc. All Rights Reserved.
+Source version 2.003; designer: Monotype Design Team.
+The original source is redistributed unchanged.
+https://github.com/notofonts/latin-greek-cyrillic
+
+Both source font programs are licensed under the SIL Open Font License 1.1.
+Retain their exact copyright notices and the full license when redistributing
+those source programs. See sources/Euler-COPYRIGHT.txt,
+sources/NotoSerifDisplay-COPYRIGHT.txt, sources/Noto-Debian-copyright.txt,
+and sources/OFL-1.1.txt. The source fonts' names are used only for attribution.
+The OFL document-output exception permits these generated illustrations to be
+licensed separately; it does not relicense the included source fonts.
+
+Obelisk has original hand-authored geometric A-Z skeletons and no font dependency.
+
+The Readers Rothenburg, Gotische and Royal illustrations were inspected as visual
+references. No reference artwork paths or reference font programs were copied.
+They therefore are not source components of these new alphabets.

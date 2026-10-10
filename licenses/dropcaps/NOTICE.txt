@@ -1,0 +1,15 @@
+Style Library decorative initials
+
+Ten complete A–Z SVG illustration alphabets, prepared in 2026. The files contain outlines and ornament. They do not load fonts or other resources.
+
+Thornwood, Scriptorium, and Ribbon are modified illustrations based on Morris Initialen, Royal Initialen, and Carrick Caps, digitized by Dieter Steffmann / Typographer Mediengestaltung. The SVGs use new names and new decorative compositions. They are distributed under LPPL 1.3c or later. Exact source illustrations, original notices, modification records, and the LPPL text are in sources/dropcaps/medieval/. The complete unmodified CTAN collection is available at https://mirrors.ctan.org/fonts/initials.zip .
+
+Iris, Obelisk, and Tessera use original letter construction. Laurel uses Noto Serif Display Regular outlines. Briar uses DejaVu Serif outlines. Nocturne uses Euler Bold outlines. Cameo uses Noto Serif Display Bold outlines. Each has new decorative artwork. Original contributions are under CC0 1.0. The retained source-font notices still apply to the source fonts and inherited material; they are not replaced by CC0.
+
+Noto Serif Display: Copyright 2016 Google Inc. All Rights Reserved. SIL Open Font License 1.1.
+Euler Bold: Copyright (c) 1997, 2009, 2011 American Mathematical Society, with Reserved Font Name EUFB10. SIL Open Font License 1.1.
+DejaVu Serif: Copyright (c) 2003 Bitstream, Inc. All Rights Reserved. DejaVu changes are in the public domain. See the complete DejaVu notice.
+
+The standalone illustration ZIPs include the applicable notices. Source fonts are supplied only in the rebuild sources and are not required to use the SVG illustrations. Exact source versions, hashes, design changes, and build commands are in sources/dropcaps/{botanical,display,medieval,mosaic}/.
+
+Historical references included Readers' Yinit by Yannis Haralambous, and its CTAN ornamental initial families. Yinit is public domain: https://ctan.org/pkg/yinit . The CTAN collection permission is documented at https://ctan.org/tex-archive/fonts/initials . These reference credits do not imply endorsement.

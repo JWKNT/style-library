@@ -1,0 +1,241 @@
+[
+  {
+    "coverage": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "count": 26,
+    "format": "SVG 1.1-compatible path illustrations",
+    "viewBox": "0 0 1000 1000",
+    "paint": "currentColor",
+    "background": "transparent",
+    "runtime_font_required": false,
+    "original_artwork_license": "CC0-1.0",
+    "source_font_license": "OFL-1.1",
+    "generator": "generate.py",
+    "proof_sizes_px": [
+      96,
+      120
+    ],
+    "id": "nocturne",
+    "name": "Nocturne",
+    "description": "Blackletter capitals with pressure-written flourishes, quill-cut highlights, and fitted counter arabesques.",
+    "source": {
+      "kind": "licensed letterform adaptation with new original ornament",
+      "font": "Euler Bold / EUFB10",
+      "file": "sources/Euler-Bold-eufb10.pfb",
+      "version": "003.003",
+      "copyright": "Copyright (c) 1997, 2009, 2011 American Mathematical Society",
+      "reserved_font_names": [
+        "EUFB10"
+      ],
+      "license": "OFL-1.1",
+      "url": "https://ctan.org/pkg/amsfonts",
+      "notice": "sources/Euler-COPYRIGHT.txt",
+      "sha256": "bfefdbbb7b989c456b764683fe874625cd9f0496240f94b3be3dfe51bac5c729"
+    },
+    "design_changes": [
+      "Individually fitted cap proportions; broad capitals retain a full optical cap height.",
+      "New quill-cut interior contours preserve the blackletter silhouettes and counters.",
+      "Original pressure-shaped pennants, linked scrolls, spirals and leaf-like pen terminals attach to the individual letter outlines.",
+      "Counter arabesques are fitted only where clear interior room exists.",
+      "Different terminal groups fit curved, diagonal and upright capitals; Q has a substantial new diagonal descending swash and J has an enlarged hooked terminal."
+    ],
+    "directory": "assets/nocturne",
+    "files": [
+      "assets/nocturne/A.svg",
+      "assets/nocturne/B.svg",
+      "assets/nocturne/C.svg",
+      "assets/nocturne/D.svg",
+      "assets/nocturne/E.svg",
+      "assets/nocturne/F.svg",
+      "assets/nocturne/G.svg",
+      "assets/nocturne/H.svg",
+      "assets/nocturne/I.svg",
+      "assets/nocturne/J.svg",
+      "assets/nocturne/K.svg",
+      "assets/nocturne/L.svg",
+      "assets/nocturne/M.svg",
+      "assets/nocturne/N.svg",
+      "assets/nocturne/O.svg",
+      "assets/nocturne/P.svg",
+      "assets/nocturne/Q.svg",
+      "assets/nocturne/R.svg",
+      "assets/nocturne/S.svg",
+      "assets/nocturne/T.svg",
+      "assets/nocturne/U.svg",
+      "assets/nocturne/V.svg",
+      "assets/nocturne/W.svg",
+      "assets/nocturne/X.svg",
+      "assets/nocturne/Y.svg",
+      "assets/nocturne/Z.svg"
+    ],
+    "reference_inspection": {
+      "sets": [
+        "Rothenburg Decorative (Readers exodus)",
+        "Gotische Initialen (Readers citadel)",
+        "Royal Initialen (Readers sword)"
+      ],
+      "purpose": "Art-direction reference only; none of their paths or letterforms are incorporated.",
+      "read_notices": [
+        "readers/assets/initials/NOTICE.md",
+        "readers/assets/initials/CTAN-initials-README.txt"
+      ],
+      "reference_package": "https://ctan.org/tex-archive/fonts/initials"
+    },
+    "svg_total_bytes": 733803,
+    "svg_max_bytes": 29957
+  },
+  {
+    "coverage": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "count": 26,
+    "format": "SVG 1.1-compatible path illustrations",
+    "viewBox": "0 0 1000 1000",
+    "paint": "currentColor",
+    "background": "transparent",
+    "runtime_font_required": false,
+    "original_artwork_license": "CC0-1.0",
+    "source_font_license": null,
+    "generator": "generate.py",
+    "proof_sizes_px": [
+      96,
+      120
+    ],
+    "id": "obelisk",
+    "name": "Obelisk",
+    "description": "Original Art Deco capitals with chamfered bowls, low crossbars, fluted stems, and stepped terminal collars.",
+    "source": {
+      "kind": "original geometry; no font source",
+      "file": "generate.py",
+      "license": "CC0-1.0"
+    },
+    "design_changes": [
+      "All 26 semantic skeletons are independently authored as coordinates.",
+      "Low A and H bars, a high-waisted K, chamfered B/D/O/P/R bowls, and a diagonal Q tail define the architecture.",
+      "Parallel transparent cuts run through the letter strokes themselves to create three fluted rails.",
+      "Stepped collars attach only to actual open terminals; narrow sunburst and needle ornaments do not form a box."
+    ],
+    "directory": "assets/obelisk",
+    "files": [
+      "assets/obelisk/A.svg",
+      "assets/obelisk/B.svg",
+      "assets/obelisk/C.svg",
+      "assets/obelisk/D.svg",
+      "assets/obelisk/E.svg",
+      "assets/obelisk/F.svg",
+      "assets/obelisk/G.svg",
+      "assets/obelisk/H.svg",
+      "assets/obelisk/I.svg",
+      "assets/obelisk/J.svg",
+      "assets/obelisk/K.svg",
+      "assets/obelisk/L.svg",
+      "assets/obelisk/M.svg",
+      "assets/obelisk/N.svg",
+      "assets/obelisk/O.svg",
+      "assets/obelisk/P.svg",
+      "assets/obelisk/Q.svg",
+      "assets/obelisk/R.svg",
+      "assets/obelisk/S.svg",
+      "assets/obelisk/T.svg",
+      "assets/obelisk/U.svg",
+      "assets/obelisk/V.svg",
+      "assets/obelisk/W.svg",
+      "assets/obelisk/X.svg",
+      "assets/obelisk/Y.svg",
+      "assets/obelisk/Z.svg"
+    ],
+    "reference_inspection": {
+      "sets": [
+        "Rothenburg Decorative (Readers exodus)",
+        "Gotische Initialen (Readers citadel)",
+        "Royal Initialen (Readers sword)"
+      ],
+      "purpose": "Art-direction reference only; none of their paths or letterforms are incorporated.",
+      "read_notices": [
+        "readers/assets/initials/NOTICE.md",
+        "readers/assets/initials/CTAN-initials-README.txt"
+      ],
+      "reference_package": "https://ctan.org/tex-archive/fonts/initials"
+    },
+    "svg_total_bytes": 40319,
+    "svg_max_bytes": 1771
+  },
+  {
+    "coverage": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "count": 26,
+    "format": "SVG 1.1-compatible path illustrations",
+    "viewBox": "0 0 1000 1000",
+    "paint": "currentColor",
+    "background": "transparent",
+    "runtime_font_required": false,
+    "original_artwork_license": "CC0-1.0",
+    "source_font_license": "OFL-1.1",
+    "generator": "generate.py",
+    "proof_sizes_px": [
+      96,
+      120
+    ],
+    "id": "cameo",
+    "name": "Cameo",
+    "description": "Relief-engraved Roman capitals with inset glints, diagonal graver shading, and fitted laurel or acanthus terminals.",
+    "source": {
+      "kind": "licensed letterform adaptation with new original ornament",
+      "font": "Noto Serif Display Bold",
+      "file": "sources/NotoSerifDisplay-Bold.ttf",
+      "version": "2.003",
+      "copyright": "Copyright 2016 Google Inc. All Rights Reserved.",
+      "designer": "Monotype Design Team",
+      "license": "OFL-1.1",
+      "url": "https://github.com/notofonts/latin-greek-cyrillic",
+      "notice": "sources/NotoSerifDisplay-COPYRIGHT.txt",
+      "sha256": "8666c2488e681a31670f9fc0b5d59fa4f21f2a0664a76876fe49ebd832f673c7"
+    },
+    "design_changes": [
+      "Reconstructed capital proportions retain the full cap height for M and W.",
+      "A new offset extruded side plane is separated from the letter face by transparent air.",
+      "Inset left-edge glints and diagonal graver channels are Boolean cuts, with no opaque white paint.",
+      "Original engraved laurel sprays, split-leaf acanthus volutes, intertwined ribbons and small intaglio seals fit four structural letter groups."
+    ],
+    "directory": "assets/cameo",
+    "files": [
+      "assets/cameo/A.svg",
+      "assets/cameo/B.svg",
+      "assets/cameo/C.svg",
+      "assets/cameo/D.svg",
+      "assets/cameo/E.svg",
+      "assets/cameo/F.svg",
+      "assets/cameo/G.svg",
+      "assets/cameo/H.svg",
+      "assets/cameo/I.svg",
+      "assets/cameo/J.svg",
+      "assets/cameo/K.svg",
+      "assets/cameo/L.svg",
+      "assets/cameo/M.svg",
+      "assets/cameo/N.svg",
+      "assets/cameo/O.svg",
+      "assets/cameo/P.svg",
+      "assets/cameo/Q.svg",
+      "assets/cameo/R.svg",
+      "assets/cameo/S.svg",
+      "assets/cameo/T.svg",
+      "assets/cameo/U.svg",
+      "assets/cameo/V.svg",
+      "assets/cameo/W.svg",
+      "assets/cameo/X.svg",
+      "assets/cameo/Y.svg",
+      "assets/cameo/Z.svg"
+    ],
+    "reference_inspection": {
+      "sets": [
+        "Rothenburg Decorative (Readers exodus)",
+        "Gotische Initialen (Readers citadel)",
+        "Royal Initialen (Readers sword)"
+      ],
+      "purpose": "Art-direction reference only; none of their paths or letterforms are incorporated.",
+      "read_notices": [
+        "readers/assets/initials/NOTICE.md",
+        "readers/assets/initials/CTAN-initials-README.txt"
+      ],
+      "reference_package": "https://ctan.org/tex-archive/fonts/initials"
+    },
+    "svg_total_bytes": 826086,
+    "svg_max_bytes": 38897
+  }
+]

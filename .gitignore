@@ -1,0 +1,4 @@
+sources/dropcaps/*/proofs/
+sources/dropcaps/*/assets/
+sources/dropcaps/*/vendor/
+sources/dropcaps/**/__pycache__/

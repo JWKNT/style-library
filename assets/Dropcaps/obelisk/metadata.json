@@ -1,0 +1,27 @@
+{
+  "id": "obelisk",
+  "name": "Obelisk",
+  "count": 26,
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "format": "SVG",
+  "source_group": "display",
+  "description": "Original Art Deco capitals with chamfered bowls, low crossbars, fluted stems, and stepped terminal collars.",
+  "design_changes": [
+    "All 26 semantic skeletons are independently authored as coordinates.",
+    "Low A and H bars, a high-waisted K, chamfered B/D/O/P/R bowls, and a diagonal Q tail define the architecture.",
+    "Parallel transparent cuts run through the letter strokes themselves to create three fluted rails.",
+    "Stepped collars attach only to actual open terminals; narrow sunburst and needle ornaments do not form a box."
+  ],
+  "artwork_license": "CC0-1.0 for new artwork; applicable source notices retained",
+  "design_metadata": "sources/dropcaps/display/metadata.json",
+  "license_files": [
+    "licenses/dropcaps/NOTICE.txt",
+    "licenses/dropcaps/CC0-1.0.txt"
+  ],
+  "download_files": [
+    "assets/Dropcaps/obelisk/README.txt",
+    "assets/Dropcaps/obelisk/metadata.json",
+    "licenses/dropcaps/NOTICE.txt",
+    "licenses/dropcaps/CC0-1.0.txt"
+  ]
+}
